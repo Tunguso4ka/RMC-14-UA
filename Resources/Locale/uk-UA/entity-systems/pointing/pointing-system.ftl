@@ -1,6 +1,6 @@
 ## PointingSystem
 
-pointing-system-try-point-cannot-reach = You can't reach there!
+pointing-system-try-point-cannot-reach = Ви не можете дотягнутись!
 pointing-system-point-at-self = Ви показуєте на себе.
 pointing-system-point-at-other = Ви показуєте на {$other}.
 pointing-system-point-at-self-others = {CAPITALIZE($otherName)} показує на {$other}.
