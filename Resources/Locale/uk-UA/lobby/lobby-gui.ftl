@@ -1,6 +1,6 @@
 ﻿ui-lobby-title = Лоббі
 ui-lobby-ahelp-button = Адміністрація
-ui-lobby-options-button = Налаштунки
+ui-lobby-options-button = Налаштування
 ui-lobby-leave-button = Вийти
 ui-lobby-observe-button = Оглядати
 ui-lobby-ready-up-button = Приготуватися
