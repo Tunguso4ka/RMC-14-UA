@@ -7,6 +7,6 @@ construction-category-structures = Структури
 construction-category-machines = Машини
 construction-category-weapons = Зброя
 construction-category-tiles = Тайли
-construction-category-utilities = Utilities
+construction-category-utilities = Утилити
 construction-category-misc = Інше
 construction-category-clothing = Одяг
