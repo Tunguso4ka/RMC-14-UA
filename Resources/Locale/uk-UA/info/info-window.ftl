@@ -14,6 +14,6 @@ ui-info-header-gameplay = Ігролад
 ui-info-header-sandbox = Пісочниця
 ui-info-subheader-entityoptions = Entity spawn panel options:
 ui-info-subheader-gridoptions = Grid aligned options:
-ui-info-header-feedback = Feedback
+ui-info-header-feedback = Зворотній зв'язок
 
-ui-info-button-controls = Налаштунки
+ui-info-button-controls = Налаштування

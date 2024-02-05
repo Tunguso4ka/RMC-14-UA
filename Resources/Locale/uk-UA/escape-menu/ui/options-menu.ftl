@@ -1,74 +1,74 @@
 ## General stuff
 
-ui-options-title = Game Options
-ui-options-tab-graphics = Graphics
-ui-options-tab-controls = Controls
-ui-options-tab-audio = Audio
-ui-options-tab-network = Network
-ui-options-tab-misc = General
+ui-options-title = Гра
+ui-options-tab-graphics = Графіка
+ui-options-tab-controls = Керування
+ui-options-tab-audio = Аудіо
+ui-options-tab-network = Мережа
+ui-options-tab-misc = Загальні
 
-ui-options-apply = Apply
-ui-options-reset-all = Reset All
-ui-options-default = Default
+ui-options-apply = Підтвердити
+ui-options-reset-all = Зкинути
+ui-options-default = По замовчуванню
 
 # Misc/General menu
 
-ui-options-discordrich = Enable Discord Rich Presence
-ui-options-general-ui-style = UI Style
+ui-options-discordrich = Увимкнути Discord Rich Presence
+ui-options-general-ui-style = Стиль дієвидла
 ui-options-general-discord = Discord
-ui-options-general-cursor = Cursor
-ui-options-general-speech = Speech
-ui-options-general-storage = Storage
-ui-options-general-accessibility = Accessibility
+ui-options-general-cursor = Курсор
+ui-options-general-speech = Голос
+ui-options-general-storage = Сховище
+ui-options-general-accessibility = Доступність
 
 ## Audio menu
 
-ui-options-master-volume = Master Volume:
-ui-options-midi-volume = MIDI (Instrument) Volume:
-ui-options-ambient-music-volume = Ambient music volume:
-ui-options-ambience-volume = Ambience volume:
-ui-options-lobby-volume = Lobby & Round-end volume:
-ui-options-interface-volume = Interface volume:
+ui-options-master-volume = Головна гучність:
+ui-options-midi-volume = MIDI (Інструментів) Гучність:
+ui-options-ambient-music-volume = Гучність атмосферної музики:
+ui-options-ambience-volume = Гучність оточення:
+ui-options-lobby-volume = Гучність Лобі та Кінця раунду:
+ui-options-interface-volume = Гучність дієвидла:
 ui-options-ambience-max-sounds = Ambience simultaneous sounds:
-ui-options-lobby-music = Lobby & Round-end Music
-ui-options-restart-sounds = Round Restart Sounds
-ui-options-event-music = Event Music
-ui-options-admin-sounds = Play Admin Sounds
-ui-options-volume-label = Volume
+ui-options-lobby-music = Музика лобі та кінця раунда
+ui-options-restart-sounds = Звуки перезапуску раунда
+ui-options-event-music = Івентна музика
+ui-options-admin-sounds = Музика адмінів
+ui-options-volume-label = Гучність
 ui-options-volume-percent = { TOSTRING($volume, "P0") }
 
 ## Graphics menu
 
-ui-options-show-held-item = Show held item next to cursor
-ui-options-show-combat-mode-indicators = Show combat mode indicators with cursor
-ui-options-opaque-storage-window = Opaque storage window
-ui-options-show-looc-on-head = Show LOOC chat above characters head
-ui-options-fancy-speech = Show names in speech bubbles
-ui-options-fancy-name-background = Add background to speech bubble names
+ui-options-show-held-item = Показувати тримаємий предмет поряд з курсором
+ui-options-show-combat-mode-indicators = Показувати індікатор бойового режиму поряд з курсором
+ui-options-opaque-storage-window = Прозоре вікно сховища
+ui-options-show-looc-on-head = Показувати чат LOOC над головами персонажів
+ui-options-fancy-speech = Показувати імена у облачках розмов
+ui-options-fancy-name-background = Додати тло до імен у облачках розмов
 ui-options-reduced-motion = Reduce motion of visual effects
 ui-options-vsync = VSync
-ui-options-fullscreen = Fullscreen
-ui-options-lighting-label = Lighting Quality:
-ui-options-lighting-very-low = Very Low
-ui-options-lighting-low = Low
-ui-options-lighting-medium = Medium
-ui-options-lighting-high = High
-ui-options-scale-label = UI Scale:
-ui-options-scale-auto = Automatic ({ TOSTRING($scale, "P0") })
+ui-options-fullscreen = Повний екран
+ui-options-lighting-label = Якість світла:
+ui-options-lighting-very-low = Дуже низька
+ui-options-lighting-low = Низька
+ui-options-lighting-medium = Середня
+ui-options-lighting-high = Висока
+ui-options-scale-label = Масштаб дієвидла:
+ui-options-scale-auto = Автоматичне ({ TOSTRING($scale, "P0") })
 ui-options-scale-75 = 75%
 ui-options-scale-100 = 100%
 ui-options-scale-125 = 125%
 ui-options-scale-150 = 150%
 ui-options-scale-175 = 175%
 ui-options-scale-200 = 200%
-ui-options-hud-theme = HUD theme:
-ui-options-hud-theme-default = Default
-ui-options-hud-theme-plasmafire = Plasmafire
-ui-options-hud-theme-slimecore = Slimecore
-ui-options-hud-theme-clockwork = Clockwork
-ui-options-hud-theme-retro = Retro
-ui-options-hud-theme-minimalist = Minimalist
-ui-options-hud-theme-eris = Eris
+ui-options-hud-theme = Тема дієвидла:
+ui-options-hud-theme-default = По замовчуванню
+ui-options-hud-theme-plasmafire = Плазмений вогонь
+ui-options-hud-theme-slimecore = Слизкор
+ui-options-hud-theme-clockwork = Годинники
+ui-options-hud-theme-retro = Ретро
+ui-options-hud-theme-minimalist = Мінімализм
+ui-options-hud-theme-eris = Еріс
 ui-options-vp-stretch = Stretch viewport to fit game window
 ui-options-vp-scale = Fixed viewport scale: x{ $scale }
 ui-options-vp-integer-scaling = Prefer integer scaling (might cause black bars/clipping)

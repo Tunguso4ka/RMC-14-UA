@@ -2,7 +2,7 @@ ent-ColMarTechBase = КолМарТех торговий автомат
     .desc = { ent-BaseMachinePowered.desc }
 
 ent-ColMarTechFood = КолМарТех автомат з їжею
-    .desc = Автомат з їжею від СШКМ, містить стандартні військові готові блюда.
+    .desc = Автомат з їжею від СШКМ, містить стандартні військові готові страви.
 
 ent-ArmatAttachments = автомат з навісними обладнанням від АРМАТ
     .desc = Автоматична стійка, що під'єднана до маленького сховища з обладнанням до зброї. До неї мають доступ рядові.
@@ -19,42 +19,42 @@ ent-ColMarTechGuns = КолМарТех автомат озброєння
 ent-ColMarTechEquipment = КолМарТех автомат стандартного обладнання
     .desc = Автоматична стійка, що під'єднана до великого сховища стандартного обладнання рядових.
 
-ent-ColMarTechSLGear = КолМарТех автомат лідера загону.
+ent-ColMarTechSLGear = КолМарТех автомат лідера загону
     .desc = Автоматична стійка лідера загону.
 
-ent-ColMarTechSLEquipment = КолМарТех squad leader equipment rack
-    .desc = An automated rack hooked up to a colossal storage of Squad Leader standard-issue equipment.
+ent-ColMarTechSLEquipment = КолМарТех стійка спорядження командира загону
+    .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного спорядження голови загону.
 
-ent-ColMarTechSWSGear = КолМарТех squad weapons specialist gear rack
-    .desc = An automated gear rack for Squad Weapons Specialists.
+ent-ColMarTechSWSGear = КолМарТех спеціалізований стелаж для озброєння загону
+    .desc = Автоматизований стелаж для спорядження для спеціалістів з озброєння загонів.
 
-ent-ColMarTechSWSEquipment = КолМарТех squad weapons specialist equipment rack
-    .desc = An automated rack hooked up to a colossal storage of Squad Weapons Specialist standard-issue equipment.
+ent-ColMarTechSWSEquipment = КолМарТех стелаж спеціального спорядження загону
+    .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного спорядження спеціаліста зі стрілецької зброї.
 
-ent-ColMarTechSCTGear = КолМарТех squad comtech gear rack
-    .desc = An automated gear rack for combat technicians.
+ent-ColMarTechSCTGear = КолМарТех стелаж спорядження бойового техніка 
+    .desc = Автоматизований стелаж для спорядження бойового техніка.
 
-ent-ColMarTechSCTEquipment = КолМарТех squad comtech equipment rack
-    .desc = An automated rack hooked up to a colossal storage of combat technician standard-issue equipment.
+ent-ColMarTechSCTEquipment = КолМарТех стелаж обладнання бойового техніка
+    .desc = Автоматизований стелаж під'єднаний до величезного сховища стандартного спорядження бойового техніка.
 
-ent-ColMarTechMedicalGear = КолМарТех squad medical gear rack
-    .desc = An automated gear rack for hospital corpsmen.
+ent-ColMarTechMedicalGear = КолМарТех стелаж медичного спорядження загону
+    .desc = Автоматизований стелаж для санітарів лікарні.
 
-ent-ColMarTechMedicalEquipment = КолМарТех squad medical equipment rack
-    .desc = An automated rack hooked up to a colossal storage of hospital corpsman standard-issue equipment.
+ent-ColMarTechMedicalEquipment = КолМарТех стелаж медичного обладнання загону
+    .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного обладнання санітарів.
 
 ent-ColMarTechMarineMedical = КолМарТех МорпіхМед
     .desc = Автомат з базовими медічними припасами для морпіхів.
 
-ent-ColMarTechSGGear = КолМарТех squad smartgunner gear rack
-    .desc = An automated gear rack for Squad Smartgunners.
+ent-ColMarTechSGGear = КолМарТех стійка спорядження смартґанера загону
+    .desc = Автоматизована стійка для спорядження смартґанерів загону.
 
-ent-ColMarTechSGEquipment = КолМарТех squad smartgun equipment rack
-    .desc = An automated rack hooked up to a colossal storage of Squad Smartgun standard-issue equipment.
+ent-ColMarTechSGEquipment = КолМарТех стелаж спорядження смартґанера загону
+    .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного спорядження смартґанерів загону.
 
-ent-ColMarTechFLGear = КолМарТех fireteam leader gear rack
-    .desc = An automated gear rack for fireteam leaders.
+ent-ColMarTechFLGear = КолМарТех стійка спорядження лідера підрозділу
+    .desc = Автоматизована стійка для спорядження лідерів підрозділів.
 
-ent-ColMarTechFLEquipment = КолМарТех fireteam leader equipment rack
-    .desc = An automated rack hooked up to a colossal storage of fireteam leader standard-issue equipment.
+ent-ColMarTechFLEquipment = КолМарТех стелаж спорядження лідера підрозділу
+    .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного спорядження лідерів підрозділів.
 

@@ -1,128 +1,128 @@
-ent-CMPosterBase = постер
+ent-CMPosterBase = плакат
 
-ent-CMPosterBroken = broken poster
-    .desc = "You can't make out anything from the poster's original print. It's ruined."
+ent-CMPosterBroken = розірваний плакат
+    .desc = Розірваний плакат. Ти не можеш зрозуміти що це був за плакат.
 
-ent-CMPosterTheFuture = "The Future"
-    .desc = "This poster depicts a sunrise over a vectored mountain range in front of a stylized grid. You can appreciate its A E S T H E T I C."
+ent-CMPosterTheFuture = майбутнє
+    .desc = На цьому плакаті зображен схід сонця над гірським хребтом. Ти можеш відчути його Е С Т Е Т И К У
 
-ent-CMPosterUnicorn = "Unicorn"
-    .desc = "This blacklight felt poster is depicts a unicorn under a rainbow with the word 'DRUG' boldly written under it. You had this same one when you were younger, but you'd never tell anyone."
+ent-CMPosterUnicorn = єдиноріг
+    .desc = На цьому плакаті зображений єдиноріг зі словами "НАРКОТА". Колись у тебе був такий же, але ти про це нікому-нікому ніколи-ніколи не розкажеж.
 
-ent-CMPosterRocker1 = "Lita"
-    .desc = "This poster depicts a long-gone 20th century rocker. Rock may be dead, but it had a good run."
+ent-CMPosterRocker1 = Літа
+    .desc = На цьому плакаті зображена давно вже померше рокерша з 20 століття. Хоч рок і може бути вже мертвим, але зато він качав.
 
-ent-CMPosterPresident = "President Schwarzenegger Campaign Poster"
-    .desc = "This faded poster, while old, is a reproduction of President Schwarzenegger's campaign. He went missing halfway through his eighth term and was never found."
+ent-CMPosterPresident = плакат в підтримку президента Шварцнегера
+    .desc = Цій вже вицвілий плакат, хоч і старий, але є відтворенням кампанії в президенти Шварцнегера. Нажаль він пропав саме перед його вісьмим сроком і досі не був знайден.
 
-ent-CMPosterBeth = "BETH"
-    .desc = "This is a poster of the new multi-platinum pop group BETH that's sweeping the nation. They suck."
+ent-CMPosterBeth = БЕТ
+    .desc = Плакат нової мульти-платинової поп групи БЕТ, що захопила серця всеї держави. Вони лайно.
 
-ent-CMPosterArt1 = "art?"
-    .desc = "Hell, you could have painted that and been rich."
+ent-CMPosterArt1 = мистецтво?
+    .desc = От курво, ти міг би намалювати щось подібне й вже бути богатим..
 
-ent-CMPostEat = "EAT"
-    .desc = "This is less of a poster and more of an advertisement for those gross power bars."
+ent-CMPostEat = їш!
+    .desc = Рекламний плакат для цих... брр... огідних енергетичних батончиків..
 
-ent-CMPosterArious = "Arious Motion Tracker"
-    .desc = "It's an ad for a civilian brand motion tracker, less reliable than the M314, but about half of the weight."
+ent-CMPosterArious = трекер руху Аріус
+    .desc = Реклама цивильного трекеру руха, менш надійний ніж M314, але і важить в два раза менше.
 
-ent-CMPosterSeegson = "Seegson"
-    .desc = "Hey, Seegson! That's a blast from the past. They got bought out by Weyland-Yutani around the time one of their space stations de-orbited and fell into a planet's gravity well after a systems failure."
+ent-CMPosterSeegson = сіґсон
+    .desc = О, це ж Сіґсон! Єхо мінулого. Їх купили Вейланд-Ютані десь як раз після того як одна з їх станцій зійшла з орбіти та упала на планету.
 
-ent-CMPosterKoorlander = "Koorlander Gold"
-    .desc = "Koorlander Golds, lovingly machine rolled for YOUR pleasure."
+ent-CMPosterKoorlander = курландер золоті
+    .desc = Курландер Золоті, закатані машиною з любов'ю заради ВАШОЇ насолоди.
 
-ent-CMPosterWorkingJoe = "YOU ALWAYS KNOW A WORKING JOE."
-    .desc = "YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE. YOU ALWAYS KNOW A WORKING JOE."
+ent-CMPosterWorkingJoe = ТИ ЗАВЖДИ УЗНАЄШ ПРАЦІВНИКА ДЖО
+    .desc = ТИ ЗАВЖДИ УЗНАЄШ ПРАЦІВНИКА ДЖО. ТИ ЗАВЖДИ УЗНАЄШ ПРАЦІВНИКА ДЖО. ТИ ЗАВЖДИ УЗНАЄШ ПРАЦІВНИКА ДЖО. ТИ ЗАВЖДИ УЗНАЄШ ПРАЦІВНИКА ДЖО. ТИ ЗАВЖДИ УЗНАЄШ ПРАЦІВНИКА ДЖО. ТИ ЗАВЖДИ УЗНАЄШ ПРАЦІВНИКА ДЖО.
 
-ent-CMPosterMissJanuary = "'Miss January' pinup"
-    .desc = "This poster features Roxanne Straski. She was the January 2180 centerfold in House Bunny Gentleman's Magazine. Don't ask how you know that."
+ent-CMPosterMissJanuary = пін-ап "Пані Січень"
+    .desc = На цьому плакаті зображена Роксана Страскі. Вона була на обкладинці журналу Домашня Зайка Джентельмена від Січня 2180 року. Краще не питай звідки ти це знаєш.
 
-ent-CMPosterF100 = "F-100"
-    .desc = "The new Casio F-100 watch. It's got two watch heads: one for local time, and one for ship time."
+ent-CMPosterF100 = Ф-100
+    .desc = Нові Касіо Ф-100. Показує одразу дві часових зони: одна для місцевого часу та друга для часу судна.
 
-ent-CMPosterRememberIo = "'Remember Io'"
-    .desc = "This faded propaganda poster proudly demands you to, 'Remember Io,' with the titular moon in the middle. The surprise commando raid on the repair/refit yard on Jupiter's moon, Io, was the event that kicked off the war with the Arcturians over a decade ago. They may be your allies now, but old wounds run deep."
+ent-CMPosterRememberIo = пам'ятай Іо
+    .desc = Вицвілий пропагандистський плакат який вимогає в тебе "пам'ятай Іо", з луною всередині. Несподіваний рейд спецназу на ремонтний майданчик на луні Юпітера, Іо, викликав війну з Арктуріанами десь 10 років тому. Хоч вони і вже наші друзі, але рани не так швидко заживають.
 
-ent-CMPosterPulseRifle = "pulse rifle pinup"
-    .desc = "The Armat Battlefield Systems Model 41 Derivative 'A' Pulse Rifle Mark One. The only pinup you'll ever need."
+ent-CMPosterPulseRifle = пін-ап імпульсної гвинтівки
+    .desc = Бойові Системи Армат, Модель 41 А Імпульсна Гвинтівка Версія Один. Єдиний пін-ап який тобі колись був потрібний.
 
-ent-CMPosterMissJuly = "'Miss July' pinup"
-    .desc = "This poster features Audrey Rainwater standing in a jacuzzi. She was the July 2180 centerfold in House Bunny Gentleman's Magazine. Don't ask how you know that."
+ent-CMPosterMissJuly = пін-ап "Пані Липень"
+    .desc = На цьому плакаті зображена Аудрі Рейнвотер у джакузі. Вона була на обкладинці журналу Домашня Зайка Джентельмена від Липень 2180 року. Краще не питай звідки ти це знаєш.
 
-ent-CMPosterMissApril = "'Miss April' pinup"
-    .desc = "This poster features Juliette Simmons. She was the April 2179 centerfold in House Bunny Gentleman's Magazine. Don't ask how you know that."
+ent-CMPosterMissApril = пін-ап "Пані Квітень"
+    .desc = На цьому плакаті зображена Жул'єта Саймонс. Вона була на обкладинці журналу Домашня Зайка Джентельмена від Квітня 2180 року. Краще не питай звідки ти це знаєш.
 
-ent-CMPosterWY = "Weyland-Yutani poster"
-    .desc = "You don't have much choice in brand loyalty when there's basically only one brand."
+ent-CMPosterWY = плакат Вейланд-Ютані
+    .desc = Ну, якщо ти захотів бути фанатиком якогось бренду то в тебе не такий вже великий вибір..
 
-ent-CMPosterSuspicious = "suspicious looking poster"
-    .desc = "This poster describes USCM as the enemy."
+ent-CMPosterSuspicious = підозріло виглядаючий плакат
+    .desc = Цій плакат описує СШКМ як ворога.
 
-ent-CMPosterTheo = "Theo"
-    .desc = "This poster depicts a CBRN Marine. These dudes have a hazardous job."
+ent-CMPosterTheo = Тео
+    .desc = Цій постер зображає морпіхів РХБЗ. У цих хлопців дуже небезпечна робота.
 
-ent-CMPosterGroves = "Groves"
-    .desc = "This poster depicts a CBRN Marine. These dudes have a hazardous job."
+ent-CMPosterGroves = Ґрувс
+    .desc = Цій постер зображає морпіхів РХБЗ. У цих хлопців дуже небезпечна робота.
 
-ent-CMPosterSouto = "Souto"
-    .desc = "Souto. If you don't drink Souto, you probably do stuff like floss and value your kidneys...wimp. Printed in Havana."
+ent-CMPosterSouto = Соуто
+    .desc = Соуто. Якщо ти не п'єш Соуто, то ти скоріше за все цінуєш свої нирки та зуби... слабак! Надруковано в Гавані.
 
-ent-CMPosterArt2 = "art?"
-    .desc = "This poster depicts outsider geometric postmodern ascetic abject social expressionism art...you think."
+ent-CMPosterArt2 = { ent-CMPosterArt }
+    .desc = На цьому плакаті зображен геометричний постмодерновий асцетний об'єктивний соціальний експресионізм... чого?
 
-ent-CMPosterArt3 = "art?"
-    .desc = "This poster depicts some curved lines that some pretentious art snob valued at over $12,000,000. Too bad this is just a low-resolution print."
+ent-CMPosterArt3 = { ent-CMPosterArt }
+    .desc = На цьому плакаті зображено декілька кривих ліній які якийсь сноб оцінив у 12 мільйонів доларів. Нажаль, це просто нізкоякісна роздруковка.
 
-ent-CMPosterRocker2 = "Lita"
-    .desc = "This poster depicts a long-gone 20th century rocker. Rock may be dead, but it had a good run."
+ent-CMPosterRocker2 = { ent-CMPosterRocker1 }
+    .desc = { ent-CMPosterRocker1.desc }
 
-ent-CMPosterJoan = "Joan"
-    .desc = "This poster depicts a long-gone 20th century rocker. Rock may be dead, but it had a good run."
+ent-CMPosterJoan = Джоан
+    .desc = { ent-CMPosterRocker1.desc }
 
-ent-CMPosterSafetyGuidance = "safety guidance"
-    .desc = "This poster depicts a man operating a grinding wheel and reads 'SAFETY GUIDANCE stay focused in the lab'. There was a recent debate on whether it is pronounced gwee-dince or is it pro-nounced gw-eye-dance, some were worried it might've gotten physical."
+ent-CMPosterSafetyGuidance = інструкція з безпеки
+    .desc = На цьому плакаті зображен чоловік працюючий на шліфувальному кругу з написом "ІНСТРУКЦІЯ З БЕЗПЕКИ, не відволікайтеся від роботи". 
 
-ent-CMPosterSafetyGoggles1 = "safety goggles"
-    .desc = "This poster depicts a minimalist head wearing a hardhat with contrasting safety goggles. It reads 'Protect Your Eyes'"
+ent-CMPosterSafetyGoggles1 = захисни окуляри
+    .desc = На цьому плакаті зображена голова в шоломі з контрастними захисними окулярами та написом "Захищайте свої очі".
 
-ent-CMPosterMissFebruary = "'Miss February' pinup"
-    .desc = "This poster features Miranda Noel. She was the February 2180 centerfold in House Bunny Gentleman's Magazine. Don't ask how you know that."
+ent-CMPosterMissFebruary = пін-ап "Пані Лютий"
+    .desc = На цьому плакаті зображена Міранда Ноель. Вона була на обкладинці журналу Домашня Зайка Джентельмена від Лютого 2180 року. Краще не питай звідки ти це знаєш.
 
-ent-CMPosterProperLifting = "proper lifting"
-    .desc = "This poster depicts a man lifting a box using his legs. It offers pointers on the proper way to lift heavy objects. Remember, the Company has no use for a worker with a bad back."
+ent-CMPosterProperLifting = правильний підйом
+    .desc = На цьому плакаті зображено чоловіка, який піднімає коробку за допомогою ніг. Він містить вказівки про те, як правильно піднімати важкі предмети. Пам'ятайте, що компанії не потрібен працівник із хворою спиною.
 
-ent-CMPosterSafetyGoggles2 = "safety goggles"
-    .desc = "This poster depicts a minimalist man with glowing goggle lenses. It reads 'SAVE YOUR EYES USE YOUR GOGGLES"
+ent-CMPosterSafetyGoggles2 = { ent-CMPosterSafetyGoggles1 }
+    .desc = На цьому плакаті зображена людина з окулярами, що світяться, та написом "ЗБЕРЕЖИТЬ СВОЇ ОЧІ, ОДЯГАЙТЕ ОКУЛЯРИ"
 
-ent-CMPosterMrUniverse1 = "Mr. Universe 2170-74"
-    .desc = "This poster depicts Lance McDonell, the winner of Mr. Universe 2170-74. Don't ask how you know that. He bears a striking resemblance to the 42nd President of the United States, Arnold Schwarzenegger."
+ent-CMPosterMrUniverse1 = Пан Всесвіт 2170-74
+    .desc = На цьому плакаті зображен Ленс МакДонел, переможець Пана Всесвіта 2170-74. Не питай звідки ти це знаєш. Гмм.. він виглядає як 42 Президент США, Арнольд Шварцнегер.
 
-ent-CMPosterMrUniverse2 = "Mr. Universe 2174-76"
-    .desc = "This poster depicts Rockwell Jordan, the winner of Mr. Universe 2174-76. Don't ask how you know that."
+ent-CMPosterMrUniverse2 = Пан Всесвіт 2174-76
+    .desc = На цьому плакаті зображен Роквел Джордан, переможець Пана Всесвіта 2174-76. Не питай звідки ти це знаєш.
 
-ent-CMPosterMrUniverse3 = "Mr. Universe 2176-present"
-    .desc = "This poster depicts Wilson Winslow, the current Mr. Universe reigning champion. Don't ask how you know that."
+ent-CMPosterMrUniverse3 = Пан Всесвіт 2176-дотепер
+    .desc = На цьому плакаті зображен Вілсон Вінслоу, поточний Пан Всесвіт. Не питай звідки ти це знаєш.
 
-ent-CMPosterWalkman = "Walkman"
-    .desc = "This poster depicts a walkman and reads 'Don't Forget Your Walkman.'"
+ent-CMPosterWalkman = волкмен
+    .desc = На цьому плакаті зображен волкмен та напис "Не забувайте ваш Волкмен"
 
-ent-CMPosterTAB = "TAB"
-    .desc = "This poster depicts the logo for TAB. TAB is a low-calorie soft drink that never really made it off of Earth. It's odd to see a poster advertising it way out here. Maybe someone just likes the logo."
+ent-CMPosterTAB = ТАБ
+    .desc = На цьому плакаті зображене лого ТАБ. ТАБ це низько калорійний легкий напій який насправді то ніколи і не покидав землю. Доволі дивно бачити його рекламу тут. Мабуть комусь сподобалося лого?
 
-ent-CMPosterPepsi = "Pepsi Cola"
-    .desc = "This poster depicts the logo for Pepsi Cola. Pepsi is a soft drink that never really made it off of Earth. It's odd to see a poster advertising it way out here. Maybe someone just likes the logo. They've claimed to be the taste of a new generation for about 200 years."
+ent-CMPosterPepsi = пепсі кола
+    .desc = На цьому плакаті зображене лого Пепсі Коли. Пепсі це легкий напій який насправді то ніколи і не покидав землю. Доволі дивно бачити його рекламу тут. Мабуть комусь сподобалося лого? Вони вже як 200 років представляють себе як смак нового покоління.
 
-ent-CMPosterMTV = "MTV"
-    .desc = "MTV: Broadcasting nothing but music videos for over 200 years. Bootleg tapes of current music fetch a premium in the Outer Rim barter market."
+ent-CMPosterMTV = МТБ
+    .desc = МТБ: Вже 200 років показуємо тільки музикальні відео. 
 
-ent-CMPosterJimmy = "Jimmy and the Mormons: Enlightened Resonance Tour Poster"
-    .desc = "Jimmy and the Mormons were a rock band about ten years back consisting of a man and his seven wives. The Church of Jesus Christ of the Latter-day Saints officially denounced them multiple times and it was later revealed that the band members weren't Mormon and weren't even married. It was quite the scandal in the music world."
+ent-CMPosterJimmy = Джиммі і мормони: Афіша туру "Просвітлений резонанс"
+    .desc = Джиммі і Мормони - рок-гурт, що існував близько десяти років тому і складався з чоловіка та його семи дружин. Церква Ісуса Христа Святих Останніх Днів офіційно засуджувала їх кілька разів, а пізніше з'ясувалося, що учасники гурту не були мормонами і навіть не були одружені. Це був справжній скандал у музичному світі.
 
-ent-CMPosterVoteNo = "Vote 'NO' to Proposition 339 and Vote 'NO!' to the Colonial Protection Act"
-    .desc = "This poster demands that you vote 'NO!' to that new piece of legislation that would give the military carte blanche permission to stick its nose in corporate affairs. Many view the bill as government overreach, but many others view it as the lesser of two evils compared to letting the megacorps do whatever they want. Because space is friggin' huge, it's going to take a while to gather all of the votes and even if it's passed, it likely won't go into effect until 2186 at the earliest."
+ent-CMPosterVoteNo = скажить "НІ" пропозиції 339 та "НІ" акту о колоніальному захисті
+    .desc = Цій плакат потребує від тебе проголосувати "НІ" цьому новому закону що дасть військовим змогу сувати свої носи в справи корпорацій. Багато хто бачить це як перевищення повноваженнь державою, але багато інших бачать це як менше зло порівняно з тим щоб дати мегакорпам робити все що їм захочеться. Із-за того що космос ну просто супер великий це займе багааато часу щоб зібрати усі голоси. Так що прийдеться чекати аж до 2186 року.
 
-ent-CMPosterFallingFalcons = "Falling Falcons"
-    .desc = "Promotional material for the 2nd Company of the 2nd Battalion of the 4th Brigade, the Falling Falcons. Designed by an unknown artist and printed in an effort to bolster the ranks of the Falling Falcons."
+ent-CMPosterFallingFalcons = падаючі соколи
+    .desc = Промо-матеріал для 2-ї роти 2-го батальйону 4-ї бригади "Падаючі соколи". Розроблений невідомим художником і надрукований з метою зміцнення рядів "Соколів".
 

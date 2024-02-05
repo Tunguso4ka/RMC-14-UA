@@ -1,11 +1,11 @@
 ## AdminMenuWindow.xaml.cs
 
-admin-menu-title = Admin Menu
-admin-menu-admin-tab = Admin
-admin-menu-adminbus-tab = Adminbus
-admin-menu-atmos-tab = Atmos
-admin-menu-round-tab = Round
-admin-menu-server-tab = Server
-admin-menu-panic-bunker-tab = Panic Bunker
-admin-menu-players-tab = Players
-admin-menu-objects-tab = Objects
+admin-menu-title = Меню адміністрації
+admin-menu-admin-tab = Адмінсь'ке
+admin-menu-adminbus-tab = Адмінбус
+admin-menu-atmos-tab = Атмос
+admin-menu-round-tab = Раунд
+admin-menu-server-tab = Сервер
+admin-menu-panic-bunker-tab = Панік бункер
+admin-menu-players-tab = Гравці
+admin-menu-objects-tab = Об'єкти

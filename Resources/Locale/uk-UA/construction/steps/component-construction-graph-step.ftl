@@ -1,5 +1,5 @@
 # Shown when examining an in-construction object
-construction-insert-entity-with-component = Next, insert an entity with a {$componentName} component.
+construction-insert-entity-with-component = Далі, вставте щось з компонентом {$componentName}.
 
 # Shown when examining an in-construction object
-construction-insert-exact-entity = Next, insert {$entityName}.
+construction-insert-exact-entity = Далі, вставте {$entityName}.

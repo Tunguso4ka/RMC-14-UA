@@ -19,54 +19,54 @@ ent-CMVendorSec = ВоєнПолТех
 ent-CMVendorSEA = РадникТех
     .desc = Торговий автомат Старшого Військового Радника.
 
-ent-CMVendorNutri = NutriMax
-    .desc = A plant nutrient vendor.
+ent-CMVendorNutri = НутріМакс
+    .desc = Постачальник поживних речовин для рослин.
 
-ent-CMVendorSeeds = MegaSeed Servitor
-    .desc = When you need seeds fast!
+ent-CMVendorSeeds = автомат насіння
+    .desc = Коли вам швидко потрібне насіння!
 
-ent-CMVendorDinnerware = Dinnerware
-    .desc = A kitchen and restaraunt equipment vendor.
+ent-CMVendorDinnerware = автомат кухонного приладдя
+    .desc = Постачальник кухонного та ресторанного обладнання.
 
 ent-CMVendorSodaSoviet = BODA
-    .desc = An old sweet water vending machine, how did this end up here?
+    .desc = Старе залізяччя з солодкою водою, як воно тут опинилося?
 
-ent-CMVendorWalkman = Rec-Vend
-    .desc = Contains Weyland-Yutani approved recreational items, like Walkmans and Cards.
+ent-CMVendorWalkman = автомат предметів для відпочинку
+    .desc = Містить схвалені Вейланд-Ютані предмети для відпочинку, такі як плеєри та карти.
 
-ent-CMVendorIngredients = Galley Auxiliary Storage Requisition System
-    .desc = A vending machine meant to be use for cooks.
+ent-CMVendorIngredients = система подачі заявок
+    .desc = Торговий автомат, призначений для кухарів.
 
-ent-CMVendorMedical = Wey-Med Plus
+ent-CMVendorMedical = медецина плюс
     .desc = { ent-CMVendor.desc }
 
-ent-CMVendorChemistry = Wey-Chem Plus
+ent-CMVendorChemistry = хімікати плюс
     .desc = Medical chemistry dispenser. Provided by Wey-Yu Pharmaceuticals Division(TM).
 
-ent-CMVendorBlood = MM Blood Dispenser
+ent-CMVendorBlood = роздатчик крові ММ
     .desc = The Marine Med Brand Blood Pack Dispensary is the premier, top-of-the-line blood dispenser of 2105! Get yours today!
 
-ent-CMVendorBooze = Booze-O-Mat
-    .desc = A technological marvel, supposedly able to mix just the mixture you'd like to drink the moment you ask for one.
+ent-CMVendorBooze = Бухло-Мат
+    .desc = Технологічне диво, яке нібито здатне змішати саме ту суміш, яку ви хочете випити, щойно ви попросите.
 
-ent-CMVendorChess = Chess-o-mat
-    .desc = In 2143 Red Star Drinks, a UPP-CA (Colonial Administration) affiliated corporation ran a promotional sweepstakes for drinkers who had found special codes on the inside of the caps of a limited run of Red Star Vodka, shipping them a Chess-O-Mat with unlimited refills.
+ent-CMVendorChess = шах-і-мат
+    .desc = У 2143 році, Напої Червона Зірка, компанія що пов'язана з Колоніальною Адміністрацією СПН, запустили рекламний розіграш на пожиттевий запас алкоголю тим хто знайшов спеціальний код на кришці лімітированої водки Червона Зірка.
 
-ent-CMVendorTool = Engineering Vendor
-    .desc = You shouldn't be spawning this one.
+ent-CMVendorTool = автомат інструментів
+    .desc = Не варто було заводити цю тему.
 
-ent-CMVendorCircuits = circuit board vendor
-    .desc = A safe storage for pre-programmed circuit boards, it has an internal gyroscope to keep any external force from moving the boards, thick insulation and a custom 2.1mm UPS port for charging various W-Y exclusive devices (sold separately).
+ent-CMVendorCircuits = автомат друкованих плат
+    .desc = Надійне сховище для попередньо запрограмованих плат, з внутрішнім гіроскопом, що запобігає переміщенню плат під дією зовнішніх сил, товстою ізоляцією та спеціальним 2,1-міліметровим портом ДБЖ для заряджання різних ексклюзивних пристроїв W-Y (продається окремо).
 
-ent-CMVendorElectronics = Electronics Vendor
-    .desc = Spare tool vendor. What? Did you expect some witty description?
+ent-CMVendorElectronics = автомат електроніки
+    .desc = Постачальник запасних інструментів. Що? Ви очікували дотепного опису?
 
-ent-CMVendorComponent = Component Storage Machine
-    .desc = A large storage machine containing various components.
+ent-CMVendorComponent = машина для зберігання компонентів
+    .desc = Велика машина для зберігання різних компонентів.
 
-ent-CMVendorScience = Wey-Yu SciVend
-    .desc = Vendor containing basic equipment for your experiments.
+ent-CMVendorScience = Вей-Ю науковий автомат
+    .desc = Постачальник, що містить основне обладнання для ваших експериментів.
 
-ent-CMVendorRobotics = Robotech Deluxe
-    .desc = All the tools you need to create your own robot army.
+ent-CMVendorRobotics = робототехніка делюкс
+    .desc = Всі інструменти, необхідні для створення власної армії роботів.
 

@@ -1,7 +1,7 @@
 ### EscapeMenu.xaml
 
 ui-escape-title = Меню
-ui-escape-options = Налаштунки
+ui-escape-options = Налаштування
 ui-escape-rules = Правила
 ui-escape-guidebook = Довідник
 ui-escape-wiki = Вікі

@@ -1,21 +1,21 @@
-fax-machine-popup-source-unknown = unknown
-fax-machine-popup-received = Received correspondence from { $from }.
-fax-machine-popup-name-long = Fax name is too long
-fax-machine-popup-name-exist = Fax with same name already exist in network
-fax-machine-popup-name-set = Fax name has been updated
+fax-machine-popup-source-unknown = невідомий
+fax-machine-popup-received = Получено факс від { $from }.
+fax-machine-popup-name-long = Занадто велика назва 
+fax-machine-popup-name-exist = Факс з такою ж самою назвою вже існує
+fax-machine-popup-name-set = Назва цього факса була оновлена
 
-fax-machine-dialog-rename = Rename
-fax-machine-dialog-field-name = Name
+fax-machine-dialog-rename = Переназвати
+fax-machine-dialog-field-name = Назва
 
-fax-machine-ui-window = Fax Machine
-fax-machine-ui-copy-button = Copy
-fax-machine-ui-send-button = Send
-fax-machine-ui-refresh-button = Refresh
-fax-machine-ui-no-peers = No Peers
-fax-machine-ui-to = To:
-fax-machine-ui-from = From:
-fax-machine-ui-paper = Paper:
-fax-machine-ui-paper-inserted = Paper in tray
-fax-machine-ui-paper-not-inserted = No paper
+fax-machine-ui-window = Факс
+fax-machine-ui-copy-button = Копіювати
+fax-machine-ui-send-button = Відправити
+fax-machine-ui-refresh-button = Оновити
+fax-machine-ui-no-peers = Нема з'єднань
+fax-machine-ui-to = Кому:
+fax-machine-ui-from = Від кого:
+fax-machine-ui-paper = Папір:
+fax-machine-ui-paper-inserted = Вставлено
+fax-machine-ui-paper-not-inserted = Нема
 
-fax-machine-chat-notify = Received new fax message from "{$fax}" fax
+fax-machine-chat-notify = Получен новий факс з факсу "{$fax}"

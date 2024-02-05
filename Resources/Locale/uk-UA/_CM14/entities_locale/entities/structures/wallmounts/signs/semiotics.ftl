@@ -1,269 +1,270 @@
-ent-CMSemioticBase = semiotic
+ent-CMSemioticBase = { ent-BaseSign }
+    .desc = { ent-BaseSign.desc }
 
-ent-CMSemioticAirlock = airlock semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an airlock."
+ent-CMSemioticAirlock = семіотика шлюза
+    .desc = Стандарт семіотики, що вказує на присутність поблизу шлюз.
 
-ent-CMSemioticAmmunition = ammunition storage semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an ammunition storage."
+ent-CMSemioticAmmunition = семіотика сховища набоїв
+    .desc = Стандарт семіотики, що вказує на присутність поблизу сховище набоїв.
 
-ent-CMSemioticAnalysis_lab = analysis laboratory semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an analysis laboratory."
+ent-CMSemioticAnalysis_lab = семіотика лабораторії анализу
+    .desc = Стандарт семіотики, що вказує на присутність поблизу лабораторії анализу.
 
-ent-CMSemioticAutodoc = autodoc semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an autodoc."
+ent-CMSemioticAutodoc = семіотика автодока
+    .desc = Стандарт семіотики, що вказує на присутність поблизу автодока.
 
-ent-CMSemioticAutoopenclose = automatic opener/closer semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an automatic shutoff valve."
+ent-CMSemioticAutoopenclose = семіотика автоматичного клапана
+    .desc = Стандарт семіотики, що вказує на присутність поблизу автоматичного клапана.
 
-ent-CMSemioticBathmens = men's bathroom semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a men's bathroom."
+ent-CMSemioticBathmens = семіотика чоловічої вбиральні
+    .desc = Стандарт семіотики, що вказує на присутність поблизу чоловічої вбиральні.
 
-ent-CMSemioticBathunisex = unisex bathroom semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a unisex bathroom."
+ent-CMSemioticBathunisex = семіотика унісекс вбиральні
+    .desc = Стандарт семіотики, що вказує на присутність поблизу унісекс вбиральні.
 
-ent-CMSemioticBathwomens = women's bathroom semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a women's bathroom."
+ent-CMSemioticBathwomens = семіотика жіночої вбиральні
+    .desc = Стандарт семіотики, що вказує на присутність поблизу жиночої вбиральні.
 
-ent-CMSemioticBiohazard = biohazard semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a biohazard."
+ent-CMSemioticBiohazard = семіотика біо-небезпеки
+    .desc = Стандарт семіотики, що вказує на присутність поблизу біологічної небезпеки.
 
-ent-CMSemioticBiolab = biological laboratory semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a biological laboratory."
+ent-CMSemioticBiolab = семіотика біологічної лабораторії
+    .desc = Стандарт семіотики, що вказує на присутність поблизу біологічної лабораторії.
 
-ent-CMSemioticBridge = bridge semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a starship's bridge."
+ent-CMSemioticBridge = семіотика мостику
+    .desc = Стандарт семіотики, що вказує на присутність поблизу мостик судна.
 
-ent-CMSemioticBulkhead_door = bulkhead door semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a bulkhead door."
+ent-CMSemioticBulkhead_door = семіотика перебірки
+    .desc = Стандарт семіотики, що вказує на присутність поблизу перебірки.
 
-ent-CMSemioticChem_lab = chemical laboratory semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a chemical laboratory."
+ent-CMSemioticChem_lab = семіотика хімічної лабораторії
+    .desc = Стандарт семіотики, що вказує на присутність поблизу хімічної лабораторії.
 
-ent-CMSemioticCoffee = coffee semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of coffee: the lifeblood of any starship crew."
+ent-CMSemioticCoffee = семіотика кави
+    .desc = Стандарт семіотики, що вказує на присутність поблизу кави: крові команди будь якого судна.
 
-ent-CMSemioticCommline_connection = point of connection for a communication line semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a comm line connection."
+ent-CMSemioticCommline_connection = семіотика місця під'єднання комунікаційної лінії
+    .desc = Стандарт семіотики, що вказує на присутність поблизу місця під'єднання комунікаційної лінії.
 
-ent-CMSemioticConference_room = conference room semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a conference room."
+ent-CMSemioticConference_room = семіотика конференц-зали
+    .desc = Стандарт семіотики, що вказує на присутність поблизу конференц-зали.
 
-ent-CMSemioticCryo = cryogenic vault semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a cryogenics vault."
+ent-CMSemioticCryo = семіотика кріогенного сховища
+    .desc = Стандарт семіотики, що вказує на присутність поблизу кріогенного сховища.
 
-ent-CMSemioticDebark_lounge = debarkation lounge semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a debarkation lounge."
+ent-CMSemioticDebark_lounge = debarkation lounge семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу debarkation lounge.
 
-ent-CMSemioticDistribution_pipes = distribution pipes semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a distribution pipeline."
+ent-CMSemioticDistribution_pipes = семіотика труб дістро
+    .desc = Стандарт семіотики, що вказує на присутність поблизу труб дістро.
 
-ent-CMSemioticEast = East semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of something to the East."
+ent-CMSemioticEast = семіотика схід
+    .desc = Стандарт семіотики, що вказує на присутність чогось на Сході.
 
-ent-CMSemioticElectronics = astronic systems semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of astronic systems. That's a fancy way of saying electrical systems."
+ent-CMSemioticElectronics = семіотика електричних систем
+    .desc = Стандарт семіотики, що вказує на присутність поблизу електричних систем.
 
-ent-CMSemioticElevator = elevator semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an elevator."
+ent-CMSemioticElevator = семіотика ліфта
+    .desc = Стандарт семіотики, що вказує на присутність поблизу ліфта..
 
-ent-CMSemioticEscapepod = escape pod semiotic
-    .desc = "Semiotic Standard denoting an escape pod."
+ent-CMSemioticEscapepod = семіотика пода евакуації
+    .desc = Стандарт семіотики, що вказує на присутність поблизу пода евакуації.
 
-ent-CMSemioticExhaust = exhaust semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an engine or generator exhaust."
+ent-CMSemioticExhaust = семіотика вихлопів
+    .desc = Стандарт семіотики, що вказує на присутність поблизу вихлопів двигуна або генератора.
 
-ent-CMSemioticFire_haz = fire hazard semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a fire hazard."
+ent-CMSemioticFire_haz = семіотика пожежонебезпеки
+    .desc = Стандарт семіотики, що вказує на присутність поблизу пожежонебезпеки.
 
-ent-CMSemioticFiringrange = firing range semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a live ammunition firing range."
+ent-CMSemioticFiringrange = семіотика стрільбіща
+    .desc = Стандарт семіотики, що вказує на присутність поблизу стрільбіща.
 
-ent-CMSemioticFood_storage = organic storage (foodstuffs) semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of unrefrigerated food storage."
+ent-CMSemioticFood_storage = семіотика склада органики
+    .desc = Стандарт семіотики, що вказує на присутність поблизу складу їжи.
 
-ent-CMSemioticGalley = galley semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a galley."
+ent-CMSemioticGalley = семіотика камбуза
+    .desc = Стандарт семіотики, що вказує на присутність поблизу камбуза.
 
-ent-CMSemioticHazard = hazard semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a hazard. Watch out!"
+ent-CMSemioticHazard = семіотика небезпеки
+    .desc = Стандарт семіотики, що вказує на присутність поблизу небезпеки. Стережись!
 
-ent-CMSemioticHigh_rad = high radioactivity semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a highly radioactive area."
+ent-CMSemioticHigh_rad = семіотика радіації
+    .desc = Стандарт семіотики, що вказує на присутність поблизу радіації.
 
-ent-CMSemioticHigh_voltage = high voltage semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a high voltage electrical current."
+ent-CMSemioticHigh_voltage = семіотика висогої напруги
+    .desc = Стандарт семіотики, що вказує на присутність поблизу електричний струм високої напруги.
 
-ent-CMSemioticHvac = HVAC semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of...an HVAC system. This sign must have been updated to the new standard."
+ent-CMSemioticHvac = семіотика ОВК
+    .desc = Стандарт семіотики, що вказує на присутність поблизу ...системи ОВК. Цій знак повинен бути оновлен до нових стандартів.
 
-ent-CMSemioticHvac_old = HVAC semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an HVAC system. This sign is still using the old standard."
+ent-CMSemioticHvac_old = семіотика ОВК
+    .desc = Стандарт семіотики, що вказує на присутність поблизу системи ОВК. Цій знак все ще використовує старі стандарти.
 
-ent-CMSemioticIntercom = intercom semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an intercom."
+ent-CMSemioticIntercom = семіотика інтеркома
+    .desc = Стандарт семіотики, що вказує на присутність поблизу інтеркома.
 
-ent-CMSemioticLadder = ladder semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a ladder."
+ent-CMSemioticLadder = семіотика драбини
+    .desc = Стандарт семіотики, що вказує на присутність поблизу драбини.
 
-ent-CMSemioticLaser = laser semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of lasers. It's usually not as cool as it sounds."
+ent-CMSemioticLaser = семіотика лазера
+    .desc = Стандарт семіотики, що вказує на присутність поблизу лазерів. Зазвичай це не так круто як може показатися...
 
-ent-CMSemioticLife_support = life support system semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a life support system."
+ent-CMSemioticLife_support = семіотика системи підтримки життя
+    .desc = Стандарт семіотики, що вказує на присутність поблизу системи підтримки життя.
 
-ent-CMSemioticMaint = maintenace semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of maintenance access."
+ent-CMSemioticMaint = семіотика техничніх тунелів
+    .desc = Стандарт семіотики, що вказує на присутність поблизу техничніх тунелів..
 
-ent-CMSemioticManualopenclose = manual opener/closer semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a manual shutoff valve."
+ent-CMSemioticManualopenclose = семіотика ручного клапана
+    .desc = Стандарт семіотики, що вказує на присутність поблизу ручного клапана.
 
-ent-CMSemioticMed_cryo = medical cryostasis vault semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a medical cryostasis vault."
+ent-CMSemioticMed_cryo = семіотика медичного кріостазисного сховища
+    .desc = Стандарт семіотики, що вказує на присутність поблизу медичного кріостазисного сховища.
 
-ent-CMSemioticMed_life_support = medical life support semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a life support system for a medbay."
+ent-CMSemioticMed_life_support = семіотика системи підтримки життя
+    .desc = Стандарт семіотики, що вказує на присутність поблизу системи підтримки життя.
 
-ent-CMSemioticMedical = medical semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a medbay."
+ent-CMSemioticMedical = семіотика медвідділа
+    .desc = Стандарт семіотики, що вказує на присутність поблизу медичного відділа.
 
-ent-CMSemioticNonpress = non-pressurized area beyond semiotic
-    .desc = "Semiotic Standard denoting that the area beyond isn't pressurized."
+ent-CMSemioticNonpress = семіотика негерметічної території
+    .desc = Стандарт семіотики, що вказує на that the area beyond isn't pressurized.
 
-ent-CMSemioticNonpress_ag = artificial gravity area, non-pressurized, suit required semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an area with artificial gravity lacking in pressurization."
+ent-CMSemioticNonpress_ag = artificial gravity area, non-pressurized, suit required семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу area with artificial gravity lacking in pressurization.
 
-ent-CMSemioticNonpress_0g = non-pressurized area, no gravity, suit required semiotic
-    .desc = "Semiotic Standard denoting that the area beyond isn't pressurized and has no artificial gravity."
+ent-CMSemioticNonpress_0g = non-pressurized area, no gravity, suit required семіотика
+    .desc = Стандарт семіотики, що вказує на that the area beyond isn't pressurized and has no artificial gravity.
 
-ent-CMSemioticNorth = North semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of something to the North."
+ent-CMSemioticNorth = North семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу something to the North.
 
-ent-CMSemioticOpens_up = opens upwards semiotic
-    .desc = "Semiotic Standard denoting the nearby door opens upwards."
+ent-CMSemioticOpens_up = opens upwards семіотика
+    .desc = Стандарт семіотики, що вказує на door opens upwards.
 
-ent-CMSemioticOutpatient = outpatient clinic semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an outpatient clinic."
+ent-CMSemioticOutpatient = outpatient clinic семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу outpatient clinic.
 
-ent-CMSemioticFibre_optics = photonics systems (fibre optics) semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of fibre optics lines."
+ent-CMSemioticFibre_optics = photonics systems (fibre optics) семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу fibre optics lines.
 
-ent-CMSemioticPress_area_ag = pressurized with artificial gravity semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a pressurized area without artificial gravity."
+ent-CMSemioticPress_area_ag = pressurized with artificial gravity семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу pressurized area without artificial gravity.
 
-ent-CMSemioticPress_area = pressurized area semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a pressurized area."
+ent-CMSemioticPress_area = pressurized area семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу pressurized area.
 
-ent-CMSemioticRad_haz = radiation hazard semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a radiation hazard."
+ent-CMSemioticRad_haz = radiation hazard семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу radiation hazard.
 
-ent-CMSemioticRad_shield = area shielded from radiation semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of an area shielded from radiation."
+ent-CMSemioticRad_shield = area shielded from radiation семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу area shielded from radiation.
 
-ent-CMSemioticRadio_rad = radiation of radio waves semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of radiation from a radio tower."
+ent-CMSemioticRadio_rad = radiation of radio waves семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу radiation from a radio tower.
 
-ent-CMSemioticReception = reception semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a reception area."
+ent-CMSemioticReception = reception семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу reception area.
 
-ent-CMSemioticReduction = reduction dilation of area semiotic
-    .desc = "Semiotic Standard denoting that the area gets smaller ahead."
+ent-CMSemioticReduction = reduction dilation of area семіотика
+    .desc = Стандарт семіотики, що вказує на that the area gets smaller ahead.
 
-ent-CMSemioticRef_bio_storage = refrigerated biological storage semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of refrigerated biological storage."
+ent-CMSemioticRef_bio_storage = refrigerated biological storage семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу refrigerated biological storage.
 
-ent-CMSemioticRef_chem_storage = refrigerated chemical storage semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of refrigerated chemical storage."
+ent-CMSemioticRef_chem_storage = refrigerated chemical storage семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу refrigerated chemical storage.
 
-ent-CMSemioticRestrictedarea = restricted area semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a restricted area."
+ent-CMSemioticRestrictedarea = restricted area семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу restricted area.
 
-ent-CMSemioticFridge = refrigerated storage (organic foodstuffs) semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a fridge."
+ent-CMSemioticFridge = refrigerated storage (organic foodstuffs) семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу fridge.
 
-ent-CMSemioticRefridgeration = refrigeration semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of non-food refrigeration."
+ent-CMSemioticRefridgeration = refrigeration семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу non-food refrigeration.
 
-ent-CMSemioticRewire = rewire system semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a rewire system."
+ent-CMSemioticRewire = rewire system семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу rewire system.
 
-ent-CMSemioticSecurity = security semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of law enforcement or a security force."
+ent-CMSemioticSecurity = security семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу law enforcement or a security force.
 
-ent-CMSemioticSouth = South semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of something to the South."
+ent-CMSemioticSouth = South семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу something to the South.
 
-ent-CMSemioticStairs = stairs semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a staircase."
+ent-CMSemioticStairs = stairs семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу staircase.
 
-ent-CMSemioticStorage = storage semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a general dry storage room."
+ent-CMSemioticStorage = storage семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу general dry storage room.
 
-ent-CMSemioticSuit_storage = pressure suit locker semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a pressure suit storage locker."
+ent-CMSemioticSuit_storage = pressure suit locker семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу pressure suit storage locker.
 
-ent-CMSemioticSynth_storage = synthetic storage semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a synthetic unit storage room."
+ent-CMSemioticSynth_storage = synthetic storage семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу synthetic unit storage room.
 
-ent-CMSemioticTerminal = computer terminal semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a computer terminal."
+ent-CMSemioticTerminal = computer terminal семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу computer terminal.
 
-ent-CMSemioticTram = tram line semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a tram line."
+ent-CMSemioticTram = tram line семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу tram line.
 
-ent-CMSemioticTwilight_zone_terminator = twilight zone terminator semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of a twilight zone terminator. It's way less cool than it sounds."
+ent-CMSemioticTwilight_zone_terminator = twilight zone terminator семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу twilight zone terminator. It's way less cool than it sounds.
 
-ent-CMSemioticWater = water semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of water."
+ent-CMSemioticWater = water семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу water.
 
-ent-CMSemioticWaterhazard = water hazard semiotic
-    .desc = "Semiotic Standard denoting a water hazard. Keep electronics away."
+ent-CMSemioticWaterhazard = water hazard семіотика
+    .desc = Стандарт семіотики, що вказує на a water hazard. Keep electronics away.
 
-ent-CMSemioticWest = West semiotic
-    .desc = "Semiotic Standard denoting the nearby presence of something to the West."
+ent-CMSemioticWest = West семіотика
+    .desc = Стандарт семіотики, що вказує на присутність поблизу something to the West.
 
-ent-CMSemioticZero_g = artificial gravity absent semiotic
-    .desc = "Semiotic Standard denoting the nearby lack of artificial gravity."
+ent-CMSemioticZero_g = artificial gravity absent семіотика
+    .desc = Стандарт семіотики, що вказує на lack of artificial gravity.
 
-ent-CMSemioticFlightcontrol = flight control semiotic
-    .desc = "Semiotic Standard denoting an area used by or for flight control systems."
+ent-CMSemioticFlightcontrol = flight control семіотика
+    .desc = Стандарт семіотики, що вказує на an area used by or for flight control systems.
 
-ent-CMSemioticAirtraffictower = air traffic tower semiotic
-    .desc = "Semiotic Standard denoting an air traffic tower nearby."
+ent-CMSemioticAirtraffictower = air traffic tower семіотика
+    .desc = Стандарт семіотики, що вказує на an air traffic tower nearby.
 
-ent-CMSemioticLuggageclaim = luggage claim semiotic
-    .desc = "Semiotic Standard denoting the presecense of a luggage claim area nearby."
+ent-CMSemioticLuggageclaim = luggage claim семіотика
+    .desc = Стандарт семіотики, що вказує на the presecense of a luggage claim area nearby.
 
-ent-CMSemioticLandingzone = landing zone semiotic
-    .desc = "Semiotic Standard denoting the presecense of a landing zone nearby."
+ent-CMSemioticLandingzone = landing zone семіотика
+    .desc = Стандарт семіотики, що вказує на the presecense of a landing zone nearby.
 
-ent-CMSemioticZero = zero semiotic
-    .desc = "Semiotic Standard denoting the number zero."
+ent-CMSemioticZero = zero семіотика нуль
+    .desc = Стандарт семіотики, що містить цифру нуль.
 
-ent-CMSemioticOne = one semiotic
-    .desc = "Semiotic Standard denoting the number one."
+ent-CMSemioticOne = one семіотика один 
+    .desc = Стандарт семіотики, що містить цифру один.
 
-ent-CMSemioticTwo = two semiotic
-    .desc = "Semiotic Standard denoting the number two."
+ent-CMSemioticTwo = two семіотика два
+    .desc = Стандарт семіотики, що містить цифру два.
 
-ent-CMSemioticThree = three semiotic
-    .desc = "Semiotic Standard denoting the number three."
+ent-CMSemioticThree = three семіотика три
+    .desc = Стандарт семіотики, що містить цифру три.
 
-ent-CMSemioticFour = four semiotic
-    .desc = "Semiotic Standard denoting the number four."
+ent-CMSemioticFour = семіотика чотирі
+    .desc = Стандарт семіотики, що містить цифру чотирі.
 
-ent-CMSemioticFive = five semiotic
-    .desc = "Semiotic Standard denoting the number five."
+ent-CMSemioticFive = семіотика п'ять
+    .desc = Стандарт семіотики, що містить цифру п'ять.
 
-ent-CMSemioticSix = six semiotic
-    .desc = "Semiotic Standard denoting the number six."
+ent-CMSemioticSix = семіотика шість
+    .desc = Стандарт семіотики, що містить цифру шість.
 
-ent-CMSemioticSeven = seven semiotic
-    .desc = "Semiotic Standard denoting the number seven."
+ent-CMSemioticSeven = семіотика сім
+    .desc = Стандарт семіотики, що містить цифру сім.
 
-ent-CMSemioticEight = eight semiotic
-    .desc = "Semiotic Standard denoting the number eight."
+ent-CMSemioticEight = семіотика вісім
+    .desc = Стандарт семіотики, що містить цифру вісім.
 
-ent-CMSemioticNine = nine semiotic
-    .desc = "Semiotic Standard denoting the number nine."
+ent-CMSemioticNine = семіотика дев'ять
+    .desc = Стандарт семіотики, що містить цифру дев'ять.
 

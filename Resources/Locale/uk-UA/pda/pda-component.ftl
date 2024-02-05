@@ -10,7 +10,7 @@ comp-pda-ui-owner = Власник: [color=white]{$actualOwnerName}[/color]
 
 comp-pda-io-program-list-button = Додатки
 
-comp-pda-io-settings-button = Налаштунки
+comp-pda-io-settings-button = Налаштування
 
 comp-pda-io-program-fallback-title = Додаток
 
