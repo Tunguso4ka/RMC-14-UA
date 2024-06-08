@@ -1,14 +1,14 @@
 - type: radioChannel
   id: Common
   name: chat-radio-common
-  keycode: "з"
+  keycode: "媽"
   frequency: 1459
   color: "#32cd32"
 
 - type: radioChannel
   id: CentCom
   name: chat-radio-centcom
-  keycode: 'ц'
+  keycode: '馬'
   frequency: 1337
   color: "#2681a5"
   longRange: true
@@ -16,56 +16,56 @@
 - type: radioChannel
   id: Command
   name: chat-radio-command
-  keycode: 'к'
+  keycode: '麻'
   frequency: 1353
   color: "#fcdf03"
 
 - type: radioChannel
   id: Engineering
   name: chat-radio-engineering
-  keycode: 'і'
+  keycode: '詩'
   frequency: 1357
   color: "#f37746"
 
 - type: radioChannel
   id: Medical
   name: chat-radio-medical
-  keycode: 'м'
+  keycode: '史'
   frequency: 1355
   color: "#57b8f0"
 
 - type: radioChannel
   id: Science
   name: chat-radio-science
-  keycode: 'н'
+  keycode: '弒'
   frequency: 1351
   color: "#c68cfa"
 
 - type: radioChannel
   id: Security
   name: chat-radio-security
-  keycode: 'б'
+  keycode: '市'
   frequency: 1359
   color: "#dd3535"
 
 - type: radioChannel
   id: Service
   name: chat-radio-service
-  keycode: 'с'
+  keycode: '是'
   frequency: 1349
   color: "#6ca729"
 
 - type: radioChannel
   id: Supply
   name: chat-radio-supply
-  keycode: 'п'
+  keycode: '十'
   frequency: 1347
   color: "#b88646"
 
 - type: radioChannel
   id: Syndicate
   name: chat-radio-syndicate
-  keycode: 'т'
+  keycode: '實'
   frequency: 1213
   color: "#8f4a4b"
   longRange: true
@@ -81,7 +81,7 @@
 - type: radioChannel
   id: Binary
   name: chat-radio-binary
-  keycode: 'р'
+  keycode: '識'
   frequency: 1001
   color: "#2ed2fd"
   # long range since otherwise it'd defeat the point of a handheld radio independent of telecomms
@@ -90,7 +90,7 @@
 - type: radioChannel
   id: Freelance
   name: chat-radio-freelance
-  keycode: 'ф'
+  keycode: '時'
   frequency: 1984
   color: "#f6ce64"
   # long range since otherwise it'd defeat the point of a handheld radio independent of telecomms

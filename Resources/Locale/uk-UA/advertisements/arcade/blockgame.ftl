@@ -1,0 +1,26 @@
+advertisement-block-game-1 = Легально різний!
+advertisement-block-game-2 = Що ще за Т-форма?
+advertisement-block-game-3 = Ці блоки самі себе не приберуть!
+advertisement-block-game-4 = Біп боп! Бвуууп!
+advertisement-block-game-5 = Нумо зіграємо!
+advertisement-block-game-6 = Цілих 6 кольорів ігроладу!
+advertisement-block-game-7 = Горячий 8-бітний екшон!
+advertisement-block-game-8 = Блоки, блоки, блоки!
+advertisement-block-game-9 = Думаєш ТИ зможеш набрати найвищій бал?
+advertisement-block-game-10 = НаноТрайзен Блоки це вам не Тетріс!
+advertisement-block-game-11 = Now with blast processing!
+advertisement-block-game-12 = Наши юрісти завжди поряд!
+advertisement-block-game-13 = Халелуя, це дождь з блоків!
+
+thankyou-block-game-1 = Зіграй знов!
+thankyou-block-game-2 = Гарно зіграно!
+thankyou-block-game-3 = Може ще разок?
+thankyou-block-game-4 = Закінчуєш так рано?
+thankyou-block-game-5 = Блоки будуть сумувати за тобою.
+thankyou-block-game-6 = Дякуємо за гру!
+thankyou-block-game-7 = Повертайся скоріш!
+thankyou-block-game-8 = Бііп бвуууп!
+thankyou-block-game-9 = Завжди знайдеться час для наступної гри!
+thankyou-block-game-10 = Не здавайся!
+thankyou-block-game-11 = Здесь завжди будуть блоки!
+thankyou-block-game-12 = Блоки будуть чекати твого повернення!

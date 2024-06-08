@@ -1,0 +1,32 @@
+tiles-cm-default = стальний тайл
+tiles-cm-default-no-weeds = стальний тайл (без трави)
+tiles-cm-plate = стальний плаский тайл
+tiles-cm-office = офісний тайл
+tiles-cm-sterile = стальний стерільний тайл
+tiles-cm-sterile-dark = темний стальний стерільний тайл
+tiles-cm-wood = дерев'яний тайл
+tiles-cm-white = білий стальний тайл
+tiles-cm-green = зелений стальний тайл
+tiles-cm-silver = срібряний тайл
+tiles-cm-white-sterile = білий стальний стерільний тайл
+tiles-cm-green-sterile = зелений стальний стерільний тайл
+tiles-cm-black = чорний стальний тайл
+tiles-cm-ai = тайл кімнати ШІ
+tiles-cm-tcomms = тайл телекомунікацій
+tiles-cm-cargo = тайл логістів
+tiles-cm-plating = плаский тайл
+tiles-cm-striped = тайл в полоску
+tiles-cm-test = тестовий тайл
+tiles-cm-wy = Вей-Ю тайл
+
+tiles-cm-dirt = земля
+tiles-cm-desert = пустеля
+tiles-cm-sand = пісок
+tiles-cm-grass = трава
+tiles-cm-dirt-grass = трава з землею
+
+tiles-cm-default-alpha = стальний тайл Альфа
+tiles-cm-default-bravo = стальний тайл Браво
+tiles-cm-default-charlie = стальний тайл Чарлі
+tiles-cm-default-delta = стальний тайл Дельта
+tiles-cm-floor = підлога

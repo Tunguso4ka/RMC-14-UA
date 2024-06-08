@@ -1,0 +1,2 @@
+ent-ActionXenoTransferPlasma = Перенести плазму
+

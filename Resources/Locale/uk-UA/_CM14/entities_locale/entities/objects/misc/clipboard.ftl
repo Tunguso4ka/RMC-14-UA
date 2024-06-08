@@ -1,0 +1,2 @@
+ent-CMClipboard = планшет
+

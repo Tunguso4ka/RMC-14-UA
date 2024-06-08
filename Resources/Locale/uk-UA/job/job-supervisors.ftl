@@ -1,0 +1,15 @@
+﻿job-supervisors-centcom = ЦентКом
+job-supervisors-captain = Капітан
+job-supervisors-hop = Голова Персоналу
+job-supervisors-hos = Голова Охорони
+job-supervisors-ce = Головний Інженер
+job-supervisors-cmo = Головний Лікар
+job-supervisors-rd = Науковий Директор
+job-supervisors-qm = Квартерместер
+job-supervisors-service = шефи, ботаніки, бармени та Голова Персоналу
+job-supervisors-engineering = інженери, атмосферні техники та Головний Інженер
+job-supervisors-medicine = доктори, хіміки та Головний Лікар
+job-supervisors-security = офіцери, наглядач та Голова Охорони
+job-supervisors-science = науковці та Науковий Директор
+job-supervisors-hire = будь хто, хто найме вас
+job-supervisors-everyone = будь хто

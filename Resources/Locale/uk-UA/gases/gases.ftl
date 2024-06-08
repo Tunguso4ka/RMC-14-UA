@@ -1,0 +1,9 @@
+gases-oxygen = Кисень
+gases-nitrogen = Азот
+gases-co2 = Вуглекислий газ
+gases-plasma = Плазма
+gases-tritium = Тритій
+gases-water-vapor = Водяна Пара
+gases-miasma = Міазма
+gases-n2o = Оксид Азоту
+gases-frezon = Холодин

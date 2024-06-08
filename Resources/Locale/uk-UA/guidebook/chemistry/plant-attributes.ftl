@@ -1,0 +1,9 @@
+plant-attribute-growth = вік
+plant-attribute-water = рівень води
+plant-attribute-weeds = рівень бур'янів
+plant-attribute-toxins = рівень токсинів
+plant-attribute-nutrition = рівень поживних речовин
+plant-attribute-mutation-level = рівень мутації
+plant-attribute-pests = рівень шкідників
+plant-attribute-mutation-mod = модифікатор мутації
+plant-attribute-health = здоров'я

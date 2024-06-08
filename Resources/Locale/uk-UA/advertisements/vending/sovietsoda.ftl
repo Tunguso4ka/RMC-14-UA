@@ -1,0 +1,9 @@
+﻿advertisement-sovietsoda-1 = За таваріща і страну.
+advertisement-sovietsoda-2 = А ви випалнілі свою днєвну пятєлєтку?
+advertisement-sovietsoda-3 = Очєнь харашо!
+advertisement-sovietsoda-4 = Ми прастиє люді, ми нє вибіраєм.
+advertisement-sovietsoda-5 = Єсть чєлавєк? Єсть праблєма. Нєту чєлавєка? Нєту праблєми.
+advertisement-sovietsoda-6 = Но ми жє братскіє народи, да?
+thankyou-sovietsoda-1 = Наслаждайся, таваріщ!
+thankyou-sovietsoda-2 = Пачєму нє на заводі?
+thankyou-sovietsoda-3 = Адна банка - адин чєлавєк.

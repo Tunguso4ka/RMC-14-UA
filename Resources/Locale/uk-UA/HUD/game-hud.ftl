@@ -1,0 +1,9 @@
+game-hud-open-escape-menu-button-tooltip = Відкрити головне меню.
+game-hud-open-guide-menu-button-tooltip = Відкрити меню довідника.
+game-hud-open-character-menu-button-tooltip = Відкрити меню персонажа.
+game-hud-open-emotes-menu-button-tooltip= Відкрити меню емоцій.
+game-hud-open-inventory-menu-button-tooltip = Відкрити меню інвентаря.
+game-hud-open-crafting-menu-button-tooltip = Відкрити меню створення.
+game-hud-open-actions-menu-button-tooltip = Відкрити меню дій.
+game-hud-open-admin-menu-button-tooltip = Відкрити меню адміністратора.
+game-hud-open-sandbox-menu-button-tooltip = Відкрити меню пісочниці.

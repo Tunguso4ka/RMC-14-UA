@@ -35,6 +35,10 @@
   path: /Fonts/Boxfont-round/Boxfont Round.ttf
 
 - type: font
+  id: Akashi
+  path: /Fonts/AA-Akashi/AA-Akashi.ttf
+
+- type: font
   id: AnimalSilence
   path: /Fonts/Animal Silence.otf
 

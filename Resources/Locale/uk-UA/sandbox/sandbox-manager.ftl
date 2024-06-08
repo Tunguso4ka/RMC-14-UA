@@ -1,0 +1,16 @@
+sandbox-window-title = Пісочниця
+sandbox-window-respawn-button = Відродження
+sandbox-window-spawn-entities-button = Ств. сутності
+sandbox-window-spawn-tiles-button = Ств. тайли
+sandbox-window-spawn-decals-button = Ств. деталі
+sandbox-window-grant-full-access-button = Повний доступ
+sandbox-window-ghost-button = Привід
+sandbox-window-toggle-lights-button = Перемкнути світло
+sandbox-window-toggle-fov-button = Перемкнути поле зору
+sandbox-window-toggle-shadows-button = Перемкнути тіні
+sandbox-window-toggle-subfloor-button = Перемкнути прозору підлогу
+sandbox-window-toggle-suicide-button = Самогубство
+sandbox-window-show-spawns-button = Показувати спавни
+sandbox-window-show-bb-button = Показувати хітбокси
+sandbox-window-show-npc-button = Показувати НІП
+sandbox-window-link-machines-button = Зв'язувати апарати

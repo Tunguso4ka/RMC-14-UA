@@ -61,7 +61,7 @@ namespace Content.Client.ParticleAccelerator.UI
             _drawNoiseGenerator.SetFrequency(0.5f);
 
             var resourceCache = IoCManager.Resolve<IResourceCache>();
-            var font = resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13);
+            var font = resourceCache.GetFont("/Fonts/AA-Akashi/AA-Akashi.ttf", 13);
             var panelTex = resourceCache.GetTexture("/Textures/Interface/Nano/button.svg.96dpi.png");
 
             MouseFilter = MouseFilterMode.Stop;

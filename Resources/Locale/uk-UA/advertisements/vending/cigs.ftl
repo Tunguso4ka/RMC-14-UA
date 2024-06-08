@@ -1,0 +1,15 @@
+﻿advertisement-cigs-1 = Космічні цигарки на смак як... цигарки!
+advertisement-cigs-2 = I'd rather toolbox than switch.
+advertisement-cigs-3 = Кури!
+advertisement-cigs-4 = Не вірь дослідженям - кури!
+advertisement-cigs-5 = Можливо одна цигарка не зашкодить!
+advertisement-cigs-6 = Вчені брешуть!
+advertisement-cigs-7 = З цигаркою у руках веселіше!
+advertisement-cigs-8 = Не кидай, купуй ще більш!
+advertisement-cigs-9 = Нікотиновий рай.
+advertisement-cigs-10 = Найкращі цигарки з 2150.
+advertisement-cigs-11 = Цигарки получивші нагороду.
+advertisement-cigs-12 = Here to take an edge off work!
+thankyou-cigs-1 = Получив їх? Викури!
+thankyou-cigs-2 = Можливо, ви не пожалкуєте!
+thankyou-cigs-3 = Вітаємо з новою залежностю!

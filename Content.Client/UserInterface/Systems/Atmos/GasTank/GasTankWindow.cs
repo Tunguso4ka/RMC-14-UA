@@ -78,7 +78,7 @@ public sealed class GasTankWindow
 
         LayoutContainer.SetAnchorPreset(topContainerWrap, LayoutContainer.LayoutPreset.Wide);
 
-        var font = resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13);
+        var font = _resourceCache.GetFont("/Fonts/AA-Akashi/AA-Akashi.ttf", 13);
 
         var topRow = new BoxContainer
         {

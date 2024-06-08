@@ -1,0 +1,12 @@
+﻿advertisement-cola-1 = Освіжаюче!
+advertisement-cola-2 = Сподіваємося у вас є спрага!
+advertisement-cola-3 = Продано більше 1 мільйона напоїв!
+advertisement-cola-4 = Спрага? Чому б не купити колу?
+advertisement-cola-5 = Прошу, випийте!
+advertisement-cola-6 = Випийте!
+advertisement-cola-7 = Найкращі напої у галактиці!
+advertisement-cola-8 = Набагато краще ніж Доктор Гібб!
+thankyou-cola-1 = Нумо, відкрийте та випийте скоріш!
+thankyou-cola-2 = Пау! Скуштуй-ка це, спрага!
+thankyou-cola-3 = Сподіваємося вам сподобається цій смак!
+thankyou-cola-4 = Насолоджуйтеся вашим цукром!
