@@ -14,7 +14,6 @@ admin-logs-select-none = Жодні
 
 # Players
 admin-logs-search-players-placeholder = Пошук гравців (ЧИ)
-admin-logs-select-none = Жодні
 admin-logs-include-non-player = Включити Не-Гравців
 
 # Logs

@@ -35,7 +35,6 @@ admin-notes-message-seen = Прочитане
 admin-notes-banned-from = Забанен з
 admin-notes-the-server = цього серверу
 admin-notes-permanently = назавжди
-admin-notes-for = Нотатка: {$player}
 admin-notes-days = {$days} днів
 admin-notes-hours = {$hours} годин
 admin-notes-minutes = {$minutes} хвилин

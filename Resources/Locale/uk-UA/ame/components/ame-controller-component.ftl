@@ -16,7 +16,6 @@ ame-window-refresh-parts-button = Оновити деталі
 ame-window-core-count-label = Кількісь деталей:
 ame-window-power-currentsupply-label = Поточне постачання струму:
 ame-window-power-targetsupply-label = Цільове постачання струму:
-ame-window-toggle-injection-button = Перемкнути вприск
 ame-window-eject-button = Вийняти
 ame-window-increase-fuel-button = Збільшити
 ame-window-decrease-fuel-button = Зменшити
