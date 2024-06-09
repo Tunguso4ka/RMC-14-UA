@@ -29,6 +29,10 @@ ent-CMSheetPlasteel30 = пласталь
     .desc = { ent-CMSheetPlasteel.desc }
     .suffix = 30
 
+ent-CMSheetPlasteel40 = plasteel
+    .desc = { ent-CMSheetPlasteel.desc }
+    .suffix = 40
+
 ent-CMSheetPlasteel1 = { ent-CMSheetPlasteel }
     .desc = { ent-CMSheetMetalBase.desc }
     .suffix = Single
