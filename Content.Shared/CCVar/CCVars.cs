@@ -24,7 +24,7 @@ namespace Content.Shared.CCVar
         ///     Guide Entry Prototype ID to be displayed as the server rules.
         /// </summary>
         public static readonly CVarDef<string> RulesFile =
-            CVarDef.Create("server.rules_file", "DefaultRuleset", CVar.REPLICATED | CVar.SERVER);
+            CVarDef.Create("server.rules_file", "CMOverview", CVar.REPLICATED | CVar.SERVER);
 
         /*
          * Ambience
@@ -1418,7 +1418,7 @@ namespace Content.Shared.CCVar
         /// Any value equal to or less than zero will disable this check.
         /// </summary>
         public static readonly CVarDef<float> FTLMassLimit =
-            CVarDef.Create("shuttle.mass_limit", 1000f, CVar.SERVERONLY);
+            CVarDef.Create("shuttle.mass_limit", 100000f, CVar.SERVERONLY);
 
         /// <summary>
         /// How long to knock down entities for if they aren't buckled when FTL starts and stops.
