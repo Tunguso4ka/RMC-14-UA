@@ -3,7 +3,7 @@ lock-comp-on-examined-is-unlocked = {$entityName} виглядає відчин�
 lock-comp-do-lock-success = Ви зачиняєте {$entityName}.
 lock-comp-do-unlock-success = Ви відчиняєте {$entityName}.
 lock-comp-has-user-access-fail = Немає доступу
-lock-comp-generic-fail = {CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} заблуковано.
+lock-comp-generic-fail = {CAPITALIZE(SUBJECT($target))} заблуковано.
 
 ## ToggleLockVerb
 

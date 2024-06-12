@@ -1,26 +1,26 @@
-ent-WeaponPistolDebug = bang, ded
-    .desc = ded
-    .suffix = DEBUG
+ent-WeaponPistolDebug = пах, труп
+    .desc = труп
+    .suffix = ВІДЛАДКА
 
-ent-MagazinePistolDebug = bang, ded mag
+ent-MagazinePistolDebug = магазин для пах, труп
     .desc = { ent-BaseMagazinePistol.desc }
-    .suffix = DEBUG
+    .suffix = ВІДЛАДКА
 
-ent-BulletDebug = bang, ded bullet
+ent-BulletDebug = набій від пах, труп
     .desc = { ent-BaseBullet.desc }
-    .suffix = DEBUG
+    .suffix = ВІДЛАДКА
 
 ent-CartridgeDebug = bang, ded cartridge
     .desc = { ent-BaseCartridgePistol.desc }
-    .suffix = DEBUG
+    .suffix = ВІДЛАДКА
 
-ent-MeleeDebugGib = bang stick gibber
+ent-MeleeDebugGib = вбивча пах палка
     .desc = hit hard ye
-    .suffix = DEBUG
+    .suffix = ВІДЛАДКА
 
-ent-MeleeDebug100 = bang stick 100dmg
+ent-MeleeDebug100 = пах палка 100шкоди
     .desc = { ent-MeleeDebugGib.desc }
 
-ent-MeleeDebug200 = bang stick 200dmg
+ent-MeleeDebug200 = пах палка 200шкоди
     .desc = { ent-MeleeDebugGib.desc }
 

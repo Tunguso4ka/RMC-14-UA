@@ -1,3 +1,2 @@
-ent-AmeJar = AME fuel jar
-    .desc = A hermetically sealed jar containing antimatter for use in an antimatter reactor.
-
+ent-AmeJar = банка палива АМД
+    .desc = Герметично закрита банка, що містить в собі антиматерію для антиматеріального двигуна.

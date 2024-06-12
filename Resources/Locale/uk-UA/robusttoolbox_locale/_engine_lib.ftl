@@ -52,8 +52,8 @@ zzzz-conjugate-be = { GENDER($ent) ->
 
 # Used internally by the CONJUGATE-HAVE() function.
 zzzz-conjugate-have = { GENDER($ent) ->
-    [epicene] have
-   *[other] has
+    [epicene] мають
+   *[other] має
    }
 
 # Used internally by the CONJUGATE-BASIC() function.

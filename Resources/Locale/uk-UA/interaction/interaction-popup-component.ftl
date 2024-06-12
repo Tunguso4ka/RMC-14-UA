@@ -29,15 +29,15 @@ petting-success-snake = Ти пестиш {$target} по {POSS-ADJ($target)} sca
 petting-success-monkey = Ти пестиш {$target} по {POSS-ADJ($target)} mischevious little head.
 petting-success-nymph = Ти пестиш {$target} по {POSS-ADJ($target)} wooden little head.
 
-petting-failure-generic = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} {CONJUGATE-BE($target)} aloof towards you.
+petting-failure-generic = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} aloof towards you.
 
-petting-failure-bat = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} {CONJUGATE-BE($target)} too hard to catch!
+petting-failure-bat = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} too hard to catch!
 petting-failure-carp = Ти тягнешся щоб попестити {$target}, але {POSS_ADJ($target)} sharp teeth make you think twice.
 petting-failure-corrupted-corgi = Ти тягнешся щоб попестити {$target}, але think better of it.
 petting-failure-crab = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} snaps {POSS-ADJ($target)} claws in your general direction!
 petting-failure-dehydrated-carp = Ти пестиш {$target} по {POSS-ADJ($target)} dry little head.
 petting-failure-goat = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} stubbornly refuses!
-petting-failure-goose = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} {CONJUGATE-BE($target)} too horrible!
+petting-failure-goose = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} too horrible!
 petting-failure-possum = Ти тягнешся щоб попестити {$target}, але are met with hisses and snarls!
 petting-failure-pig = Ти тягнешся щоб попестити {$target}, але are met with irritated oinks and squeals!
 petting-failure-raccoon = Ти тягнешся щоб попестити {$target}, але {$target} is busy raccooning around.
@@ -58,8 +58,8 @@ petting-success-medibot = Ти пестиш {$target} по {POSS-ADJ($target)} s
 petting-success-recycler = Ти пестиш {$target} по {POSS-ADJ($target)} mildly threatening steel exterior.
 
 petting-failure-honkbot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} honks in refusal!
-petting-failure-cleanbot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} {CONJUGATE-BE($target)} busy mopping!
-petting-failure-mimebot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} {CONJUGATE-BE($target)} busy miming!
+petting-failure-cleanbot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} busy mopping!
+petting-failure-mimebot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} busy miming!
 petting-failure-medibot = Ти тягнешся щоб попестити {$target}, але {POSS-ADJ($target)} syringe nearly stabs your hand!
 
 

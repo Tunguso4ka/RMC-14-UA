@@ -1,4 +1,4 @@
-ent-DrinkMeth = meth
-    .desc = Just a whole glass of meth.
-    .suffix = DEBUG
+ent-DrinkMeth = мет
+    .desc = Чуваче, повний стакан мета!
+    .suffix = ВІДЛАДКА
 

@@ -10,11 +10,11 @@ ent-SprayBottleWater = spray bottle
     .desc = { ent-SprayBottle.desc }
     .suffix = Filled
 
-ent-SprayBottleSpaceCleaner = space cleaner
-    .desc = BLAM!-brand non-foaming space cleaner!
+ent-SprayBottleSpaceCleaner = космічний очищувач
+    .desc = Безпінний космічний очищувач від бренду BLAM!!
     .suffix = ""
 
-ent-Vapor = vapor
+ent-Vapor = пара
 
 ent-BigVapor = { ent-Vapor }
     .desc = { ent-Vapor.desc }

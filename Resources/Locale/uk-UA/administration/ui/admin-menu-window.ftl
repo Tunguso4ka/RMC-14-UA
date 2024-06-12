@@ -1,5 +1,3 @@
-## AdminMenuWindow.xaml.cs
-
 admin-menu-title = Меню адміністрації
 admin-menu-admin-tab = Адмінсь'ке
 admin-menu-adminbus-tab = Адмінбус
