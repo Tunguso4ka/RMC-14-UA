@@ -1,6 +1,9 @@
 ent-ActionXenoRest = Відпочити
     .desc = { ent-ActionXenoBase.desc }
 
+ent-CMGuidebookActionXenoRest = Відпочити
+    .desc = Лягти щоб регенерувати здоров'я та плазму. Працює тільки на траві вулика.
+
 ent-ActionXenoWatch = Дивитися
     .desc = { ent-ActionXenoBase.desc }
 

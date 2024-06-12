@@ -1,4 +1,4 @@
-﻿cm-burn-kit-user-popup = Ви покриваєте опіки {$target} регенеративною мембраною.
+cm-burn-kit-user-popup = Ви покриваєте опіки {$target} регенеративною мембраною.
 cm-burn-kit-target-popup = {$user} покриває ваші опіки регенеративною мембраною.
 cm-burn-kit-others-popup = {$user} покриває опіки {$target} регенеративною мембраною.
 cm-burn-kit-none-self-popup = У вас немає опіків.
@@ -47,3 +47,10 @@ cm-burns-already-treated-self-popup = Ваші опіки вже були вил
 cm-burns-already-treated-target-popup = Опіки {$target} вже були виліковані.
 
 cm-wounds-brackets-translators-note = {"{ }"} = Невилікований
+
+cm-wounds-failed-unskilled = Ви не знаєте як користуватися {$treater}!
+cm-wounds-failed-not-enough = У вас недостатньо {$treater}!
+cm-wounds-open-cut = {$target} is cut open, you'll need more than a {$treater}!
+cm-wounds-cannot-treat = {$treater} не може вилікувати ці поранення!
+cm-wounds-already-treated = Поранення {$target} вже були виліковані!
+cm-wounds-start-fumbling = You start fumbling with {$name}.

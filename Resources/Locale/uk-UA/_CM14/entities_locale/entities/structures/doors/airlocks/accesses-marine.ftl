@@ -22,6 +22,10 @@ ent-CMAirlockPrepSmart = підготовка смартґанера
     .desc = { ent-CMAirlockPrep.desc }
     .suffix = Зачинені
 
+ent-CMAirlockPrepFTL = підготовка лідера бойового отряду
+    .desc = { ent-CMAirlockPrep.desc }
+    .suffix = Зачинені
+
 ent-CMAirlockPrepAlphaCommon = підготовка отряду Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені, Загальний

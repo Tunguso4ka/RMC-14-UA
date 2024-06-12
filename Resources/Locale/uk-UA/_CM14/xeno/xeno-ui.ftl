@@ -1,4 +1,4 @@
-﻿cm-ui-cm-actions = CM Дії
+cm-ui-cm-actions = CM Дії
 cm-ui-transform-tab = Трансформування
 cm-ui-xeno-tab = Ксено
 cm-ui-xeno-hive = Вулей:
@@ -7,3 +7,4 @@ cm-ui-create-new-hive = Зробити новий вулей
 cm-ui-create-hive-title = Ім'я нового вулея:
 cm-ui-humanoid = Гуманоїд
 cm-ui-tier = Рівень {$tier}
+cm-xeno-words-of-the-queen-header = Слова Королеви відлунюються у нашої голові...
