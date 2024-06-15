@@ -1,4 +1,4 @@
-ent-SquadBase = отряд
+ent-SquadBase = загін
     .desc = опис
 
 ent-SquadAlpha = { ent-SquadBase }

@@ -55,8 +55,8 @@ ent-CMCrateSupply = ящик підтримки
 ent-CMCrateWeapons = ящик зброї
     .desc = Ящик зі зброєю щоб робити ксеноморфам "куля голова боляче робити".
 
-ent-CMCrateMedical = медічний ящик
-    .desc = Це медічний ящик, ага.
+ent-CMCrateMedical = медичний ящик
+    .desc = Це медичний ящик, ага.
 
 ent-CMCrateSecure = захищений ящик
     .desc = Просто захищений ящик щоб ніякий space asshole не вкрав ваш хабар.

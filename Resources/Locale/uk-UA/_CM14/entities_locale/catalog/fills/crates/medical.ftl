@@ -10,7 +10,7 @@ ent-CMCrateMedicalStasisBag = ящик з стазіс мішками (x3)
 ent-CMCrateMedicalFirstAid = ящик аптечек (x2 кожний)
     .desc = { ent-CMCrateMedical.desc }
 
-ent-CMCrateMedicalFilled = медічний ящик
+ent-CMCrateMedicalFilled = медичний ящик
     .desc = { ent-CMCrateMedical.desc }
 
 ent-CMCrateMedicalPill = ящик баночек для пігулок (x2 кожний)

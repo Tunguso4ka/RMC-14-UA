@@ -4,7 +4,7 @@ ent-DogtagRifleman = жетони рядового
 ent-DogtagCombatTech = жетони бойового техника
     .desc = { ent-CMIDCardStandardDogtag.desc }
 
-ent-DogtagFireteamLeader = жетони лідера отряду
+ent-DogtagFireteamLeader = жетони лідера групи
     .desc = { ent-CMIDCardStandardDogtag.desc }
 
 ent-DogtagHospitalCorpsman = жетони бойвого медика

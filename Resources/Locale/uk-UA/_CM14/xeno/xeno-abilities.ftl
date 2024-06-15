@@ -7,6 +7,8 @@ cm-xeno-requires-more-plasma = {$construction} потребує {$plasma} біл
 cm-xeno-construction-plasma-left = {$construction} Тут позначається споруда. Їй потрібно на [color=cyan]{$plasma}[/color] більше плазми.
 cm-xeno-cant-reach-there = Ми не можемо дотягнутись!
 
+cm-xeno-cant-build-in-self = Ви не можете будувати структури поряд!
+
 cm-xeno-available-evolutions = Еволюція доступна
 cm-xeno-evolution-start = Ми починаємо крутитися і звиватися.
 cm-xeno-evolution-end = Ми постаємо у більшій формі з лушпиння нашого старого тіла. Для вулика!

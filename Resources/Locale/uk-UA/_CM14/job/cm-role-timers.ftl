@@ -1,5 +1,5 @@
 role-timer-human-roles = будь яка людська роль
-role-timer-medical-roles = будь яка медічна роль
+role-timer-medical-roles = будь яка медична роль
 role-timer-engineering-roles = будь яка інженерна роль
 role-timer-dropship-roles = будь яка роль шатла
 

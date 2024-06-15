@@ -1,11 +1,14 @@
-﻿cm-chatsan-word-deltard = deltard
+cm-chatsan-word-deltard = deltard
 cm-chatsan-replacement-deltard = delta
 
-cm-chatsan-word-admin-marine = admin
-cm-chatsan-replacement-admin-marine = high command
+cm-chatsan-word-deltards = deltards
+cm-chatsan-replacement-deltards = deltas
 
-cm-chatsan-word-admins-marine = admins
-cm-chatsan-replacement-admins-marine = high command
+cm-chatsan-word-admin-marine = адмін
+cm-chatsan-replacement-admin-marine = вище командування
+
+cm-chatsan-word-admins-marine = адміни
+cm-chatsan-replacement-admins-marine = вище командування
 
 cm-chatsan-word-eorg-marine = eorg
 cm-chatsan-replacement-eorg-marine = warcrimes
@@ -109,11 +112,11 @@ cm-chatsan-replacement-normandy = metal bird
 cm-chatsan-word-almayer = almayer
 cm-chatsan-replacement-almayer = metal hive
 
-cm-chatsan-word-admin-xeno = admin
-cm-chatsan-replacement-admin-xeno = grandmother
+cm-chatsan-word-admin-xeno = адмін
+cm-chatsan-replacement-admin-xeno = бабця
 
-cm-chatsan-word-admins-xeno = admins
-cm-chatsan-replacement-admins-xeno = grandmothers
+cm-chatsan-word-admins-xeno = адміни
+cm-chatsan-replacement-admins-xeno = бабці
 
 cm-chatsan-word-ob = ob
 cm-chatsan-replacement-ob = skyfire
@@ -178,9 +181,6 @@ cm-chatsan-replacement-executive-officer = young tall queen
 cm-chatsan-word-exec-officer = exec officer
 cm-chatsan-replacement-exec-officer = young tall queen
 
-cm-chatsan-word-sea = sea
-cm-chatsan-replacement-sea = young tall queen
-
 cm-chatsan-word-senior-enlisted = senior enlisted
 cm-chatsan-replacement-senior-enlisted = young tall queen
 
@@ -190,17 +190,6 @@ cm-chatsan-replacement-senior-enlisted-advisor = young tall queen
 cm-chatsan-word-lz = lz
 cm-chatsan-replacement-lz = metal bird perch
 
-# cm-chatsan-word-#tank = #tank
-# cm-chatsan-replacement-#tank = turtle
+cm-chatsan-word-shoot = shoot
+cm-chatsan-replacement-shoot = spit
 
-# cm-chatsan-word-# laser = # laser
-# cm-chatsan-replacement-# laser = dot
-
-# cm-chatsan-word-# lazer = # lazer
-# cm-chatsan-replacement-# lazer = dot
-
-# cm-chatsan-word-# flamer = # flamer
-# cm-chatsan-replacement-# flamer = fire spitter
-
-# cm-chatsan-word-# flamethrower = # flamethrower
-# cm-chatsan-replacement-# flamethrower =  fire spitter

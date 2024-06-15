@@ -2,7 +2,7 @@ ent-CMPamphlet = памфлет-інструкція
     .desc = Памфлет який може надати потрібні вам знання.
     .suffix = NOT IMPLEMENTED
 
-ent-CMPamphletMedical = медічний памфлет-інструкція
+ent-CMPamphletMedical = медичний памфлет-інструкція
     .desc = Памфлет який може надати потрібні вам знання. This one has a medical insignia.
 
 ent-CMPamphletEngineer = інженерний памфлет-інструкція

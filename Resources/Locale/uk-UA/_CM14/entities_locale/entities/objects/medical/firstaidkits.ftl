@@ -5,7 +5,7 @@ ent-CMFirstAidKitFilled = { ent-CMFirstAidKit }
     .desc = { ent-CMFirstAidKit.desc }
     .suffix = Заповнена
 
-ent-CMBurnAidKit = аптечка від опиків
+ent-CMBurnAidKit = аптечка від опіків
     .desc = Екстрена аптечка для тих випадків коли хтось покурив там куди тільки що попало.
 
 ent-CMBurnAidKitFilled = { ent-CMBurnAidKit }

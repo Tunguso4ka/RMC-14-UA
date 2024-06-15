@@ -22,11 +22,11 @@ ent-CMAirlockPrepSmart = підготовка смартґанера
     .desc = { ent-CMAirlockPrep.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepFTL = підготовка лідера бойового отряду
+ent-CMAirlockPrepFTL = підготовка лідера вогневої групи
     .desc = { ent-CMAirlockPrep.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepAlphaCommon = підготовка отряду Альфа
+ent-CMAirlockPrepAlphaCommon = підготовка загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені, Загальний
 
@@ -34,123 +34,123 @@ ent-CMAirlockPrepAlphaLocked = підготовка отряда Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepAlphaSL = підготовка лідера отряду Альфа
+ent-CMAirlockPrepAlphaSL = підготовка лідера загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepAlphaSpec = підготовка спеціаліста отряду Альфа
+ent-CMAirlockPrepAlphaSpec = підготовка спеціаліста загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepAlphaEngineer = підготовка бойтеха отряду Альфа
+ent-CMAirlockPrepAlphaEngineer = підготовка бойтеха загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepAlphaMedical = підготовка медиків отряду Альфа
+ent-CMAirlockPrepAlphaMedical = підготовка медиків загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepAlphaSmart = підготовка смартґанера отряду Альфа
+ent-CMAirlockPrepAlphaSmart = підготовка смартґанера загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepAlphaFTL = підготовка лідера бойового отряду Альфа
+ent-CMAirlockPrepAlphaFTL = підготовка лідера вогневої групи Альфа
     .desc = { ent-CMAirlockPrepAlpha.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepBravoCommon = підготовка отряду Браво
+ent-CMAirlockPrepBravoCommon = підготовка загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені, Загальний
 
-ent-CMAirlockPrepBravoLocked = підготовка отряду Браво
+ent-CMAirlockPrepBravoLocked = підготовка загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepBravoSL = підготовка лідера отряду Браво
+ent-CMAirlockPrepBravoSL = підготовка лідера загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepBravoSpec = підготовка спеціаліста отряду Браво
+ent-CMAirlockPrepBravoSpec = підготовка спеціаліста загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepBravoEngineer = підготовка бойтеха отряду Браво
+ent-CMAirlockPrepBravoEngineer = підготовка бойтеха загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepBravoMedical = підготовка медиків отряду Браво
+ent-CMAirlockPrepBravoMedical = підготовка медиків загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepBravoSmart = підготовка смартґаннерів отряду Браво
+ent-CMAirlockPrepBravoSmart = підготовка смартґаннерів загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepBravoFTL = підготовка лідера бойового отряду Браво
+ent-CMAirlockPrepBravoFTL = підготовка лідера вогневої групи Браво
     .desc = { ent-CMAirlockPrepBravo.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepCharlieCommon = підготовка отряду Чарлі
+ent-CMAirlockPrepCharlieCommon = підготовка загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені, Common
 
-ent-CMAirlockPrepCharlieLocked = підготовка отряду Чарлі
+ent-CMAirlockPrepCharlieLocked = підготовка загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepCharlieSL = підготовка лідера отряду Чарлі
+ent-CMAirlockPrepCharlieSL = підготовка лідера загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepCharlieSpec = підготовка спеціаліста отряду Чарлі
+ent-CMAirlockPrepCharlieSpec = підготовка спеціаліста загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepCharlieEngineer = підготовка бойтеха отряду Чарлі
+ent-CMAirlockPrepCharlieEngineer = підготовка бойтеха загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepCharlieMedical = підготовка медиків отряду Чарлі
+ent-CMAirlockPrepCharlieMedical = підготовка медиків загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepCharlieSmart = підготовка смартґаннерів отряду Чарлі
+ent-CMAirlockPrepCharlieSmart = підготовка смартґаннерів загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepCharlieFTL = підготовка лідера бойового отряду Чарлі
+ent-CMAirlockPrepCharlieFTL = підготовка лідера вогневої групи Чарлі
     .desc = { ent-CMAirlockPrepCharlie.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepDeltaCommon = підготовка отряду Дельта
+ent-CMAirlockPrepDeltaCommon = підготовка загону Дельта
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Common, Зачинені
 
-ent-CMAirlockPrepDeltaLocked = підготовка отряду Дельта
+ent-CMAirlockPrepDeltaLocked = підготовка загону Дельта
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepDeltaSL = підготовка лідера отряду Дельта
+ent-CMAirlockPrepDeltaSL = підготовка лідера загону Дельта
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepDeltaSpec = підготовка спеціаліста отряду Дельта
+ent-CMAirlockPrepDeltaSpec = підготовка спеціаліста загону Дельта
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepDeltaEngineer = підготовка бойтеха отряду Дельта
+ent-CMAirlockPrepDeltaEngineer = підготовка бойтеха загону Дельта
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepDeltaMedical = підготовка медиків отряду Дельта 
+ent-CMAirlockPrepDeltaMedical = підготовка медиків загону Дельта 
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepDeltaSmart = підготовка смартґаннерів отряду Дельта
+ent-CMAirlockPrepDeltaSmart = підготовка смартґаннерів загону Дельта
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 
-ent-CMAirlockPrepDeltaFTL = підготовка лідера бойового отряду Дельта
+ent-CMAirlockPrepDeltaFTL = підготовка лідера вогневої групи Дельта
     .desc = { ent-CMAirlockPrepDelta.desc }
     .suffix = Зачинені
 

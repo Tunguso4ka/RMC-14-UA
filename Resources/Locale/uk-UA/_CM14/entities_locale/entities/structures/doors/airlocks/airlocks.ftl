@@ -41,15 +41,15 @@ ent-CMAirlockGlassSecurity = двері воєнполу
 ent-CMAirlockPrep = підготовка
     .desc = { ent-CMBaseDoor.desc }
 
-ent-CMAirlockPrepAlpha = підготовка отряду Альфа
+ent-CMAirlockPrepAlpha = підготовка загону Альфа
     .desc = { ent-CMBaseDoor.desc }
 
-ent-CMAirlockPrepBravo = підготовка отряду Браво
+ent-CMAirlockPrepBravo = підготовка загону Браво
     .desc = { ent-CMBaseDoor.desc }
 
-ent-CMAirlockPrepCharlie = підготовка отряду Чарлі
+ent-CMAirlockPrepCharlie = підготовка загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
 
-ent-CMAirlockPrepDelta = підготовка отряду Дельта
+ent-CMAirlockPrepDelta = підготовка загону Дельта
     .desc = { ent-CMBaseDoor.desc }
 

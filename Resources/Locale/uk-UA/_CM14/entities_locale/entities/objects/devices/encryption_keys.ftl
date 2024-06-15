@@ -22,7 +22,7 @@ ent-CMEncryptionKeyJTAC = ключ шифрування JTAC
 ent-CMEncryptionKeyEngineer = ключ шифрування інженерного каналу
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyMedical = ключ шифрування медічного каналу
+ent-CMEncryptionKeyMedical = ключ шифрування медичного каналу
     .desc = { ent-CMEncryptionKey.desc }
 
 ent-CMEncryptionKeyMilitaryPolice = ключ шифрування каналу воєнполу

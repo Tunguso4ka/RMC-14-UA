@@ -53,19 +53,19 @@ ent-CMDoubleDoorPreparations = підготовка
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Підготовка
 
-ent-CMDoubleDoorPreparationsAlpha = підготовка отряду Альфа
+ent-CMDoubleDoorPreparationsAlpha = підготовка загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Підготовка, Альфа
 
-ent-CMDoubleDoorPreparationsBravo = підготовка отряду Браво
+ent-CMDoubleDoorPreparationsBravo = підготовка загону Браво
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Підготовка, Браво
 
-ent-CMDoubleDoorPreparationsCharlie = підготовка отряду Чарлі
+ent-CMDoubleDoorPreparationsCharlie = підготовка загону Чарлі
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Підготовка, Чарлі
 
-ent-CMDoubleDoorPreparationsDelta = підготовка отряду Дельта
+ent-CMDoubleDoorPreparationsDelta = підготовка загону Дельта
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Підготовка, Дельта
 
