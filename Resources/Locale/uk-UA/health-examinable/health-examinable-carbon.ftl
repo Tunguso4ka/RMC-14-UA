@@ -15,4 +15,4 @@ health-examinable-carbon-Heat-25 = [color=orange]{ CAPITALIZE(SUBJECT($target)) 
 health-examinable-carbon-Heat-50 = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } сильні опіки по всьому тілу.[/color]
 health-examinable-carbon-Heat-75 = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } важкі опіки третього ступеню по всьому тілу![/color]
 
-health-examinable-carbon-Shock-50 = [color=lightgoldenrodyellow] CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } сліди від удару струмом по всьому тілу![/color]
+health-examinable-carbon-Shock-50 = [color=lightgoldenrodyellow] CAPITALIZE(SUBJECT($target)) { CONJUGATE-HAVE($target) } сліди від удару струмом по всьому тілу![/color]
