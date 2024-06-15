@@ -1,4 +1,4 @@
 ent-CMMobSkeletonPerson = Уріст К.М МакШкел
-    .desc = Опис
+    .desc = { ent-MobSkeletonPerson.desc }
     .suffix =  КМ14
 

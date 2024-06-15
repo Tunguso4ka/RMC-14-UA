@@ -30,7 +30,7 @@ ent-CMAirlockPrepAlphaCommon = підготовка загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені, Загальний
 
-ent-CMAirlockPrepAlphaLocked = підготовка отряда Альфа
+ent-CMAirlockPrepAlphaLocked = підготовка загону Альфа
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Зачинені
 

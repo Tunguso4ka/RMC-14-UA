@@ -1,4 +1,4 @@
 ent-CMMobDiona = Уріст К.М МакРослина
-    .desc = Опис
+    .desc = { ent-CMBaseMobSpeciesOrganic.desc }
     .suffix = КМ14
 

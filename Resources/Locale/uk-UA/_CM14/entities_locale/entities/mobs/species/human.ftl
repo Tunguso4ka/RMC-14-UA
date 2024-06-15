@@ -1,4 +1,4 @@
 ent-CMMobHuman = Уріст К.М МакХенд
-    .desc = Опис
+    .desc = { ent-CMBaseMobSpeciesOrganic.desc }
     .suffix = КМ14
 

@@ -1,8 +1,8 @@
 ent-CMTestDummy = лялька для тестів
-    .desc = Опис
+    .desc = { ent-CMBaseMobSpeciesOrganic.desc }
     .suffix = КМ14
 
-ent-SpawnCMTestDummy = спавнер ляльки для тестів
-    .desc = Опис
-    .suffix = ДЕБАГ
+ent-SpawnCMTestDummy = Спавнер лялькі для тестів
+    .desc = { ent-MarkerBase.desc }
+    .suffix = DEBUG
 

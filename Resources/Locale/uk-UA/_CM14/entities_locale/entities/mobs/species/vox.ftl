@@ -1,4 +1,3 @@
 ent-CMMobVox = Уріст К.М МакВокс
-    .desc = Опис
+    .desc = { ent-MobVox.desc }
     .suffix = КМ14
-

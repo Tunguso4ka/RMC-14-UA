@@ -1,4 +1,3 @@
 ent-CMMobDwarf = Уріст К.М МакХенд Дворф
-    .desc = Опис
+    .desc = { ent-CMBaseMobSpeciesOrganic.desc }
     .suffix = КМ14
-

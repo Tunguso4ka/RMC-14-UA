@@ -1,4 +1,3 @@
 ent-CMMobMoth = Уріст К.М МакПух
-    .desc = Опис
+    .desc = { ent-CMBaseMobSpeciesOrganic.desc }
     .suffix = КМ14
-

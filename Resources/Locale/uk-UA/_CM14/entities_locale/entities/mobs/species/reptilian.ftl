@@ -1,4 +1,4 @@
 ent-CMMobReptilian = Уріссст С.М МзХенд
-    .desc = Опис
+    .desc = { ent-CMBaseMobSpeciesOrganic.desc }
     .suffix = КМ14
 
