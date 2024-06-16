@@ -9,6 +9,8 @@ cm-xeno-cant-reach-there = Ми не можемо дотягнутись!
 
 cm-xeno-cant-build-in-self = Ви не можете будувати структури поряд!
 
+cm-xeno-unique-exists = Ми вже маємо {$choice}!
+
 cm-xeno-available-evolutions = Еволюція доступна
 cm-xeno-evolution-start = Ми починаємо крутитися і звиватися.
 cm-xeno-evolution-end = Ми постаємо у більшій формі з лушпиння нашого старого тіла. Для вулика!
@@ -55,5 +57,8 @@ cm-xeno-toggle-crest-cant-tail-sweep = Ми не можемо вдарити х�
 
 cm-xeno-plasma-transferred-to-other = Ми передали {$plasma} плазму {$target}. Зараз у нас {$total}
 cm-xeno-plasma-transferred-to-self = {$target} передав {$plasma} одиниць плазми. Зараз у нас {$total}
+
+cm-xeno-plasma-cannot-self = Ви не можете передати плазму собі!
+cm-xeno-plasma-other-max-zero = {$target} не потрібна плазма!
 
 cm-xeno-watch = Дивитися за іншима
