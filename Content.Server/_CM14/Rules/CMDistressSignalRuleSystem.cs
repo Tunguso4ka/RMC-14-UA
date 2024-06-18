@@ -559,7 +559,7 @@ public sealed class CMDistressSignalRuleSystem : GameRuleSystem<CMDistressSignal
     {
         // TODO CM14 different planet-side maps
         var mapId = _mapManager.CreateMap();
-        if (!_mapLoader.TryLoad(mapId, "/Maps/_CM14/lv624.yml", out var grids) ||
+        if (!_mapLoader.TryLoad(mapId, "/Maps/_CM14/solaris.yml", out var grids) ||
             grids.Count == 0)
         {
             return false;

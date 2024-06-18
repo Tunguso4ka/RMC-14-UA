@@ -1,4 +1,4 @@
-ent-CMWallMetal = { ent-CMBaseWall }
+ent-CMWallMetal = стіна
     .desc = { ent-CMBaseWall.desc }
 
 ent-CMWallMetalAlmayer = { ent-CMBaseWall }
