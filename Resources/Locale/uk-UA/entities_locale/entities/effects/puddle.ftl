@@ -27,5 +27,5 @@ ent-PuddleFlour = { ent-PuddleTemporary }
 
 ent-PuddleSparkle = sparkle
 
-ent-Puddle = лужа
-    .desc = Повна рідини лужа.
+ent-Puddle = калюжа
+    .desc = Повна рідини калюжа.

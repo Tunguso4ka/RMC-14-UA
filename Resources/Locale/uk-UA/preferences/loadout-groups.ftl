@@ -2,7 +2,9 @@ loadout-group-trinkets = Дрібнички
 
 loadout-group-glasses = Окуляри
 
-loadout-group-backpack = Backpack
+loadout-group-backpack = Рюкзаки
+
+loadout-group-instruments = Інструменти
 
 loadout-group-captain-head = Голова
 loadout-group-captain-jumpsuit = Одяг

@@ -19,6 +19,9 @@ ent-CrateServiceCustomSmokable = DIY smokeables crate
 ent-CrateServiceBureaucracy = ящик бюрократії
     .desc = Декілька стопок папіру та трошечки ручок.
 
+ent-CrateServiceFaxMachine = ящик факса
+    .desc = Факс та викрутка для налаштування факса.
+
 ent-CrateServicePersonnel = ящик кпк
     .desc = Містить коробки порожніх карток та кпк.
 
@@ -43,3 +46,4 @@ ent-CrateJanitorBiosuit = ящик з біокостюмом прибираль�
 ent-CrateTrashCartFilled = { ent-CrateTrashCart }
     .desc = { ent-CrateTrashCart.desc }
     .suffix = Заповнена
+

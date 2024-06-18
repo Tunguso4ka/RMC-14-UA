@@ -1,22 +1,22 @@
-﻿-create-3rd-person =
+-create-3rd-person = 
     { $chance ->
         [1] Створює
         *[other] створює
     }
 
--cause-3rd-person =
+-cause-3rd-person = 
     { $chance ->
         [1] Викликає
         *[other] викликає
     }
 
--satiate-3rd-person =
+-satiate-3rd-person = 
     { $chance ->
         [1] Насичує
         *[other] насичує
     }
 
-reagent-effect-guidebook-create-entity-reaction-effect =
+reagent-effect-guidebook-create-entity-reaction-effect = 
     { $chance ->
         [1] Створює
         *[other] створює
@@ -25,31 +25,31 @@ reagent-effect-guidebook-create-entity-reaction-effect =
         *[other] {$amount} {MAKEPLURAL($entname)}
     }
 
-reagent-effect-guidebook-explosion-reaction-effect =
+reagent-effect-guidebook-explosion-reaction-effect = 
     { $chance ->
         [1] Спричиняє
         *[other] спричиняє
     } вибух
 
-reagent-effect-guidebook-emp-reaction-effect =
+reagent-effect-guidebook-emp-reaction-effect = 
     { $chance ->
         [1] Спричиняє
         *[other] спричиняє
     } електромагнітний пульс
 
-reagent-effect-guidebook-foam-area-reaction-effect =
+reagent-effect-guidebook-foam-area-reaction-effect = 
     { $chance ->
         [1] Створює
         *[other] створює
     } велику кількість піни
 
-reagent-effect-guidebook-smoke-area-reaction-effect =
+reagent-effect-guidebook-smoke-area-reaction-effect = 
     { $chance ->
         [1] Створює
         *[other] створює
     } велику кількість диму
 
-reagent-effect-guidebook-satiate-thirst =
+reagent-effect-guidebook-satiate-thirst = 
     { $chance ->
         [1] Втамує
         *[other] втамує
@@ -58,7 +58,7 @@ reagent-effect-guidebook-satiate-thirst =
         *[other] спрагу у {NATURALFIXED($relative, 3)} раза швидше за середню норму
     }
 
-reagent-effect-guidebook-satiate-hunger =
+reagent-effect-guidebook-satiate-hunger = 
     { $chance ->
         [1] Втамує
         *[other] втамує
@@ -67,7 +67,7 @@ reagent-effect-guidebook-satiate-hunger =
         *[other] голод у {NATURALFIXED($relative, 3)} раза швидше за середню норму
     }
 
-reagent-effect-guidebook-health-change =
+reagent-effect-guidebook-health-change = 
     { $chance ->
         [1] { $healsordeals ->
                 [heals] Лікує
@@ -81,7 +81,7 @@ reagent-effect-guidebook-health-change =
                  }
     } { $changes }
 
-reagent-effect-guidebook-status-effect =
+reagent-effect-guidebook-status-effect = 
     { $type ->
         [add]   { $chance ->
                     [1] Causes
@@ -97,19 +97,19 @@ reagent-effect-guidebook-status-effect =
                 } {NATURALFIXED($time, 3)} {MANY("second", $time)} of {LOC($key)}
     }
 
-reagent-effect-guidebook-activate-artifact =
+reagent-effect-guidebook-activate-artifact = 
     { $chance ->
         [1] Пробує
         *[other] пробує
     } активувати артефакт
 
-reagent-effect-guidebook-set-solution-temperature-effect =
+reagent-effect-guidebook-set-solution-temperature-effect = 
     { $chance ->
         [1] Sets
         *[other] set
     } the solution temperature to exactly {NATURALFIXED($temperature, 2)}k
 
-reagent-effect-guidebook-adjust-solution-temperature-effect =
+reagent-effect-guidebook-adjust-solution-temperature-effect = 
     { $chance ->
         [1] { $deltasign ->
                 [1] Adds
@@ -125,7 +125,7 @@ reagent-effect-guidebook-adjust-solution-temperature-effect =
                 *[-1] at least {NATURALFIXED($mintemp, 2)}k
             }
 
-reagent-effect-guidebook-adjust-reagent-reagent =
+reagent-effect-guidebook-adjust-reagent-reagent = 
     { $chance ->
         [1] { $deltasign ->
                 [1] Adds
@@ -141,7 +141,7 @@ reagent-effect-guidebook-adjust-reagent-reagent =
         *[-1] from
     } the solution
 
-reagent-effect-guidebook-adjust-reagent-group =
+reagent-effect-guidebook-adjust-reagent-group = 
     { $chance ->
         [1] { $deltasign ->
                 [1] Adds
@@ -157,7 +157,7 @@ reagent-effect-guidebook-adjust-reagent-group =
             *[-1] from
         } the solution
 
-reagent-effect-guidebook-adjust-temperature =
+reagent-effect-guidebook-adjust-temperature = 
     { $chance ->
         [1] { $deltasign ->
                 [1] Adds
@@ -173,37 +173,37 @@ reagent-effect-guidebook-adjust-temperature =
             *[-1] from
         } the body it's in
 
-reagent-effect-guidebook-chem-cause-disease =
+reagent-effect-guidebook-chem-cause-disease = 
     { $chance ->
         [1] Causes
         *[other] cause
     } the disease { $disease }
 
-reagent-effect-guidebook-chem-cause-random-disease =
+reagent-effect-guidebook-chem-cause-random-disease = 
     { $chance ->
         [1] Causes
         *[other] cause
     } the diseases { $diseases }
 
-reagent-effect-guidebook-jittering =
+reagent-effect-guidebook-jittering = 
     { $chance ->
         [1] Causes
         *[other] cause
     } jittering
 
-reagent-effect-guidebook-chem-clean-bloodstream =
+reagent-effect-guidebook-chem-clean-bloodstream = 
     { $chance ->
         [1] Cleanses
         *[other] cleanse
     } the bloodstream of other chemicals
 
-reagent-effect-guidebook-cure-disease =
+reagent-effect-guidebook-cure-disease = 
     { $chance ->
         [1] Cures
         *[other] cure
     } diseases
 
-reagent-effect-guidebook-cure-eye-damage =
+reagent-effect-guidebook-cure-eye-damage = 
     { $chance ->
         [1] { $deltasign ->
                 [1] Deals
@@ -216,13 +216,13 @@ reagent-effect-guidebook-cure-eye-damage =
             }
     } eye damage
 
-reagent-effect-guidebook-chem-vomit =
+reagent-effect-guidebook-chem-vomit = 
     { $chance ->
         [1] Causes
         *[other] cause
     } vomiting
 
-reagent-effect-guidebook-create-gas =
+reagent-effect-guidebook-create-gas = 
     { $chance ->
         [1] Creates
         *[other] create
@@ -231,49 +231,49 @@ reagent-effect-guidebook-create-gas =
         *[other] moles
     } of { $gas }
 
-reagent-effect-guidebook-drunk =
+reagent-effect-guidebook-drunk = 
     { $chance ->
         [1] Causes
         *[other] cause
     } drunkness
 
-reagent-effect-guidebook-electrocute =
+reagent-effect-guidebook-electrocute = 
     { $chance ->
         [1] Electrocutes
         *[other] electrocute
     } the metabolizer for {NATURALFIXED($time, 3)} {MANY("second", $time)}
 
-reagent-effect-guidebook-extinguish-reaction =
+reagent-effect-guidebook-extinguish-reaction = 
     { $chance ->
         [1] Extinguishes
         *[other] extinguish
     } fire
 
-reagent-effect-guidebook-flammable-reaction =
+reagent-effect-guidebook-flammable-reaction = 
     { $chance ->
         [1] Increases
         *[other] increase
     } flammability
 
-reagent-effect-guidebook-ignite =
+reagent-effect-guidebook-ignite = 
     { $chance ->
         [1] Ignites
         *[other] ignite
     } the metabolizer
 
-reagent-effect-guidebook-make-sentient =
+reagent-effect-guidebook-make-sentient = 
     { $chance ->
         [1] Makes
         *[other] make
     } the metabolizer sentient
 
-reagent-effect-guidebook-make-polymorph =
+reagent-effect-guidebook-make-polymorph = 
     { $chance ->
         [1] Polymorphs
         *[other] polymorph
     } the metabolizer into a { $entityname }
 
-reagent-effect-guidebook-modify-bleed-amount =
+reagent-effect-guidebook-modify-bleed-amount = 
     { $chance ->
         [1] { $deltasign ->
                 [1] Induces
@@ -285,7 +285,7 @@ reagent-effect-guidebook-modify-bleed-amount =
                  }
     } bleeding
 
-reagent-effect-guidebook-modify-blood-level =
+reagent-effect-guidebook-modify-blood-level = 
     { $chance ->
         [1] { $deltasign ->
                 [1] Increases
@@ -297,43 +297,43 @@ reagent-effect-guidebook-modify-blood-level =
                  }
     } blood level
 
-reagent-effect-guidebook-paralyze =
+reagent-effect-guidebook-paralyze = 
     { $chance ->
         [1] Paralyzes
         *[other] paralyze
     } the metabolizer for at least {NATURALFIXED($time, 3)} {MANY("second", $time)}
 
-reagent-effect-guidebook-movespeed-modifier =
+reagent-effect-guidebook-movespeed-modifier = 
     { $chance ->
         [1] Modifies
         *[other] modify
     } movement speed by {NATURALFIXED($walkspeed, 3)}x for at least {NATURALFIXED($time, 3)} {MANY("second", $time)}
 
-reagent-effect-guidebook-reset-narcolepsy =
+reagent-effect-guidebook-reset-narcolepsy = 
     { $chance ->
         [1] Temporarily staves
         *[other] temporarily stave
     } off narcolepsy
 
-reagent-effect-guidebook-wash-cream-pie-reaction =
+reagent-effect-guidebook-wash-cream-pie-reaction = 
     { $chance ->
         [1] Washes
         *[other] wash
     } off cream pie from one's face
 
-reagent-effect-guidebook-cure-zombie-infection =
+reagent-effect-guidebook-cure-zombie-infection = 
     { $chance ->
         [1] Cures
         *[other] cure
     } an ongoing zombie infection
 
-reagent-effect-guidebook-cause-zombie-infection =
+reagent-effect-guidebook-cause-zombie-infection = 
     { $chance ->
         [1] Gives
         *[other] give
     } an individual the zombie infection
 
-reagent-effect-guidebook-innoculate-zombie-infection =
+reagent-effect-guidebook-innoculate-zombie-infection = 
     { $chance ->
         [1] Лікує
         *[other] лікує
@@ -345,37 +345,43 @@ reagent-effect-guidebook-reduce-rotting =
         *[other] regenerate
     } {NATURALFIXED($time, 3)} {MANY("second", $time)} of rotting
 
-reagent-effect-guidebook-missing =
+reagent-effect-guidebook-area-reaction = 
     { $chance ->
-        [1] Викликає
-        *[other] викликає
-    } невідомий ефект, так як ніхто ще не написав його.
+        [1] Causes
+        *[other] cause
+    } a smoke or foam reaction for {NATURALFIXED($duration, 3)} {MANY("second", $duration)}
 
-reagent-effect-guidebook-plant-attribute =
+reagent-effect-guidebook-add-to-solution-reaction = 
+    { $chance ->
+        [1] Causes
+        *[other] cause
+    } chemicals applied to an object to be added to its internal solution container
+
+reagent-effect-guidebook-plant-attribute = 
     { $chance ->
         [1] Adjusts
         *[other] adjust
-    } {$attribute} by [color={$colorName}]{$amount}[/color]
+    } {$attribute} by [color = {$colorName}]{$amount}[/color]
 
-reagent-effect-guidebook-plant-cryoxadone =
+reagent-effect-guidebook-plant-cryoxadone = 
     { $chance ->
         [1] Ages back
         *[other] age back
     } the plant, depending on the plant's age and time to grow
 
-reagent-effect-guidebook-plant-phalanximine =
+reagent-effect-guidebook-plant-phalanximine = 
     { $chance ->
         [1] Makes
         *[other] make
     } a plant not viable due to mutation viable again
 
-reagent-effect-guidebook-plant-diethylamine =
+reagent-effect-guidebook-plant-diethylamine = 
     { $chance ->
         [1] Increases
         *[other] increase
     } the plant's lifespan and/or base health with 10% chance for each.
 
-reagent-effect-guidebook-plant-robust-harvest =
+reagent-effect-guidebook-plant-robust-harvest = 
     { $chance ->
         [1] Increases
         *[other] increase

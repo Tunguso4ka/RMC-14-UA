@@ -1,4 +1,4 @@
-reagent-effect-condition-guidebook-total-damage =
+reagent-effect-condition-guidebook-total-damage = 
     { $max ->
         [2147483648] має щонайменше {NATURALFIXED($min, 2)} загальних ушкоджень
         *[other] { $min ->
@@ -7,7 +7,7 @@ reagent-effect-condition-guidebook-total-damage =
                  }
     }
 
-reagent-effect-condition-guidebook-total-hunger =
+reagent-effect-condition-guidebook-total-hunger = 
     { $max ->
         [2147483648] має щонайменш {NATURALFIXED($min, 2)} загального голоду
         *[other] { $min ->
@@ -16,7 +16,7 @@ reagent-effect-condition-guidebook-total-hunger =
                  }
     }
 
-reagent-effect-condition-guidebook-reagent-threshold =
+reagent-effect-condition-guidebook-reagent-threshold = 
     { $max ->
         [2147483648] щонайменше {NATURALFIXED($min, 2)}ю {$reagent}
         *[other] { $min ->
@@ -25,10 +25,13 @@ reagent-effect-condition-guidebook-reagent-threshold =
                  }
     }
 
-reagent-effect-condition-guidebook-mob-state-condition =
+reagent-effect-condition-guidebook-mob-state-condition = 
     сутність { $state }
 
-reagent-effect-condition-guidebook-solution-temperature =
+reagent-effect-condition-guidebook-job-condition = 
+    робота цілі є { $job }
+
+reagent-effect-condition-guidebook-solution-temperature = 
     температура рідини { $max ->
             [2147483648] щонайменше {NATURALFIXED($min, 2)}k
             *[other] { $min ->
@@ -37,7 +40,7 @@ reagent-effect-condition-guidebook-solution-temperature =
                      }
     }
 
-reagent-effect-condition-guidebook-body-temperature =
+reagent-effect-condition-guidebook-body-temperature = 
     температура тіла { $max ->
             [2147483648] щонайменше {NATURALFIXED($min, 2)}к
             *[other] { $min ->
@@ -46,13 +49,13 @@ reagent-effect-condition-guidebook-body-temperature =
                      }
     }
 
-reagent-effect-condition-guidebook-organ-type =
-    the metabolizing organ { $shouldhave ->
-                                [true] is
-                                *[false] is not
-                           } {INDEFINITE($name)} {$name} organ
+reagent-effect-condition-guidebook-organ-type = 
+    метаболізуючий орган { $shouldhave ->
+                                [true] є
+                                *[false] не є
+                           } {INDEFINITE($name)} {$name} органом
 
-reagent-effect-condition-guidebook-has-tag =
+reagent-effect-condition-guidebook-has-tag = 
     ціль { $invert ->
                  [true] не має
                  *[false] має

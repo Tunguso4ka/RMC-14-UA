@@ -181,6 +181,9 @@ ent-SheetifierMachineCircuitboard = sheet-meister 2000 плата
 ent-MicrowaveMachineCircuitboard = плата микрохвильовки
     .desc = { ent-BaseMachineCircuitboard.desc }
 
+ent-SyndicateMicrowaveMachineCircuitboard = donk co. microwave machine board
+    .desc = { ent-BaseMachineCircuitboard.desc }
+
 ent-FatExtractorMachineCircuitboard = lipid extractor плата
     .desc = { ent-BaseMachineCircuitboard.desc }
 
@@ -228,3 +231,4 @@ ent-ReagentGrinderIndustrialMachineCircuitboard = плата покращено�
 
 ent-JukeboxCircuitBoard = плата музичного автомату
     .desc = Надрукована плата музичного автомату.
+

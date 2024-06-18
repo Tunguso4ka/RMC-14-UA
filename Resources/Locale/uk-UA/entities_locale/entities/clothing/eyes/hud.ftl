@@ -50,12 +50,24 @@ ent-ClothingEyesGlassesHiddenSecurity = { ent-ClothingEyesGlassesSunglasses }
 ent-ClothingEyesEyepatchHudMedical = медічна розумна пов'язка на око
     .desc = Прозорий дисплей, що сканує гуманоїдів в поле зору та показує інформацію про їх здоров'є. Для патріотів.
 
+ent-ClothingEyesEyepatchHudMedicalFlipped = { ent-ClothingEyesEyepatchHudMedical }
+    .desc = { ent-ClothingEyesEyepatchHudMedical.desc }
+
 ent-ClothingEyesEyepatchHudSecurity = розумна пов'язка на око охорони
     .desc = Прозорий дисплей, що сканує гуманоїдів в поле зору та показує інформацію про їх ID статус та кріминальну історію. Для патріотів.
+
+ent-ClothingEyesEyepatchHudSecurityFlipped = { ent-ClothingEyesEyepatchHudSecurity }
+    .desc = { ent-ClothingEyesEyepatchHudSecurity.desc }
 
 ent-ClothingEyesEyepatchHudBeer = пивна розумна пов'язка на око
     .desc = Cонцезахісний прозорий дисплей, що може сканувати реагенти. Для патріотів.
 
+ent-ClothingEyesEyepatchHudBeerFlipped = { ent-ClothingEyesEyepatchHudBeer }
+    .desc = { ent-ClothingEyesEyepatchHudBeer.desc }
+
 ent-ClothingEyesEyepatchHudDiag = diagnostic hud eyepatch
     .desc = Прозорий дисплей, що здатень аналізувати цілісність та статус роботів та екзокостюмів.
+
+ent-ClothingEyesEyepatchHudDiagFlipped = { ent-ClothingEyesEyepatchHudDiag }
+    .desc = { ent-ClothingEyesEyepatchHudDiag.desc }
 

@@ -23,6 +23,9 @@ ent-ClothingOuterSuitChicken = chicken suit
 ent-ClothingOuterSuitShrineMaiden = shrine maiden outfit
     .desc = Makes you want to go deal with some troublesome youkai.
 
+ent-ClothingOuterSuitWitchRobes = witch robes
+    .desc = Magic is all about the spell power, ZE!
+
 ent-ClothingOuterSuitMonkey = monkey suit
     .desc = A suit that looks like a primate.
 
@@ -31,4 +34,8 @@ ent-ClothingOuterSuitIan = ian suit
 
 ent-ClothingOuterSuitCarp = carp suit
     .desc = A special suit that makes you look just like a space carp, if your eyesight is bad.
+
+ent-ClothingOuterHardsuitCarp = { ent-ClothingOuterSuitCarp }
+    .desc = { ent-ClothingOuterSuitCarp.desc }
+    .suffix = Hardsuit, DO NOT MAP
 

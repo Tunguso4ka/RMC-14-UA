@@ -39,3 +39,8 @@ panic-bunker-account-denied-reason = Цей сервер у режиму Пан�
 panic-bunker-account-reason-account = Вік цього акаунту повинен бути більше {$minutes} хвилин.
 panic-bunker-account-reason-overall = Загальний час гри на цьому акаунті повинен бути більше {$hours} годин
 
+baby-jail-account-denied = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun!
+baby-jail-account-denied-reason = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun! Reason: "{$reason}"
+baby-jail-account-reason-account = Your Space Station 14 account is too old. It must be younger than {$minutes} minutes
+baby-jail-account-reason-overall = Your overall playtime on the server must be younger than {$minutes} $minutes
+

@@ -4,3 +4,5 @@ ent-CMCatwalk = парапет
 ent-CMCatwalkShiva = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
 
+ent-CMCatwalkPrison = { ent-CMCatwalk }
+    .desc = { ent-CMCatwalk.desc }

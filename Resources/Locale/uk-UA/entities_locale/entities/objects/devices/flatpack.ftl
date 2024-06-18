@@ -36,3 +36,7 @@ ent-ThrusterFlatpack = флетпак рушійної установки
 
 ent-SpaceHeaterFlatpack = флетпак обігрівача
     .desc = Флетпак використовуємий для будування обігрівача.
+
+ent-FaxMachineFlatpack = fax machine flatpack
+    .desc = A flatpack used for constructing a fax machine.
+

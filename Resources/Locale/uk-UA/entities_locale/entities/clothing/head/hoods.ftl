@@ -43,6 +43,9 @@ ent-ClothingHeadHatHoodIan = ian hood
 ent-ClothingHeadHatHoodCarp = carp hood
     .desc = A gnarly hood adorned with plastic space carp teeth.
 
+ent-ClothingHeadHelmetHardsuitCarp = { ent-ClothingHeadHatHoodCarp }
+    .desc = { ent-ClothingHeadHatHoodCarp.desc }
+
 ent-ClothingHeadHatHoodMoth = moth mask
     .desc = A mask in the form of a moths head is usually made of lightweight materials. It mimics the shape of a moths head with large eyes and long antennae. Such masks are often used in cosplay, or when shooting movies and videos.
 
