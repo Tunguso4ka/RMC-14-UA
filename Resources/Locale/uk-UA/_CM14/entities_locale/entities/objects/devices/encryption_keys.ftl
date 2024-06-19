@@ -58,6 +58,9 @@ ent-CMEncryptionKeyMasterShip = ключ шифрування усього ко�
 ent-CMEncryptionKeyLeader = ключ шифрування лідера
     .desc = { ent-CMEncryptionKey.desc }
 
+ent-CMEncryptionKeySquadLeader = ключ шифрування лідера загону
+    .desc = { ent-CMEncryptionKey.desc }
+
 ent-CMEncryptionKeyCE = ключ шифрування головного інженера
     .desc = { ent-CMEncryptionKey.desc }
 
