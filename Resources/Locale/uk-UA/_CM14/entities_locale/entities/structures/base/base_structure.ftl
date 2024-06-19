@@ -10,10 +10,10 @@ ent-CMBaseXenoStructure = { ent-BaseStructure }
 ent-CMCorrodible = ця сутність не має назви
     .desc = { "" }
 
-ent-CMBaseWallInvincible = { ent-CMBaseStructureCorrodible }
+ent-CMBaseWallInvincible = стіна
     .desc = Величезний шматок металу, що використовується для розділення кімнат.
 
-ent-CMBaseWall = { ent-CMBaseStructureCorrodible }
+ent-CMBaseWall = стіна
     .desc = Величезний шматок металу, що використовується для розділення кімнат.
 
 ent-CMBaseWallXeno = стіна зі смоли
