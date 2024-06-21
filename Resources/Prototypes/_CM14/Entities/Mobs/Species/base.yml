@@ -150,6 +150,7 @@
   - type: MovementIgnoreGravity
   - type: SlowOnPull
     multiplier: 0.6
+  - type: MobState
   - type: MobThresholds
     thresholds:
       0: Alive
