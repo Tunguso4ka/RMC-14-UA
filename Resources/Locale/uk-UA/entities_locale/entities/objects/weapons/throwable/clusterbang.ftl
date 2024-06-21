@@ -23,3 +23,6 @@ ent-GrenadeShrapnel = shrapnel grenade
 ent-SlipocalypseClusterSoap = slipocalypse clustersoap
     .desc = Spreads small pieces of syndicate soap over an area upon landing on the floor.
 
+ent-GrenadeFoamDart = foam dart grenade
+    .desc = Releases a bothersome spray of foam darts that cause severe welching.
+

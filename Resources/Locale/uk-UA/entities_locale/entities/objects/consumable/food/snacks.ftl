@@ -1,8 +1,8 @@
 ent-FoodSnackBase = { ent-FoodBase }
     .desc = { ent-FoodBase.desc }
 
-ent-FoodSnackBoritos = boritos
-    .desc = Crunchy, salty tortilla chips. You could probably make nachos with these.
+ent-FoodSnackBoritos = борітоси
+    .desc = Хрусткі, солоні чіпси з тортильї. З них, напевно, можна зробити начос.
 
 ent-FoodSnackCnDs = C&Ds
     .desc = Legally, we cannot say that these won't melt in your hands.
@@ -42,6 +42,12 @@ ent-FoodSnackSus = sus jerky
 
 ent-FoodSnackSyndi = syndi-cakes
     .desc = An extremely moist snack cake that tastes just as good after being nuked.
+
+ent-DrinkRamen = cup ramen
+    .desc = A cheap food with a taste that reminds you of your school years.
+
+ent-DrinkHellRamen = hell ramen
+    .desc = Super spicy flavor!
 
 ent-FoodSnackChowMein = chow mein
     .desc = A salty fried noodle snack. Looks like they forgot the vegetables.
@@ -102,6 +108,9 @@ ent-FoodPacketSusTrash = sus jerky
     .desc = { ent-FoodPacketTrash.desc }
 
 ent-FoodPacketSyndiTrash = syndi-cakes box
+    .desc = { ent-FoodPacketTrash.desc }
+
+ent-FoodPacketCupRamenTrash = empty cup ramen
     .desc = { ent-FoodPacketTrash.desc }
 
 ent-FoodPacketChowMeinTrash = empty chow mein box

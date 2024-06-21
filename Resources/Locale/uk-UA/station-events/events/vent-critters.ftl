@@ -1,1 +1,1 @@
-﻿station-event-vent-spiders-start-announcement = Based on { $data }, we believe a small colony of unknown organisms have taken residence inside the station's ventilation and have taken action to drive them out.
+station-event-vent-creatures-start-announcement = Увага! У вентиляційних системах станції було виявлено велике скупчення невідомих форм життя. Радимо вам позбутися їх, до того як вони вплинуть на працездатність станції.

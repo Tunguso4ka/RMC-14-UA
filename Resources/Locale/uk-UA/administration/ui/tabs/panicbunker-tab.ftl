@@ -1,4 +1,4 @@
-﻿admin-ui-panic-bunker-window-title = Панік бункер
+admin-ui-panic-bunker-window-title = Панік бункер
 
 admin-ui-panic-bunker-enabled = Увимкнено
 admin-ui-panic-bunker-disabled = Вимкнено
@@ -16,7 +16,7 @@ admin-ui-panic-bunker-show-reason = Показувати причину
 admin-ui-panic-bunker-show-reason-tooltip = Показує гравцю причину чому їм був заборонен вхід.
 
 admin-ui-panic-bunker-min-account-age = Мін. вік акаунта
-admin-ui-panic-bunker-min-overall-hours = Мін. награні часи
+admin-ui-panic-bunker-min-overall-minutes = Мін. награнний час
 
 admin-ui-panic-bunker-is-enabled = НАРАЗІ УВИМКНЕНО.
 

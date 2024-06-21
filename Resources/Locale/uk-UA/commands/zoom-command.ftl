@@ -1,3 +1,3 @@
-zoom-command-description = Sets the zoom of the main eye.
-zoom-command-help = zoom ( <scale> | <X-scale> <Y-scale> )
-zoom-command-error = scale has to be greater than 0
+cmd-zoom-desc = Змінює приближення очей.
+cmd-zoom-help = zoom ( <шкала> | <X-шкала> <Y-шкала> )
+cmd-zoom-error = шкала повинна бути більше 0

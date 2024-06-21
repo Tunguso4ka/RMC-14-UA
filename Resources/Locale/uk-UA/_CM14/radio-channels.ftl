@@ -1,4 +1,4 @@
-chat-radio-marine-highcommand = Вище командування МорПіхів США
+chat-radio-marine-highcommand = Вище командування КМП ООН
 
 chat-radio-marine-common = Загальний
 chat-radio-marine-command = Командування
@@ -18,6 +18,6 @@ chat-radio-marine-echo = Ехо
 chat-radio-marine-foxtrot = Фокстрот
 
 chat-radio-colony = Колонія
-chat-radio-WY = Вейланд-Ютані
+chat-radio-WY = Ве-Я
 
 chat-radio-hivemind = Вулик

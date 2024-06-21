@@ -1,5 +1,5 @@
 ent-CMStampBase = штамп
-    .desc = A rubber stamp for stamping important documents.
+    .desc = Гумовий штамп для штампування важливих документів.
 
 ent-CMStampCO = штамп КО
     .desc = { ent-CMStampBase.desc }
@@ -25,10 +25,10 @@ ent-CMStampApproved = штамп СХВАЛЕНО
 ent-CMStampDenied = штамп ВІДМОВЛЕНО
     .desc = { ent-CMStampBase.desc }
 
-ent-CMStampWeyYu = штамп Вею-Ю
+ent-CMStampWeyYu = штамп Ве-Я
     .desc = { ent-CMStampBase.desc }
 
-ent-CMStampUSCM = штамп СШКМ
+ent-CMStampUSCM = штамп КМП ООН
     .desc = { ent-CMStampBase.desc }
 
 ent-CMStampCMB = штамп БКМ

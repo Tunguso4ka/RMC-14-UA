@@ -1,7 +1,7 @@
 stamp-component-stamped-name-cm-default = Проштамповано
 
-stamp-component-stamped-name-cm-weyyu = Вейланд-Ютані
-stamp-component-stamped-name-cm-uscm = СШКМ Вище Командування
+stamp-component-stamped-name-cm-we-ya = Ве-Я
+stamp-component-stamped-name-cm-marine = Вище Командування МорПіхоти
 stamp-component-stamped-name-cm-cmb = Бюро Колоніальних Маршалів
 
 stamp-component-stamped-name-cm-co = Командуючий Офіцер

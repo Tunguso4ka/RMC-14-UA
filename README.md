@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Колоніальні Морпіхи 14" width="400" height="400" src="https://github.com/CM-14/CM-14/assets/121047731/46f1dcad-1714-41b6-a9e9-7db7b440e466" /></p>
+<p align="center"> <img alt="Корпус МорПіхоти 14" width="400" height="400" src="https://github.com/CM-14/CM-14/assets/121047731/46f1dcad-1714-41b6-a9e9-7db7b440e466" /></p>
 
 КМ14 це ремейк КМ13, з Космічної Станції 13, що працює на рушію [Robust Toolbox](https://github.com/space-wizards/RobustToolbox).
 
