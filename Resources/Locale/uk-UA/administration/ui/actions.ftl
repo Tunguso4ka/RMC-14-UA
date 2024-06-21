@@ -8,5 +8,5 @@ admin-player-actions-spawn = Появитися тут
 admin-player-spawn-failed = Невдалося знайти підходящі координати
 
 admin-player-actions-clone = Клонувати
-admin-player-actions-teleport = Телепорт до
+admin-player-actions-follow = Слідувати
 admin-player-actions-confirm = Ви впевнені?

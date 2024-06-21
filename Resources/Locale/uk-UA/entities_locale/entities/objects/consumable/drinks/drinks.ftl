@@ -549,25 +549,19 @@ ent-XenoBasherGlass = { ent-DrinkGlass }
     .suffix = xeno basher
 
 ent-DrinkShakeBlue = blue milkshake
-    .desc = ''
+    .desc = { "" }
 
 ent-DrinkShakeEmpty = shakeempty
-    .desc = ''
+    .desc = { "" }
 
 ent-DrinkShakeMeat = meat shake
-    .desc = ''
+    .desc = { "" }
 
 ent-DrinkShakeRobo = robo shake
-    .desc = ''
+    .desc = { "" }
 
 ent-DrinkShakeWhite = white shake
-    .desc = ''
-
-ent-DrinkRamen = cup ramen
-    .desc = Just add 10ml boiling water. A taste that reminds you of your school years.
-
-ent-DrinkHellRamen = hell ramen
-    .desc = Just add 10ml boiling water. Super spicy flavor.
+    .desc = { "" }
 
 ent-DrinkBloodGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }

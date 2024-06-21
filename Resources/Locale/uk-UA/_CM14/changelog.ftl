@@ -1,1 +1,1 @@
-﻿changelog-tab-title-CM = Колоніальні Морпіхи
+﻿changelog-tab-title-CM = Корпус МорПіхоти

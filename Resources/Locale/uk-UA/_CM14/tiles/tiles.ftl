@@ -18,7 +18,7 @@ tiles-cm-cargo = тайл логістів
 tiles-cm-plating = плаский тайл
 tiles-cm-striped = тайл в полоску
 tiles-cm-test = тестовий тайл
-tiles-cm-wy = Вей-Ю тайл
+tiles-cm-wy = Ве-Я тайл
 
 tiles-cm-cult = тайл культу
 tiles-cm-engine = двигун

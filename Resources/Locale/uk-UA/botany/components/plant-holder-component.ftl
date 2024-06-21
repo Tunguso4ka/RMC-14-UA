@@ -1,5 +1,3 @@
-## Entity
-
 plant-holder-component-plant-success-message = Ви саджаєте {$seedNoun} {$seedName}.
 plant-holder-component-already-seeded-message = У {$name} вже щось посаджено!
 plant-holder-component-remove-weeds-message = Ви прополюєте {$name} від бур'янів.
@@ -16,8 +14,8 @@ plant-holder-component-already-sampled-message = This plant has already been sam
 plant-holder-component-dead-plant-message = Ця рослина мертва.
 plant-holder-component-take-sample-message = You take a sample from the {$seedName}.
 plant-holder-component-compost-message = Ви компостуєте {$usingItem} у {$owner}.
-plant-holder-component-compost-others-message = {$user} composts {$usingItem} into {$owner}.
-plant-holder-component-nothing-planted-message = It has nothing planted in it..
+plant-holder-component-compost-others-message = {$user} компостує {$usingItem} у {$owner}.
+plant-holder-component-nothing-planted-message = У ньому ще нічого не росте.
 plant-holder-component-something-already-growing-message = Тут росте [color=green]{$seedName}[/color].
 plant-holder-component-something-already-growing-low-health-message = Рослина виглядає [color=red]{$healthState}[/color].
 plant-holder-component-plant-old-adjective = стара та в'яне
@@ -32,4 +30,4 @@ plant-holder-component-light-improper-warning = Ламопчка [color=yellow]�
 plant-holder-component-heat-improper-warning = Лампочка [color=orange]неправильного рівня температури[/color] блимає.
 plant-holder-component-pressure-improper-warning = Лампочка [color=lightblue]неправильного рівня тиску[/color] блимає.
 plant-holder-component-gas-missing-warning = Лампочка [color=cyan]неправильної атмосфери[/color] блимає.
-plant-holder-component-early-sample = It is not ready to sample, but you cut a bit of the plant anyway.
+plant-holder-component-early-sample-message = Рослина ще недостатньо доросла даби взяти з неї саджанця.

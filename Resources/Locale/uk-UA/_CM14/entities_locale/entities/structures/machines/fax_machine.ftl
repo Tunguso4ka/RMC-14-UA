@@ -5,13 +5,13 @@ ent-CMFaxCMB = факс Колонільного Бюро Маршалів
     .desc = { ent-CMFax.desc }
     .suffix = КБМ
 
-ent-CMFaxWY = факс Вейланд-Ютані
+ent-CMFaxWY = факс Ве-Я
     .desc = { ent-CMFax.desc }
-    .suffix = В-Ю
+    .suffix = Ве-Я
 
-ent-CMFaxHighCom = факс вищого командування СШКМ
+ent-CMFaxHighCom = факс вищого командування КМП ООН
     .desc = { ent-CMFax.desc }
-    .suffix = ВК СШКМ
+    .suffix = ВК КМП ООН
 
 ent-CMFaxProvost = { ent-CMFax }
     .desc = { ent-CMFax.desc }

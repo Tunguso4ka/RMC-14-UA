@@ -1,5 +1,5 @@
-ghost-role-component-default-rules = All normal rules apply unless an administrator tells you otherwise.
-                                     You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
+ghost-role-component-default-rules = Усі звичайні правила діють, якщо адміністрація не сказала інше.
+                                     Ви нічого не пам'ятаєте зі свого минулого життя і непам'ятаєте нічого того, чого ви дізналися поки були привидом.
                                      You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                      You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
 
@@ -12,7 +12,7 @@ ghost-role-information-mothroach-description = A cute but mischievous mothroach.
 ghost-role-information-giant-spider-name = Великий павук
 ghost-role-information-giant-spider-description = This station's inhabitants look mighty tasty, and your sticky web is perfect to catch them!
 
-ghost-role-information-cognizine-description = Made conscious with the magic of cognizine.
+ghost-role-information-cognizine-description = Зроблений розумним завдяки магії когнізину.
 
 ghost-role-information-hamster-name = Хом'як
 ghost-role-information-hamster-description = A grumpy little ball of fluff.
@@ -38,6 +38,7 @@ ghost-role-information-xeno-rules = You are an antagonist, smack, slash, and wac
 
 ghost-role-information-revenant-name = Ревенант
 ghost-role-information-revenant-description = You are a Revenant. Use your powers to harvest souls and unleash chaos upon the crew. Unlock new abilities with the essence you harvest.
+
 ghost-role-information-revenant-rules = You are an antagonist, harvest, defile, and drive the crew insane.
 
 ghost-role-information-kangaroo-name = Kangaroo
@@ -51,13 +52,15 @@ ghost-role-information-kobold-description = Be the little gremlin you are, yell 
 
 ghost-role-information-rat-king-name = Щурячий Король
 ghost-role-information-rat-king-description = You are the Rat King, scavenge food in order to produce rat minions to do your bidding.
+
 ghost-role-information-rat-king-rules = You are an antagonist, scavenge, attack, and grow your hoard!
 
 ghost-role-information-rat-servant-name = Щурячий слуга
 ghost-role-information-rat-servant-description = You are a Rat Servant. You must follow your king's orders.
+
 ghost-role-information-rat-servant-rules = You are an antagonist, scavenge, attack, and serve your king!
 
-ghost-role-information-salvage-carp-name = Космічний карп на уламку
+ghost-role-information-salvage-carp-name = Space carp on salvage wreck
 ghost-role-information-salvage-carp-description = Defend the loot inside the salvage wreck!
 
 ghost-role-information-sentient-carp-name = Розумний карп
@@ -248,6 +251,6 @@ ghost-role-information-syndicate-kobold-reinforcement-description = Someone need
 ghost-role-information-syndicate-kobold-reinforcement-rules = Normal syndicate antagonist rules apply. Work with whoever called you in, and don't harm them.
 
 ghost-role-information-artifact-name = Sentient Artifact
-ghost-role-information-artifact-description =
+ghost-role-information-artifact-description = 
       Enact your eldritch whims.
       Forcibly activate your nodes for good or for evil.
