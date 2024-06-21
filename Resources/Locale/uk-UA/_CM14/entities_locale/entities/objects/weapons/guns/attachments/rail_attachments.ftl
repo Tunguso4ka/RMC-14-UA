@@ -1,6 +1,9 @@
 ent-CMRailAttachmentBase = { ent-CMAttachmentBase }
     .desc = { ent-CMAttachmentBase.desc }
 
+ent-CMAttachmentRailFlashlight = rail flashlight
+    .desc = A flashlight, for rails, on guns. Can be toggled on and off. A better light source than standard M3 pattern armor lights.
+
 ent-CMAttachmentS42xTelescopicMiniScope = телескопічний міні-приціл S4 2x
     .desc = Телескопічний приціл S4 від АРМАТ. Зафіксований на скромному 2-кратному збільшенні.
 
