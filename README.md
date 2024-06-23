@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<p align="center"> <img alt="Корпус МорПіхоти Руні 14" width="400" height="400" src="https://github.com/RMC-14/RMC-14/assets/121047731/46f1dcad-1714-41b6-a9e9-7db7b440e466" /></p>
+<p align="center"> <img alt="Корпус МорПіхоти Руні 14" width="400" height="400" src="https://github.com/RMC-14/RMC-14/assets/121047731/84edde1b-1a1f-452e-a9b9-64759a865f64" /></p>
 
 Корпус МорПіхоти Руні 14 надихається КМ13, з Космічної Станції 13, та працює на рушію [Robust Toolbox](https://github.com/space-wizards/RobustToolbox).
 
