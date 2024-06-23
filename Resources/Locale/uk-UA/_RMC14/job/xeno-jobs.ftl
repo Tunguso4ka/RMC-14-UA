@@ -1,4 +1,4 @@
-﻿cm-job-name-xeno-boiler = Кип'ятильник
+cm-job-name-xeno-boiler = Кип'ятильник
 CMJobXenoBoiler = Кип'ятильник
 
 cm-job-name-xeno-burrower = Нюхач
@@ -19,8 +19,8 @@ CMJobXenoDrone = Дрон
 cm-job-name-xeno-hivelord = Володар вулика
 CMJobXenoHivelord = Володар вулика
 
-cm-job-name-xeno-hugger = Лицехват
-CMJobXenoHugger = Лицехват
+cm-job-name-xeno-parasite = Паразит
+CMJobXenoParasite = Паразит
 
 cm-job-name-xeno-larva = Личинка
 CMJobXenoLarva = Личинка
@@ -52,12 +52,11 @@ CMJobXenoSpitter = Плювака
 cm-job-name-xeno-warrior = Воїн
 CMJobXenoWarrior = Воїн
 
-# TODO CM14
 department-CMXeno = Ксеноморфи
 cm-department-Xeno-description = ""
 
-cm-job-name-selectable-xenomorph = Ксеноморф
-CMXenoSelectableXenomorph = Ксеноморф
+cm-job-name-selectable-xenonid = Ксеноніди
+CMXenoSelectableXeno = Ксенонід
 
 cm-job-supervisors-queen = Королева
 

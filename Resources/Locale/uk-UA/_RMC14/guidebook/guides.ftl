@@ -1,4 +1,4 @@
-cm-guide-entry-cm14 = Корпус МорПіхоти 14
+cm-guide-entry-rmc = КМП 14
 
 cm-guide-entry-rules = Правила
 cm-guide-entry-rules-ban-types = Типи банів

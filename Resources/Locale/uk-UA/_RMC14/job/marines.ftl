@@ -1,4 +1,3 @@
-# marines
 cm-job-name-rifleman = Рядовий
 cm-job-description-rifleman = Слухайте наказів від офіцерів. Стріляйте коли треба стріляти, виконуйте свою роботу, та будь ласка, постарайтеся не померти.
 CMJobRifleman = Рядовий
@@ -15,9 +14,9 @@ cm-job-name-weapons-specialist = Спеціаліст по Озброєнню
 cm-job-description-weapons-specialist = Тримайте у своїх руках найтяжчу та найсильнішу зброю що бачив світ.
 CMJobWeaponsSpecialist = Спеціаліст по Озброєнню
 
-cm-job-name-smartgunner = Смарт Ґанер
-cm-job-description-smartgunner = Підтримуйте дії свого загону вогнем на пригнічення.
-CMJobSmartgunner = Смарт Ґанер
+cm-job-name-smart-gun-operator = Оператор Розумного Озброєння
+cm-job-description-smart-gun-operator = Підтримувайте ваш загін своїм тяжким озброєнням та не дайте ворогам і зітхнути без кулеметної чергі в їх сторону.
+CMJobSmartGunOperator = Оператор Розумного Озброєння
 
 cm-job-name-hospital-corpsman = Бойовий медик
 cm-job-description-hospital-corpsman = Підтримуйте боєздатність морпіхів, або їх життя. Евакуюйте поранених.
