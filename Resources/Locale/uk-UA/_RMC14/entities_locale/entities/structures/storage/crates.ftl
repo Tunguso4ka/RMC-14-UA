@@ -80,6 +80,5 @@ ent-CMCrateSecureSurgery = ящик з хірургічними інструме
 ent-CMCrateSecureWeapons = захищений ящик зброї
     .desc = Захищений ящик зброї щоб робити ксеноморфам "куля голова боляче робити".
 
-ent-CMCrateSecureWeyland = захищений Ве-Я ящик
-    .desc = Захищений ящик з лого Ве-Я.
-
+ent-CMCrateSecureWeYa = захищений ящик Ве-Я
+    .desc = Захищений замком ящик з лого Ве-Я.

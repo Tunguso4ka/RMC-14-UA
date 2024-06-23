@@ -44,8 +44,8 @@ ent-CMPamphletLanguageSpanish = America Latina - A Quick Translation Guide for S
 ent-CMPamphletLanguageYautja = stained parchment
     .desc = A yellowed old piece of parchment covered in strange runes from an alien writing system. The letters seem to shift back and forth into place before your eyes.
 
-ent-CMPamphletLanguageXenomorph = Xenobiologist's file
-    .desc = A xenobiologist's document recording and detailing observations on captive Xenomorph communication via vocalisations and pheromones, as well as notes on attempting to reproduce them by human beings.
+ent-CMPamphletLanguageXenonid = Xenobiologist's file
+    .desc = A xenobiologist's document recording and detailing observations on captive Xenonid communication via vocalisations and pheromones, as well as notes on attempting to reproduce them by human beings.
 
 ent-CMPamphletLanguageMonkey = scribbled drawings
     .desc = A piece of paper covered in crude depictions of bananas and various types of primates. Probably drawn by a three-year-old child - or an unusually intelligent marine.

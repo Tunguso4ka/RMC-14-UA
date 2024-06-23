@@ -1,12 +1,12 @@
-ent-MarineCMOIDCard = ID картка головного лікаря
-    .desc = { ent-CMIDCardSilver.desc }
+ent-CMIDCardCMO = ID картка головного лікаря
+    .desc = { ent-CMIDCardCMIDCardSilver.desc }
 
-ent-MarineDoctorIDCard = ID картка лікаря
-    .desc = { ent-CMIDCardBase.desc }
+ent-CMIDCardDoctor = ID картка лікаря
+    .desc = { ent-CMIDCardCMIDCardBase.desc }
 
-ent-NurseIDCard = ID картка медбрата
-    .desc = { ent-CMIDCardBase.desc }
+ent-CMIDCardNurse = ID картка медбрата
+    .desc = { ent-CMIDCardCMIDCardBase.desc }
 
-ent-ResearcherIDCard = ID картка дослідника
-    .desc = { ent-CMIDCardBase.desc }
+ent-CMIDCardResearcher = ID картка дослідника
+    .desc = { ent-CMIDCardCMIDCardBase.desc }
 

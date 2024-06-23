@@ -25,11 +25,10 @@ ent-CMFaxCLF = { ent-CMFax }
     .desc = { ent-CMFax.desc }
     .suffix = CLF
 
-ent-CMFaxUPP = { ent-CMFax }
+ent-CMFaxSPP = { ent-CMFax }
     .desc = { ent-CMFax.desc }
-    .suffix = UPP
+    .suffix = SPP
 
-ent-CMFaxTWE = { ent-CMFax }
+ent-CMFaxTSE = { ent-CMFax }
     .desc = { ent-CMFax.desc }
-    .suffix = TWE
-
+    .suffix = TSE

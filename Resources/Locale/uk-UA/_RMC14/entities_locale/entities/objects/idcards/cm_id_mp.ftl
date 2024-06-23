@@ -1,9 +1,9 @@
-ent-ChiefMPIDCard = ID картка голови воєнполу
-    .desc = { ent-CMIDCardSilver.desc }
+ent-CMIDCardChiefMP = ID картка голови воєнполу
+    .desc = { ent-CMIDCardCMIDCardSilver.desc }
 
-ent-MilitaryWardenIDCard = ID картка наглядача
-    .desc = { ent-CMIDCardBase.desc }
+ent-CMIDCardMilitaryWarden = ID картка наглядача
+    .desc = { ent-CMIDCardCMIDCardBase.desc }
 
-ent-MilitaryPoliceIDCard = ID картка воєнпола
-    .desc = { ent-CMIDCardBase.desc }
+ent-CMIDCardMilitaryPolice = ID картка воєнпола
+    .desc = { ent-CMIDCardCMIDCardBase.desc }
 

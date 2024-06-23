@@ -1,21 +1,20 @@
-ent-CMUSCMPreparedMealBase = { ent-CMFoodBase }
+ent-CMMarinePreparedMealBase = { ent-CMFoodBase }
     .desc = { ent-CMFoodBase.desc }
 
-ent-CMUSCMPreparedMealCornbread = готова їжа КМП ООН (кукурудзяний хліб)
+ent-CMMarinePreparedMealCornbread = готова їжа КМП ООН (кукурудзяний хліб)
     .desc = Піднос готової їжі КМП ООН. Черствий хліб з кукурудзи, томатна паста та трошечки зеленої слизі наповнюють цій підніс.
 
-ent-CMUSCMPreparedMealChicken = готова їжа КМП ООН (курка)
+ent-CMMarinePreparedMealChicken = готова їжа КМП ООН (курка)
     .desc = Піднос готової їжі КМП ООН. Вологе куряче м'ясо, сирий ріс та трошечки депресивне броколі наповнюють цій підпіс.
 
-ent-CMUSCMPreparedMealPasta = готова їжа КМП ООН (паста)
+ent-CMMarinePreparedMealPasta = готова їжа КМП ООН (паста)
     .desc = Піднос готової їжі КМП ООН. Пересмажене спагеті, перезволожені морковки та дві картошки-фрі наповнюють цій підніс.
 
-ent-CMUSCMPreparedMealPizza = готова їжа КМП ООН (піца)
+ent-CMMarinePreparedMealPizza = готова їжа КМП ООН (піца)
     .desc = Піднос готової їжі КМП ООН. Холодна піца, вологі зелені боби та лайняне яйце наповнюють цій підніс. Візьми собі щось окрім піци, жирдяй.
 
-ent-CMUSCMPreparedMealPork = готова їжа КМП ООН (свинина)
+ent-CMMarinePreparedMealPork = готова їжа КМП ООН (свинина)
     .desc = Піднос готової їжі КМП ООН. Практично сира свинина, липка кукурудза та трошечки вологого картопляного пюре наповнюють цій підніс.
 
-ent-CMUSCMPreparedMealTofu = готова їжа КМП ООН (тофу)
+ent-CMMarinePreparedMealTofu = готова їжа КМП ООН (тофу)
     .desc = У КМП ООН не подають тофу, травожерний ти хіппі. Цій прапор означає твою поразку!
-

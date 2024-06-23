@@ -1,3 +1,3 @@
-ent-CMDrinkWYWaterBottle30 = джерельна бутильована вода Ве-Я
-    .desc = Вода з "джерела" із занадто завищеною ціною. Бутильована корпорацією Ве-Я.
+ent-CMDrinkWEYAWaterBottle30 = We-Ya bottled spring water
+    .desc = Overpriced 'Spring' water. Bottled by the We-Ya Corporation.
 
