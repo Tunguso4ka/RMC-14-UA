@@ -33,3 +33,25 @@ ent-ActionXenoParalyzingSlash = Paralyzing Slash (50)
 
 ent-ActionXenoBoneChips = Bone Chips
     .desc = Launch a projectile that will damage and slow down the first enemy it hits.
+
+ent-ActionXenoPunch = Punch
+    .desc = Punches the targeted marine dealing a hefty amount of damage as well as slowing the target for seconds.
+
+ent-ActionXenoFling = Fling
+    .desc = Flings the targeted marine a few tiles and damages them.
+
+ent-ActionXenoLunge = Lunge
+    .desc = Lunges the warrior towards the targeted marine and puts them into a choke hold (like grabbing them).
+
+ent-ActionXenoScreech = Screech (250)
+    .desc = A wide area of effect stun, screeches upon activation.
+
+ent-ActionXenoGut = Gut (200)
+    .desc = Gibs the mob you decide to gut.
+
+ent-ActionXenoStomp = Stomp (30)
+    .desc = Slam the ground with a 5x5 AOE slow down that affects all hostiles in range.
+
+ent-ActionXenoCharge = Charge (20)
+    .desc = Click on a tile you want to charge at, after a brief non cancel-able windup time.
+

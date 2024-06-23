@@ -25,12 +25,11 @@ ent-CMStampApproved = штамп СХВАЛЕНО
 ent-CMStampDenied = штамп ВІДМОВЛЕНО
     .desc = { ent-CMStampBase.desc }
 
-ent-CMStampWeyYu = штамп Ве-Я
+ent-CMStampWeYa = штамп Ве-Я
     .desc = { ent-CMStampBase.desc }
 
-ent-CMStampUSCM = штамп КМП ООН
+ent-CMStampMarine = штамп МорПіхів
     .desc = { ent-CMStampBase.desc }
 
 ent-CMStampCMB = штамп БКМ
     .desc = { ent-CMStampBase.desc }
-

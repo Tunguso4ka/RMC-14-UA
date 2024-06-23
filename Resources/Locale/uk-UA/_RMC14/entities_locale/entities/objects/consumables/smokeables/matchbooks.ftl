@@ -10,6 +10,5 @@ ent-CMExecutiveSelectMatchbook = коробка сірників вибір ди
 ent-CMKoorlanderMatchbook = коробка сірників Курландер
     .desc = Маленька коробка дешевих паперових сірників. Удачі підпалити їх.
 
-ent-CMExecutiveWYMatchbook = коробка сірників Ве-Я золоті
-    .desc = Маленька коробка дорогих паперових сірників. Ці підпалюються майже шо кожного разу, ну як каже коробка.
-
+ent-CMExecutiveWEYAMatchbook = We-Ya gold matchbook
+    .desc = A small book of expensive paper matches. These ones light almost every time, or so the packaging claims.

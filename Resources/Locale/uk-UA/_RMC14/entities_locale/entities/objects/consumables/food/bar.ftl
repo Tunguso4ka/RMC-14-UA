@@ -1,5 +1,5 @@
 ent-CMBarFoodBase = { ent-CMFoodBase }
     .desc = { ent-CMFoodBase.desc }
 
-ent-CMUSCMProteinBar = протеїновий батончик КМП ООН
-    .desc = Найбільш неправдоподібно виглядаючий протеїновий батончик який ти бачив, покритий замінником шоколаду. Порошок який використовувався щоб приготувати його - замінник замінника замміника.
+ent-CMMarineProteinBar = stale Marine protein bar
+    .desc = The most fake-looking protein bar you have ever laid eyes on, covered in a substitution chocolate. The powder used to make these is a substitute of a substitute of whey substitute.

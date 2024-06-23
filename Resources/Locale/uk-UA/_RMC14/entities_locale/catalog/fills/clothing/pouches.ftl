@@ -14,9 +14,9 @@ ent-CMPouchFirstAidInjectors = { ent-CMPouchFirstAid }
     .desc = Містить знеболювальний автоінжектор, автоінжектор першої допомоги, трохи мазей та трохи бінтів.
     .suffix = Інжектори
 
-ent-CMPouchFirstAidFill = { ent-CMPouchFirstAidInjectors }
-    .desc = { ent-CMPouchFirstAidInjectors.desc }
-    .suffix = Заповнений
+ent-CMPouchFirstAidSplintsGauzeOintment = { ent-CMPouchFirstAid }
+    .desc = { ent-CMPouchFirstAid.desc }
+    .suffix = Splints, Gauze, Ointment
 
 ent-CMPouchFirstAidPills = { ent-CMPouchFirstAidInjectors }
     .desc = { ent-CMPouchFirstAidInjectors.desc }
@@ -54,21 +54,21 @@ ent-CMPouchChemFill = { ent-CMPouchChem }
     .desc = { ent-CMPouchChem.desc }
     .suffix = Заповнений
 
-ent-CMPouchAutoinjectorlFill = { ent-CMPouchAutoinjector }
+ent-CMPouchAutoinjectorFill = { ent-CMPouchAutoinjector }
     .desc = { ent-CMPouchAutoinjector.desc }
-    .suffix = Заповнений
+    .suffix = Filled
 
-ent-CMPouchSyrinheFill = { ent-CMPouchSyringe }
+ent-CMPouchSyringeFill = { ent-CMPouchSyringe }
     .desc = { ent-CMPouchSyringe.desc }
-    .suffix = Заповнений
+    .suffix = Filled
 
 ent-CMPouchMedkitFill = { ent-CMPouchMedkit }
     .desc = { ent-CMPouchMedkit.desc }
     .suffix = Заповнений
 
-ent-CMPouchFlareFill = { ent-CMPouchFlare }
+ent-CMPouchFlareFilled = { ent-CMPouchFlare }
     .desc = { ent-CMPouchFlare.desc }
-    .suffix = Заповнений
+    .suffix = Filled
 
 ent-CMPouchToolsFill = { ent-CMPouchTools }
     .desc = { ent-CMPouchTools.desc }
@@ -78,7 +78,7 @@ ent-CMPouchToolsSocFill = { ent-CMPouchToolsSoc }
     .desc = { ent-CMPouchToolsSoc.desc }
     .suffix = Заповнений
 
-ent-CMPouchMacheteFill = { ent-CMPouchMachete }
+ent-CMPouchMacheteFilled = { ent-CMPouchMachete }
     .desc = { ent-CMPouchMachete.desc }
-    .suffix = Заповнений
+    .suffix = Filled
 

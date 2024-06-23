@@ -4,5 +4,5 @@ ent-CMFortuneCookie = печивко з передбаченням
 ent-CMFortuneCookieCracked = поламане печивко з передбаченням
     .desc = { ent-CMFortuneCookie.desc }
 
-ent-CMFortunes = передбачення
-
+ent-CMFortuneCookiePaper = передбаченка
+    .desc = { ent-FoodCookieFortune.desc }

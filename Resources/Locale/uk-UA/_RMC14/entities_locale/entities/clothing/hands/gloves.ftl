@@ -1,5 +1,5 @@
-ent-CMHandsBlack = чорні рукавички
-    .desc = Пара чорних рукавичок.
+ent-CMHandsBlackMarine = marine combat gloves
+    .desc = Standard issue marine tactical gloves. It reads: 'knit by Marine Widows Association'.
 
 ent-CMHandsBrown = бурі рукавички
     .desc = Пара бурих рукавичок.

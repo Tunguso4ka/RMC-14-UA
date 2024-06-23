@@ -1,9 +1,8 @@
-ent-CMMagazineM39 = магазин M39 (10x20mm)
+ent-CMMagazineSMGM39 = M39 магазин (10x20mm)
     .desc = { ent-BaseMagazineRifle.desc }
 
-ent-CMMagazineM39AP = бронебійний магазин M39 (10x20mm)
-    .desc = { ent-CMMagazineM39.desc }
+ent-CMMagazineSMGM39AP = M39 AP магазин (10x20mm)
+    .desc = { ent-CMMagazineSMGM39.desc }
 
-ent-CMMagazineExtendedM39 = збільшений магазин M39 (10x20mm)
-    .desc = { ent-CMMagazineM39.desc }
-
+ent-CMMagazineSMGM39Ext = M39 extended магазин (10x20mm)
+    .desc = { ent-CMMagazineSMGM39.desc }

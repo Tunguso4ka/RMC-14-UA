@@ -1,4 +1,5 @@
 ent-CMCanteenBase = фляга
+    .desc = { ent-DrinkBase.desc }
 
 ent-CMCanteen = { ent-CMCanteenBase }
     .desc = Ви робите ковток зі своєї вірної фляжки КМП ООН...
@@ -6,9 +7,8 @@ ent-CMCanteen = { ent-CMCanteenBase }
 ent-CMMetalFlask = металева фляжка
     .desc = Металева фляжка з достойною ємністю.
 
-ent-CMUSCMFlask = фляжка КМП ООН
-    .desc = Металева фляжка з рельєфним логотипом КМП ООН. Можливо наповнена сумішшю води, мастила та етила.
+ent-CMMarineFlask = Marine flask
+    .desc = A metal flask embossed with the Marine logo and probably filled with a slurry of water, motor oil, and medicinal alcohol.
 
-ent-CMWYFlask = фляжка Ве-Я
-    .desc = Металева фляжка з рельєфним логотипом Ве-Я замовлена якимось підніжком корпорації для наповнення вендорів на військових суднах США.
-
+ent-CMWEYAFlask = We-Ya flask
+    .desc = A metal flask embossed with We-Ya's signature logo that some corporate bootlicker probably ordered to be stocked in USS military vessels' canteen vendors.

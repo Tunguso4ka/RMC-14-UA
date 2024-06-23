@@ -1,7 +1,7 @@
-ent-CMCrateM41A = ящик M41A MK1 (x2 MK1, x2 магазинів)
+ent-CMCrateM54C = ящик M54C MK1 Rifle (x2 MK2, x2 magazines)
     .desc = { ent-CMCrateWeapons.desc }
 
-ent-CMCrateM41AE2 = ящик M41AE2 HPR (HPR x2, HPR коробки набоїв x2)
+ent-CMCrateM54CE2 = ящик M54CE2 HPR (HPR x2, HPR ammo box x2)
     .desc = { ent-CMCrateWeapons.desc }
 
 ent-CMCrateVP78 = ящик VP-78 (x2)

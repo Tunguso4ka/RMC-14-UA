@@ -7,10 +7,9 @@ ent-CMMREComponentBase = компонент сухпая
 ent-CMMREFoodBase = { ent-CMMRE }
     .desc = Зміст стандартного сухпайка КМП ООН.
 
-ent-CMMREBoxBase = коробка сухпая
-    .desc = Коробка сухпая. Ситні, але не смачні.
+ent-CMBoxMREBase = box of MREs
+    .desc = A box of MREs. Nutritious, but not delicious.
 
-ent-CMMREBox = { ent-CMMREBoxBase }
-    .desc = { ent-CMMREBoxBase.desc }
+ent-CMBoxMRE = { ent-CMBoxMREBase }
+    .desc = { ent-CMBoxMREBase.desc }
     .suffix = Filled
-

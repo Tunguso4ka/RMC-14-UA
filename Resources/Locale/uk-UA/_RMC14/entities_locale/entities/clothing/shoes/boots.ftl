@@ -1,8 +1,8 @@
-ent-CMShoesDress = туфлі
-    .desc = Настільки добре відполіровані туфлі що ти бачиш в них своє відображення.
+ent-CMShoesLaceup = laceup shoes
+    .desc = The height of fashion, and they're pre-polished!
 
-ent-CMShoesDressCommander = туфлі командуючого офіцера
-    .desc = Має спеціальну підошву для більш комфортного носіння.
+ent-CMShoesLaceupCommander = commanding officer dress shoes
+    .desc = Has special soles for better trampling those underneath.
 
 ent-CMBootsBlack = чорні чоботи
     .desc = Стандартні бойові чоботи що використовуються КМП ООН під час бойових дій. Завжди готові до бою.

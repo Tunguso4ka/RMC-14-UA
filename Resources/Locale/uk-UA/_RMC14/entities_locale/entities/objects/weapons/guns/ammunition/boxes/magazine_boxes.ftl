@@ -7,13 +7,13 @@ ent-CMBoxMagazineAPBase = надзвичайно звичайна коробка
 ent-CMBoxMagazineHVBase = надзвичайно звичайна коробка магазинів (? x ?)"
     .desc = A box of magazines.
 
-ent-CMBoxMagazineRifleM41A = коробка магазинів (M41A x 10)
+ent-CMBoxMagazineRifleM54C = коробка магазинів (M54C x 10)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazineRifleM41AAP = коробка магазинів (AP M41A x 10)
+ent-CMBoxMagazineRifleM54CAP = коробка магазинів (AP M54C x 10)
     .desc = { ent-CMBoxMagazineAPBase.desc }
 
-ent-CMBoxMagazineRifleM41AExt = коробка магазинів (Ext M41A x 8)
+ent-CMBoxMagazineRifleM54CExt = коробка магазинів (Ext M54C x 8)
     .desc = { ent-CMBoxMagazineBase.desc }
 
 ent-CMBoxMagazineSMGM39 = коробка магазинів (M39 x 12)

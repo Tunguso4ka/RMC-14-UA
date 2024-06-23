@@ -7,7 +7,7 @@ ent-CMEncryptionKeyCommon = ключ шифрування загального �
 ent-CMEncryptionKeyColony = ключ шифрування каналу колоністів
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyWY = weyland-yutani encryption Key
+ent-CMEncryptionKeyWEYA = ключ шифрування Ве-Я
     .desc = { ent-CMEncryptionKey.desc }
 
 ent-CMEncryptionKeyCommand = ключ шифрування каналу командування

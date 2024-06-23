@@ -1,24 +1,23 @@
-ent-CMPartRodMetal = металеви стрижні
-    .desc = Трохи стрижней. Можуть бути використані для будивництва, чи для чогось ще.
-    .suffix = Повний
+ent-CMRodMetal = металеви прути
+    .desc = Some rods. Can be used for building, or something.
+    .suffix = Full
 
-ent-CMPartRodMetal10 = { ent-CMPartRodMetal }
-    .desc = { ent-CMPartRodMetal.desc }
+ent-CMRodMetal10 = { ent-CMRodMetal }
+    .desc = { ent-CMRodMetal.desc }
     .suffix = 10
 
-ent-CMPartRodMetal1 = { ent-CMPartRodMetal }
-    .desc = { ent-CMPartRodMetal.desc }
-    .suffix = 1
+ent-CMRodMetal1 = { ent-CMRodMetal }
+    .desc = { ent-CMRodMetal.desc }
+    .suffix = Single
 
-ent-CMPartRodPlasteel = пласталеві стрижні
-    .desc = Трохи пласталевих стрижней. Можуть бути використані для будивництва більш кріпких структур.
-    .suffix = Повний
+ent-CMRodPlasteel = пласталеві прути
+    .desc = Some plasteel rods. Can be used for building sturdier structures and objects.
+    .suffix = Full
 
-ent-CMPartRodPlasteel10 = { ent-CMPartRodPlasteel }
-    .desc = { ent-CMPartRodPlasteel.desc }
+ent-CMRodPlasteel10 = { ent-CMRodPlasteel }
+    .desc = { ent-CMRodPlasteel.desc }
     .suffix = 10
 
-ent-CMPartRodPlasteel1 = { ent-CMPartRodPlasteel }
-    .desc = { ent-CMPartRodPlasteel.desc }
-    .suffix = 1
-
+ent-CMRodPlasteel1 = { ent-CMRodPlasteel }
+    .desc = { ent-CMRodPlasteel.desc }
+    .suffix = Single
