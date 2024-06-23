@@ -1,18 +1,18 @@
-<p align="center"> <img alt="Корпус МорПіхоти 14" width="400" height="400" src="https://github.com/CM-14/CM-14/assets/121047731/46f1dcad-1714-41b6-a9e9-7db7b440e466" /></p>
+<p align="center"> <img alt="Корпус МорПіхоти Руні 14" width="400" height="400" src="https://github.com/RMC-14/RMC-14/assets/121047731/84edde1b-1a1f-452e-a9b9-64759a865f64" /></p>
 
-КМ14 це ремейк КМ13, з Космічної Станції 13, що працює на рушію [Robust Toolbox](https://github.com/space-wizards/RobustToolbox).
+Корпус МорПіхоти Руні 14 надихається КМ13, з Космічної Станції 13, та працює на рушію [Robust Toolbox](https://github.com/space-wizards/RobustToolbox).
 
-Цей форк містить в собі повний (або близький до цього) переклад [Колоніальних Морпіхів 14](https://github.com/CM-14/CM-14) українською мовою. Ви вправі використовувати переклад на власному сервері/серверах.
+Цей форк містить в собі повний (або близький до цього) переклад [Корпусу МорПіхоти Руні 14](https://github.com/RMC-14/RMC-14) українською мовою. Ви вправі використовувати переклад на власному сервері/серверах.
 
 ## Посилання
 
-[Сайт SS14 (Англійська)](https://spacestation14.io/) | [Discord CM14 (Англійська)](https://discord.gg/mjpJk2ueDY) | [Steam SS14](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Лаунчер SS14](https://spacestation14.io/about/nightlies/)
+[Сайт SS14 (Англійська)](https://spacestation14.io/) | [Discord RMC14 (Англійська)](https://discord.gg/mjpJk2ueDY) | [Steam SS14](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Лаунчер SS14](https://spacestation14.io/about/nightlies/)
 
 ## Сприяння розробці
 
 Ви завжди можете допомогти мені з перекладом цього проекту.
 
-Зауважу знов що ціль цього проекту - переклад, так що, якщо ви хочете допомогти саме в розробці гри — перейдить на [основний репозіторій](https://github.com/CM-14/CM-14).
+Зауважу знов що ціль цього проекту - переклад, так що, якщо ви хочете допомогти саме в розробці гри — перейдить на [основний репозіторій](https://github.com/RMC-14/RMC-14).
 
 ## Збірання проекту
 
