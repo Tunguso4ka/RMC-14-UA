@@ -31,3 +31,5 @@ ent-ActionXenoWordQueen = Слово королеви
 ent-ActionXenoGrowOvipositor = Grow Ovipositor
     .desc = { ent-ActionXenoBase.desc }
 
+ent-ActionXenoTurnInvisible = Стати невідимим (20)
+    .desc = Стати практично невідимим на короткий проміжок часу.

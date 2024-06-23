@@ -16,6 +16,9 @@ ent-ActionXenoTailStab = Tail Stab
 ent-ActionXenoLeap = Leap
     .desc = Jump towards a given location and knock down any enemies hit.
 
+ent-ActionXenoPounce = Pounce (20)
+    .desc = Jump towards a given location and knock down the first enemy hit if you are invisible.
+
 ent-ActionXenoHeadbutt = Headbutt (10)
     .desc = Charge in a direction and push back any enemies in your way.
 
@@ -28,8 +31,17 @@ ent-ActionXenoSlowingSpit = Slowing Spit (20)
 ent-ActionXenoScatteredSpit = Scattered Spit (20)
     .desc = Launches multiple projectiles that will slow any enemies they hit, and paralyze them if they have no armor.
 
+ent-ActionXenoSpit = Xeno Spit (25)
+    .desc = Launches a projectile that will deal damage to the first enemy that it hits.
+
+ent-ActionXenoChargeSpit = Charge Spit (50)
+    .desc = Charges up your next spit, making it deal more damage but have less range.
+
 ent-ActionXenoParalyzingSlash = Paralyzing Slash (50)
     .desc = Temporarily charge up a melee attack that will knockdown the first enemy it hits after a short delay.
+
+ent-ActionXenoCripplingStrike = Crippling Strike (20)
+    .desc = Temporarily charge up a melee attack that will slow the first enemy it hits.
 
 ent-ActionXenoBoneChips = Bone Chips
     .desc = Launch a projectile that will damage and slow down the first enemy it hits.
