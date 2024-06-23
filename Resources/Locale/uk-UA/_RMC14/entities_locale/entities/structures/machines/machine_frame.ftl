@@ -1,11 +1,11 @@
 ent-CMMachineFrameUnfinished = { ent-UnfinishedMachineFrame }
     .desc = { ent-UnfinishedMachineFrame.desc }
-    .suffix = КМП 14, Неготова
+    .suffix = КМП 14, Unfinished
 
-ent-CMMachineFrame = { ent-CMUnfinishedMachineFrame }
-    .desc = { ent-CMUnfinishedMachineFrame.desc }
-    .suffix = КМП 14, Готовий
+ent-CMMachineFrame = { ent-MachineFrame }
+    .desc = { ent-MachineFrame.desc }
+    .suffix = КМП 14, Ready
 
-ent-CMMachineFrameDestroyed = { ent-CMUnfinishedMachineFrame }
-    .desc = { ent-CMUnfinishedMachineFrame.desc }
+ent-CMMachineFrameDestroyed = { ent-MachineFrameDestroyed }
+    .desc = { ent-MachineFrameDestroyed.desc }
     .suffix = КМП 14
