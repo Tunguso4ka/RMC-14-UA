@@ -1,6 +1,12 @@
 ent-CMCrateAttachmentRedDot = red-dot sight attachment crate (x8)
     .desc = { ent-CMCrateWeldable.desc }
 
+ent-CMCrateAttachmentSmartScope = B8 smart-scope attachment crate (x4)
+    .desc = { ent-CMCrateWeldable.desc }
+
+ent-CMCrateAttachmentRailFlashlight = rail flashlight crate (x8)
+    .desc = { ent-CMCrateWeldable.desc }
+
 ent-CMCrateAttachmentTelescopicScope = railscope attachment crate (x2)
     .desc = { ent-CMCrateWeldable.desc }
 
