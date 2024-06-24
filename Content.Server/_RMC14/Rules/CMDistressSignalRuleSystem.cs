@@ -275,7 +275,7 @@ public sealed class CMDistressSignalRuleSystem : GameRuleSystem<CMDistressSignal
             var shipIndex = 0;
             while (dropshipPoints.MoveNext(out var destinationId, out _, out var metaData))
             {
-                if (!metaData.EntityName.Contains("almayer", StringComparison.OrdinalIgnoreCase))
+                if (!metaData.EntityName.Contains("Savannah", StringComparison.OrdinalIgnoreCase))
                     continue;
 
                 _mapLoader.TryLoad(dropshipMap, ships[shipIndex], out var shipGrids);
