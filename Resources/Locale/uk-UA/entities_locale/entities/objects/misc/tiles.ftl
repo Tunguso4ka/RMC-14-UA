@@ -25,9 +25,6 @@ ent-FloorTileItemDark = dark tile
 ent-FloorTileItemTechmaint = techmaint floor
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemReinforced = reinforced tile
-    .desc = { ent-FloorTileItemBase.desc }
-
 ent-FloorTileItemMono = mono tile
     .desc = { ent-FloorTileItemBase.desc }
 
@@ -203,4 +200,3 @@ ent-FloorTileItemAstroSnow = astro-snow
 
 ent-FloorTileItemWoodLarge = large wood floor
     .desc = { ent-FloorTileItemBase.desc }
-

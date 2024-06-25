@@ -76,8 +76,8 @@ ent-ZombieOutbreak = { ent-BaseGameRule }
 ent-LoneOpsSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-SleeperAgentsRule = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
+ent-SleeperAgents = { ent-BaseTraitorRule }
+    .desc = { ent-BaseTraitorRule.desc }
 
 ent-MassHallucinations = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }

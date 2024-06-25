@@ -1,34 +1,36 @@
-ent-DrinkBottleBaseEmpty = base empty bottle
-    .desc = An empty bottle.
+ent-DrinkBottleBaseEmpty = стандартна порожня бутилка
+    .desc = Порожня бутилка.
+    .suffix = Порожня
 
-ent-DrinkBottleBaseSmallEmpty = base empty bottle
+ent-DrinkBottleBaseSmallEmpty = стандартна порожня бутилка
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkCartonBaseEmpty = base empty carton
-    .desc = An empty carton.
+ent-DrinkCartonBaseEmpty = стандартна порожня упаковка
+    .desc = Порожня упаковка.
+    .suffix = Порожня
 
-ent-DrinkCartonBaseLargeEmpty = base empty bottle
+ent-DrinkCartonBaseLargeEmpty = стандартна порожня бутилка
     .desc = { ent-DrinkCartonBaseEmpty.desc }
 
 ent-DrinkBottleAbsinthe = Jailbreaker Verte bottle
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleAlcoClear = alcohol bottle
+ent-DrinkBottleAlcoClear = бутилка алкоголю
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleAle = ale bottle
+ent-DrinkBottleAle = бутилка елю
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleBeer = beer bottle
+ent-DrinkBottleBeer = бутилка пива
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleCognac = cognac bottle
+ent-DrinkBottleCognac = бутилка кон'яку
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
 ent-DrinkBottleGin = Griffeater gin bottle
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleGoldschlager = goldschlager bottle
+ent-DrinkBottleGildlager = gildlager bottle
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
 ent-DrinkBottleCoffeeLiqueur = coffee liqueur bottle
@@ -40,25 +42,25 @@ ent-DrinkBottleNTCahors = nt cahors bottle
 ent-DrinkBottlePatron = patron bottle
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottlePoisonWine = poison wine bottle
+ent-DrinkBottlePoisonWine = бутилка отруйного вина
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleRum = rum bottle
+ent-DrinkBottleRum = бутилка рому
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleTequila = tequila bottle
+ent-DrinkBottleTequila = бутилка текіли
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleVermouth = vermouth bottle
+ent-DrinkBottleVermouth = бутилка вермута
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleVodka = vodka bottle
+ent-DrinkBottleVodka = бутилка горілки
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleWhiskey = whiskey bottle
+ent-DrinkBottleWhiskey = бутилка віски
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleWine = wine bottle
+ent-DrinkBottleWine = бутилка вина
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
 ent-DrinkCartonLime = lime juice carton
@@ -81,4 +83,3 @@ ent-DrinkCartonSoyMilk = soy milk carton
 
 ent-DrinkCartonOatMilk = oat milk carton
     .desc = { ent-DrinkCartonBaseEmpty.desc }
-

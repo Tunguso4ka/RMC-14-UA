@@ -202,8 +202,8 @@ ent-CMSemioticStorage = storage семіотика
 ent-CMSemioticSuit_storage = pressure suit locker семіотика
     .desc = Стандарт семіотики, що вказує на присутність поблизу pressure suit storage locker.
 
-ent-CMSemioticSynth_storage = synthetic storage семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу synthetic unit storage room.
+ent-CMSemioticSilicon_storage = silicon storage semiotic
+    .desc = Semiotic Standard denoting the nearby presence of a silicon unit storage room.
 
 ent-CMSemioticTerminal = computer terminal семіотика
     .desc = Стандарт семіотики, що вказує на присутність поблизу computer terminal.

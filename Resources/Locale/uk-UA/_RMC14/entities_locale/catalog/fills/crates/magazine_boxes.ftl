@@ -7,30 +7,29 @@ ent-CMCrateBoxMagazineRifleM54CAP = коробка магазинів (M54C, 10x
 ent-CMCrateBoxMagazineRifleM54CExt = коробка магазинів (M54C, 8x збільшених магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineRifleM4RA = коробка магазинів (M4RA, 16x звичайних магазинів)
+ent-CMCrateBoxMagazineRifleM4DMR = коробка магазинів (M4DMR, 16x звичайних магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineRifleM4RAAP = коробка магазинів (M4RA, 16x ББ магазинів)
+ent-CMCrateBoxMagazineRifleM4DMRAP = коробка магазинів (M4DMR, 16x ББ магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineRifleM4RAExt = коробка магазинів (M4RA, 12x збільшених магазинів)
+ent-CMCrateBoxMagazineRifleM4DMRExt = коробка магазинів (M4DMR, 12x збільшених магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineSMGM39 = коробка магазинів (M39, 12x звичайних магазинів)
+ent-CMCrateBoxMagazineSMGM63 = коробка магазинів (M63, 12x звичайних магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineSMGM39AP = коробка магазинів (M39, 12x ББ магазинів)
+ent-CMCrateBoxMagazineSMGM63AP = коробка магазинів (M63, 12x ББ магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineSMGM39Ext = коробка магазинів (M39, 12x звичайних магазинів)
+ent-CMCrateBoxMagazineSMGM63Ext = коробка магазинів (M63, 12x звичайних магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazinePistolM4A3 = коробка магазинів (M4A3, 16x звичайних магазинів)
+ent-CMCrateBoxMagazinePistolM1984 = коробка магазинів (M1984, 16x звичайних магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazinePistol88m4AP = коробка магазинів (88 Mod 4 AP, 16x магазинів)
+ent-CMCrateBoxMagazinePistolM77AP = коробка магазинів (M77 AP, 16x магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazinePistolVP78 = коробка магазинів (VP78, 16x магазинів)
+ent-CMCrateBoxMagazinePistolMK80 = коробка магазинів (MK80, 16x магазинів)
     .desc = { ent-CMCrateAmmo.desc }
-

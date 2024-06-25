@@ -1,10 +1,12 @@
 ent-DrinkCartonBaseFull = { ent-DrinkBase }
     .desc = { ent-DrinkBase.desc }
+    .suffix = Full
 
 ent-DrinkCartonBaseLargeFull = { ent-DrinkCartonBaseFull }
     .desc = { ent-DrinkCartonBaseFull.desc }
 
 ent-DrinkCartonVisualsOpenable = ця сутність не має назви
+    .desc = { "" }
 
 ent-DrinkJuiceLimeCarton = lime juice
     .desc = Sweet-sour goodness.
@@ -30,3 +32,5 @@ ent-DrinkSoyMilkCarton = soy milk
 ent-DrinkOatMilkCarton = oat milk
     .desc = It's oat milk. Tan and nutritious goodness!
 
+ent-DrinkJuiceLemonCarton = lemon juice
+    .desc = First it's sour, then it's still sour.

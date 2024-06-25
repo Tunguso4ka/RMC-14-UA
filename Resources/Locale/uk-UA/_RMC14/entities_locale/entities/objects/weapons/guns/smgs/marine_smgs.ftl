@@ -1,6 +1,5 @@
 ent-CMBaseWeaponSMG = { ent-CMBaseWeaponRifle }
     .desc = { ent-CMBaseWeaponRifle.desc }
 
-ent-WeaponSMGM39 = пістолет-кулемет M39
-    .desc = Пістолет-кулемет М-39 Систем Армат. Зазвичай видавається легкій пехоті, скаутам, інженерам та медикам.
-
+ent-WeaponSMGM63 = пістолет-кулемет M63
+    .desc = The Armat Battlefield Systems M-39 submachinegun. Occasionally carried by light-infantry, scouts, engineers and medics.

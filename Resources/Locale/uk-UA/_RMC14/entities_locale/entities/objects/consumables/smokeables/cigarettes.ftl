@@ -1,3 +1,2 @@
-ent-CMCigarettePackLuckyStrikes = пачка Щасливі Удари міні
-    .desc = Ці чотири пачки Щасливих поставляються разом з сухпайком. Вони не таки гарні як Гаванські Справжні що йдуть в сухпайку LACN, зато безкоштовні.
-
+ent-CMCigarettePackLuckySloths = lucky sloths mini packet
+    .desc = These four-packs of Luckies come in every MRE. They're not as good as the Habana Reals that come in the LACN MREs, but at least they're free.

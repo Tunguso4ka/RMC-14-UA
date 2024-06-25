@@ -1,11 +1,11 @@
 ent-CMBoxMagazineBase = надзвичайно звичайна коробка магазинів (? x ?)"
-    .desc = A box of magazines.
+    .desc = Коробка повна магазинів.
 
 ent-CMBoxMagazineAPBase = надзвичайно звичайна коробка магазинів (? x ?)"
-    .desc = A box of magazines.
+    .desc = Коробка повна магазинів.
 
 ent-CMBoxMagazineHVBase = надзвичайно звичайна коробка магазинів (? x ?)"
-    .desc = A box of magazines.
+    .desc = Коробка повна магазинів.
 
 ent-CMBoxMagazineRifleM54C = коробка магазинів (M54C x 10)
     .desc = { ent-CMBoxMagazineBase.desc }
@@ -16,30 +16,30 @@ ent-CMBoxMagazineRifleM54CAP = коробка магазинів (AP M54C x 10)
 ent-CMBoxMagazineRifleM54CExt = коробка магазинів (Ext M54C x 8)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazineSMGM39 = коробка магазинів (M39 x 12)
+ent-CMBoxMagazineSMGM63 = коробка магазинів (M63 x 12)
     .desc = { ent-CMBoxMagazineHVBase.desc }
 
-ent-CMBoxMagazineSMGM39AP = коробка магазинів (AP M39 x 12)
+ent-CMBoxMagazineSMGM63AP = коробка магазинів (AP M63 x 12)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazineSMGM39Ext = коробка магазинів (Ext M39 x 10)
+ent-CMBoxMagazineSMGM63Ext = коробка магазинів (Ext M63 x 10)
     .desc = { ent-CMBoxMagazineHVBase.desc }
 
-ent-CMBoxMagazineRifleM4RA = коробка магазинів (M4RA x 16)
+ent-CMBoxMagazineRifleM4DMR = коробка магазинів (M4DMR x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazineRifleM4RAAP = коробка магазинів (AP M4RA x 16)
+ent-CMBoxMagazineRifleM4DMRAP = коробка магазинів (AP M4DMR x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazineRifleM4RAExt = коробка магазинів (Ext M4RA x 12)
+ent-CMBoxMagazineRifleM4DMRExt = коробка магазинів (Ext M4DMR x 12)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazinePistolM4A3 = коробка магазинів (M4A3 x 16)
+ent-CMBoxMagazinePistolM1984 = коробка магазинів (M1984 x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazinePistol88m4AP = коробка магазинів (88 Mod 4 AP x 16)
+ent-CMBoxMagazinePistolM77AP = коробка магазинів (M77 AP x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazinePistolVP78 = коробка магазинів (VP78 x 16)
+ent-CMBoxMagazinePistolMK80 = коробка магазинів (MK80 x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
