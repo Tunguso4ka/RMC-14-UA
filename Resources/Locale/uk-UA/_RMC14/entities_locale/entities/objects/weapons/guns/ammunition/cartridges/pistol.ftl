@@ -4,9 +4,8 @@ ent-CMCartridgePistolBase = { ent-BaseCartridgePistol }
 ent-CMCartridgePistol9mm = патрон (9мм)
     .desc = { ent-CMCartridgePistolBase.desc }
 
-ent-CMCartridgePistol88m4AP = патрон (9мм AП)
+ent-CMCartridgePistolM77AP = патрон (9mm AP)
     .desc = { ent-CMCartridgePistolBase.desc }
 
 ent-CMCartridgeRevolver44 = патрон (.44)
     .desc = { ent-CMCartridgePistolBase.desc }
-

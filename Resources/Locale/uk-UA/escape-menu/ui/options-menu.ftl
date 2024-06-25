@@ -1,4 +1,5 @@
 ui-options-title = Гра
+ui-options-tab-accessibility = Доступність
 ui-options-tab-graphics = Графіка
 ui-options-tab-controls = Керування
 ui-options-tab-audio = Аудіо
@@ -8,6 +9,9 @@ ui-options-tab-misc = Загальні
 ui-options-apply = Підтвердити
 ui-options-reset-all = Зкинути
 ui-options-default = По замовчуванню
+
+
+ui-options-value-percent = { TOSTRING($value, "P0") }
 
 
 ui-options-discordrich = Увимкнути Discord Rich Presence
@@ -31,7 +35,10 @@ ui-options-restart-sounds = Звуки перезапуску раунда
 ui-options-event-music = Івентна музика
 ui-options-admin-sounds = Музика адмінів
 ui-options-volume-label = Гучність
-ui-options-volume-percent = { TOSTRING($volume, "P0") }
+ui-options-display-label = Екран
+ui-options-quality-label = Якість
+ui-options-misc-label = Інше
+ui-options-interface-label = Дієвидло
 
 
 ui-options-show-held-item = Показувати тримаємий предмет поряд з курсором
@@ -41,13 +48,6 @@ ui-options-show-ooc-patron-color = Показувати колір патрон�
 ui-options-show-looc-on-head = Показувати чат LOOC над головами персонажів
 ui-options-fancy-speech = Показувати імена у облачках розмов
 ui-options-fancy-name-background = Додати тло до імен у облачках розмов
-ui-options-enable-color-name = Додати кольори до імен персонажів
-ui-options-colorblind-friendly = Режим для людей з вадами зору
-ui-options-reduced-motion = Зменшити рух візуальних ефектів
-ui-options-chat-window-opacity = Прозорість вікна чата
-ui-options-chat-window-opacity-percent = { TOSTRING($opacity, "P0") }
-ui-options-screen-shake-intensity = Інтенсивність руху екрану
-ui-options-screen-shake-percent = { TOSTRING($intensity, "P0") }
 ui-options-vsync = Вертикальна Синхронізація
 ui-options-fullscreen = Повний екран
 ui-options-lighting-label = Якість світла:
@@ -73,6 +73,7 @@ ui-options-hud-theme-minimalist = Мінімализм
 ui-options-hud-theme-ashen = Ашен
 ui-options-vp-stretch = Розтягнути поле зору під розмір окна гри
 ui-options-vp-scale = Фіксований розмір екрану: x{ $scale }
+ui-options-vp-scale-value = x{ $scale }
 ui-options-vp-integer-scaling = Предпочитати цілочислене масштабування (може спричинити появу чорних смуг)
 ui-options-vp-integer-scaling-tooltip = If this option is enabled, the viewport will be scaled using an integer value
                                         at specific resolutions. While this results in crisp textures, it also often
@@ -258,4 +259,10 @@ ui-options-net-pvs-leave-tooltip = This limits the rate at which the client will
                                        lead to mispredicts and other issues.
 
 cmd-options-desc = Opens options menu, optionally with a specific tab selected.
-cmd-options-help = Usage: options [tab]
+cmd-options-help = Використання: options [tab]
+
+ui-options-enable-color-name = Додати кольори до імен персонажів
+ui-options-colorblind-friendly = Режим для людей з вадами зору
+ui-options-reduced-motion = Зменшити рух візуальних ефектів
+ui-options-chat-window-opacity = Прозорість вікна чата
+ui-options-screen-shake-intensity = Інтенсивність руху екрану

@@ -1,4 +1,5 @@
 ent-CMDrinkCanBase = банка
+    .desc = { ent-DrinkCanBaseFull.desc }
 
 ent-CMDrinkCanCola = класична кола
     .desc = класична кола з класичним смаком. Ніхто не може її переплюнути.
@@ -42,69 +43,69 @@ ent-CMDrinkCanBodaPlyus = бода-пльюс
 ent-CMDrinkCanFruitBeer = фруктову пиво
     .desc = В теорії? Кореневе пиво зі смаком манго звучить як гарна ідея. Але Ве-Я знищила ще одну теорію зі своєю новою лінією коли. Консервовано корпорацією Ве-Я.
 
-ent-CMDrinkCanBeerLite = вейланд-ютані лайт
+ent-CMDrinkCanBeerLite = ве-я лайт
     .desc = Пиво. Ви навелися на свою ціль — час для пострілу для ефекту.
 
-ent-CMDrinkCanAle = вейланд-ютані пейл-ель
+ent-CMDrinkCanAle = ве-я пейл-ель
     .desc = Незрозумілий кузен пива.
 
-ent-CMDrinkCanSouto = банка соуто
-    .desc = Консервовано в Гавані.
+ent-CMDrinkCanBobda = bobda can
+    .desc = Canned in Havana.
 
-ent-CMDrinkCanSoutoClassic = соуто класик
+ent-CMDrinkCanBobdaClassic = bobda classic
     .desc = The can boldly proclaims it to be tangerine flavored. You can't help but think that's a lie. Canned in Havana.
 
-ent-CMDrinkCanSoutoCherry = cherry souto
+ent-CMDrinkCanBobdaCherry = cherry bobda
     .desc = Now with more artificial flavors! Canned in Havana
 
-ent-CMDrinkCanSoutoLime = lime souto
+ent-CMDrinkCanBobdaLime = lime bobda
     .desc = It's not bad. It's not good either, but it's not bad. Canned in Havana.
 
-ent-CMDrinkCanSoutoGrape = grape souto
+ent-CMDrinkCanBobdaGrape = grape bobda
     .desc = An old standby for soda flavors. This, however, tastes like grape flavored cough syrup. Canned in Havana.
 
-ent-CMDrinkCanSoutoBlue = blue raspberry souto
+ent-CMDrinkCanBobdaBlue = blue raspberry bobda
     .desc = It tastes like the color blue. Technology really is amazing. Canned in Havana.
 
-ent-CMDrinkCanSoutoPeach = peach souto
+ent-CMDrinkCanBobdaPeach = peach bobda
     .desc = On one hand, it tastes pretty good. On the other hand, you think you can hear a peach pit rattling on the inside. Canned in Havana.
 
-ent-CMDrinkCanSoutoCranberry = cranberry souto
-    .desc = On closer inspection, the can reads, 'CRAMberry Souto.' What the Hell is a Cramberry? Canned in Havana.
+ent-CMDrinkCanBobdaCranberry = cranberry bobda
+    .desc = On closer inspection, the can reads, 'CRAMberry Bobda.' What the Hell is a Cramberry? Canned in Havana.
 
-ent-CMDrinkCanSoutoVanilla = vanilla souto
-    .desc = When most soft drinks say 'vanilla,' they really mean their classic flavor with a bit of vanilla added. NOT THE SOUTO CORPORATION, BABY! This bad boy is filled to the brim with 100% pure carbonated vanilla extract! It tastes terrible. Canned in Havana.
+ent-CMDrinkCanBobdaVanilla = vanilla bobda
+    .desc = When most soft drinks say 'vanilla,' they really mean their classic flavor with a bit of vanilla added. NOT THE BOBDA CORPORATION, BABY! This bad boy is filled to the brim with 100% pure carbonated vanilla extract! It tastes terrible. Canned in Havana.
 
-ent-CMDrinkCanSoutoPineapple = pineapple souto
+ent-CMDrinkCanBobdaPineapple = pineapple bobda
     .desc = This tastes like battery acid with a full cup of sugar mixed in. Canned in Havana.
 
-ent-CMDrinkCanSoutoDiet = diet souto
+ent-CMDrinkCanBobdaDiet = diet bobda
     .desc = Now with 0% fruit juice! Canned in Havana
 
-ent-CMDrinkCanSoutoClassicDiet = diet souto classic
+ent-CMDrinkCanBobdaClassicDiet = diet bobda classic
     .desc = Now with 0% fruit juice! Canned in Havana
 
-ent-CMDrinkCanSoutoCherryDiet = diet cherry souto
+ent-CMDrinkCanBobdaCherryDiet = diet cherry bobda
     .desc = It's neither diet nor cherry flavored. Canned in Havana.
 
-ent-CMDrinkCanSoutoLimeDiet = diet lime souto
+ent-CMDrinkCanBobdaLimeDiet = diet lime bobda
     .desc = Ten kinds of acid, two cups of fake sugar, almost a full tank of carbon dioxide, and about 210 kPa all crammed into an aluminum can. What's not to love? Canned in Havana.
 
-ent-CMDrinkCanSoutoGrapeDiet = diet grape souto
+ent-CMDrinkCanBobdaGrapeDiet = diet grape bobda
     .desc = You're fairly certain that this is just grape cough syrup and carbonated water. Canned in Havana.
 
-ent-CMDrinkCanSoutoBlueDiet = diet blue raspberry souto
+ent-CMDrinkCanBobdaBlueDiet = diet blue raspberry bobda
     .desc = WHAT A SCAM! It doesn't even taste like blue! At best, it tastes like cyan. Canned in Havana.
 
-ent-CMDrinkCanSoutoPeachDiet = diet peach souto
+ent-CMDrinkCanBobdaPeachDiet = diet peach bobda
     .desc = On one hand, it tastes pretty good. On the other hand, you think you can hear half of a peach pit rattling on the inside. Canned in Havana.
 
-ent-CMDrinkCanSoutoCranberryDiet = diet cranberry souto
+ent-CMDrinkCanBobdaCranberryDiet = diet cranberry bobda
     .desc = This tastes more like prunes than cranberries. It's not bad; it's just wrong. Canned in Havana.
 
-ent-CMDrinkCanSoutoVanillaDiet = diet vanilla souto
+ent-CMDrinkCanBobdaVanillaDiet = diet vanilla bobda
     .desc = This is a can of watery bitter vanilla extract. You can't possibly imagine who would greenlight such a concept. Canned in Havana.
 
-ent-CMDrinkCanSoutoPineappleDiet = diet pineapple souto
+ent-CMDrinkCanBobdaPineappleDiet = diet pineapple bobda
     .desc = This tastes like battery acid with a half cup of sugar mixed in. Canned in Havana.
 

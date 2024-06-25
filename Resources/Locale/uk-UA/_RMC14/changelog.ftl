@@ -1,1 +1,1 @@
-﻿changelog-tab-title-CM = Корпус МорПіхоти
+changelog-tab-title-RMC14 = КМП 14
