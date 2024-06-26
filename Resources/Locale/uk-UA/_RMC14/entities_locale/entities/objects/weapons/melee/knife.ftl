@@ -1,9 +1,9 @@
-ent-CMM5Bayonet = M5 night raider bayonet
-    .desc = The standard issue bayonet knife issued to Colonial Marines.
+ent-CMM5Bayonet = штик ніж М5 "нічний рейдер"
+    .desc = Стандартний штик-ніж, що видавався колоніальним піхотинцям.
 
-ent-CMM11Knife = M11 throwing knife
-    .desc = A military knife designed to be thrown at the enemy.
+ent-CMM11Knife = M11 метальний ніж
+    .desc = Військовий ніж, призначений для кидання у ворога.
 
-ent-CMM2132Machete = M2132 machete
-    .desc = Latest issue of the USCM Machete.
+ent-CMM2132Machete = M2132 мачета
+    .desc = Останній випуск USCM Мачета.
 
