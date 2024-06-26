@@ -1,5 +1,5 @@
-ent-AsteroidRock = asteroid rock
-    .desc = A rocky asteroid.
+ent-AsteroidRock = камінь астероїда
+    .desc = Кам'янний астероїд.
     .suffix = Low Ore Yield
 
 ent-AsteroidRockCoal = { ent-AsteroidRock }
@@ -50,27 +50,67 @@ ent-AsteroidRockBananium = { ent-AsteroidRock }
     .desc = An ore vein rich with bananium.
     .suffix = Bananium
 
+ent-AsteroidRockSalt = { ent-AsteroidRock }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
+
 ent-AsteroidRockArtifactFragment = { ent-AsteroidRock }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
 
-ent-AsteroidRockMining = asteroid rock
-    .desc = An asteroid.
+ent-AsteroidRockMining = камінь астероїда
+    .desc = Астероїд.
     .suffix = higher ore yield
 
 ent-IronRock = ironrock
     .desc = A rocky asteroid.
     .suffix = Low Ore Yield
 
-ent-AsteroidRockSalt = { ent-AsteroidRock }
-    .desc = An ore vein rich with salt.
-    .suffix = Salt
-
 ent-IronRockMining = ironrock
     .desc = An asteroid.
     .suffix = higher ore yield
 
-ent-WallRock = rock
+ent-IronRockCoal = { ent-IronRock }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
+
+ent-IronRockGold = { ent-IronRock }
+    .desc = An ore vein rich with gold.
+    .suffix = Gold
+
+ent-IronRockPlasma = { ent-IronRock }
+    .desc = An ore vein rich with plasma.
+    .suffix = Plasma
+
+ent-IronRockQuartz = { ent-IronRock }
+    .desc = An ore vein rich with quartz.
+    .suffix = Quartz
+
+ent-IronRockSilver = { ent-IronRock }
+    .desc = An ore vein rich with silver.
+    .suffix = Silver
+
+ent-IronRockIron = { ent-IronRock }
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
+
+ent-IronRockUranium = { ent-IronRock }
+    .desc = An ore vein rich with uranium.
+    .suffix = Uranium
+
+ent-IronRockBananium = { ent-IronRock }
+    .desc = An ore vein rich with bananium.
+    .suffix = Bananium
+
+ent-IronRockSalt = { ent-IronRock }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
+
+ent-IronRockArtifactFragment = { ent-IronRock }
+    .desc = A rock wall. What's that sticking out of it?
+    .suffix = Artifact Fragment
+
+ent-WallRock = камінь
     .desc = { ent-BaseStructure.desc }
     .suffix = planetmap
 
@@ -114,7 +154,7 @@ ent-WallRockSalt = { ent-WallRock }
     .desc = An ore vein rich with salt.
     .suffix = Salt
 
-ent-WallRockBasalt = basalt
+ent-WallRockBasalt = базальт
     .desc = { ent-WallRock.desc }
 
 ent-WallRockBasaltCoal = { ent-WallRockBasalt }
@@ -200,7 +240,7 @@ ent-WallRockSnowSalt = { ent-WallRockSnow }
     .desc = An ore vein rich with salt.
     .suffix = Salt
 
-ent-WallRockSand = sandstone
+ent-WallRockSand = піщаник
     .desc = { ent-WallRock.desc }
 
 ent-WallRockSandCoal = { ent-WallRockSand }
@@ -243,7 +283,7 @@ ent-WallRockSandSalt = { ent-WallRockSand }
     .desc = An ore vein rich with salt.
     .suffix = Salt
 
-ent-WallRockChromite = chromite
+ent-WallRockChromite = хроміт
     .desc = { ent-WallRock.desc }
 
 ent-WallRockChromiteCoal = { ent-WallRockChromite }
@@ -286,7 +326,7 @@ ent-WallRockChromiteSalt = { ent-WallRockChromite }
     .desc = An ore vein rich with salt.
     .suffix = Salt
 
-ent-WallRockAndesite = andesite
+ent-WallRockAndesite = андезіт
     .desc = { ent-WallRock.desc }
 
 ent-WallRockAndesiteCoal = { ent-WallRockAndesite }

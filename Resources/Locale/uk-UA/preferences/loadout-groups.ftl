@@ -6,6 +6,13 @@ loadout-group-backpack = Рюкзаки
 
 loadout-group-instruments = Інструменти
 
+loadout-group-survival-basic = Survival Box
+loadout-group-survival-extended = Extended Survival Box
+loadout-group-survival-clown = Clown Survival Box
+loadout-group-survival-medical = Medical Survival Box
+loadout-group-survival-security = Security Survival Box
+loadout-group-survival-syndicate = Github is forcing me to write text that is literally twice-impossible for the player to ever see, send help
+
 loadout-group-captain-head = Голова
 loadout-group-captain-jumpsuit = Одяг
 loadout-group-captain-neck = Шія
@@ -49,6 +56,8 @@ loadout-group-janitor-jumpsuit = Одяг
 loadout-group-janitor-gloves = Рукавички
 loadout-group-janitor-outerclothing = Зовнішний одяг
 
+loadout-group-janitor-plunger = Janitor plunger
+
 loadout-group-botanist-head = Голова
 loadout-group-botanist-jumpsuit = Одяг
 loadout-group-botanist-backpack = Рюкзак
@@ -66,6 +75,7 @@ loadout-group-mime-jumpsuit = Одяг
 loadout-group-mime-backpack = Рюкзак
 loadout-group-mime-outerclothing = Зовнішний одяг
 
+loadout-group-musician-jumpsuit = Musician jumpsuit
 loadout-group-musician-outerclothing = Зовнішний одяг
 
 loadout-group-quartermaster-head = Голова
