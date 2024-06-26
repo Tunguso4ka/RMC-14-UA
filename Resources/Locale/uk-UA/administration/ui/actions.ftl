@@ -1,3 +1,4 @@
+admin-player-actions-reason = Причина
 admin-player-actions-bans = Список банів
 admin-player-actions-notes = Нотатки
 admin-player-actions-kick = Кік

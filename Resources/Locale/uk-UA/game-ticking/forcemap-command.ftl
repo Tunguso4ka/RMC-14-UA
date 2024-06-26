@@ -1,7 +1,7 @@
-﻿## Forcemap command loc.
-
-forcemap-command-description = Forces the game to start with a given map next round.
-forcemap-command-help = forcemap <map ID>
-forcemap-command-need-one-argument = forcemap takes one argument, the path to the map file.
-forcemap-command-success = Forced the game to start with map { $map } next round.
-forcemap-command-arg-map = <map ID>
+forcemap-command-description = Змушує гру перемкнутися на вказану мапу наступного раунду.
+forcemap-command-help = forcemap <ID мапи>
+forcemap-command-need-one-argument = forcemap приймає тільки один аргумент - шлях до мапи.
+forcemap-command-map-not-found = Підходящих мап з назвою { $map } не існує.
+forcemap-command-success = Гра запустить { $map } наступного раунду.
+forcemap-command-cleared = Очищені налаштунки мапи.
+forcemap-command-arg-map = <ID мапи>

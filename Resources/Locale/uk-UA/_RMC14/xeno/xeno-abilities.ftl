@@ -37,6 +37,10 @@ cm-xeno-paralyzing-slash-activate = Наш наступний удар заст�
 cm-xeno-paralyzing-slash-expire = Ми чекали занадто довго, наш удар більше не застосує нейротоксин!
 cm-xeno-paralyzing-slash-hit = Ми додаємо нейротоксин в свою атаку, {$target} ось-ось впаде паралізованим!
 
+cm-xeno-crippling-strike-activate = Our next slash will apply neurotoxin!
+cm-xeno-crippling-strike-expire = You have waited too long, your slash will no longer apply neurotoxin!
+cm-xeno-crippling-strike-hit = We significantly strengthen our attack, slowing the unknown!
+
 cm-xeno-choose-pheromones = Оберіть Феромони
 cm-pheromones-recovery = Відновлення
 cm-pheromones-warding = Захисту
@@ -51,6 +55,15 @@ cm-xeno-rest-cant-fortify = Ми не можемо встати в стійку 
 cm-xeno-rest-cant-tail-sweep = Ми не можемо вдарити хвостом поки відпочиваємо!
 cm-xeno-rest-cant-toggle-crest = Ми не можемо нахилитись поки відпочиваємо!
 
+cm-xeno-rest-cant-leap = You can't leap while resting!
+cm-xeno-rest-cant-lunge = You can't lunge while resting!
+cm-xeno-rest-cant-punch = You can't punch while resting!
+cm-xeno-rest-cant-fling = You can't punch while resting!
+cm-xeno-rest-cant-charge = You can't punch while resting!
+cm-xeno-rest-cant-stomp = You can't punch while resting!
+cm-xeno-rest-cant-gut = You can't punch while resting!
+cm-xeno-rest-cant-screech = You can't punch while resting!
+
 cm-xeno-toggle-crest-cant-fortify = Ми не можемо встати в стійку поки ми нахилені!
 cm-xeno-toggle-crest-cant-rest = Ми не можемо відпочити поки ми нахилені!
 cm-xeno-toggle-crest-cant-tail-sweep = Ми не можемо вдарити хвостом поки ми нахилені!
@@ -62,3 +75,11 @@ cm-xeno-plasma-cannot-self = Ви не можете передати плазм�
 cm-xeno-plasma-other-max-zero = {$target} не потрібна плазма!
 
 cm-xeno-watch = Дивитися за іншима
+cm-xeno-charge-spit = Our next spit will be stronger.
+cm-xeno-charge-spit-expire = Our spits are back to normal.
+
+cm-xeno-invisibility-already-invisible = We are already invisible!
+cm-xeno-invisibility-expire = We feel our invisibility end!
+
+cm-xeno-ovipositor-attach = We start attaching to the ovipositor.
+cm-xeno-ovipositor-detach = We start detaching from the ovipositor.

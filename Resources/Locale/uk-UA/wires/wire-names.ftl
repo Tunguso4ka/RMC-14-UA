@@ -1,5 +1,4 @@
-# titles that get displayed in the wire hacking window
-wires-board-name-default = Wires
+wires-board-name-default = Дроти
 wires-board-name-booze = BoozeDispenser
 wires-board-name-soda = SodaDispenser
 wires-board-name-thermomachine = Thermomachine
@@ -8,14 +7,14 @@ wires-board-name-pa = Mk2 Particle Accelerator
 wires-board-name-highsec = HighSec Control
 wires-board-name-vessel = Vessel
 wires-board-name-crusher = Crusher
-wires-board-name-smes = SMES
-wires-board-name-substation = Substation
-wires-board-name-apc = APC
-wires-board-name-autolathe = Autolathe
-wires-board-name-protolathe = Protolathe
+wires-board-name-smes = НПмА
+wires-board-name-substation = Підстанція
+wires-board-name-apc = ЗКЖ
+wires-board-name-autolathe = Автолат
+wires-board-name-protolathe = Протолат
 wires-board-name-airalarm = Air Alarm
 wires-board-name-firealarm = Fire Alarm
-wires-board-name-arcade = Arcade
+wires-board-name-arcade = Аркада
 wires-board-name-ape = Ape
 wires-board-name-anomalygenerator = AnomalyGenerator
 wires-board-name-cloningpod = CloningPod
@@ -40,7 +39,6 @@ wires-board-name-fatextractor = FatExtractor
 wires-board-name-flatpacker = Flatpacker
 wires-board-name-spaceheater = Space Heater
 
-# names that get displayed in the wire hacking hud & admin logs.
 
 wire-name-access = ДОС
 wire-name-arcade-overflow = ОГРН
@@ -66,3 +64,4 @@ wire-name-bomb-boom = ВИБХ
 wire-name-bomb-bolt = БОЛТ
 wire-name-speech = СПІК
 wire-name-listen = МІКР
+wire-name-log = LOG

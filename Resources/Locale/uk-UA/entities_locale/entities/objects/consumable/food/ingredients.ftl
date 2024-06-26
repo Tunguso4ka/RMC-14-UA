@@ -5,14 +5,15 @@ ent-ReagentPacketBase = { ent-ReagentContainerBase }
     .desc = { ent-ReagentContainerBase.desc }
 
 ent-ItemHeftyBase = ця сутність не має назви
+    .desc = { "" }
 
-ent-ReagentContainerFlour = flour bag
-    .desc = A big bag of flour. Good for baking!
+ent-ReagentContainerFlour = мішок борошна
+    .desc = Великий мішок борошна. Добре підходить для випікання!
 
-ent-ReagentContainerFlourSmall = flour pack
-    .desc = A pack of flour. Good for baking!
+ent-ReagentContainerFlourSmall = пакет борошна
+    .desc = Пакет борошна. Добре підходить для випікання!
 
-ent-ReagentContainerCornmeal = cornmeal bag
+ent-ReagentContainerCornmeal = мішок кукурудзяного борошна
     .desc = A big bag of cornmeal. Good for cooking!
 
 ent-ReagentContainerCornmealSmall = cornmeal pack
@@ -44,6 +45,9 @@ ent-FoodDough = dough
 
 ent-FoodDoughSlice = dough slice
     .desc = A slice of dough. Can be cooked into a bun.
+
+ent-FoodDoughRope = dough rope
+    .desc = A thin noodle of dough. Can be cooked into a bagel.
 
 ent-FoodDoughCornmeal = cornmeal dough
     .desc = A piece of cornmeal dough.
@@ -107,4 +111,3 @@ ent-FoodBadRecipe = burned mess
 
 ent-FoodCocoaBeans = cocoa beans
     .desc = You can never have too much chocolate!
-
