@@ -46,14 +46,14 @@ ent-WallPlastitaniumDiagonal = стіна з пластиніума
     .desc = { ent-WallShuttleDiagonal.desc }
     .suffix = diagonal
 
-ent-WallReinforced = усилена стіна
+ent-WallReinforced = посилена стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallReinforcedRust = усилена стіна
+ent-WallReinforcedRust = посилена стіна
     .desc = { ent-WallReinforced.desc }
     .suffix = rusted
 
-ent-WallReinforcedDiagonal = усилена стіна
+ent-WallReinforcedDiagonal = посилена стіна
     .desc = { ent-WallShuttleDiagonal.desc }
     .suffix = diagonal
 

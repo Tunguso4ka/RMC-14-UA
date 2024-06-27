@@ -5,6 +5,6 @@ encryption-keys-no-keys = This device has no encryption keys!
 encryption-keys-are-locked = Encryption key slots are locked!
 encryption-keys-panel-locked = Open maintenance panel first!
 
-examine-encryption-channels-prefix = Available frequencies:
-examine-encryption-channel = [color={$color}]{$key} for {$id} ({$freq})[/color]
-examine-encryption-default-channel = The default channel is [color={$color}]{$channel}[/color].
+examine-encryption-channels-prefix = Доступні частоти:
+examine-encryption-channel = [color={$color}]{$key} для {$id} ({$freq})[/color]
+examine-encryption-default-channel = Стандартний канал [color={$color}]{$channel}[/color].

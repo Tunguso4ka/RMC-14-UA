@@ -1,5 +1,5 @@
 ent-TelecomServer = сервер телекомунікацій
-    .desc = При живленні та з ключами енкрипції дозволяє розмовляти по рації.
+    .desc = При живленні та з ключами шифрування дозволяє розмовляти по рації.
 
 ent-TelecomServerFilled = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }

@@ -7,13 +7,13 @@ ent-CMCrateBoxMagazineRifleM54CAP = коробка магазинів (M54C, 10x
 ent-CMCrateBoxMagazineRifleM54CExt = коробка магазинів (M54C, 8x збільшених магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineRifleM4DMR = коробка магазинів (M4DMR, 16x звичайних магазинів)
+ent-CMCrateBoxMagazineRifleM4SPR = коробка магазинів (M4SPR, 16x звичайних магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineRifleM4DMRAP = коробка магазинів (M4DMR, 16x ББ магазинів)
+ent-CMCrateBoxMagazineRifleM4SPRAP = коробка магазинів (M4SPR, 16x ББ магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineRifleM4DMRExt = коробка магазинів (M4DMR, 12x збільшених магазинів)
+ent-CMCrateBoxMagazineRifleM4SPRExt = коробка магазинів (M4SPR, 12x збільшених магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
 ent-CMCrateBoxMagazineSMGM63 = коробка магазинів (M63, 12x звичайних магазинів)

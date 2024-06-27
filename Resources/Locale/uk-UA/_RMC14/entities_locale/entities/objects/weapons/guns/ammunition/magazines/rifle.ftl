@@ -14,12 +14,12 @@ ent-CMMagazineRifleM54CExt = M54C збільшений магазин (10x24mm)
 ent-CMMagazineRifleM54CE2 = M54CE2 магазин (10x24mm)
     .desc = { ent-CMMagazineRifleM54C.desc }
 
-ent-CMMagazineRifleM4DMR = M4DMR магазин (10x24mm)
-    .desc = A магазин of standard 10x24mm rounds for use in the M4DMR battle rifle.
+ent-CMMagazineRifleM4SPR = M4SPR магазин (10x24mm)
+    .desc = A magazine of standard 10x24mm rounds for use in the M4SPR battle rifle.
 
-ent-CMMagazineRifleM4DMRAP = M4DMR ББ магазин (10x24mm)
-    .desc = A магазин of armor-piercing 10x24mm rounds for use in the M4DMR battle rifle.
+ent-CMMagazineRifleM4SPRAP = M4SPR ББ магазин (10x24mm)
+    .desc = A magazine of armor-piercing 10x24mm rounds for use in the M4SPR battle rifle.
     .suffix = AP
 
-ent-CMMagazineRifleM4DMRExt = M4DMR збільшений магазин (10x24mm)
-    .desc = { ent-CMMagazineRifleM4DMR.desc }
+ent-CMMagazineRifleM4SPRExt = M4SPR збільшений магазин (10x24mm)
+    .desc = { ent-CMMagazineRifleM4SPR.desc }

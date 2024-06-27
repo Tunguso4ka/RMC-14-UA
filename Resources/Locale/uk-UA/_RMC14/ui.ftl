@@ -1,3 +1,10 @@
 cm-ui-rmc14 = КМП 14
-cm-ui-audio-humanoid-voicelines = Прослухати фрази людей
+cm-ui-audio-voicelines-arachnid = Play voicelines for arachnids
+cm-ui-audio-voicelines-diona = Play voicelines for dionae
+cm-ui-audio-voicelines-dwarf = Play voicelines for dwarves
+cm-ui-audio-voicelines-felinid = Play voicelines for felinids
+cm-ui-audio-voicelines-human = Play voicelines for humans
+cm-ui-audio-voicelines-moth = Play voicelines for moths
+cm-ui-audio-voicelines-reptilian = Play voicelines for reptilians
+cm-ui-audio-voicelines-slime = Play voicelines for slimes
 cm-ui-roadmap = Мапа оновлень
