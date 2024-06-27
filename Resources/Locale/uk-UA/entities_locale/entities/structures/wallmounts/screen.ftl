@@ -1,6 +1,5 @@
-ent-Screen = screen
-    .desc = Displays text or time.
+ent-Screen = екран
+    .desc = Показує або текст або час.
 
-ent-ArrivalsShuttleTimer = arrivals screen
+ent-ArrivalsShuttleTimer = екран прибуття
     .desc = { ent-Screen.desc }
-

@@ -1,5 +1,5 @@
 apc-menu-title = ЗКЖ
-apc-menu-breaker-label = Main Breaker
+apc-menu-breaker-label = Головний Перемикач
 apc-menu-breaker-button = Перемкнути
 apc-menu-power-label = Навантаження
 apc-menu-external-label = Зовнішня енергія

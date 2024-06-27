@@ -21,9 +21,9 @@ plant-holder-component-something-already-growing-low-health-message = Росли
 plant-holder-component-plant-old-adjective = стара та в'яне
 plant-holder-component-plant-unhealthy-adjective = нездорова
 plant-holder-component-dead-plant-matter-message = Вона заповнена [color=red]dead plant matter[/color].
-plant-holder-component-weed-high-level-message = Вона заповнена [color=green]бур'яни[/color]!
+plant-holder-component-weed-high-level-message = Вона заповнена [color=green]бур'янами[/color]!
 plant-holder-component-pest-high-level-message = Вона заповнена [color=gray]черв'ями[/color]!
-plant-holder-component-water-level-message = Вода:             [color=cyan]{$waterLevel}[/color].
+plant-holder-component-water-level-message = Вода: [color=cyan]{$waterLevel}[/color].
 plant-holder-component-nutrient-level-message = Поживні речовини: [color=orange]{$nutritionLevel}[/color].
 plant-holder-component-toxins-high-warning = Лампочка [color=red]токсичної небезпеки[/color] блимає червоним.
 plant-holder-component-light-improper-warning = Ламопчка [color=yellow]неправильного рівня освітлелення[/color] блимає.

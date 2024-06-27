@@ -8,29 +8,29 @@ anomaly-particles-delta = Дельта-частки
 anomaly-particles-epsilon = Епсілон-частки
 anomaly-particles-zeta = Зета-частки
 anomaly-particles-omega = Омеґа-частки
-anomaly-particles-sigma = Sigma particles
+anomaly-particles-sigma = Сігма частинки
 
 anomaly-scanner-component-scan-complete = Сканування завершено!
 
 anomaly-scanner-ui-title = сканер аномалій
 anomaly-scanner-no-anomaly = Зараз не сканується жодна аномалія.
 anomaly-scanner-severity-percentage = Поточна тяжкість: [color=gray]{$percent}[/color]
-anomaly-scanner-severity-percentage-unknown = Current severity: [color=red]ERROR[/color]
+anomaly-scanner-severity-percentage-unknown = Поточна тяжкість: [color=red]ПОМИЛКА[/color]
 anomaly-scanner-stability-low = Поточний стан аномалії: [color=gold]Згасає[/color]
 anomaly-scanner-stability-medium = Поточний стан аномалії: [color=forestgreen]Стабільна[/color]
 anomaly-scanner-stability-high = Поточний стан аномалії: [color=crimson]Зростає[/color]
-anomaly-scanner-stability-unknown = Current anomaly state: [color=red]ERROR[/color]
+anomaly-scanner-stability-unknown = Поточний стан аномалії: [color=red]ПОМИЛКА[/color]
 anomaly-scanner-point-output = Вироблення очок: [color=gray]{$point}[/color]
-anomaly-scanner-point-output-unknown = Point output: [color=red]ERROR[/color]
+anomaly-scanner-point-output-unknown = Вироблення очок: [color=red]ПОМИЛКА[/color]
 anomaly-scanner-particle-readout = Зчитання реакції часток:
 anomaly-scanner-particle-danger = - [color=crimson]Тип небезпеки:[/color] {$type}
 anomaly-scanner-particle-unstable = - [color=plum]Тип нестабільності:[/color] {$type}
-anomaly-scanner-particle-containment = - [color=goldenrod]Тип утримання:[/color] {$type}
-anomaly-scanner-particle-transformation = - [color=#6b75fa]Transformation type:[/color] {$type}
-anomaly-scanner-particle-danger-unknown = - [color=crimson]Danger type:[/color] [color=red]ERROR[/color]
-anomaly-scanner-particle-unstable-unknown = - [color=plum]Unstable type:[/color] [color=red]ERROR[/color]
-anomaly-scanner-particle-containment-unknown = - [color=goldenrod]Containment type:[/color] [color=red]ERROR[/color]
-anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Transformation type:[/color] [color=red]ERROR[/color]
+anomaly-scanner-particle-containment = - [color=goldenrod]Тип стримання:[/color] {$type}
+anomaly-scanner-particle-transformation = - [color=#6b75fa]Тип трансформації:[/color] {$type}
+anomaly-scanner-particle-danger-unknown = - [color=crimson]Тип небезпеки:[/color] [color=red]ПОМИЛКА[/color]
+anomaly-scanner-particle-unstable-unknown = - [color=plum]Тип нестабільності::[/color] [color=red]ПОМИЛКА[/color]
+anomaly-scanner-particle-containment-unknown = - [color=goldenrod]Тип стримання::[/color] [color=red]ПОМИЛКА[/color]
+anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Тип трансформації::[/color] [color=red]ПОМИЛКА[/color]
 anomaly-scanner-pulse-timer = Часу до наступного поштовху: [color=gray]{$time}[/color]
 
 anomaly-gorilla-core-slot-name = Аномальне ядро
@@ -44,7 +44,7 @@ anomaly-gorilla-charge-limit = Містить [color={$count ->
 }]{$count} {$count ->
     [one]charge
     *[other]charges
-}[/color] remaining.
+}[/color].
 anomaly-gorilla-charge-infinite = Містить [color=gold]невичерпну кількість зарядів[/color]. [italic]Натепер...[/italic]
 
 anomaly-sync-connected = Аномалію приєднано успішно

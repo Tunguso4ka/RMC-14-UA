@@ -1,4 +1,4 @@
-ent-BaseGameRule = Base Game Rule
+ent-BaseGameRule = { "" }
     .desc = { "" }
 
 ent-RespawnDeadRule = { ent-BaseGameRule }

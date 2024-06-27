@@ -25,13 +25,13 @@ ent-CMBoxMagazineSMGM63AP = коробка магазинів (AP M63 x 12)
 ent-CMBoxMagazineSMGM63Ext = коробка магазинів (Ext M63 x 10)
     .desc = { ent-CMBoxMagazineHVBase.desc }
 
-ent-CMBoxMagazineRifleM4DMR = коробка магазинів (M4DMR x 16)
+ent-CMBoxMagazineRifleM4SPR = коробка магазинів (M4SPR x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazineRifleM4DMRAP = коробка магазинів (AP M4DMR x 16)
+ent-CMBoxMagazineRifleM4SPRAP = коробка магазинів (AP M4SPR x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
-ent-CMBoxMagazineRifleM4DMRExt = коробка магазинів (Ext M4DMR x 12)
+ent-CMBoxMagazineRifleM4SPRExt = коробка магазинів (Ext M4SPR x 12)
     .desc = { ent-CMBoxMagazineBase.desc }
 
 ent-CMBoxMagazinePistolM1984 = коробка магазинів (M1984 x 16)
@@ -42,4 +42,3 @@ ent-CMBoxMagazinePistolM77AP = коробка магазинів (M77 AP x 16)
 
 ent-CMBoxMagazinePistolMK80 = коробка магазинів (MK80 x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
-

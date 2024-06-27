@@ -4,4 +4,4 @@ melee-balloon-pop = {CAPITALIZE(THE($balloon))} popped!
 
 
 #BatteryComponent
-melee-battery-examine = It has enough charge for [color={$color}]{$count}[/color] hits.
+melee-battery-examine = Воно має струму на [color={$color}]{$count}[/color] ударів.
