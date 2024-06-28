@@ -1,15 +1,20 @@
-ent-SquadBase = загін
-    .desc = опис
+ent-SquadBase = { "" }
+    .desc = { "" }
 
-ent-SquadAlpha = { ent-SquadBase }
+ent-SquadAlpha = Альфа
     .desc = { ent-SquadBase.desc }
 
-ent-SquadBravo = { ent-SquadBase }
+ent-SquadBravo = Браво
     .desc = { ent-SquadBase.desc }
 
-ent-SquadCharlie = { ent-SquadBase }
+ent-SquadCharlie = Чарлі
     .desc = { ent-SquadBase.desc }
 
-ent-SquadDelta = { ent-SquadBase }
+ent-SquadDelta = Дельта
     .desc = { ent-SquadBase.desc }
 
+ent-SquadEcho = Еко
+    .desc = { ent-SquadBase.desc }
+
+ent-SquadFoxtrot = Фокстрот
+    .desc = { ent-SquadBase.desc }

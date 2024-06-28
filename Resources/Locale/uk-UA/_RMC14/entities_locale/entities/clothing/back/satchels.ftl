@@ -28,3 +28,5 @@ ent-CMSatchelMarineMedic = сумка медиків КМП ООН
 ent-CMSatchelMarineTech = розгрузка техників КМП ООН
     .desc = Надміцня розгрузка техників КМП ООН.
 
+ent-RMCSatchelGrenadeSpec = UNMC IMP M63A1 grenade satchel
+    .desc = A satchel specially designed to maximize grenade carrying capacity while minimizing the risks of secondary ignition.

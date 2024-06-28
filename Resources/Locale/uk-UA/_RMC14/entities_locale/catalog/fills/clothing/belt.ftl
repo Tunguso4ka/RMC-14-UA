@@ -22,3 +22,10 @@ ent-CMBeltMedicBagFilled = { ent-CMBeltMedicBag }
     .desc = { ent-CMBeltMedicBag.desc }
     .suffix = Заповнений
 
+ent-RMCBeltGrenadeFilled = { ent-RMCBeltGrenade }
+    .desc = { ent-RMCBeltGrenade.desc }
+    .suffix = Заповнений
+
+ent-RMCBeltGrenadeLargeFilled = { ent-RMCBeltGrenadeLarge }
+    .desc = { ent-RMCBeltGrenadeLarge.desc }
+    .suffix = Заповнений

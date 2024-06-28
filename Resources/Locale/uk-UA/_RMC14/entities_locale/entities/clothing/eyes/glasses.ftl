@@ -3,3 +3,6 @@ ent-CMGlassesSecurity = окуляри охорони
 
 ent-CMGlassesM42ScoutSight = M42 scout sight
     .desc = A headset and night vision sighting system for the M42 Scout Rifle. Allows highlighted imaging of surroundings.
+
+ent-RMCGlassesMedicalHUDGlasses = medical HUD glasses
+    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status.

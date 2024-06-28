@@ -31,12 +31,11 @@ ent-CMArmorHelmetPress = шолом "преса"
 ent-CMArmorHelmetM3Scout = шолом M3-S
     .desc = Спеціальний легкий шолом серії М3 зроблений для розвідувательних місій.
 
-ent-CMArmorHelmetM3G4 = шолом M3-G4
-    .desc = Поєднутється з тяжкою плитою гренадера М3-G4. Дальній кузен експериментального захисного шолому B18, тому також захищає від лицехватів пригаючих на ваше обличчя.
+ent-RMCArmorHelmetM3G4 = M3-G4 helmet
+    .desc = Pairs with the M3-G4 heavy grenadier plating. A distant cousin of the experimental B18 defensive helmet.
 
 ent-CMArmorHelmetM35 = шолом M35
     .desc = Спеціальний шолом серії М3 зроблений щоб витримувати вогонь.
 
 ent-CMArmorHelmetM45 = маскувальний шолом M45
     .desc = Легкий шолом М45 з маскувальною сіткою використовуємий снайперами КМП ООН на розвідувательних місіях.
-
