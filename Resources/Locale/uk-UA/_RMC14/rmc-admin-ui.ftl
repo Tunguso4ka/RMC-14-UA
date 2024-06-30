@@ -1,0 +1,13 @@
+﻿rmc-ui-cm-actions = КМП Дії
+rmc-ui-transform-tab = Трансформувати
+rmc-ui-xeno-tab = Ксено
+rmc-ui-squads-tab = Загони
+rmc-ui-xeno-hive = Вулик:
+rmc-ui-open-rmc-actions = Відрити дії
+rmc-ui-create-new-hive = Створити новий вулик
+rmc-ui-create-hive-title = Нова назва вулику
+rmc-ui-humanoid = Гуманоїд
+rmc-ui-tier = Tier {$tier}
+rmc-ui-create-squad = Створити загін
+rmc-ui-members = Члени: {$members}
+rmc-ui-add-to-squad = Додати до загону

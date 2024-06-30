@@ -33,3 +33,9 @@ ent-CMBeltSecurity = пояс воєнполу зразку M276
 
 ent-CMBeltSmartGunOperator = пояс барабанного озброєння зразку M280
     .desc = Не беручи до уваги факти 1. Барабанні магазини надзвичайно не ергономічні, та 2. потребують надзвичайно точної обробки щоб легко вміщатися (спойлер, вони не вмістяться. Додаючи це до міфу про "Різні типи розумного озброєння"), КМП ООН вирішило випустити модифікований пояс морпіхів (відомий під більш формальною назвою М280) з гачками та пилозахисними чохлами (занадто складними для звичайних бовдурів) для системи барабанної амуніції М56В. Коли фіксатор не застрягає в замазаною мастилом по горло липучці, то цей пояс виконує доволі не погану роботу зберігаючи достатню кількість барабанів. Але ставлячи крапку - в порівнянні зі стандартними поясами... цей смо-кче. Але ж, слово "смоктати" описує буття кожного Морпіху, чи я неправий?
+
+ent-RMCBeltGrenade = M276 pattern M40 grenade rig
+    .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is designed to carry up to 12 of the M40 series of grenades.
+
+ent-RMCBeltGrenadeLarge = M276 pattern M40 grenade rig Mk. II
+    .desc = The M276 Mk. II is an upgraded version of the M276 grenade rig, with more storage capacity.

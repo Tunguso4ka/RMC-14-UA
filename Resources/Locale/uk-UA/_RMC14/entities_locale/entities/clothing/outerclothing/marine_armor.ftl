@@ -13,8 +13,8 @@ ent-CMArmorM3Warden = броня наглядача зразку M3
 ent-CMArmorM3WO = броня голови ВП зразку M3
     .desc = Добре зроблений варіант зразку М3, зазвичай видавається Головам ВоєнПолу. Зручна, якщо треба показати хто тут головний.
 
-ent-CMArmorM3G4 = броня гренадера M3-G4
-    .desc = Спеціальний варіант броні М3 з прибитими до нього заплатками, плитками та іншими видами захисту. Завдяки тому що ця броня набагато важче за інші, разом з нею ви зможете вистояти проти атак чужих спереду.
+ent-RMCArmorM3G4 = M3-G4 grenadier armor
+    .desc = A custom set of M3 armor packed to the brim with padding, plating, and every form of ballistic protection under the sun. Used exclusively by Marine Grenadiers.
 
 ent-CMArmorM3T = легка броня M3-T
     .desc = Спеціальний варіант броні М3 зроблений для вибухо-техників.

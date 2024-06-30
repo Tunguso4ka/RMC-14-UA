@@ -3,11 +3,12 @@
   mapName: Savannah
   mapPath: /Maps/_RMC14/savannah.yml
   minPlayers: 0
+  maxPlayers: 100
   maxRandomOffset: 0
   randomRotation: false
   stations:
     Savannah:
-      stationProto: StandardNanotrasenStation
+      stationProto: StandardUNMCWarship
       components:
         - type: StationNameSetup
           mapNameTemplate: 'LCS-14 Savannah'
@@ -16,7 +17,7 @@
             # Command
             CMCommandingOfficer: [1, 1]
             CMExecutiveOfficer: [1, 1]
-            CMStaffOfficer: [2, 2]
+            CMStaffOfficer: [1, 1]
             CMSeniorEnlistedAdvisor: [1, 1]
 
             # Military Police
@@ -41,18 +42,42 @@
             CMDoctor: [3, 3]
             CMNurse: [2, 1]
             CMResearcher: [2, 2]
+            CMMilitaryPolice: [5, 8]
+
+            # Auxiliary
+            CMAuxiliarySupportOfficer: [1, 1]
+#            CMIntelOfficer: [4, 4]
+            CMPilotDropship: [2, 2] # TODO RMC14 1
+#            CMPilotGunship: [1, 1]
+#            CMDropshipCrewChief: [2, 2]
+
+            # Engineering
+#            CMChiefEngineer: [1, 1]
+#            CMOrdnanceTech: [3, 3]
+#            CMMaintTech: [2, 1]
+
+            # Medical
+            CMCMO: [1, 1]
+            CMDoctor: [4, 6]
+            CMNurse: [4, 6]
+#            CMResearcher: [2, 2]
+>>>>>>> master
 
             # Requisition
             CMQuartermaster: [1, 1]
             CMCargoTech: [3, 3]
+<<<<<<< HEAD
             CMMessTech: [1, 1]
+=======
+#            CMMessTech: [1, 1]
+>>>>>>> master
 
             # Marines
             CMSquadLeader: [4, 4]
-            CMFireteamLeader: [8, 16]
-            CMSmartGunOperator: [8, 16]
-            CMWeaponsSpecialist: [8, 16]
-            CMCombatTech: [16, 16]
+            CMFireteamLeader: [4, 8]
+#            CMSmartGunOperator: [8, 16]
+            CMWeaponsSpecialist: [4, 4]
+            CMCombatTech: [8, 12]
             CMHospitalCorpsman: [8, 16]
             CMRifleman: [ -1, -1 ]
 

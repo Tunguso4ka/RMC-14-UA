@@ -19,3 +19,5 @@ ent-CMHandsInsulated = ізольовані рукавички
 ent-CMHandsCaptain = рукавички командуючого
     .desc = Пара рукавичок командуючого.
 
+ent-RMCHandsM3G4 = M3-G4 grenadier gloves
+    .desc = A pair of plated, but nimble, gloves.

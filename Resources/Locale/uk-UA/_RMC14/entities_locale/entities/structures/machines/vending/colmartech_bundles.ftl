@@ -22,3 +22,5 @@ ent-CMVendorBundleSquadLeaderApparel = звичайна форма морпіх�
 ent-CMVendorBundleWeaponsSpecialistApparel = звичайна форма морпіхів
     .desc = { ent-CMVendorBundleRiflemanApparel.desc }
 
+ent-RMCVendorBundleMilitaryPoliceApparel = звичайна форма охорони
+    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
