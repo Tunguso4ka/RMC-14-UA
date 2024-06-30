@@ -4,8 +4,8 @@ ent-ColMarTechBase = КорМорТех торговий автомат
 ent-ColMarTechFood = КорМорТех автомат з їжею
     .desc = Автомат з їжею від КМП ООН, містить стандартні військові готові страви.
 
-ent-ArmatAttachments = автомат з навісними обладнанням від АРМАТ
-    .desc = Автоматична стійка, що під'єднана до маленького сховища з обладнанням до зброї. До неї мають доступ рядові.
+ent-CMVendorAttachments = Aegis Armaments squad attachments vendor
+    .desc = An automated supply rack hooked up to a small storage of weapons attachments. Can be accessed by any Marine Rifleman.
 
 ent-ColMarTechUtilities = КорМорТех автомат інструментів
     .desc = Автоматична стійка, що під'єднана до маленького сховища різних утилит та інструментів. До неї мають доступ рядові.
@@ -57,6 +57,12 @@ ent-ColMarTechFLGear = КорМорТех стійка спорядження л
 
 ent-ColMarTechFLEquipment = КорМорТех стелаж спорядження лідера підрозділу
     .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного спорядження лідерів підрозділів.
+
+ent-ColMarTechMilitaryPoliceEquipment = ColMarTech Military Police Equipment Rack
+    .desc = An automated rack hooked up to a colossal storage of Military Police standard-issue equipment.
+
+ent-ColMarTechWardenEquipment = ColMarTech Military Warden Equipment Rack
+    .desc = An automated rack hooked up to a colossal storage of Military Police standard-issue equipment.
 
 ent-ColMarTechSurplus = КорМорТех автомат додаткового спорядження
     .desc = An automated rack hooked up to a small storage of standard marine uniforms.

@@ -82,3 +82,6 @@ ent-CMCrateSecureWeapons = захищений ящик зброї
 
 ent-CMCrateSecureWeYa = захищений ящик Ве-Я
     .desc = Захищений замком ящик з лого Ве-Я.
+
+ent-RMCCrateSecurePhoron = ящик форону
+    .desc = Не з форону, але з фороном.
