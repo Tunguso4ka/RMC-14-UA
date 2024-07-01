@@ -13,9 +13,11 @@ ent-CMGrenadeFrag = M40 HEFA граната
 ent-CMExplosionEffectGrenade = ця сутність не має назви
     .desc = { "" }
 
+ent-RMCExplosionEffectGrenadeShockWave = { "" }
+    .desc = { "" }
+
 ent-CMExplosionEffectShrapnel1 = ця сутність не має назви
     .desc = { "" }
 
 ent-CMExplosionEffectShrapnel2 = { ent-CMExplosionEffectShrapnel1 }
     .desc = { ent-CMExplosionEffectShrapnel1.desc }
-

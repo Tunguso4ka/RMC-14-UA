@@ -1,5 +1,6 @@
-construction-category-cm-all = КM Усе
-construction-category-cm-structures = КM Структури
-construction-category-cm-utilities = КМ Утиліти
-construction-category-cm-materials = КМ Матеріали
-construction-category-cm-furniture = КМ Меблі
+construction-category-cm-all = Усе
+construction-category-cm-structures = Структури
+construction-category-cm-utilities = Утиліти
+construction-category-cm-materials = Матеріали
+construction-category-cm-furniture = Меблі
+construction-category-cm-box-magazine = Коробки магазінів

@@ -5,3 +5,6 @@ ent-CMSurgicalCaseFilled = { ent-CMSurgicalCase }
     .desc = { ent-CMSurgicalCase.desc }
     .suffix = Заповнений
 
+ent-CMSurgicalCaseFilledAllTools = { ent-CMSurgicalCase }
+    .desc = { ent-CMSurgicalCase.desc }
+    .suffix = Filled, All Tools
