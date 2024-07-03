@@ -31,6 +31,8 @@ tiles-cm-dirt-grass = трава з землею
 
 tiles-cm-rock = каменюка
 
+tiles-rmc-red-desert = червона пустеля
+
 tiles-cm-default-alpha = стальний тайл Альфа
 tiles-cm-default-bravo = стальний тайл Браво
 tiles-cm-default-charlie = стальний тайл Чарлі

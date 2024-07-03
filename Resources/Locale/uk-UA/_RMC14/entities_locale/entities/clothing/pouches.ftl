@@ -10,6 +10,9 @@ ent-CMPouchClosed = { ent-CMPouch }
 ent-CMPouchOpenClosed = { ent-CMPouchClosed }
     .desc = { ent-CMPouchClosed.desc }
 
+ent-RMCPouchFill = { ent-CMPouch }
+    .desc = { ent-CMPouch.desc }
+
 ent-CMPouchGeneral = легкий загальний мішочок
     .desc = Мішочок для загальних речей який може містити в собі одну маленьку чи дві крихітні речі.
 
@@ -118,4 +121,3 @@ ent-CMPouchSling = ремінь
 
 ent-CMPouchMachete = чохол для мачете М2132 зразку H6B
     .desc = Великий шкіряний чохол зроблений для мачете М2132.
-
