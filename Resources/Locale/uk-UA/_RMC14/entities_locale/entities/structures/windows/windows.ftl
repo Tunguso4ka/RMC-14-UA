@@ -19,12 +19,5 @@ ent-CMWindowWhiteColony = корпусне вікно
 ent-CMWindowWhiteColonyReinforced = корпусне армоване скло
     .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Виглядає досить міцно. Може знадобитися кілька хороших ударів, щоб розбити його.
 
-ent-CMWindowSolaris = вікно
+ent-CMWindowShiva = window
     .desc = A glass window inside a wall frame.
-
-ent-CMWindowSolarisReinforced = армоване вікно
-    .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Виглядає досить міцно. Може знадобитися кілька хороших ударів,   щоб розбити його.
-
-ent-CMWindowSolarisHull = { ent-CMWindowSolarisReinforced }
-    .desc = A glass window. Something tells you this one is somehow indestructible.
-
