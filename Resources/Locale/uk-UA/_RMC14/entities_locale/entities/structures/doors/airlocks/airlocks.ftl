@@ -23,6 +23,12 @@ ent-CMAirlockMaint = тех. тунелі
 ent-CMAirlockSecure = усилені двері
     .desc = { ent-CMBaseDoor.desc }
 
+ent-CMAirlockCell = камера
+    .desc = { ent-CMAirlock.desc }
+
+ent-CMAirlockPrison = тех. тунелі
+    .desc = { ent-CMAirlock.desc }
+
 ent-CMAirlockGlass = скляні двері
     .desc = { ent-CMBaseDoor.desc }
 

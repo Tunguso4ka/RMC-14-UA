@@ -24,6 +24,8 @@ cm-xeno-evolution-failed-hive-full = Вулик не здатен мати ще 
 rmc-xeno-evolution-devolve-title = Де-еволюціонувати до
 rmc-xeno-evolution-devolve = Ми де-еволюціонуємо до {$xeno}!
 
+rmc-xeno-evolution-cant-devolve-damaged = Ми заслабкі для еволюції, спочатку нам треба залікувати рани!
+
 cm-xeno-fortify-cant-headbutt = Ми не можемо розбігтись поки знаходимся в захисній стійці!
 cm-xeno-fortify-cant-rest = Ми не можемо відпочити знаходячись в захисній стійці!
 cm-xeno-fortify-cant-tail-sweep = Ми не можемо вдарити хвостом поки знаходимося в захисній стійці!
@@ -53,19 +55,19 @@ cm-xeno-pheromones-stop = Ми перестали випромінювати ф�
 
 cm-xeno-none-devoured = Ми ще нікого не зжерли!
 
-cm-xeno-rest-cant-headbutt = Ми не можемо розігнатись поки відпочиваємо!
-cm-xeno-rest-cant-fortify = Ми не можемо встати в стійку поки відпочиваємо!
-cm-xeno-rest-cant-tail-sweep = Ми не можемо вдарити хвостом поки відпочиваємо!
-cm-xeno-rest-cant-toggle-crest = Ми не можемо нахилитись поки відпочиваємо!
-
-cm-xeno-rest-cant-leap = You can't leap while resting!
-cm-xeno-rest-cant-lunge = You can't lunge while resting!
-cm-xeno-rest-cant-punch = You can't punch while resting!
-cm-xeno-rest-cant-fling = You can't punch while resting!
-cm-xeno-rest-cant-charge = You can't punch while resting!
-cm-xeno-rest-cant-stomp = You can't punch while resting!
-cm-xeno-rest-cant-gut = You can't punch while resting!
-cm-xeno-rest-cant-screech = You can't punch while resting!
+rmc-xeno-rest-cant-headbutt = You can't headbutt while resting!
+rmc-xeno-rest-cant-fortify = You can't fortify while resting!
+rmc-xeno-rest-cant-tail-sweep = You can't tail sweep while resting!
+rmc-xeno-rest-cant-toggle-crest = You can't lower your crest while resting!
+rmc-xeno-rest-cant-leap = You can't leap while resting!
+rmc-xeno-rest-cant-lunge = You can't lunge while resting!
+rmc-xeno-rest-cant-punch = You can't punch while resting!
+rmc-xeno-rest-cant-fling = You can't fling while resting!
+rmc-xeno-rest-cant-charge = You can't charge while resting!
+rmc-xeno-rest-cant-stomp = You can't stomp while resting!
+rmc-xeno-rest-cant-gut = You can't gut while resting!
+rmc-xeno-rest-cant-screech = You can't screech while resting!
+rmc-xeno-rest-cant-secrete = You can't secrete while resting!
 
 cm-xeno-toggle-crest-cant-fortify = Ми не можемо встати в стійку поки ми нахилені!
 cm-xeno-toggle-crest-cant-rest = Ми не можемо відпочити поки ми нахилені!

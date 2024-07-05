@@ -43,3 +43,8 @@ ent-RMCFigurinePatronArchylleCatleay = Archylle Catleay figurine
 ent-RMCFigurinePatronTessieTerrence = Tessie Terrence figurine
     .desc = She's here to brighten your day!
 
+ent-RMCFigurinePatronDagobertDogburglar = Dagobert Dogburglar figurine
+    .desc = One must imagine marines happy.
+
+ent-RMCFigurinePatronHerbsquirto = Herbsquirto figurine
+    .desc = The corporation's best botanist.

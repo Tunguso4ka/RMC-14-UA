@@ -30,3 +30,6 @@ ent-CMSatchelMarineTech = розгрузка техників КМП ООН
 
 ent-RMCSatchelGrenadeSpec = UNMC IMP M63A1 grenade satchel
     .desc = A satchel specially designed to maximize grenade carrying capacity while minimizing the risks of secondary ignition.
+
+ent-RMCSatchelWelder = UNMC technician welder-satchel
+    .desc = A specialized satchel worn by UNMC technicians and engineers. It carries two small fuel tanks for quick welder refueling and use.
