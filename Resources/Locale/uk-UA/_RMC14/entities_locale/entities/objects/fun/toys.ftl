@@ -18,3 +18,6 @@ ent-CMPlushieTherapy = терапевтична іграшка
 
 ent-CMPlushieRunnerBeret = терапевтична іграшка XX-121
     .desc = Не сумуй! Радій (що ти живий)!
+
+ent-RCMPlushieRounyLizard = silly rouny plushie
+    .desc = A silly rouny plushie produced by the UNMC to reduce stress in marines, shown to be highly effective when thrown into walls.
