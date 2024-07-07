@@ -1,2 +1,2 @@
 ent-XenoProjectileImpactEffect = XenoProjectileImpactEffect
-
+    .desc = { "" }
