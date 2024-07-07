@@ -1,4 +1,4 @@
-ent-CMBaseAlamoWall = alamo wall
+ent-CMBaseAlamoWall = стіна Аламо
     .desc = { ent-CMBaseWall.desc }
 
 ent-CMAlamoWall1 = { ent-CMBaseAlamoWall }

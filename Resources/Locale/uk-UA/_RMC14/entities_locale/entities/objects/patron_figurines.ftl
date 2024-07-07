@@ -48,3 +48,6 @@ ent-RMCFigurinePatronDagobertDogburglar = Dagobert Dogburglar figurine
 
 ent-RMCFigurinePatronHerbsquirto = Herbsquirto figurine
     .desc = The corporation's best botanist.
+
+ent-RMCFigurinePatronRainyCloudly = Rainy Cloudly figurine
+    .desc = The pearlescent slimeperson figurine ripples and shimmers like a puddle, emanating a faint scent of fresh rain and whispers of distant thunder.
