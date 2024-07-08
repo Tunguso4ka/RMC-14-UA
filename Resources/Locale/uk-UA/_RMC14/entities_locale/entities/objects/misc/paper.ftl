@@ -1,5 +1,11 @@
+ent-CMBasePaper = папір
+    .desc = Шматочок білого папіру
+
+ent-CMBasePaperFaxable = { ent-CMBasePaper }
+    .desc = { ent-CMBasePaper.desc }
+
 ent-CMPaper = папір
-    .desc = { ent-Paper.desc }
+    .desc = { ent-CMBasePaperFaxable.desc }
 
 ent-CMPaperWritten = { ent-CMPaper }
     .desc = { ent-CMPaper.desc }

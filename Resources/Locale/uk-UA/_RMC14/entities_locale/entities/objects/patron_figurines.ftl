@@ -51,3 +51,6 @@ ent-RMCFigurinePatronHerbsquirto = Herbsquirto figurine
 
 ent-RMCFigurinePatronRainyCloudly = Rainy Cloudly figurine
     .desc = The pearlescent slimeperson figurine ripples and shimmers like a puddle, emanating a faint scent of fresh rain and whispers of distant thunder.
+
+ent-RMCFigurinePatronAtlasBootes = Atlas 'The Law' Bootes figurine
+    .desc = A young career officer with a big tail and heart.

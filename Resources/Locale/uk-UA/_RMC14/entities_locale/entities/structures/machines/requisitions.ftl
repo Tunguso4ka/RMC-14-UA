@@ -1,3 +1,6 @@
+ent-RMCASRSAccount = акаунт АСОПа
+    .desc = { "" }
+
 ent-CMASRSConsole = консоль АСОПа
     .desc = Консоль Автоматичної Системи Отримання Пакунків
     .suffix = Requisitions
