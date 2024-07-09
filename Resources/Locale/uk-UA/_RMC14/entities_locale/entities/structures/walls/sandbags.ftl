@@ -18,3 +18,7 @@ ent-CMSandbagFull = заповнені мішки з піском
 ent-CMSandbagFull50 = { ent-CMSandbagFull }
     .desc = { ent-CMSandbagFull.desc }
     .suffix = 50
+
+ent-CMSandbagFull25 = { ent-CMSandbagFull }
+    .desc = { ent-CMSandbagFull.desc }
+    .suffix = 25
