@@ -87,6 +87,7 @@ tiles-gold-tile = золотий тайл
 tiles-silver-tile = срібряний тайл
 tiles-glass-floor = скляна підлога
 tiles-reinforced-glass-floor = усилена скляна підлога
+tiles-metal-foam = metal foam floor
 tiles-green-circuit-floor = green circuit floor
 tiles-blue-circuit-floor = blue circuit floor
 tiles-snow = сніг

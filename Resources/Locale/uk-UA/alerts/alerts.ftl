@@ -13,16 +13,16 @@ alerts-low-pressure-desc = Повітря навколо тебе [color=red]н�
 alerts-high-pressure-name = [color=red]Високий тиск[/color]
 alerts-high-pressure-desc = Повітря навколо тебе [color=red]небезпечно товсте[/color]. [color=green]Захисний костюм[/color] захистить вас.
 
-alerts-on-fire-name = [color=red]On Fire[/color]
+alerts-on-fire-name = [color=red]Ви горите[/color]
 alerts-on-fire-desc = You're [color=red]on fire[/color]. Click the alert to stop, drop and roll to put the fire out or move to a vacuum area.
 
-alerts-too-cold-name = [color=cyan]Too Cold[/color]
+alerts-too-cold-name = [color=cyan]Холодно[/color]
 alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere warmer and take off any insulating clothing like a space suit.
 
-alerts-too-hot-name = [color=red]Too Hot[/color]
+alerts-too-hot-name = [color=red]Горяче[/color]
 alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, take off any insulating clothing like a space suit, or at least get away from the flames.
 
-alerts-weightless-name = Weightless
+alerts-weightless-name = Невагомість
 alerts-weightless-desc = 
     Gravity has ceased affecting you, and you're floating around aimlessly. Find something sturdy to hold onto, or throw or shoot something in a direction opposite of you.
     Mag-boots or jetpacks would help you move with more control.
@@ -30,7 +30,7 @@ alerts-weightless-desc =
 alerts-stunned-name = [color=yellow]Stunned[/color]
 alerts-stunned-desc = You're [color=yellow]stunned[/color]! Something is impairing your ability to move or interact with objects.
 
-alerts-handcuffed-name = [color=yellow]Handcuffed[/color]
+alerts-handcuffed-name = [color=yellow]В кайданах[/color]
 alerts-handcuffed-desc = You're [color=yellow]handcuffed[/color] and can't use your hands. If anyone drags you, you won't be able to resist.
 
 alerts-ensnared-name = [color=yellow]Ensnared[/color]

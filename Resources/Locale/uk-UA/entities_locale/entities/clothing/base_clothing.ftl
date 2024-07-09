@@ -1,14 +1,17 @@
 ent-Clothing = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-GeigerCounterClothing = ця сутність не має назви
+ent-GeigerCounterClothing = { "" }
     .desc = { "" }
 
-ent-AllowSuitStorageClothing = ця сутність не має назви
+ent-AllowSuitStorageClothing = { "" }
     .desc = { "" }
 
-ent-ClothingSlotBase = ця сутність не має назви
+ent-AllowSuitStorageClothingGasTanks = { "" }
     .desc = { "" }
 
-ent-ContentsExplosionResistanceBase = ця сутність не має назви
+ent-ClothingSlotBase = { "" }
+    .desc = { "" }
+
+ent-ContentsExplosionResistanceBase = { "" }
     .desc = { "" }

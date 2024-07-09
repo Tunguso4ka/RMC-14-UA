@@ -28,7 +28,7 @@ materials-coal = вугілля
 materials-gunpowder = порох
 
 # Ores
-materials-raw-iron = необроблене зализо
+materials-raw-iron = необроблене залізо
 materials-raw-quartz = необроблений кварц
 materials-raw-gold = необроблене золото
 materials-raw-silver = необроблено срібло

@@ -53,7 +53,7 @@ anomaly-sync-no-anomaly = Жодної аномалії поблизу.
 anomaly-sync-examine-connected = [color=darkgreen]Є зʼєднання[/color] з аномалією.
 anomaly-sync-examine-not-connected = [color=darkred]Нема зʼєднання[/color] з аномалією.
 anomaly-sync-connect-verb-text = Приєднати аномалією
-anomaly-sync-connect-verb-message = Приєднати ближчу аномалію до {THE($machine)}.
+anomaly-sync-connect-verb-message = Приєднати ближчу аномалію до {$machine}.
 
 anomaly-generator-ui-title = Генератор Аномалій
 anomaly-generator-fuel-display = Паливо:
@@ -71,14 +71,13 @@ anomaly-generator-announcement = Аномалію було створено!
 anomaly-command-pulse = Поштовхує цільову аномалію
 anomaly-command-supercritical = Перетворює цільову аномалію на суперкритичну
 
-# Flavor text on the footer
 anomaly-generator-flavor-left = Аномалія може зʼявитися всередині оператора.
 anomaly-generator-flavor-right = v1.1
 
 anomaly-behavior-unknown = [color=red]ERROR. Cannot be read.[/color]
 
 anomaly-behavior-title = behavior deviation analysis:
-anomaly-behavior-point =[color=gold]Anomaly produces {$mod}% of the points[/color] 
+anomaly-behavior-point = [color=gold]Anomaly produces {$mod}% of the points[/color] 
 
 anomaly-behavior-safe = [color=forestgreen]The anomaly is extremely stable. Extremely rare pulsations.[/color]
 anomaly-behavior-slow = [color=forestgreen]The frequency of pulsations is much less frequent.[/color]
@@ -89,6 +88,7 @@ anomaly-behavior-rapid = The frequency of the pulsation is much higher, but its 
 anomaly-behavior-reflect = A protective coating was detected.
 anomaly-behavior-nonsensivity = A weak reaction to particles was detected.
 anomaly-behavior-sensivity = Amplified reaction to particles was detected.
+anomaly-behavior-invisibility = Light wave distortion has been detected.
 anomaly-behavior-secret = Interference detected. Some data cannot be read
 anomaly-behavior-inconstancy = [color=crimson]Impermanence has been detected. Particle types can change over time.[/color]
 anomaly-behavior-fast = [color=crimson]The pulsation frequency is strongly increased.[/color]
