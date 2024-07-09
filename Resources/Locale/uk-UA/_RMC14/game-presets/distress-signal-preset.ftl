@@ -1,3 +1,6 @@
+rmc-distress-signal-title = Сигнал Лиха
+rmc-distress-signal-description = Відкликнетеся на Сигнал Лиха, що був послан з найближчої планети.
+
 cm-distress-signal-majormarinevictory = [color=green]Мажорна перемога МорПіхів![/color]
 cm-distress-signal-minormarinevictory = [color=blue]Мінорна перемога МорПіхів![/color]
 cm-distress-signal-majorxenovictory = [color=purple]Мажорна перемога Ксеноморфів![/color]

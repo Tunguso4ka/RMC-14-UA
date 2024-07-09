@@ -25,3 +25,19 @@ ent-RMCSheetCardboard25 = { ent-RMCSheetCardboard }
 ent-RMCSheetCardboard1 = { ent-RMCSheetCardboard }
     .desc = { ent-RMCSheetCardboard.desc }
     .suffix = Single, RMC
+
+ent-RMCPlankWood = дерево
+    .desc = One can only guess that this is a bunch of wood.
+    .suffix = Full
+
+ent-RMCPlankWood10 = { ent-RMCPlankWood }
+    .desc = { ent-RMCPlankWood.desc }
+    .suffix = 10
+
+ent-RMCPlankWood50 = { ent-RMCPlankWood }
+    .desc = { ent-RMCPlankWood.desc }
+    .suffix = 50
+
+ent-RMCPlankWood1 = { ent-RMCPlankWood }
+    .desc = { ent-RMCPlankWood.desc }
+    .suffix = Single
