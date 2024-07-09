@@ -7,10 +7,10 @@ ent-AsteroidDebrisSmall = Маленький уламок астероїда
 ent-AsteroidDebrisMedium = Середній уламок астероїда
     .desc = { ent-BaseAsteroidDebris.desc }
 
-ent-AsteroidDebrisLarge = Больший уламок астероїда
+ent-AsteroidDebrisLarge = Великий уламок астероїда
     .desc = { ent-BaseAsteroidDebris.desc }
 
-ent-AsteroidDebrisLarger = Великий уламок астероїда
+ent-AsteroidDebrisLarger = Величезний уламок астероїда
     .desc = { ent-BaseAsteroidDebris.desc }
 
 ent-AsteroidSalvageSmall = Salvage Asteroid Small
@@ -24,4 +24,3 @@ ent-AsteroidSalvageLarge = Salvage Asteroid Large
 
 ent-AsteroidSalvageHuge = Salvage Asteroid Huge
     .desc = { ent-BaseAsteroidDebris.desc }
-

@@ -1,74 +1,74 @@
 ent-Jug = глечик
     .desc = Використовується для зберігання великих обсягів хімікатів або інших рідин. Пити з нього вкрай не розумно.
 
-ent-JugCarbon = глечик (вуглець)
+ent-JugCarbon = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugIodine = глечик (йод)
+ent-JugIodine = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugFluorine = глечик (фтор)
+ent-JugFluorine = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugChlorine = глечик (хлор)
+ent-JugChlorine = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugAluminium = глечик (алюміній)
+ent-JugAluminium = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugPhosphorus = глечик (фосфор)
+ent-JugPhosphorus = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugSulfur = глечик (сірка)
+ent-JugSulfur = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugSilicon = глечик (кремній)
+ent-JugSilicon = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugHydrogen = глечик (водень)
+ent-JugHydrogen = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugLithium = глечик (літій)
+ent-JugLithium = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugSodium = глечик (натрій)
+ent-JugSodium = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugPotassium = глечик (калій)
+ent-JugPotassium = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugRadium = глечик (радій)
+ent-JugRadium = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugIron = глечик (залізо)
+ent-JugIron = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugCopper = глечик (мідь)
+ent-JugCopper = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugGold = глечик (золото)
+ent-JugGold = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugMercury = глечик (ртуть)
+ent-JugMercury = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugSilver = глечик (срібло)
+ent-JugSilver = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugEthanol = глечик (етанол)
+ent-JugEthanol = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugSugar = глечик (цукор)
+ent-JugSugar = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugNitrogen = глечик (азот)
+ent-JugNitrogen = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugOxygen = глечик (кисень)
+ent-JugOxygen = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugPlantBGone = глечик (Plant-B-Gone)
+ent-JugPlantBGone = глечик
     .desc = { ent-Jug.desc }
 
-ent-JugWeldingFuel = глечик (паливо для зварника)
+ent-JugWeldingFuel = глечик
     .desc = { ent-Jug.desc }

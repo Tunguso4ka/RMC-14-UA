@@ -90,7 +90,7 @@ ent-ClothingBackpackDebug = фукзак
     .desc = Що це за ху... фігня?
     .suffix = Дебаг
 
-ent-ClothingBackpackDebug2 = больший фукзак
+ent-ClothingBackpackDebug2 = великий фукзак
     .desc = Що це за ху... фігня?
     .suffix = Дебаг
 

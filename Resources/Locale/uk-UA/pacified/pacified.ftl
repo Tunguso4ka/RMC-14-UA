@@ -2,14 +2,14 @@
 ## Messages shown to Pacified players when they try to do violence:
 
 # With projectiles:
-pacified-cannot-throw = I can't bring myself to throw { THE($projectile) }, that could hurt someone!
+pacified-cannot-throw = Я не можу змусити себе кинути { $projectile }, це може комусь нашкодити!
 # With embedding projectiles:
-pacified-cannot-throw-embed = No way I could throw { THE($projectile) }, that could get lodged inside someone!
+pacified-cannot-throw-embed = Я ні за що не кину { $projectile }, воно може встромитися в когось!
 # With liquid-spilling projectiles:
-pacified-cannot-throw-spill = I can't possibly throw { THE($projectile) }, that could spill nasty stuff on someone!
+pacified-cannot-throw-spill = Я не думаю, що зможу кинути { $projectile }, воно може пролити щось на когось!
 # With bolas and snares:
-pacified-cannot-throw-snare = I can't throw { THE($projectile) }, what if someone trips?!
+pacified-cannot-throw-snare = Я не можу кинути { $projectile }, а вдруг хтось впаде?!
 
-pacified-cannot-harm-directly = I can't bring myself to hurt { THE($entity) }!
-pacified-cannot-harm-indirect = I can't damage { THE($entity) }, it could hurt someone!
-pacified-cannot-fire-gun = I can't fire { THE($entity) }, it could hurt someone!
+pacified-cannot-harm-directly = Я не можу змусити себе нашкодити { $entity }!
+pacified-cannot-harm-indirect = Я не можу зламати { $entity }, хтось може постраждати!
+pacified-cannot-fire-gun = Я не можу стрільнути з { $entity }, вдруг я в когось попаду?!

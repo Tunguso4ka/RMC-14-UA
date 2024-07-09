@@ -8,6 +8,7 @@ ent-GrenadeFlashBang = flashbang
     .desc = Eeeeeeeeeeeeeeeeeeeeee
 
 ent-GrenadeFlashEffect = DO NOT TRANSLATE
+    .desc = { "" }
 
 ent-SyndieMiniBomb = syndicate minibomb
     .desc = A syndicate-manufactured explosive used to stow destruction and cause chaos.
@@ -42,9 +43,11 @@ ent-CleanerGrenade = cleanade
 ent-TearGasGrenade = tear gas grenade
     .desc = A riot control tear gas grenade. Causes irritation, pain and makes you cry your eyes out.
 
+ent-MetalFoamGrenade = metal foam grenade
+    .desc = An emergency tool used for patching up holes. Almost as good as real walls.
+
 ent-GrenadeDummy = trick grenade
     .desc = All the grenade without any of the boom.
 
 ent-SyndieTrickyBomb = syndicate trickybomb
     .desc = A syndicate-manufactured explosive used to make an excellent distraction.
-

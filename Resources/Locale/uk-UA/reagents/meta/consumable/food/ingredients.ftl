@@ -1,5 +1,5 @@
-reagent-name-flour = flour
-reagent-desc-flour = Used for baking.
+reagent-name-flour = борошно
+reagent-desc-flour = Використовується для випікання.
 
 reagent-name-cornmeal = cornmeal
 reagent-desc-cornmeal = Used for baking.
@@ -13,11 +13,11 @@ reagent-desc-enzyme = Used in cooking various dishes.
 reagent-name-egg = cooked egg
 reagent-desc-egg = Cooked chicken embryo, delicious.
 
-reagent-name-raw-egg = raw egg
+reagent-name-raw-egg = сире яйце
 reagent-desc-raw-egg = Used for baking.
 
-reagent-name-sugar = sugar
-reagent-desc-sugar = Tasty spacey sugar!
+reagent-name-sugar = цукор
+reagent-desc-sugar = Смачнючий космічний цукор!
 
 reagent-name-blackpepper = black pepper
 reagent-desc-blackpepper = Often used to flavor food or make people sneeze.
@@ -25,13 +25,13 @@ reagent-desc-blackpepper = Often used to flavor food or make people sneeze.
 reagent-name-vinegar = vinegar
 reagent-desc-vinegar = Often used to flavor food.
 
-reagent-name-rice = rice
+reagent-name-rice = рис
 reagent-desc-rice = Hard, small white grains.
 
-reagent-name-oil-olive = olive oil
+reagent-name-oil-olive = олівкова олія
 reagent-desc-oil-olive = Viscous and fragrant.
 
-reagent-name-oil = oil
+reagent-name-oil = олія
 reagent-desc-oil = Used by chefs to cook.
 
 reagent-name-capsaicin-oil = Capsaicin Oil

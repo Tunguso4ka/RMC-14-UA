@@ -1,5 +1,5 @@
 ent-SeatBase = крісло
-    .desc = Зроблен щоб на ньому сидити.
+    .desc = Зробленo щоб на ньому сидити.
 
 ent-UnanchoredChairBase = крісло
     .desc = { ent-SeatBase.desc }
@@ -21,7 +21,7 @@ ent-ChairGreyscale = крісло
     .suffix = Біле
 
 ent-Stool = сідушка
-    .desc = Додайте дупу.
+    .desc = Просто додайте до неї дупу.
 
 ent-StoolBar = барна сідушка
     .desc = { ent-SeatBase.desc }

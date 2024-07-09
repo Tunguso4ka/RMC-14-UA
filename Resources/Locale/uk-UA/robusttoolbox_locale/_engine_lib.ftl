@@ -1,6 +1,6 @@
 ﻿# Used internally by the THE() function.
 zzzz-the = { PROPER($ent) ->
-    *[false] the { $ent }
+    *[false] { $ent }
      [true] { $ent }
     }
 

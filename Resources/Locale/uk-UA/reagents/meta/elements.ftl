@@ -28,7 +28,7 @@ reagent-desc-hydrogen = A light, flammable gas.
 reagent-name-iodine = йод
 reagent-desc-iodine = Commonly added to table salt as a nutrient. On its own it tastes far less pleasing.
 
-reagent-name-iron = зализо
+reagent-name-iron = залiзо
 reagent-desc-iron = A silvery-grey metal which forms iron oxides (rust) with contact with air. Commonly alloyed with other elements to create alloys such as steel.
 
 reagent-name-lithium = літій

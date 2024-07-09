@@ -1,3 +1,6 @@
+ent-BaseSword = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+
 ent-CaptainSabre = шабля капітана
     .desc = Церемоніальна зброя, що належить капітану цієї станції.
 
