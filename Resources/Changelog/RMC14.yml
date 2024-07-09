@@ -2527,5 +2527,108 @@
   id: 307
   time: '2024-07-08T11:06:41.0000000+00:00'
   url: https://github.com/RMC-14/RMC-14/pull/2899
+- author: Mattshark89
+  changes:
+  - message: The Queen's screech no longer affects marines behind opaque walls. It
+      still affects marines behind barricades.
+    type: Tweak
+  id: 308
+  time: '2024-07-08T11:11:04.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2866
+- author: UnicornOnLSD
+  changes:
+  - message: Several medical sprites are now BLU, per player demand.
+    type: Add
+  id: 309
+  time: '2024-07-08T11:24:50.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2895
+- author: DrSmugleaf
+  changes:
+  - message: All caps including surgical can now hold any combination of 2 lighters,
+      cigarettes and matchsticks.
+    type: Tweak
+  id: 310
+  time: '2024-07-08T11:24:24.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2900
+- author: DrSmugleaf
+  changes:
+  - message: Fixed the defender being able to push nested marines deeper into the
+      walls with its abilities.
+    type: Fix
+  id: 311
+  time: '2024-07-08T11:52:06.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2901
+- author: ShadowCommander
+  changes:
+  - message: Ship staff no longer spawn hungry.
+    type: Fix
+  id: 312
+  time: '2024-07-08T20:47:50.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2904
+- author: diraven
+  changes:
+  - message: Pheromones icons are now shown even without direct line of sight.
+    type: Tweak
+  id: 313
+  time: '2024-07-08T21:28:31.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2910
+- author: DrSmugleaf
+  changes:
+  - message: Fixed the lifesaver bag's storage UI being extremely long, it is now
+      split into 3 rows instead. Same storage space as before.
+    type: Fix
+  id: 314
+  time: '2024-07-08T22:05:24.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2912
+- author: DrSmugleaf
+  changes:
+  - message: Fixed a bug where the health bar overlay for xenos would sometimes momentarily
+      disappear.
+    type: Fix
+  id: 315
+  time: '2024-07-08T22:05:16.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2911
+- author: DrSmugleaf
+  changes:
+  - message: Fixed xenos not being able to corrode folding barricades.
+    type: Fix
+  id: 316
+  time: '2024-07-08T22:05:01.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2913
+- author: DrSmugleaf
+  changes:
+  - message: Xenos can now see non-xenos hidden in lockers after a hijack.
+    type: Tweak
+  id: 317
+  time: '2024-07-09T00:03:38.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2920
+- author: DrSmugleaf
+  changes:
+  - message: Fixed being able to deconstruct the ASRS console.
+    type: Fix
+  id: 318
+  time: '2024-07-09T00:48:57.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2919
+- author: Tunguso4ka
+  changes:
+  - message: Ported disabler gun!
+    type: Add
+  id: 319
+  time: '2024-07-09T00:49:09.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2916
+- author: DrSmugleaf
+  changes:
+  - message: Added pod door buttons.
+    type: Add
+  id: 320
+  time: '2024-07-09T03:51:56.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2922
+- author: Sphiral
+  changes:
+  - message: Barricades now have a 0.7 use delay
+    type: Tweak
+  id: 321
+  time: '2024-07-09T04:09:43.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2837
 Name: RMC14
 Order: -1
