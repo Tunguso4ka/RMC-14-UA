@@ -54,3 +54,6 @@ ent-RMCFigurinePatronRainyCloudly = Rainy Cloudly figurine
 
 ent-RMCFigurinePatronAtlasBootes = Atlas 'The Law' Bootes figurine
     .desc = A young career officer with a big tail and heart.
+
+ent-RMCFigurinePatronKameronCook = Kameron Cook figurine
+    .desc = I Cooka Da Pizza.

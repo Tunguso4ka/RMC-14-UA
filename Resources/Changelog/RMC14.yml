@@ -2630,5 +2630,171 @@
   id: 321
   time: '2024-07-09T04:09:43.0000000+00:00'
   url: https://github.com/RMC-14/RMC-14/pull/2837
+- author: Tunguso4ka
+  changes:
+  - message: Ported Solaris Ridge
+    type: Add
+  id: 322
+  time: '2024-07-09T08:51:18.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2479
+- author: Vermidia
+  changes:
+  - message: Getting infected now also mutes you (in addition to paralyzing and blinding
+      you)
+    type: Add
+  id: 323
+  time: '2024-07-09T09:40:46.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2925
+- author: DrSmugleaf
+  changes:
+  - message: Fixed damaged xenonids being able to evolve. Xenos must now be on full
+      health to evolve, same as devolving.
+    type: Fix
+  id: 324
+  time: '2024-07-09T10:50:50.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2929
+- author: DrSmugleaf
+  changes:
+  - message: Fixed defenders staying fortified after going into crit.
+    type: Fix
+  id: 325
+  time: '2024-07-09T10:51:11.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2928
+- author: DrSmugleaf
+  changes:
+  - message: Fixed xenonids being able to put eggs inside resin structures and being
+      able to build on top of eggs to hide them.
+    type: Fix
+  id: 326
+  time: '2024-07-09T11:08:16.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2927
+- author: DrSmugleaf
+  changes:
+  - message: Fixed eggs being able to infect through corners.
+    type: Fix
+  id: 327
+  time: '2024-07-09T19:23:20.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2931
+- author: DrSmugleaf
+  changes:
+  - message: Re-enabled the Discord game admin chat bridge.
+    type: Add
+  id: 328
+  time: '2024-07-09T19:29:00.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2871
+- author: diraven
+  changes:
+  - message: Xenos in "watch xeno" skill ui are now sorted alphabetically.
+    type: Tweak
+  id: 329
+  time: '2024-07-09T19:30:38.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2934
+- author: Zarq
+  changes:
+  - message: Added recipes for current medicines.
+    type: Add
+  - message: Re-enabled the Chemical Dispenser.
+    type: Tweak
+  id: 330
+  time: '2024-07-09T19:52:18.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2735
+- author: blueDev2
+  changes:
+  - message: Barricades with barbed wires maintain their barbed wires when upgrading
+    type: Fix
+  id: 331
+  time: '2024-07-10T03:01:33.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2936
+- author: DrSmugleaf
+  changes:
+  - message: Fixed walls and membranes not destroying weed nodes under them when constructed.
+    type: Fix
+  id: 332
+  time: '2024-07-10T03:34:55.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2942
+- author: DrSmugleaf
+  changes:
+  - message: Added admin logs for plant weeds, xeno construction and order construction.!
+    type: Add
+  id: 333
+  time: '2024-07-10T07:34:12.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2947
+- author: DrSmugleaf
+  changes:
+  - message: Fixed nested marines getting knocked back into walls by grenade explosions.
+    type: Fix
+  id: 334
+  time: '2024-07-10T07:47:35.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2945
+- author: DrSmugleaf
+  changes:
+  - message: Default projectile speed has been increased by 24%
+    type: Tweak
+  id: 335
+  time: '2024-07-10T07:47:45.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2946
+- author: DrSmugleaf
+  changes:
+  - message: Fixed some dropship tiles not being see-through. This includes the engines
+      on the sides, and the winglets next to the side and bottom crew hatches.
+    type: Fix
+  id: 336
+  time: '2024-07-10T07:47:56.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2938
+- author: DrSmugleaf
+  changes:
+  - message: The xenonid "Choose Resin Structure" window now stays open after making
+      a selection, allowing it to be changed back and forth without reopening the
+      window.
+    type: Tweak
+  id: 337
+  time: '2024-07-10T08:29:25.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2951
+- author: 0xRainy
+  changes:
+  - message: Non-Xeno can no longer nest players
+    type: Fix
+  id: 338
+  time: '2024-07-10T09:48:41.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2943
+- author: DrSmugleaf
+  changes:
+  - message: Fixed anyone being able to walk through the Almayer's medbay, and hospital
+      corpsmen being able to walk into the medbay's chemistry rooms. The marine tide
+      must now walk through the top or bottom hallways towards the hangar.
+    type: Fix
+  - message: Fixed security airlocks not being security locked on the Almayer.
+    type: Fix
+  - message: Temporarily unpowered all Intercoms until the xenonids are no longer
+      able to speak in plain English through them.
+    type: Fix
+  - message: Added the Almayer's north and south hangar pod doors, and meeting room
+      security checkpoints shutters.
+    type: Add
+  - message: Added medical equipment racks and chemical dispensers to the Almayer's
+      medbay.
+    type: Add
+  - message: Added a command tablet next to the groundside operations console on the
+      Almayer.
+    type: Add
+  - message: Moved the liaison's spawn point on the Almayer into a temporary room
+      with a fax and paper.
+    type: Tweak
+  - message: Moved the correspondent's spawn point on the Almayer into a temporary
+      room with two cameras.
+    type: Tweak
+  - message: Added one more staff officer slot on the Almayer, and one more cargo
+      tech slot.
+    type: Tweak
+  id: 339
+  time: '2024-07-10T12:27:05.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2955
+- author: Whisper
+  changes:
+  - message: Fixed M1984 accepting 9mm AP in regular mags.
+    type: Fix
+  id: 340
+  time: '2024-07-10T12:45:28.0000000+00:00'
+  url: https://github.com/RMC-14/RMC-14/pull/2957
 Name: RMC14
 Order: -1

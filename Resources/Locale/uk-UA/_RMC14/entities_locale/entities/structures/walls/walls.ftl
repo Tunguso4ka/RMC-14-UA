@@ -48,3 +48,9 @@ ent-CMWallWood = дерев'яна стіна
 
 ent-CMWallJungle = джунглі
     .desc = Зарослі через які не проходить сонячне світло.
+
+ent-RMCWallElevator = elevator wall
+    .desc = { ent-CMBaseWallInvincible.desc }
+
+ent-RMCWallElevatorBroken = elevator wall
+    .desc = { ent-CMBaseWallInvincible.desc }

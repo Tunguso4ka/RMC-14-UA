@@ -1,3 +1,6 @@
+ent-RMCWindowFramePrison = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+
 ent-RMCWindowPrison = window
     .desc = A glass window with a special rod matrix inside a wall frame.
 

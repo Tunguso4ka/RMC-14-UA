@@ -1,24 +1,38 @@
-ent-CMRailAttachmentBase = { ent-CMAttachmentBase }
-    .desc = { ent-CMAttachmentBase.desc }
+ent-RMCRailAttachmentBase = { ent-RMCAttachmentBase }
+    .desc = { ent-RMCAttachmentBase.desc }
 
-ent-CMAttachmentRailFlashlight = rail flashlight
+ent-RMCAttachmentRailFlashlight = rail flashlight
     .desc = A flashlight, for rails, on guns. Can be toggled on and off. A better light source than standard M3 pattern armor lights.
 
-ent-CMAttachmentS42xTelescopicMiniScope = телескопічний міні-приціл S4 2x
-    .desc = Телескопічний приціл S4 від АРМАТ. Зафіксований на скромному 2-кратному збільшенні.
+ent-RMCAttachmentMagneticHarness = magnetic harness
+    .desc = A magnetically attached harness kit that attaches to the rail mount of a weapon. When dropped, the weapon will sling to any set of Marine armor.
 
-ent-CMAttachmentMagneticHarness = магнітний каркас
-    .desc = Магнітний каркас що кріпиться до зброї. Якщо відпустити зброю з рук, вона притягнеться до найближчої броні КМП ООН.
+ent-RMCAttachmentS5RedDotSight = S5 red-dot sight
+    .desc = An all-weather collimator sight, designated as the AN/PVQ-64 Dot Sight. Equipped with a sunshade to increase clarity in bright conditions and resist weathering. Compact and efficient, a marvel of military design, until you realize that this is actually just an off-the-shelf design that got a military designation slapped on.
 
-ent-CMAttachmentB8SmartScope = розумний приціл B8
-    .desc = Експериментальний розумний приціл B8. Заснований на технологіях використованих АРМАТом у розумної зброї, цей приціл має інтегровану систему свій-чужий. Нажаль, його можна під'єднати тільки до бойової гвинтивки M4RA та бойового револьвера M44.
+ent-RMCAttachmentS6ReflexSight = S6 reflex sight
+    .desc = An AEGIS S6 reflex sight. A zero-magnification alternative to iron sights with a more open optic window when compared to the S5 red-dot. Helps to reduce scatter during automated fire.
 
-ent-CMAttachmentS5RedDotSight = приціл з червоною точкою S5
-    .desc = Всепогодний коліматорний приціл, призначений як приціл з точкою AN/PVQ-64. Обладнаний навісом від сонця для підвищення чіткості та стійкості до погодних умов. Компактний та ефективний, диво військового дизайну! До того як ти зрозумієш що це звичайний приціл з полиці магазину на який наклеїли військову назву.
+ent-RMCAttachmentScopeBase = { ent-RMCRailAttachmentBase }
+    .desc = { ent-RMCRailAttachmentBase.desc }
 
-ent-CMAttachmentS6ReflexSight = рефлекторний приціл S6
-    .desc = Рефлекторний приціл S6 від АРМАТа. Альтернатива механічним прицілам з нульовим збільшенням та більшею кількістю оптичних вікон порівняно з прицілом S5. Допомогає зменшити розкид під час автоматного вогню.
+ent-RMCAttachmentS84xTelescopicScope = S8 4x telescopic scope
+    .desc = An AEGIS S8 telescopic eye piece. Fixed at 4x zoom.
 
-ent-CMAttachments84xTelescopicScope = телескопічний приціл S8 4x
-    .desc = Телескопічний приціл S8 від АРМАТ. Зафіксований на 4-кратному збільшенні.
+ent-RMCAttachmentSlavicScope = 4x telescopic scope
+    .desc = Oppa! How did you get this off glorious Stalin weapon? Blyat, put back on and do job tovarish. Yankee is not shoot self no?
 
+ent-RMCAttachmentS42xTelescopicMiniscope = S4 2x telescopic mini-scope
+    .desc = An AEGIS S4 telescoping eye piece. Fixed at a modest 2x zoom.
+
+ent-RMCAttachmentS42xAdvancedTelescopicMiniscope = WeYa S4 2x advanced telescopic mini-scope
+    .desc = An AEGIS S4 telescoping eye piece, custom-tuned by WeYa scientists to be as ergonomic as possible.
+
+ent-RMCAttachmentMiniscopeHunting = 2x hunting mini-scope
+    .desc = This civilian-grade scope is a common sight on hunting rifles due to its cheap price and great optics. Fixed at a modest 2x zoom.
+
+ent-RMCAttachmentB8SmartScope = B8 smart-scope
+    .desc = An experimental B8 Smart-Scope. Based on the technologies used in the Smart Gun by AEGIS, this sight has integrated IFF systems. It can only attach to the M4SPR Battle Rifle.
+
+ent-RMCM96SIntegratedScope = M96S integrated scope
+    .desc = This isn't supposed to come off the gun. How did you get it?

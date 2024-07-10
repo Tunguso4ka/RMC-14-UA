@@ -1,12 +1,14 @@
-ent-CMBarrelAttachmentBase = { ent-CMAttachmentBase }
-    .desc = { ent-CMAttachmentBase.desc }
+ent-RMCBarrelAttachmentBase = { ent-RMCAttachmentBase }
+    .desc = { ent-RMCAttachmentBase.desc }
 
-ent-CMAttachmentExtendedBarrel = подовжене дуло
-    .desc = Подовжене дуло прискорює та стабілизує кулю, підвищує швидкість та точність.
+ent-RMCAttachmentExtendedBarrel = extended barrel
+    .desc = The lengthened barrel speeds up and stabilizes the bullet, increasing velocity.
 
-ent-CMAttachmentRecoilCompensator = компенсатор віддачи
-    .desc = Дульна насадка яка знижує віддачу виводячи гази наверх.
+ent-RMCAttachmentBarrelCharger = barrel charger
+    .desc = The lengthened barrel speeds up and stabilizes the bullet, increasing velocity.
 
-ent-CMAttachmentSuppressor = глушник
-    .desc = Маленька трубка з вихлопними отворами для зменшення шуму та газів.
+ent-RMCAttachmentRecoilCompensator = recoil compensator
+    .desc = A muzzle attachment that reduces recoil by diverting expelled gasses upwards. Reduces recoil, at the cost of a small amount of weapon damage.
 
+ent-RMCAttachmentSuppressor = suppressor
+    .desc = A small tube with exhaust ports to expel noise and gas. Does not completely silence a weapon, but does make it much quieter and a little more accurate and stable at the cost of slightly reduced damage.

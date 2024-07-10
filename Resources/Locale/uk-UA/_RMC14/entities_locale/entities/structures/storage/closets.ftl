@@ -1,6 +1,9 @@
 ent-CMClosetBase = шафа
     .desc = Звичайна шафа.
 
+ent-RMCCabinetBase = cabinet
+    .desc = Old will forever be in fashion.
+
 ent-CMClosetEmergency = аварійна шафа
     .desc = Шафа для аварійних кисневих масок і балонів о2.
 
@@ -37,4 +40,3 @@ ent-CMClosetBioScientist = { ent-CMClosetBio }
 
 ent-CMClosetAlien = дивна шафа
     .desc = Виглядає по-чужому.
-
