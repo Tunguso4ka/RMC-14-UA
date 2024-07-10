@@ -18,3 +18,6 @@ ent-CMWindoorSecureEngineering = двері інженерів
     .desc = { ent-CMWindoorSecure.desc }
     .suffix = Інженерний, Зачинені
 
+ent-CMWindoorSecureCommand = { ent-CMWindoorSecure }
+    .desc = { ent-CMWindoorSecure.desc }
+    .suffix = Command, Locked

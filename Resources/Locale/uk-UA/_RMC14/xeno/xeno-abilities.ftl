@@ -24,7 +24,8 @@ cm-xeno-evolution-failed-hive-full = Вулик не здатен мати ще 
 rmc-xeno-evolution-devolve-title = Де-еволюціонувати до
 rmc-xeno-evolution-devolve = Ми де-еволюціонуємо до {$xeno}!
 
-rmc-xeno-evolution-cant-devolve-damaged = Ми заслабкі для еволюції, спочатку нам треба залікувати рани!
+rmc-xeno-evolution-cant-evolve-damaged = Ми заслабкі для еволюції, спочатку нам треба залікувати рани!
+rmc-xeno-evolution-cant-devolve-damaged = Ми заслабкі для де-еволюції, спочатку нам треба залікувати рани!
 
 cm-xeno-fortify-cant-headbutt = Ми не можемо розбігтись поки знаходимся в захисній стійці!
 cm-xeno-fortify-cant-rest = Ми не можемо відпочити знаходячись в захисній стійці!

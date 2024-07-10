@@ -25,6 +25,9 @@ ent-CMLockerMedical = гардероб лікаря
 ent-CMLockerHydroResearch = гардероб ботаніка
     .desc = { ent-CMLockerBase.desc }
 
+ent-RMCLockerHydro = гардероб ботаніка
+    .desc = { ent-CMLockerBase.desc }
+
 ent-CMLockerQM = гардероб квартирмейстера
     .desc = { ent-CMLockerBase.desc }
 
@@ -53,6 +56,9 @@ ent-CMLockerEngineerElectrical = гардероб електроніки
     .desc = { ent-CMLockerBase.desc }
 
 ent-CMLockerEngineerWelder = гардероб зварювання
+    .desc = { ent-CMLockerBase.desc }
+
+ent-RMCLockerEngineerGeneric = workshop materials
     .desc = { ent-CMLockerBase.desc }
 
 ent-CMLockerAlpha = гардероб загону Альфа
