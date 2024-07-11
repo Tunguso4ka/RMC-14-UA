@@ -1,5 +1,5 @@
 ent-CMLockerBase = гардероб
-    .desc = Нерухомий гардероб, відкривається за допомогою картки.
+    .desc = Гардероб, відкривається за допомогою картки.
 
 ent-CMLockerCommander = гардероб командуючого офіцера
     .desc = { ent-CMLockerBase.desc }

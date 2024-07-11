@@ -2,7 +2,7 @@ ent-CMPottedPlantRandom = спавнер випадкової рослини
     .desc = { ent-PottedPlantRandom.desc }
 
 ent-CMPottedPlantBase = рослина
-    .desc = Рослина, іноді треба полівати.
+    .desc = Рослина. Її напевно треба поливати?
 
 ent-CMPottedPlant0 = { ent-CMPottedPlantBase }
     .desc = { ent-CMPottedPlantBase.desc }
