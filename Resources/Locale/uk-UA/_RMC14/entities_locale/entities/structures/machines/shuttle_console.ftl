@@ -1,4 +1,4 @@
-іent-CMComputerDropship = { ent-CMBaseStructure }
+ent-CMComputerDropship = { ent-CMBaseStructure }
     .desc = { ent-CMBaseStructure.desc }
 
 ent-CMComputerDropshipNavigation = комп'ютер навігації човника
