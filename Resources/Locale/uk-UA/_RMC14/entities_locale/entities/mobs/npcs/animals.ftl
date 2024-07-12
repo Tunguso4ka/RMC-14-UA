@@ -1,3 +1,6 @@
+ent-RMCSmallHost = abstract small host
+    .desc = { "" }
+
 ent-CMMobMonkey = { ent-MobMonkey }
     .desc = { ent-MobMonkey.desc }
     .suffix = CM

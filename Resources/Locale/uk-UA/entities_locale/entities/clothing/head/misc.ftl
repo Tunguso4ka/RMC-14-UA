@@ -1,5 +1,5 @@
-ent-ClothingHeadHatBunny = bunny ears
-    .desc = Cute bunny ears.
+ent-ClothingHeadHatBunny = кролячі вушки
+    .desc = Милі кролячі вушка.
 
 ent-ClothingHeadHatCake = cake hat
     .desc = You put the cake on your head. Brilliant.
@@ -34,9 +34,16 @@ ent-ClothingHeadHatCone = warning cone
 ent-ClothingHeadHatFancyCrown = fancy crown
     .desc = It smells like dead rat. Lets you speak like one!
 
-ent-ClothingHeadHatCatEars = cat ears
-    .desc = NYAH!
-    .suffix = DO NOT MAP
+ent-ClothingHeadHatCatEars = котячі вушки
+    .desc = НЯ!
+    .suffix = НЕ МАПУВАТИ
+
+ent-ClothingHeadHatCatEarsValid = { ent-ClothingHeadHatCatEars }
+    .desc = { ent-ClothingHeadHatCatEars.desc }
+    .suffix = Valid, DO NOT MAP
+
+ent-ActionBecomeValid = Become Valid
+    .desc = *notices your killsign* owo whats this
 
 ent-ClothingHeadHatDogEars = doggy ears
     .desc = Only for good boys.

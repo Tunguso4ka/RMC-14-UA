@@ -1,14 +1,14 @@
-# Command
-cmd-faxui-desc = Open admin window for sending faxes
-cmd-faxui-help = Usage: faxui
+cmd-faxui-desc = Відкрити адмін меню факса
+cmd-faxui-help = Використання: faxui
 
-# Window
-admin-fax-title = Admin Fax Manager
-admin-fax-fax = Fax:
-admin-fax-follow = Follow
-admin-fax-title-placeholder = Paper name...
-admin-fax-from-placeholder = Stamped by...
-admin-fax-message-placeholder = Your message here...
-admin-fax-stamp = Stamp icon:
-admin-fax-stamp-color = Stamp color:
-admin-fax-send = Send
+admin-fax-title = Менеджер Адмін Факсів
+admin-fax-fax = Факс:
+admin-fax-follow = Слідкувати
+admin-fax-title-placeholder = Назва паперу...
+admin-fax-from-placeholder = Проштамповано...
+admin-fax-message-placeholder = Ваше повідомлення тут...
+admin-fax-stamp = Зображення штампу:
+admin-fax-stamp-color = Колір штампу:
+admin-fax-send = Відправити
+admin-fax-lock-page = Зачинити сторинку
+admin-fax-lock-page-tooltip = Заборонити редагування сторинки за допомогою ручки Кіберсан.

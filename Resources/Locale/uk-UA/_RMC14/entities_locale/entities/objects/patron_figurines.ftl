@@ -57,3 +57,6 @@ ent-RMCFigurinePatronAtlasBootes = Atlas 'The Law' Bootes figurine
 
 ent-RMCFigurinePatronKameronCook = Kameron Cook figurine
     .desc = I Cooka Da Pizza.
+
+ent-RMCFigurinePatronSatoruSuzuki = Satoru Suzuki figurine
+    .desc = Gods strongest Medic.
