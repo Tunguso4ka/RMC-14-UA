@@ -1,5 +1,3 @@
-### UI
-
 chat-manager-max-message-length = Ваше повідомлення перевисило дозволену довжину у {$maxMessageLength} символів.
 chat-manager-ooc-chat-enabled-message = OOC чат увимкнено.
 chat-manager-ooc-chat-disabled-message = OOC чат вимкнено.
@@ -19,6 +17,7 @@ chat-manager-no-such-channel = Ключа рації з '{$key}' не існує
 chat-manager-whisper-headset-on-message = Ти не можеш шептіти в рацію!
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
+chat-manager-sender-announcement = Центральне Командування
 chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} Оголошення:[/font][font size=12]
                                                 {$message}[/bold][/font]
 chat-manager-entity-say-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent]{$message}[/BubbleContent]"[/font]
@@ -27,7 +26,6 @@ chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold][Name]{$entityNa
 chat-manager-entity-whisper-wrap-message = [font size=11][italic][BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] шепче,"[BubbleContent]{$message}[/BubbleContent]"[/italic][/font]
 chat-manager-entity-whisper-unknown-wrap-message = [font size=11][italic][BubbleHeader]Someone[/BubbleHeader] шепче, "[BubbleContent]{$message}[/BubbleContent]"[/italic][/font]
 
-# THE() is not used here because the entity and its name can technically be disconnected if a nameOverride is passed...
 chat-manager-entity-me-wrap-message = [italic]{ PROPER($entity) ->
     *[false] {$entityName} {$message}[/italic]
      [true] {$entityName} {$message}[/italic]
@@ -50,7 +48,6 @@ chat-manager-admin-channel-name = АДМІН
 chat-manager-rate-limited = Ви занадто швидко посилаєте повідомлення!
 chat-manager-rate-limit-admin-announcement = Гравець { $player } порушив швидкісний ліміт повідомлень у чаті.
 
-## Speech verbs for chat
 
 chat-speech-verb-suffix-exclamation = !
 chat-speech-verb-suffix-exclamation-strong = !!
@@ -64,7 +61,7 @@ chat-speech-verb-default = каже
 chat-speech-verb-name-exclamation = Exclaiming
 chat-speech-verb-exclamation = exclaims
 chat-speech-verb-name-exclamation-strong = Yelling
-chat-speech-verb-exclamation-strong = yells
+chat-speech-verb-exclamation-strong = кричить
 chat-speech-verb-name-question = Asking
 chat-speech-verb-question = питає
 chat-speech-verb-name-stutter = Stuttering

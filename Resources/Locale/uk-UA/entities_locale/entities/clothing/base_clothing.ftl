@@ -15,3 +15,6 @@ ent-ClothingSlotBase = { "" }
 
 ent-ContentsExplosionResistanceBase = { "" }
     .desc = { "" }
+
+ent-BaseToggleClothing = { "" }
+    .desc = { "" }

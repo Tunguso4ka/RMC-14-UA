@@ -18,6 +18,3 @@ ent-MobHumanNukeOp = Ядерний Оперативник
 
 ent-MobHumanLoneNuclearOperative = Оперативник-Одинак
     .desc = { ent-MobHuman.desc }
-
-ent-MobHumanSpaceNinja = Космічний нінзя
-    .desc = { ent-MobHuman.desc }
