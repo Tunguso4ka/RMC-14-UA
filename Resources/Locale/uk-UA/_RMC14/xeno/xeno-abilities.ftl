@@ -7,7 +7,7 @@ cm-xeno-requires-more-plasma = {$construction} потребує {$plasma} біл
 cm-xeno-construction-plasma-left = {$construction} Тут позначається споруда. Їй потрібно на [color=cyan]{$plasma}[/color] більше плазми.
 cm-xeno-cant-reach-there = Ми не можемо дотягнутись!
 
-cm-xeno-cant-build-in-self = Ви не можете будувати структури поряд!
+cm-xeno-cant-build-in-self = Ви не можете будувати структури на собі!
 
 cm-xeno-unique-exists = Ми вже маємо {$choice}!
 
@@ -15,32 +15,32 @@ cm-xeno-available-evolutions = Еволюція доступна
 cm-xeno-evolution-start = Ми починаємо крутитися і звиватися.
 cm-xeno-evolution-end = Ми постаємо у більшій формі з лушпиння нашого старого тіла. Для вулика!
 
-cm-xeno-evolution-ready = Наш панцир потріскує та сухожилля потріскують. Ми готові еволюціонувати!
+cm-xeno-evolution-ready = Наш панцир потріскує, а сухожилля потріскують. Ми готові еволюціонувати!
 cm-xeno-evolution-failed-already-have = Ми вже маємо живого {$prototype}!
-cm-xeno-evolution-failed-hive-shaken = Вулик потрясений смертю нашої королеви. Ми не маємо сил даби еволюціонувати.
+cm-xeno-evolution-failed-hive-shaken = Вулик шокований смертю нашої королеви. Ми не маємо сил даби еволюціонувати.
 cm-xeno-evolution-failed-cannot-support = Вулик ще не здатен мати цю касту!
 cm-xeno-evolution-failed-hive-full = Вулик не здатен мати ще одного Рівня {$tier}, слід зачекати поки з'явиться більше родичів або поки хтось не помре.
 
-rmc-xeno-evolution-devolve-title = Де-еволюціонувати до
-rmc-xeno-evolution-devolve = Ми де-еволюціонуємо до {$xeno}!
+rmc-xeno-evolution-devolve-title = Дегенерувати до
+rmc-xeno-evolution-devolve = Ми дегенеруємо до {$xeno}!
 
 rmc-xeno-evolution-cant-devolve-damaged = Ми заслабкі для еволюції, спочатку нам треба залікувати рани!
 
-cm-xeno-fortify-cant-headbutt = Ми не можемо розбігтись поки знаходимся в захисній стійці!
+cm-xeno-fortify-cant-headbutt = Ми не можемо розбігтись поки знаходимося в захисній стійці!
 cm-xeno-fortify-cant-rest = Ми не можемо відпочити знаходячись в захисній стійці!
 cm-xeno-fortify-cant-tail-sweep = Ми не можемо вдарити хвостом поки знаходимося в захисній стійці!
-cm-xeno-fortify-cant-toggle-crest = Ми не можемо нахилитись знаходячись в бойовій стійці
+cm-xeno-fortify-cant-toggle-crest = Ми не можемо нахилитись знаходячись в бойовій стійці!
 
 cm-xeno-leap-cancelled = Ми скасували стрибок!
 
 cm-xeno-weeds-source-already-here = Ми вже маємо вузол тут!
 
 cm-xeno-acid-not-corrodible = Ми не можемо покрити кислотою {$target}!
-cm-xeno-acid-already-corroding = {$target} вже покритий роз'їдаючею кислотою!
+cm-xeno-acid-already-corroding = {$target} вже покритий роз'їдаючою кислотою!
 
 cm-xeno-paralyzing-slash-activate = Наш наступний удар застосує нейротоксин!
 cm-xeno-paralyzing-slash-expire = Ми чекали занадто довго, наш удар більше не застосує нейротоксин!
-cm-xeno-paralyzing-slash-hit = Ми додаємо нейротоксин в свою атаку, {$target} ось-ось впаде паралізованим!
+cm-xeno-paralyzing-slash-hit = Ми додаємо нейротоксин у свою атаку, {$target} ось-ось впаде паралізованим!
 
 cm-xeno-crippling-strike-activate = Our next slash will apply neurotoxin!
 cm-xeno-crippling-strike-expire = You have waited too long, your slash will no longer apply neurotoxin!
@@ -55,7 +55,7 @@ cm-xeno-pheromones-stop = Ми перестали випромінювати ф�
 
 cm-xeno-none-devoured = Ми ще нікого не зжерли!
 
-rmc-xeno-rest-cant-headbutt = You can't headbutt while resting!
+rmc-xeno-rest-cant-headbutt = Не можна бити головою під час відпочинку!
 rmc-xeno-rest-cant-fortify = You can't fortify while resting!
 rmc-xeno-rest-cant-tail-sweep = You can't tail sweep while resting!
 rmc-xeno-rest-cant-toggle-crest = You can't lower your crest while resting!
@@ -79,12 +79,12 @@ cm-xeno-plasma-transferred-to-self = {$target} передав {$plasma} один
 cm-xeno-plasma-cannot-self = Ви не можете передати плазму собі!
 cm-xeno-plasma-other-max-zero = {$target} не потрібна плазма!
 
-cm-xeno-watch = Дивитися за іншима
+cm-xeno-watch = Дивитися за іншими
 cm-xeno-charge-spit = Our next spit will be stronger.
 cm-xeno-charge-spit-expire = Our spits are back to normal.
 
-cm-xeno-invisibility-already-invisible = We are already invisible!
-cm-xeno-invisibility-expire = We feel our invisibility end!
+cm-xeno-invisibility-already-invisible = Ми вже невидимі!
+cm-xeno-invisibility-expire = Ми відчуваємо, що невидимість закінчується!
 
 cm-xeno-ovipositor-attach = We start attaching to the ovipositor.
 cm-xeno-ovipositor-detach = We start detaching from the ovipositor.

@@ -31,4 +31,4 @@ ent-CMToxinAidKit = аптечка від отруєння
 
 ent-CMToxinAidKitFilled = { ent-CMToxinAidKit }
     .desc = { ent-CMToxinAidKit.desc }
-    .suffix = Filled
+    .suffix = Заповнена

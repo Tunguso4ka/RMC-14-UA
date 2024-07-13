@@ -1,21 +1,21 @@
 ent-CMLightFixtureAlwaysPowered = лампа
-    .desc = Ярка люмінесцентна лампа. Очі починають сльозиться якщо дивитися на неї достатньо довго.
-    .suffix = Always powered
+    .desc = Яскрава люмінесцентна лампа. Очі починають сльозитися, якщо дивитися на неї достатньо довго.
+    .suffix = Завжди працює
 
 ent-CMLightFixtureEmpty = { ent-CMLightFixtureAlwaysPowered }
     .desc = { ent-CMLightFixtureAlwaysPowered.desc }
-    .suffix = Empty
+    .suffix = Порожня
 
 ent-CMLightFixture = { ent-CMLightFixtureEmpty }
     .desc = { ent-CMLightFixtureEmpty.desc }
 
-ent-CMLightFixtureSmallAlwaysPowered = { ent-CMLightFixtureAlwaysPowered }
-    .desc = Маленька ярка люмінесцентна лампочка. Очі починають сльозиться якщо дивитися на неї достатньо довго.
-    .suffix = Always powered
+ent-CMLightFixtureSmallAlwaysPowered = лампочка
+    .desc = Маленька та яскрава люмінесцентна лампочка. Очі починають сльозитися, якщо дивитися на неї достатньо довго.
+    .suffix = Завжди працює
 
 ent-CMLightFixtureSmallEmpty = { ent-CMLightFixtureSmallAlwaysPowered }
     .desc = { ent-CMLightFixtureSmallAlwaysPowered.desc }
-    .suffix = Empty
+    .suffix = Порожня
 
 ent-CMLightFixtureSmall = { ent-CMLightFixtureSmallEmpty }
     .desc = { ent-CMLightFixtureSmallEmpty.desc }
