@@ -14,3 +14,4 @@ health-analyzer-window-scan-mode-active = АКТИВНЕ
 health-analyzer-window-scan-mode-inactive = НЕАКТИВНЕ
 
 health-analyzer-window-malnutrition = Сильне недоїдання
+health-analyzer-popup-scan-target = {CAPITALIZE($user)} намагається просканувати вас!

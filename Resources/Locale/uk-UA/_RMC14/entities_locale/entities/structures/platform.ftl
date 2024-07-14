@@ -10,6 +10,9 @@ ent-CMPlatformCorner = platform
 ent-RMCPlatformCornerSmall = platform
     .desc = A square metal surface resting on four legs.
 
+ent-RMCPlatformRound = platform
+    .desc = A square metal surface resting on four legs.
+
 ent-RMCPlatformStairRight = { ent-CMPlatform }
     .desc = { ent-CMPlatform.desc }
 

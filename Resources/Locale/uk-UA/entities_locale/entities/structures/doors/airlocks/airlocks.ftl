@@ -38,7 +38,7 @@ ent-AirlockSecurity = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Security
 
-ent-AirlockMaint = maintenance access
+ent-AirlockMaint = техніхні тунелі
     .desc = { ent-Airlock.desc }
 
 ent-AirlockSyndicate = { ent-AirlockSecurity }

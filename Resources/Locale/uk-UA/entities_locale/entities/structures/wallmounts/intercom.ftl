@@ -1,8 +1,15 @@
-ent-Intercom = intercom
+ent-BaseIntercom = intercom
     .desc = An intercom. For when the station just needs to know something.
 
-ent-IntercomAssesmbly = intercom assembly
+ent-IntercomAssembly = intercom assembly
     .desc = An intercom. It doesn't seem very helpful right now.
+
+ent-IntercomConstructed = { ent-BaseIntercom }
+    .desc = { ent-BaseIntercom.desc }
+    .suffix = Empty, Panel Open
+
+ent-Intercom = інтерком
+    .desc = Інтерком. Для моментів коли станція ну просто повинна дізнатися про щось.
 
 ent-IntercomCommon = { ent-Intercom }
     .desc = { ent-Intercom.desc }
@@ -39,4 +46,3 @@ ent-IntercomSupply = { ent-Intercom }
 ent-IntercomAll = { ent-Intercom }
     .desc = { ent-Intercom.desc }
     .suffix = All
-

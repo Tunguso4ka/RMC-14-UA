@@ -70,3 +70,22 @@ ent-CMAirlockMaintPressLocked = { ent-CMAirlockPressLocked }
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Преса, Зачинені, Техи
 
+ent-CMAirlockSecurityLocked = { ent-CMAirlockSecurity }
+    .desc = { ent-CMAirlockSecurity.desc }
+    .suffix = Security, Locked
+
+ent-CMAirlockGlassSecurityLocked = { ent-CMAirlockGlassSecurity }
+    .desc = { ent-CMAirlockGlassSecurity.desc }
+    .suffix = Security, Locked
+
+ent-CMDoubleDoorSecurityGlassLocked = { ent-CMDoubleDoorSecurityGlass }
+    .desc = { ent-CMDoubleDoorSecurityGlass.desc }
+    .suffix = Security, Glass, Locked
+
+ent-CMDoubleDoorSecuritySolidLocked = { ent-CMDoubleDoorSecuritySolid }
+    .desc = { ent-CMDoubleDoorSecuritySolid.desc }
+    .suffix = Security, Solid, Locked
+
+ent-CMDoubleDoorMedicalGlassLocked = { ent-CMDoubleDoorMedicalGlass }
+    .desc = { ent-CMDoubleDoorMedicalGlass.desc }
+    .suffix = Medical, Glass

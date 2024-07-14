@@ -25,3 +25,5 @@ ent-CMVendorBundleWeaponsSpecialistApparel = стандартне спорядж
 ent-RMCVendorBundleMilitaryPoliceApparel = обов'язковий набір воєнполу
     .desc = { ent-CMVendorBundleRiflemanApparel.desc }
 
+ent-CMVendorBundleCrewMedicalEssentialsNurse = обов'язковий набір лікаря
+    .desc = { ent-CMVendorBundleRiflemanApparel.desc }

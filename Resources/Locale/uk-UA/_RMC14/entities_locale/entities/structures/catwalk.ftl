@@ -6,3 +6,9 @@ ent-CMCatwalkShiva = { ent-CMCatwalk }
 
 ent-CMCatwalkPrison = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
+
+ent-RMCMonorailStraight = monorail track
+    .desc = The rail system for the CORSAT monorail.
+
+ent-RMCMonorailBend = { ent-RMCMonorailStraight }
+    .desc = { ent-RMCMonorailStraight.desc }

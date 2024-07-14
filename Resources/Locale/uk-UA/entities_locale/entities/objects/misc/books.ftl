@@ -10,8 +10,8 @@ ent-BookTheBookOfControl = the book of control
 ent-BookBartendersManual = bartender's manual
     .desc = This manual is stained with beer.
 
-ent-BookChefGaming = chef gaming
-    .desc = A book about cooking written by a gamer chef.
+ent-BookHowToCookForFortySpaceman = How To Cook For Forty Spacemen
+    .desc = A book about cooking written by a space chef.
 
 ent-BookLeafLoversSecret = leaf lover's secret
     .desc = It has a strong weed smell. It motivates you to feed and seed.
@@ -40,6 +40,9 @@ ent-BookHowToSurvive = how to survive
 ent-BookChemicalCompendium = chempendium
     .desc = A comprehensive guide written by some old skeleton of a professor about chemical synthesis.
 
+ent-BookSpaceLaw = space law
+    .desc = A set of Nanotrasen guidelines for keeping law and order on their space stations.
+
 ent-BookRandom = { ent-BookBase }
     .desc = { ent-BookBase.desc }
     .suffix = random
@@ -59,4 +62,3 @@ ent-BookAtmosAirAlarms = Newton's Guide to Atmos: Air Alarms
 
 ent-BookAtmosVentsMore = Newton's Guide to Atmos: Vents and More
     .desc = There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
-

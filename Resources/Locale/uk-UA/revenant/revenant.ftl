@@ -1,23 +1,23 @@
-revenant-essence-amount = You have [color=plum]{$current} Essence[/color]. Your regen amount is [color=plum]{$max} Essence[/color].
-revenant-max-essence-increased = Your max essence has increased!
+revenant-essence-amount = Ви маєте [color=plum]{$current} Есенції[/color]. Ви регенеруєте [color=plum]{$max} Есенції[/color].
+revenant-max-essence-increased = Ваш рівень Есенції максимальний!
 
-revenant-not-enough-essence = Not enough essence!
-revenant-in-solid = You cannot use this ability while within a solid object.
+revenant-not-enough-essence = Не достатньо Есенції!
+revenant-in-solid = Ви не можете використати цю здібність тут.
 
-revenant-soul-too-powerful = This soul is too strong to harvest!
-revenant-soul-harvested = This soul has already been harvested!
+revenant-soul-too-powerful = Ця душа засильна, щоб її зібрати! Поки що.
+revenant-soul-harvested = Ви вже зібрали Есенцію з цієї души.
 
-revenant-soul-searching = You search for the soul of {THE($target)}.
+revenant-soul-searching = Ви шукаєте душу {$target}.
 
-revenant-soul-yield-high = {CAPITALIZE(THE($target))} has an above average soul!
-revenant-soul-yield-average = {CAPITALIZE(THE($target))} has an average soul.
-revenant-soul-yield-low = {CAPITALIZE(THE($target))} has a below average soul.
+revenant-soul-yield-high = {CAPITALIZE($target)} має вище за середню душу!
+revenant-soul-yield-average = {CAPITALIZE($target)} має середню душу.
+revenant-soul-yield-low = {CAPITALIZE($target)} має нищу за середню душу.
 
-revenant-soul-begin-harvest = {CAPITALIZE(THE($target))} suddenly rises slightly into the air, {POSS-ADJ($target)} skin turning an ashy gray.
-revenant-soul-finish-harvest = {CAPITALIZE(THE($target))} slumps onto the ground!
+revenant-soul-begin-harvest = {CAPITALIZE($target)} неочікувано підіймається в повітря, {POSS-ADJ($target)} шкіра становиться сірою як попіл.
+revenant-soul-finish-harvest = {CAPITALIZE($target)} плюхається на землю!
 
 #UI
-revenant-user-interface-title = Ability Shop
-revenant-user-interface-essence-amount = [color=plum]{$amount}[/color] Stolen Essence
+revenant-user-interface-title = Магазин здібностей
+revenant-user-interface-essence-amount = [color=plum]{$amount}[/color] Есенції
 
-revenant-user-interface-cost = {$price} Essence
+revenant-user-interface-cost = {$price} Есенції

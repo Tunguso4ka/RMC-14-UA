@@ -13,6 +13,9 @@ ent-CrateEngineeringCableMV = ящик СВ кабелів
 ent-CrateEngineeringCableHV = ящик ВВ кабелів
     .desc = 3 катушки ВВ дротів.
 
+ent-CrateEngineeringFoamGrenade = sealant grenade crate
+    .desc = 5 metal foam sealant grenades.
+
 ent-CrateEngineeringCableBulk = ящик усіх кабелів
     .desc = По 2 катушці усіх типів кабелів.
 

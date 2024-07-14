@@ -1,5 +1,5 @@
-ent-CMHyperSleepChamber = hypersleep chamber
-    .desc = A large automated capsule with LED displays intended to put anyone inside into 'hypersleep', a form of non-cryogenic statis used on most ships, linked to a long-term hypersleep bay on a lower level.
+ent-CMHyperSleepChamber = камер гіперсну
+    .desc = Велика автоматизована капсула з екраном, зроблена щоб тримати людину в стані гіперсну.
 
 ent-CMHyperSleepChamberAlpha = { ent-CMHyperSleepChamber }
     .desc = { ent-CMHyperSleepChamber.desc }
@@ -16,4 +16,3 @@ ent-CMHyperSleepChamberCharlie = { ent-CMHyperSleepChamber }
 ent-CMHyperSleepChamberDelta = { ent-CMHyperSleepChamber }
     .desc = { ent-CMHyperSleepChamber.desc }
     .suffix = Delta
-

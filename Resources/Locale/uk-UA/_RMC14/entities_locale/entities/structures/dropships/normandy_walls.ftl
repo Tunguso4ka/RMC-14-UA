@@ -1,4 +1,4 @@
-ent-CMBaseNormandyWall = normandy wall
+ent-CMBaseNormandyWall = стіна Нормандії
     .desc = { ent-CMBaseWall.desc }
 
 ent-CMNormandyWall1 = { ent-CMBaseNormandyWall }

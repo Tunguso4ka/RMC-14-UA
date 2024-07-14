@@ -1,3 +1,2 @@
-ent-CMBaseAttachableHolder = ця сутність не має назви
+ent-RMCBaseAttachableHolder = { "" }
     .desc = { "" }
-

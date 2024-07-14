@@ -7,6 +7,9 @@ ent-CMChair = { ent-CMSeatBase }
 ent-CMChairAlt = { ent-CMSeatBase }
     .desc = { ent-CMSeatBase.desc }
 
+ent-RMCStool = стілець
+    .desc = Під`єднайте дупку.
+
 ent-CMChairComfy = крісло
     .desc = Крісло з шкіряною оббивкою та регулюємим підголовником. У такому можна сидіти вічно.
 
@@ -55,11 +58,14 @@ ent-CMChairComfyDelta = { ent-CMChairComfy }
     .suffix = Дельта
 
 ent-CMChairOfficeDark = темне офісне крісло
+    .desc = { ent-CMSeatBase.desc }
 
 ent-CMChairOfficeWhite = біле офісне крісло
+    .desc = { ent-CMChairOfficeDark.desc }
 
 ent-CMChairWood = дерев'яний стілець
     .desc = Старий, але не менш модний.
 
 ent-CMChairWoodWings = { ent-CMChairWood }
     .desc = { ent-CMChairWood.desc }
+

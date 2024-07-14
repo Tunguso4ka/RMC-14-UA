@@ -25,3 +25,7 @@ ent-CMTableWoodenGambling = ігровий стіл
 ent-CMTableAlmayer = { ent-CMTable }
     .desc = A square metal surface resting on four legs. Useful to put stuff on. Can be flipped in emergencies to act as cover.
     .suffix = Алмаєр
+
+ent-RMCTablePrison = table
+    .desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
+    .suffix = Prison

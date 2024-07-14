@@ -1,3 +1,2 @@
-ent-CMAttachmentBase = { ent-BaseItem }
+ent-RMCAttachmentBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-

@@ -23,7 +23,7 @@ news-write-ui-footer-text = News#Manager™ Authoring System
 news-write-ui-new-article = Нові статті
 news-write-ui-article-name-label = Заголовок:
 news-write-no-access-popup = Нема доступу
-news-writer-text-length-exceeded = Text exceeds maximum length
+news-writer-text-length-exceeded = Забагато симболів
 news-write-ui-richtext-tooltip = Новини підтримують Rich Text
     The following rich text tags are supported:
     {"[color=Gray][bullet/]heading \\[size=1-3\\]"}
@@ -34,3 +34,4 @@ news-write-ui-richtext-tooltip = Новини підтримують Rich Text
     {"[bullet/]bullet[/color]"}
 
 news-pda-notification-header = Нова новина
+news-publish-admin-announcement = {$actor} опубликував новий артикль {$title} від {$author}"
