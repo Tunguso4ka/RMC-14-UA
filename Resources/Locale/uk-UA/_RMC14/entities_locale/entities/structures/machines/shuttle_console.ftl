@@ -2,14 +2,14 @@ ent-CMComputerDropship = { ent-CMBaseStructure }
     .desc = { ent-CMBaseStructure.desc }
 
 ent-CMComputerDropshipNavigation = комп'ютер навігації човника
-    .desc = Комп'ютер що використовується для автопілоту та польотів на дальні дистанції.
+    .desc = Комп'ютер, що використовується для застосування автопілота та польотів на дальні дистанції.
 
 ent-CMComputerDropshipNavigationPlanetside = комп'ютер навігації човника
-    .desc = Комп'ютер польотів, який може бути використан для спрямовування під'єднаних човників
-    .suffix = Planetside
+    .desc = Комп'ютер польотів, який може бути використаний для спрямовування під'єднаних човників.
+    .suffix = Планетарний
 
 ent-CMComputerDropshipCamerasAlamo = консоль камер човника
-    .desc = Комп'ютер що під'єднаний до камер на човнику.
+    .desc = Комп'ютер, що під'єднаний до системи камер човника.
 
 ent-CMComputerDropshipWeapons = управління зброєю
     .desc = Комп'ютер для керування обладнанням, зброєю та подібними пристроями, що встановлені на човник.
@@ -17,5 +17,5 @@ ent-CMComputerDropshipWeapons = управління зброєю
 ent-CMDropshipDestination = точка призначення човника
     .desc = { ent-MarkerBase.desc }
 
-ent-CMDropshipHijackDestination = точка призначення викрадення
-    .desc = Defines a valid location for the dropships to FTL to when hijacked.
+ent-CMDropshipHijackDestination = точка призначення хайджеку
+    .desc = Визначає місце для приземлення човників у разі їх хайджеку.
