@@ -4,11 +4,11 @@ CMJobAuxiliarySupportOfficer = Офіцер Допоміжних Сил
 
 cm-job-name-dropship-pilot = Пілот Човника
 cm-job-description-dropship-pilot = Транспортуйте солдат за допомогою човника та евакуюйте поранених. Слідкуйте, щоб на ваш човника не пробралося щось страшне.
-CMJobPilotDropship = Пілот шатла
+CMJobPilotDropship = Пілот Човника
 
 cm-job-name-gunship-pilot = Пілот Бойового Човника
 cm-job-description-gunship-pilot = Літайте, захищайте та слідкуйте за станом вашого човника.
-CMJobPilotGunship = Пілот Бойового Шатла
+CMJobPilotGunship = Пілот Бойового Човника
 
 cm-job-name-dcc = Другий пілот
 cm-job-description-dcc = Допомагайте пілоту, підтримуйте десантний човник та поранених, що перебувають у ньому.
