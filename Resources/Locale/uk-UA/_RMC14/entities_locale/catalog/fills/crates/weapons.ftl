@@ -6,3 +6,6 @@ ent-CMCrateM54CE2 = ящик M54CE2 HPR (HPR x2, HPR ammo box x2)
 
 ent-CMCrateMK80 = MK80 Hand Cannon Crate (x2)
     .desc = { ent-CMCrateWeapons.desc }
+
+ent-RMCCrateSmartGunSet = ML66A Smart Gun System Package
+    .desc = { ent-CMCrateWeapons.desc }

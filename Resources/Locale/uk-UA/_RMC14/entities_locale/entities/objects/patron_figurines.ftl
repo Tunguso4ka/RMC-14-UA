@@ -60,3 +60,6 @@ ent-RMCFigurinePatronKameronCook = Kameron Cook figurine
 
 ent-RMCFigurinePatronSatoruSuzuki = Satoru Suzuki figurine
     .desc = Gods strongest Medic.
+
+ent-RMCFigurinePatronRytilPyain = Rytil Pyain figurine
+    .desc = Rytil may lack a lot of empathy, but she does her best to maintain the law and not get pissed off by the idiots breaking it.

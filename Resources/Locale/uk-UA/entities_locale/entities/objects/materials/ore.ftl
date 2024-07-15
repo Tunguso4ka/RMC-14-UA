@@ -9,6 +9,14 @@ ent-GoldOre1 = { ent-GoldOre }
     .desc = { ent-GoldOre.desc }
     .suffix = Один
 
+ent-DiamondOre = алмазна руда
+    .desc = { ent-OreBase.desc }
+    .suffix = Full
+
+ent-DiamondOre1 = { ent-DiamondOre }
+    .desc = { ent-DiamondOre.desc }
+    .suffix = Single
+
 ent-SteelOre = залізна руда
     .desc = { ent-OreBase.desc }
     .suffix = Повний

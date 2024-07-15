@@ -45,3 +45,14 @@ reagent-desc-cmimidazoline = Used for treating non-genetic eye trauma. Generally
 
 reagent-name-cmclonexadone = Клонексадон
 reagent-desc-cmclonexadone = Advanced cryogenic medicine made from cryoxadone. Treats most types of tissue damage. Requires temperatures below 170K to to metabolise correctly.
+
+rmc-tricordazine-container-label-text = TI
+rmc-bicaridine-container-label-text = БІ
+rmc-kelotane-container-label-text = КЕ
+rmc-dexalin-container-label-text = ДЕ
+rmc-dylovene-container-label-text = ДИ
+rmc-inaprovaline-container-label-text = ІН
+rmc-first-aid-container-label-text = АП
+rmc-emergency-medicine-container-label-text = ШМ
+rmc-dexalin-plus-container-label-text = Д+
+rmc-epinephrine-container-label-text = ЕП

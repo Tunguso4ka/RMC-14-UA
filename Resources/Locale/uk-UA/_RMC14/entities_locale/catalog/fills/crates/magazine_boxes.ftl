@@ -33,3 +33,9 @@ ent-CMCrateBoxMagazinePistolM77AP = коробка магазинів (M77 AP, 1
 
 ent-CMCrateBoxMagazinePistolMK80 = коробка магазинів (MK80, 16x магазинів)
     .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateBatterySmartGun = ML66A smart gun battery crate (4x)
+    .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateMagazineSmartGun = ML66A smart gun drum crate (2x)
+    .desc = { ent-CMCrateAmmo.desc }

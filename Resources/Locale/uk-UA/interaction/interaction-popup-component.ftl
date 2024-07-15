@@ -50,11 +50,17 @@ petting-failure-monkey = Ти тягнешся щоб попестити {$targe
 petting-failure-nymph = Ти тягнешся щоб попестити {$target}, але {POSS-ADJ($target)} moves their branches away.
 petting-failure-shadow = You're trying to pet {$target}, але your hand passes through the cold darkness of his body.
 
-
 petting-success-honkbot = Ти пестиш {$target} по {POSS-ADJ($target)} slippery metal head.
 petting-success-mimebot = Ти пестиш {$target} по {POSS-ADJ($target)} cold metal head.
 petting-success-cleanbot = Ти пестиш {$target} по {POSS-ADJ($target)} damp metal head.
 petting-success-medibot = Ти пестиш {$target} по {POSS-ADJ($target)} sterile metal head.
+petting-success-generic-cyborg = You pet {$target} on {POSS-ADJ($target)} metal head.
+petting-success-salvage-cyborg = You pet {$target} on {POSS-ADJ($target)} dirty metal head.
+petting-success-engineer-cyborg = You pet {$target} on {POSS-ADJ($target)} reflective metal head.
+petting-success-janitor-cyborg = You pet {$target} on {POSS-ADJ($target)} damp metal head.
+petting-success-medical-cyborg = You pet {$target} on {POSS-ADJ($target)} sterile metal head.
+petting-success-service-cyborg = You pet {$target} on {POSS-ADJ($target)} dapper looking metal head.
+petting-success-syndicate-cyborg = You pet {$target} on {POSS-ADJ($target)} menacing metal head.
 petting-success-recycler = Ти пестиш {$target} по {POSS-ADJ($target)} mildly threatening steel exterior.
 
 petting-failure-honkbot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} honks in refusal!
@@ -62,14 +68,19 @@ petting-failure-cleanbot = Ти тягнешся щоб попестити {$tar
 petting-failure-mimebot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} busy miming!
 petting-failure-medibot = Ти тягнешся щоб попестити {$target}, але {POSS-ADJ($target)} syringe nearly stabs your hand!
 
+petting-failure-generic-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy stating laws!
+petting-failure-salvage-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy drilling!
+petting-failure-engineer-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy repairing!
+petting-failure-janitor-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy cleaning!
+petting-failure-medical-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy saving lives!
+petting-failure-service-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy serving others!
+petting-failure-syndicate-cyborg = You reach out to pet {$target}, but {POSS-ADJ($target)} treacherous affiliation makes you reconsider.
 
 fence-rattle-success = *брязкає*
-
 
 hugging-success-generic = Ви обіймаєте {$target}.
 hugging-success-generic-others = { CAPITALIZE($user) } обіймає {$target}.
 hugging-success-generic-target = { CAPITALIZE($user) } обіймає вас.
-
 
 petting-success-tesla = Ти пестиш {$target}, порушуючи закони природи та фізики.
 

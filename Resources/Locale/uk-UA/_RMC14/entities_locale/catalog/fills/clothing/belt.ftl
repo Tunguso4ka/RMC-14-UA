@@ -10,10 +10,6 @@ ent-CMBeltKnifeFilled = { ent-CMBeltKnife }
     .desc = { ent-CMBeltKnife.desc }
     .suffix = Заповнений
 
-ent-CMBeltSecurityFilled = { ent-CMBeltSecurity }
-    .desc = { ent-CMBeltSecurity.desc }
-    .suffix = Заповнений
-
 ent-CMBeltMedicalFilled = { ent-CMBeltMedical }
     .desc = { ent-CMBeltMedical.desc }
     .suffix = Заповнений
@@ -29,3 +25,7 @@ ent-RMCBeltGrenadeFilled = { ent-RMCBeltGrenade }
 ent-RMCBeltGrenadeLargeFilled = { ent-RMCBeltGrenadeLarge }
     .desc = { ent-RMCBeltGrenadeLarge.desc }
     .suffix = Заповнений
+
+ent-CMBeltSmartGunOperatorFilled = { ent-CMBeltSmartGunOperator }
+    .desc = { ent-CMBeltSmartGunOperator.desc }
+    .suffix = Filled

@@ -41,3 +41,6 @@ ent-RMCPowerCellInfinite = infinite-capacity power cell
 
 ent-RMCPowerCellPotato = potato battery
     .desc = A rechargeable starch-based power cell.
+
+ent-RMCPowerCellSmartgun = smart gun ML66A battery
+    .desc = A standard-issue 9-volt lithium dry-cell battery, most commonly used within the UNMC to power smartguns. Per the manual, one battery is good for up to 50000 rounds and plugs directly into the smartgun's power receptacle, which is only compatible with this type of battery. Various auxiliary modes usually bring the round count far lower. While this cell is incompatible with most standard electrical system, it can be charged by common rechargers in a pinch. USCMC smartgunners often guard them jealously.
