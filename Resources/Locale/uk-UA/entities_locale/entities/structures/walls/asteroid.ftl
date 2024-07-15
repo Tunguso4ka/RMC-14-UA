@@ -10,6 +10,10 @@ ent-AsteroidRockGold = { ent-AsteroidRock }
     .desc = An ore vein rich with gold.
     .suffix = Gold
 
+ent-AsteroidRockDiamond = { ent-AsteroidRock }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
+
 ent-AsteroidRockPlasma = { ent-AsteroidRock }
     .desc = An ore vein rich with plasma.
     .suffix = Plasma
@@ -110,6 +114,10 @@ ent-IronRockArtifactFragment = { ent-IronRock }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
 
+ent-IronRockDiamond = { ent-IronRock }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
+
 ent-WallRock = камінь
     .desc = { ent-BaseStructure.desc }
     .suffix = planetmap
@@ -121,6 +129,10 @@ ent-WallRockCoal = { ent-WallRock }
 ent-WallRockGold = { ent-WallRock }
     .desc = An ore vein rich with gold.
     .suffix = Gold
+
+ent-WallRockDiamond = { ent-WallRock }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
 
 ent-WallRockPlasma = { ent-WallRock }
     .desc = An ore vein rich with plasma.
@@ -165,6 +177,10 @@ ent-WallRockBasaltGold = { ent-WallRockBasalt }
     .desc = An ore vein rich with gold.
     .suffix = Gold
 
+ent-WallRockBasaltDiamond = { ent-WallRockBasalt }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
+
 ent-WallRockBasaltPlasma = { ent-WallRockBasalt }
     .desc = An ore vein rich with plasma.
     .suffix = Plasma
@@ -207,6 +223,10 @@ ent-WallRockSnowCoal = { ent-WallRockSnow }
 ent-WallRockSnowGold = { ent-WallRockSnow }
     .desc = An ore vein rich with gold.
     .suffix = Gold
+
+ent-WallRockSnowDiamond = { ent-WallRockSnow }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
 
 ent-WallRockSnowPlasma = { ent-WallRockSnow }
     .desc = An ore vein rich with plasma.
@@ -251,6 +271,10 @@ ent-WallRockSandGold = { ent-WallRockSand }
     .desc = An ore vein rich with gold.
     .suffix = Gold
 
+ent-WallRockSandDiamond = { ent-WallRockSand }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
+
 ent-WallRockSandPlasma = { ent-WallRockSand }
     .desc = An ore vein rich with plasma.
     .suffix = Plasma
@@ -293,6 +317,10 @@ ent-WallRockChromiteCoal = { ent-WallRockChromite }
 ent-WallRockChromiteGold = { ent-WallRockChromite }
     .desc = An ore vein rich with gold.
     .suffix = Gold
+
+ent-WallRockChromiteDiamond = { ent-WallRockChromite }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
 
 ent-WallRockChromitePlasma = { ent-WallRockChromite }
     .desc = An ore vein rich with plasma.
@@ -337,6 +365,10 @@ ent-WallRockAndesiteGold = { ent-WallRockAndesite }
     .desc = An ore vein rich with gold.
     .suffix = Gold
 
+ent-WallRockAndesiteDiamond = { ent-WallRockAndesite }
+    .desc = An ore vein rich with diamonds.
+    .suffix = Diamond
+
 ent-WallRockAndesitePlasma = { ent-WallRockAndesite }
     .desc = An ore vein rich with plasma.
     .suffix = Plasma
@@ -368,4 +400,3 @@ ent-WallRockAndesiteArtifactFragment = { ent-WallRockAndesite }
 ent-WallRockAndesiteSalt = { ent-WallRockAndesite }
     .desc = An ore vein rich with salt.
     .suffix = Salt
-

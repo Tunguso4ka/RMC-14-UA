@@ -13,5 +13,5 @@ ent-ClothingShoesBootsMagBlinding = magboots of blinding speed
 ent-ClothingShoesBootsMagSyndie = blood-red magboots
     .desc = Reverse-engineered magnetic boots that have a heavy magnetic pull and integrated thrusters.
 
-ent-ActionToggleMagboots = { ent-ActionBaseToggleMagboots }
-    .desc = { ent-ActionBaseToggleMagboots.desc }
+ent-ActionToggleMagboots = Перемкнути маг. бутси
+    .desc = Вмикає або вимикає магбутси.

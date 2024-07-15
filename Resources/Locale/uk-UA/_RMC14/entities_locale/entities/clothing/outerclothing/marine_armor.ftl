@@ -43,8 +43,8 @@ ent-CMArmorM35 = броня M35
 ent-CMArmorM45 = маскувальна броня M45
     .desc = Легка маскувальна броня, що використовується снайперами КМП ООН на розвідувательних місіях. Дуже легка та на здивування добре захищає.
 
-ent-CMArmorM56CombatHarness = бойовий каркас M56
-    .desc = Надміцна броня зроблена спеціально для системи смартганера M56. Має спеціально зроблені ремені та кріплення щоб переносити смартґан та аксесуари до нього.
+ent-CMArmorSmartGunCombatHarness = ML66A combat harness
+    .desc = A heavy protective vest designed to be worn with the ML66A Smart Gun System. It has specially designed straps and reinforcement to carry the Smartgun and accessories.
 
 ent-CMArmorM2MP = броня воєнполу зразку M2
     .desc = Броня М2 надає підвищений захист проти ближних атак, але погано захищає проти вогнепальної зброї.

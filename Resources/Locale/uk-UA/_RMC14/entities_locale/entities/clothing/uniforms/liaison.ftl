@@ -36,4 +36,3 @@ ent-CMJumpsuitLiaisonBrown = brown suit pants
 
 ent-CMJumpsuitLiaisonBlue = blue suit pants
     .desc = A pair of blue slacks paired with a white shirt. A common pairing among corporate workers.
-
