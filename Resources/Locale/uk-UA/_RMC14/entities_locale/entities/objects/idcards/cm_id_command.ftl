@@ -7,3 +7,6 @@ ent-CMIDCardCommandingOfficer = ID картка командуючого офі�
 ent-CMIDCardExecutiveOfficer = ID картка виконуючого офіцера
     .desc = { ent-CMIDCardSilver.desc }
 
+ent-CMIDCardHighCommand = high command ID card
+    .desc = A gold-plated holo-badge reserved for those exclusively above your rank.
+    .suffix = Admin

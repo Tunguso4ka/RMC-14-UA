@@ -63,3 +63,24 @@ ent-RMCFigurinePatronSatoruSuzuki = Satoru Suzuki figurine
 
 ent-RMCFigurinePatronRytilPyain = Rytil Pyain figurine
     .desc = Rytil may lack a lot of empathy, but she does her best to maintain the law and not get pissed off by the idiots breaking it.
+
+ent-RMCFigurinePatronBillTitan = Bill Titan figurine
+    .desc = { ent-RMCBaseFigurinePatron.desc }
+
+ent-RMCFigurinePatronJimmyPunishedPitJohnson = Jimmy 'Punished Pit' Johnson figurine
+    .desc = "ah been smokin in medbay"
+
+ent-RMCFigurinePatronSimonStarseeker = Simon Starseeker figurine
+    .desc = Silent But Deadly.
+
+ent-RMCFigurinePatronLenaMilize = Lena Milize figurine
+    .desc = Nanotrasen's Trademark Bartender: Handler-One.
+
+ent-RMCFigurinePatronBites-The-Dust = Bites-The-Dust figurine
+    .desc = A small, detailed miniature of a skilled corpsman.
+
+ent-RMCFigurinePatronOrionBlackburn = Orion Blackburn figurine
+    .desc = Alright, recruits, we're doing 50 laps... around the nearest vending machine because I forgot my lunch.
+
+ent-RMCFigurinePatronLillyPipsqueakHarding = Lilly 'Pipsqueak' Harding figurine
+    .desc = She may be a pipsqueak, but she is mighty!!!

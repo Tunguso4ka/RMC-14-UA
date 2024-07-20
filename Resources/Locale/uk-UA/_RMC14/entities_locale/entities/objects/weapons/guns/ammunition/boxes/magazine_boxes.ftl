@@ -84,3 +84,9 @@ ent-CMBoxMagazinePistolMK80Empty = коробка магазинів (MK80 x 16)
 
 ent-CMBoxMagazinePistolMK80 = коробка магазинів (MK80 x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
+
+ent-RMCBoxMagazinePistolSU6Empty = magazine box (SU-6 x 16)
+    .desc = { ent-CMBoxMagazineBase.desc }
+
+ent-RMCBoxMagazinePistolSU6 = { ent-RMCBoxMagazinePistolSU6Empty }
+    .desc = { ent-RMCBoxMagazinePistolSU6Empty.desc }

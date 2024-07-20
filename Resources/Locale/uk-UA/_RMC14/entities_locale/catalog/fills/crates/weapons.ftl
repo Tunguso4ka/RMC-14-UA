@@ -9,3 +9,6 @@ ent-CMCrateMK80 = MK80 Hand Cannon Crate (x2)
 
 ent-RMCCrateSmartGunSet = ML66A Smart Gun System Package
     .desc = { ent-CMCrateWeapons.desc }
+
+ent-CMCrateSU6 = SU-6 Smart Pistol Crate (x2)
+    .desc = { ent-CMCrateWeapons.desc }

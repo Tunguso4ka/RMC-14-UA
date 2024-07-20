@@ -21,6 +21,3 @@ ent-CMWindowWhiteColony = корпусне вікно
 
 ent-CMWindowWhiteColonyReinforced = корпусне армоване скло
     .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Виглядає досить міцно. Може знадобитися кілька хороших ударів, щоб розбити його.
-
-ent-CMWindowShiva = window
-    .desc = A glass window inside a wall frame.

@@ -30,3 +30,7 @@ ent-RMCBeltGrenade = M276 pattern M40 grenade rig
 
 ent-RMCBeltGrenadeLarge = M276 pattern M40 grenade rig Mk. II
     .desc = The M276 Mk. II is an upgraded version of the M276 grenade rig, with more storage capacity.
+
+ent-RMCBeltSmartPistol = M276 pattern SU-6 smart pistol holster rig
+    .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is for the SU-6 smartpistol.
+
