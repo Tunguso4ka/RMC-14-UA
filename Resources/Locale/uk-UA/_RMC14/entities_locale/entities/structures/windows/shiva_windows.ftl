@@ -1,4 +1,7 @@
-ent-CMWindowShiva = window
+ent-RMCWindowFrameShiva = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+
+ent-CMWindowShiva = вікно
     .desc = A glass window inside a wall frame.
 
 ent-CMWindowShivaIce = translucent ice

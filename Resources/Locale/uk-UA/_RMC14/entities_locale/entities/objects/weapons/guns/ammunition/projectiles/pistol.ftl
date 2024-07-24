@@ -13,5 +13,8 @@ ent-CMBulletPistolM77AP = куля (M77 AP)
 ent-CMBulletRevolver44 = куля (.44)
     .desc = { ent-CMBulletBase.desc }
 
+ent-RMCBulletRevolver44Marksman = bullet (.44 Marksman)
+    .desc = { ent-CMBulletBase.desc }
+
 ent-RMCBulletPistol45ACP = bullet (.45 ACP)
     .desc = { ent-CMBulletBase.desc }

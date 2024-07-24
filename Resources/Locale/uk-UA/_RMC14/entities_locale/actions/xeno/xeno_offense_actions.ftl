@@ -37,6 +37,9 @@ ent-ActionXenoSpit = Xeno Spit (25)
 ent-ActionXenoChargeSpit = Charge Spit (50)
     .desc = Charges up your next spit, making it deal more damage but have less range.
 
+ent-ActionXenoSprayAcid = Spray Acid (40)
+    .desc = Sprays acid along the ground in a line, covering tiles with it. [color=red]Will deal extra damage to barricades and anyone recently hit by a charged spit![/color]
+
 ent-ActionXenoParalyzingSlash = Paralyzing Slash (50)
     .desc = Temporarily charge up a melee attack that will knockdown the first enemy it hits after a short delay.
 
@@ -66,4 +69,3 @@ ent-ActionXenoStomp = Stomp (30)
 
 ent-ActionXenoCharge = Charge (20)
     .desc = Click on a tile you want to charge at, after a brief non cancel-able windup time.
-

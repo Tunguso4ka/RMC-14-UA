@@ -84,3 +84,12 @@ ent-RMCFigurinePatronOrionBlackburn = Orion Blackburn figurine
 
 ent-RMCFigurinePatronLillyPipsqueakHarding = Lilly 'Pipsqueak' Harding figurine
     .desc = She may be a pipsqueak, but she is mighty!!!
+
+ent-RMCFigurinePatronKateFleming = Kate Fleming figurine
+    .desc = "OORAH!!"
+
+ent-RMCFigurinePatronKaylieRowleyininski = Kaylie Rowleyininski figurine
+    .desc = Smells of freshly baked bread.
+
+ent-RMCFigurinePatronAmariDroppingHotWilliams = Amari 'Dropping Hot' Williams figurine
+    .desc = "FLYING LOW, DROPPING HOT, DRINKING LOTS! OORAH!"

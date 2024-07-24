@@ -1,3 +1,9 @@
+ent-RMCWindowFrameSolaris = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+
+ent-RMCWindowFrameSolarisReinforced = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+
 ent-CMWindowSolaris = window
     .desc = A glass window inside a wall frame.
 
