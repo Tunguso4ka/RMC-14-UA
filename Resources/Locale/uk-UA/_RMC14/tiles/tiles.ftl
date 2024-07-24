@@ -1,5 +1,6 @@
 tiles-cm-default = стальний тайл
-tiles-cm-default-no-weeds = стальний тайл (без трави)
+tiles-cm-default-no-weeds = стальний тайл (без резина)
+tiles-rmc-underplating-no-weeds = тайл (без резини)
 tiles-cm-plate = стальний плаский тайл
 tiles-cm-office = офісний тайл
 tiles-cm-sterile = стальний стерильний тайл

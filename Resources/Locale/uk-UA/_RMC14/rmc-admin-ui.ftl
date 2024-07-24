@@ -1,4 +1,4 @@
-﻿rmc-ui-cm-actions = КМП Дії
+rmc-ui-cm-actions = КМП Дії
 rmc-ui-transform-tab = Трансформувати
 rmc-ui-xeno-tab = Ксено
 rmc-ui-squads-tab = Загони
@@ -11,3 +11,4 @@ rmc-ui-tier = Tier {$tier}
 rmc-ui-create-squad = Створити загін
 rmc-ui-members = Члени: {$members}
 rmc-ui-add-to-squad = Додати до загону
+rmc-ui-admin = КМП Дієвидло Адміна

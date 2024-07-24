@@ -1,3 +1,6 @@
+ent-ReinforcementRadio = syndicate reinforcement radio
+    .desc = Call in a syndicate agent of questionable quality, instantly! Only basic equipment provided.
+
 ent-ReinforcementRadioSyndicate = рація підкріплення Синдикату
     .desc = Покличте собі на допомогу агента Синдикату, сумнівної якості звісно же. Й у нього почти що нічого не буде.
 

@@ -4,28 +4,28 @@ ent-FoodPizzaBase = { ent-FoodInjectableBase }
 ent-FoodPizzaSliceBase = { ent-FoodInjectableBase }
     .desc = { ent-FoodInjectableBase.desc }
 
-ent-FoodPizzaMargherita = margherita pizza
-    .desc = The flavor of Italy.
+ent-FoodPizzaMargherita = піца маргаріта
+    .desc = Смак Італії.
 
-ent-FoodPizzaMargheritaSlice = slice of margherita pizza
-    .desc = A slice of Italy.
+ent-FoodPizzaMargheritaSlice = шматок піци маргаріти
+    .desc = Шматок Італії.
 
-ent-FoodPizzaMeat = meat pizza
+ent-FoodPizzaMeat = м'ясна піца
     .desc = Greasy pizza with delicious meat.
 
-ent-FoodPizzaMeatSlice = slice of meat pizza
+ent-FoodPizzaMeatSlice = шматок м'ясної піци
     .desc = A nutritious slice of meatpizza.
 
-ent-FoodPizzaMushroom = mushroom pizza
+ent-FoodPizzaMushroom = піца з грибами
     .desc = Very special pizza.
 
-ent-FoodPizzaMushroomSlice = slice of mushroom pizza
+ent-FoodPizzaMushroomSlice = шматок піци з грибами
     .desc = Maybe it is the last slice of pizza in your life.
 
-ent-FoodPizzaVegetable = vegetable pizza
+ent-FoodPizzaVegetable = піза з овочами
     .desc = The station's vegetarians will thank you for making this.
 
-ent-FoodPizzaVegetableSlice = slice of vegetable pizza
+ent-FoodPizzaVegetableSlice = шматок піци з овочами
     .desc = A slice of this is enough to satisfy even the pickiest station personnel.
 
 ent-FoodPizzaDonkpocket = donk-pocket pizza
@@ -61,3 +61,8 @@ ent-FoodPizzaArnoldSlice = slice of Arnold's pizza
 ent-FoodPizzaMoldySlice = slice of moldy pizza
     .desc = Once a perfectly good slice of pizza pie, but now it lies here, rancid and bursting with spores.
 
+ent-FoodPizzaUranium = spicy rock pizza
+    .desc = Spicy pizza covered in peppers and uranium.
+
+ent-FoodPizzaUraniumSlice = slice of spicy rock pizza
+    .desc = A glowing slice of spicy rock pizza.

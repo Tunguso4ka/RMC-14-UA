@@ -14,6 +14,9 @@ ent-ClothingOuterArmorBulletproof = bulletproof vest
 ent-ClothingOuterArmorReflective = reflective vest
     .desc = An armored vest with advanced shielding to protect against energy weapons.
 
+ent-ClothingOuterArmorRaid = syndicate raid suit
+    .desc = A somewhat flexible and well-armored suit with a powerful shoulder mounted flashlight manufactured in the Gorlex Marauder's iconic blood-red color scheme, it does not protect it's wearer from space.
+
 ent-ClothingOuterArmorCult = acolyte armor
     .desc = An evil-looking piece of cult armor, made of bones.
 
@@ -43,4 +46,3 @@ ent-ClothingOuterArmorBone = bone armor
 
 ent-ClothingOuterArmorPodWars = ironclad II armor
     .desc = A repurposed suit of ironclad II armor, a relic of the pod wars.
-

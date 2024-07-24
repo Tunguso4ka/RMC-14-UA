@@ -33,3 +33,7 @@ ent-CMAirlockCELocked = двері ГІ
 ent-CMAirlockASOLocked = двері ОДС
     .desc = { ent-CMBaseDoor.desc }
     .suffix = ОДС, Зачинені
+
+ent-CMAirlockHighCommandLocked = { ent-CMAirlockCommand }
+    .desc = { ent-CMAirlockCommand.desc }
+    .suffix = High Command, Locked

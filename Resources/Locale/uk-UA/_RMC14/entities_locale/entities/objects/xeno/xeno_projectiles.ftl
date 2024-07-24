@@ -4,6 +4,9 @@ ent-XenoBaseProjectile = projectile
 ent-XenoSpitProjectile = spit
     .desc = { ent-XenoBaseProjectile.desc }
 
+ent-XenoChargedSpitProjectile = { ent-XenoSpitProjectile }
+    .desc = { ent-XenoSpitProjectile.desc }
+
 ent-XenoSlowingSpitProjectile = slowing spit
     .desc = { ent-XenoBaseProjectile.desc }
 
@@ -12,4 +15,3 @@ ent-XenoScatteredSpitProjectile = scattered spit
 
 ent-XenoBoneChipsProjectile = bone chips
     .desc = { ent-XenoBaseProjectile.desc }
-

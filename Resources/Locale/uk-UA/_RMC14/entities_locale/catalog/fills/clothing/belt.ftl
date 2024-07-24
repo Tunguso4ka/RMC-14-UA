@@ -29,3 +29,7 @@ ent-RMCBeltGrenadeLargeFilled = { ent-RMCBeltGrenadeLarge }
 ent-CMBeltSmartGunOperatorFilled = { ent-CMBeltSmartGunOperator }
     .desc = { ent-CMBeltSmartGunOperator.desc }
     .suffix = Filled
+
+ent-RMCBeltSmartPistolFilled = { ent-RMCBeltSmartPistol }
+    .desc = { ent-RMCBeltSmartPistol.desc }
+    .suffix = Filled

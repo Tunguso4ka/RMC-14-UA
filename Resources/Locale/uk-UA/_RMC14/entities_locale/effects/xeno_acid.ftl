@@ -6,3 +6,6 @@ ent-XenoAcidWeak = слабка їдка кислота
 
 ent-XenoAcidStrong = сильна їдка кислота
     .desc = { ent-XenoAcidNormal.desc }
+
+ent-XenoAcidSprayWeak = weak splatter
+    .desc = It burns! It burns, but not as much!

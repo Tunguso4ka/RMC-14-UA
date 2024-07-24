@@ -1,124 +1,130 @@
-ent-PaintingMonkey = monkey painting
-    .desc = Return to monky.
+ent-PaintingMonkey = малюнок мавпи
+    .desc = Час перевертати еволюцію людини.
 
 ent-BaseSignDirectional = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
-ent-SignDirectionalBar = bar sign
+ent-SignDirectionalBar = знак бару
     .desc = A direction sign, pointing out which way the bar is.
 
-ent-SignDirectionalBridge = bridge sign
+ent-SignDirectionalBridge = знак мостика
     .desc = A direction sign, pointing out which way the Bridge is.
 
-ent-SignDirectionalBrig = brig sign
+ent-SignDirectionalBrig = знак бріга
     .desc = A direction sign, pointing out which way the Brig is.
 
-ent-SignDirectionalChapel = chapel sign
+ent-SignDirectionalChapel = знак церкви
     .desc = A direction sign, pointing out which way the Chapel is.
 
-ent-SignDirectionalChemistry = chemistry sign
+ent-SignDirectionalChemistry = знак хімії
     .desc = A direction sign, pointing out which way the chemistry lab is.
 
-ent-SignDirectionalCryo = cryo sign
+ent-SignDirectionalCryo = знак крио
     .desc = A direction sign, pointing out the way to cryogenics.
 
-ent-SignDirectionalDorms = dorms sign
+ent-SignDirectionalDorms = знак кают
     .desc = A direction sign, pointing out which way the Dorms are.
 
-ent-SignDirectionalEng = engineering sign
+ent-SignDirectionalEng = знак інженерії
     .desc = A direction sign, pointing out which way the Engineering department is.
 
-ent-SignDirectionalEvac = evac sign
+ent-SignDirectionalEvac = знак евакуації
     .desc = A direction sign, pointing out which way evac is.
 
-ent-SignDirectionalExam = exam sign
+ent-SignDirectionalExam = знак огляду
     .desc = A direction sign, pointing out which way the examination room(s) are.
 
-ent-SignDirectionalFood = food sign
+ent-SignDirectionalFood = знак кухні
     .desc = A direction sign, pointing out which way the kitchen is.
 
-ent-SignDirectionalGravity = gravity sign
+ent-SignDirectionalGravity = знак гравитації
     .desc = A direction sign, pointing out which way the gravity generator is.
 
-ent-SignDirectionalHop = hop sign
+ent-SignDirectionalHop = знак ГП
     .desc = A direction sign, pointing out which way Head of Personnel's office is.
 
-ent-SignDirectionalHydro = hydro sign
+ent-SignDirectionalHydro = знак ботаники
     .desc = A direction sign, pointing out which way hydroponics is.
 
 ent-SignDirectionalIcu = icu sign
     .desc = A direction sign, pointing out which way the ICU is.
 
-ent-SignDirectionalJanitor = janitor sign
+ent-SignDirectionalJanitor = знак прибиральника
     .desc = A direction sign, pointing out which way the janitor's closet is.
 
-ent-SignDirectionalLibrary = library sign
+ent-SignDirectionalLibrary = знак бібліотеки
     .desc = A direction sign, pointing out which way the library is.
 
-ent-SignDirectionalMed = medical sign
+ent-SignDirectionalMed = знак лікарні
     .desc = A direction sign, pointing out which way the Medical department is.
 
-ent-SignDirectionalSalvage = salvage sign
+ent-SignDirectionalSalvage = знак шахтарів
     .desc = A direction sign, pointing out which way the Salvage department is.
 
-ent-SignDirectionalSci = science sign
+ent-SignDirectionalSci = знак науки
     .desc = A direction sign, pointing out which way the Science department is.
 
-ent-SignDirectionalSec = sec sign
+ent-SignDirectionalSec = знак охорони
     .desc = A direction sign, pointing out which way Security is.
 
-ent-SignDirectionalSolar = solars sign
+ent-SignDirectionalSolar = знак сон. панелей
     .desc = A direction sign, pointing out which way solars are.
 
-ent-SignDirectionalSupply = supply sign
+ent-SignDirectionalSupply = знак логістики
     .desc = A direction sign, pointing to some supplies.
 
-ent-SignDirectionalWash = washroom sign
+ent-SignDirectionalWash = знак вани
     .desc = A direction sign, pointing to the way to a washroom.
 
-ent-SignAi = ai sign
+ent-SignAi = знак ШІ
     .desc = A sign, indicating an AI is present.
 
-ent-SignArcade = arcade sign
+ent-SignAiUpload = знак завантаження ШІ
+    .desc = A sign, indicating an AI is present.
+
+ent-SignArcade = знак аркад
     .desc = A sign indicating the arcade.
 
-ent-SignArmory = armory sign
+ent-SignArmory = знак зброярні
     .desc = A sign indicating the armory.
 
-ent-SignToolStorage = tool storage sign
+ent-SignToolStorage = знак складу інструментів
     .desc = A sign indicating the tool storage room.
 
-ent-SignAnomaly = xenoarchaeology lab sign
+ent-SignAnomaly = знак лабораторії ксеноархеології
     .desc = A sign indicating the xenoarchaeology lab.
 
-ent-SignAnomaly2 = anomaly lab sign
+ent-SignAnomaly2 = знак аномальної лабораторії
     .desc = A sign indicating the anomalous research lab.
 
-ent-SignAtmos = atmos sign
+ent-SignAtmos = знак атмосфери
     .desc = A sign indicating the atmospherics area.
 
-ent-SignAtmosMinsky = atmospherics sign
-    .desc = A sign indicating the atmospherics area.
-
-ent-SignBar = bar sign
+ent-SignBar = знак бара
     .desc = A sign indicating the bar.
 
-ent-SignBarbershop = barbershop sign
+ent-SignKitchen = знак кухні
+    .desc = The heart of the home. And disease.
+
+ent-SignTheater = знак театра
+    .desc = Would it even be Space Station without drama?
+
+ent-SignBarbershop = знак перукаря
     .desc = A sign indicating the barbershop.
 
-ent-SignBio = bio sign
+ent-SignBio = знак біолабораторії
     .desc = A sign indicating the biology lab.
 
-ent-SignBiohazard = biohazard sign
+ent-SignBiohazard = знак біо-небезпеки
     .desc = A sign indicating a biohazard.
 
-ent-SignBridge = bridge sign
+ent-SignBridge = знак мостика
     .desc = A sign indicating the bridge.
 
-ent-SignCanisters = canisters sign
+ent-SignCanisters = знак каністр
     .desc = A sign warning the viewer about pressurised canisters.
 
-ent-SignCargo = cargo sign
+ent-SignCargo = знак логістики
     .desc = A sign indicating the cargo area.
 
 ent-SignCargoDock = cargo dock sign
@@ -130,20 +136,14 @@ ent-SignChapel = chapel sign
 ent-SignChem = chemistry sign
     .desc = A sign indicating the chemistry lab.
 
-ent-SignChemistry1 = chemistry sign
-    .desc = A sign indicating the chemistry lab.
-
-ent-SignChemistry2 = chemistry sign
-    .desc = A sign indicating the chemistry lab.
-
 ent-SignCloning = cloning sign
     .desc = A sign indicating the cloning lab.
 
 ent-SignConference = conference room sign
     .desc = A sign indicating the conference room.
 
-ent-SignCourt = court sign
-    .desc = A sign labelling the courtroom.
+ent-SignCryo = cryosleep sign
+    .desc = Just like that? You're gonna chicken out?
 
 ent-SignDisposalSpace = disposal sign
     .desc = A sign indicating a disposal area.
@@ -151,8 +151,11 @@ ent-SignDisposalSpace = disposal sign
 ent-SignDoors = doors sign
     .desc = A sign indicating doors.
 
-ent-SignDrones = drones sign
-    .desc = A sign indicating drones.
+ent-SignRestroom = restroom sign
+    .desc = A sign indicating where you go to... What do you do here again?
+
+ent-SignMaterials = materials sign
+    .desc = An omen to the juicy vault of steel, glass, and plastic that lays before you.
 
 ent-SignEngine = engine sign
     .desc = A sign indicating the engine room.
@@ -184,12 +187,6 @@ ent-SignHead = head sign
 ent-SignHydro1 = hydro sign
     .desc = A sign indicating a hydroponics area.
 
-ent-SignHydro2 = hydro sign
-    .desc = A sign indicating a hydroponics area.
-
-ent-SignHydro3 = hydro sign
-    .desc = A sign indicating a hydroponics area.
-
 ent-SignInterrogation = interrogation sign
     .desc = A sign indicating an interrogation room.
 
@@ -210,9 +207,6 @@ ent-SignMail = mail sign
 
 ent-SignMedical = medbay sign
     .desc = A sign indicating the medical bay.
-
-ent-SignMinerDock = miner dock sign
-    .desc = A sign indicating the miner dock.
 
 ent-SignMorgue = morgue sign
     .desc = A sign indicating the morgue.
@@ -244,14 +238,11 @@ ent-SignSalvage = salvage sign
 ent-SignScience = science sign
     .desc = A sign indicating the science area.
 
-ent-SignScience1 = science sign
-    .desc = A sign indicating the science area.
+ent-SignServer = server sign
+    .desc = Ever heard of Big Data? This is it, chump. The biggest.
 
-ent-SignScience2 = science sign
-    .desc = A sign indicating the science area.
-
-ent-SignShield = shield sign
-    .desc = A sign with a shield.
+ent-SignCans = canisters sign
+    .desc = A sign indicating the auspicious presence of gas canisters.
 
 ent-SignShipDock = docking sign
     .desc = A sign indicating the ship docking area.
@@ -268,8 +259,8 @@ ent-SignTelecomms = telecomms sign
 ent-SignToxins = toxins sign
     .desc = A sign indicating the toxin lab.
 
-ent-SignToxins2 = toxins sign
-    .desc = A sign indicating the toxin lab.
+ent-SignVault = vault sign
+    .desc = A sign indicating the vault. Who knows what secrets lie inside?
 
 ent-SignVirology = virology sign
     .desc = A sign indicating the virology lab.
@@ -317,12 +308,6 @@ ent-SignRadiation = radiation warning sign
     .desc = A sign indicating an ionizing radiation hazard.
 
 ent-SignXenobio = xenobio sign
-    .desc = A sign indicating the xenobiology lab.
-
-ent-SignXenobio2 = xenobio sign
-    .desc = A sign indicating the xenobiology lab.
-
-ent-SignXenolab = xenolab sign
     .desc = A sign indicating the xenobiology lab.
 
 ent-SignZomlab = zombie lab sign
@@ -462,4 +447,3 @@ ent-SignSurvival = survival sign
 
 ent-SignNTMine = mine sign
     .desc = A sign. "Mine" is written on it.
-

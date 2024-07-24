@@ -49,6 +49,9 @@ ent-ClothingBackpackChameleonFill = { ent-ClothingBackpackChameleon }
 ent-ClothingBackpackDuffelSyndicateEVABundle = syndicate EVA bundle
     .desc = Contains the Syndicate approved EVA suit.
 
+ent-ClothingBackpackDuffelSyndicateRaidBundle = syndicate raid suit bundle
+    .desc = Contains the Syndicate's durable raid armor suit.
+
 ent-ClothingBackpackDuffelSyndicateHardsuitBundle = syndicate hardsuit bundle
     .desc = Contains the Syndicate's signature blood red hardsuit.
 

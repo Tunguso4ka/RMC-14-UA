@@ -1,4 +1,3 @@
-﻿# command
 cm-job-name-senior-enlisted-advisor = Старший Військовий Радник
 cm-job-description-senior-enlisted-advisor = Навчайте строковиків серед персоналу корабля та морпіхів. Кричіть що є сили на рядових.
 CMJobSeniorEnlistedAdvisor = Старший Військовий Радник
@@ -14,3 +13,5 @@ CMJobCommandingOfficer = Командуючий Офіцер
 cm-job-name-executive-officer = Виконавчий Офіцер
 cm-job-description-executive-officer = Ви - другий у командуванні цього корабля.
 CMJobExecutiveOfficer = Виконавчий Офіцер
+
+cm-job-name-high-command = Вище Командування

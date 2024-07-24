@@ -39,3 +39,6 @@ ent-RMCCrateBatterySmartGun = ML66A smart gun battery crate (4x)
 
 ent-RMCCrateMagazineSmartGun = ML66A smart gun drum crate (2x)
     .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateBoxMagazineSmartPistol = Magazine box (SU-6, 16x mags)
+    .desc = { ent-CMCrateAmmo.desc }

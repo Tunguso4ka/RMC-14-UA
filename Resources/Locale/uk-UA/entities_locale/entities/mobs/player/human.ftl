@@ -9,6 +9,15 @@ ent-MobHumanSyndicateAgent = агент Синдикату
     .desc = { ent-MobHumanSyndicateAgentBase.desc }
     .suffix = Human, Traitor
 
+ent-MobHumanSyndicateAgentMedic = лікар Синдикату
+    .desc = { ent-MobHumanSyndicateAgent.desc }
+
+ent-MobHumanSyndicateAgentSpy = шпигун Синдикату
+    .desc = { ent-MobHumanSyndicateAgent.desc }
+
+ent-MobHumanSyndicateAgentThief = злодій Синдикату
+    .desc = { ent-MobHumanSyndicateAgent.desc }
+
 ent-MobHumanSyndicateAgentNukeops = { ent-MobHumanSyndicateAgent }
     .desc = { ent-MobHumanSyndicateAgentBase.desc }
     .suffix = Human, NukeOps
