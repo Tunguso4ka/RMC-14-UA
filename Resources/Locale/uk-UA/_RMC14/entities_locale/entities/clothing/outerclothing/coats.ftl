@@ -31,6 +31,14 @@ ent-CMCoatOfficer = офіцерське пальто
 ent-CMCoatLong = довге пальто
     .desc = Стандартне довге пальто.
 
-ent-CMCoatCorrespondent = пальто кореспондента
-    .desc = Стандартне пальто для кореспондентів.
+ent-RMCCoatCorrespondent = жекетка кореспондента
+    .desc = Жекетка для найкрасивішого військового кореспондента.
 
+ent-RMCCoatCorrespondentGreen = { ent-RMCCoatCorrespondent }
+    .desc = { ent-RMCCoatCorrespondent.desc }
+
+ent-RMCCoatCorrespondentBlack = { ent-RMCCoatCorrespondent }
+    .desc = { ent-RMCCoatCorrespondent.desc }
+
+ent-RMCCoatCorrespondentBlue = { ent-RMCCoatCorrespondent }
+    .desc = { ent-RMCCoatCorrespondent.desc }

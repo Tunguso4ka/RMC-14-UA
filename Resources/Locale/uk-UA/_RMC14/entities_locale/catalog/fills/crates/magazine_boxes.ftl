@@ -7,6 +7,9 @@ ent-CMCrateBoxMagazineRifleM54CAP = коробка магазинів (M54C, 10x
 ent-CMCrateBoxMagazineRifleM54CExt = коробка магазинів (M54C, 8x збільшених магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 
+ent-RMCCrateMagazineRifleM54CE2 = M54CE2 HAR Magazines crate (HAR ammo box x2)
+    .desc = { ent-CMCrateAmmo.desc }
+
 ent-CMCrateBoxMagazineRifleM4SPR = коробка магазинів (M4SPR, 16x звичайних магазинів)
     .desc = { ent-CMCrateAmmo.desc }
 

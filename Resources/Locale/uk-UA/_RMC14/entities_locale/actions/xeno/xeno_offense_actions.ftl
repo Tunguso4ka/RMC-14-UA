@@ -13,6 +13,9 @@ ent-ActionXenoRegurgitate = Regurgitate
 ent-ActionXenoTailStab = Tail Stab
     .desc = Launches an attack towards a given direction. The cooldown is faster if you miss.
 
+ent-ActionXenoTailStabCorrosive = Corrosive Tail Stab
+    .desc = Launches an attack towards a given direction. The cooldown is faster if you miss. [color=red]It also injects diluted molecular acid into the target, dealing damage over time.[/color]
+
 ent-ActionXenoLeap = Leap
     .desc = Jump towards a given location and knock down any enemies hit.
 
@@ -39,6 +42,9 @@ ent-ActionXenoChargeSpit = Charge Spit (50)
 
 ent-ActionXenoSprayAcid = Spray Acid (40)
     .desc = Sprays acid along the ground in a line, covering tiles with it. [color=red]Will deal extra damage to barricades and anyone recently hit by a charged spit![/color]
+
+ent-ActionXenoSprayAcidBoiler = { ent-ActionXenoSprayAcid }
+    .desc = { ent-ActionXenoSprayAcid.desc }
 
 ent-ActionXenoParalyzingSlash = Paralyzing Slash (50)
     .desc = Temporarily charge up a melee attack that will knockdown the first enemy it hits after a short delay.
@@ -69,3 +75,12 @@ ent-ActionXenoStomp = Stomp (30)
 
 ent-ActionXenoCharge = Charge (20)
     .desc = Click on a tile you want to charge at, after a brief non cancel-able windup time.
+
+ent-ActionXenoBombard = Bombard (200)
+    .desc = Fire either an acidic glob after a delay.
+
+ent-ActionXenoToggleGasType = Toggle Gas Type
+    .desc = Toggle between Acid or Neurotoxic gas types. Your acidic globs will deal continual damage to anything caught in its radius, while neurotoxin will cause targets to suffocate, be slowed down and blinded, alongside eventually knocking them unconscious to be kidnapped.
+
+ent-ActionXenoAcidShroud = Acid Shroud
+    .desc = Create a small cloud of acid around you to cloak yourself. This will disable your other abilities for a short time to allow you to escape.

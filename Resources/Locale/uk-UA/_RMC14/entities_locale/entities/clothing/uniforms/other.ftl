@@ -1,6 +1,17 @@
-ent-RMCJumpsuitPizza = pizza delivery uniform
+ent-RMCJumpsuitPizza = одяг доставщика піци
     .desc = An ill-fitting, slightly stained uniform for a pizza delivery pilot. Smells of cheese.
 
-ent-RMCJumpsuitMarshal = marshal uniform
-    .desc = A pair of off-white slacks and a blue button-down shirt with a dark brown tie; the standard uniform of the Marshals.
+ent-RMCJumpsuitMarshal = одяг маршала
+    .desc = Пара білосніжних брюк і синя сорочка на ґудзиках з темно-коричневою краваткою; дещо стандартний одяг Маршалів.
 
+ent-RMCJumpsuitCorrespondent = одяг кореспондента
+    .desc = Звичайний одяг кореспондента.
+
+ent-RMCJumpsuitCorrespondentBlack = { ent-RMCJumpsuitCorrespondent }
+    .desc = { ent-RMCJumpsuitCorrespondent.desc }
+
+ent-RMCJumpsuitCorrespondentOrange = { ent-RMCJumpsuitCorrespondent }
+    .desc = { ent-RMCJumpsuitCorrespondent.desc }
+
+ent-RMCJumpsuitCorrespondentRed = { ent-RMCJumpsuitCorrespondent }
+    .desc = { ent-RMCJumpsuitCorrespondent.desc }

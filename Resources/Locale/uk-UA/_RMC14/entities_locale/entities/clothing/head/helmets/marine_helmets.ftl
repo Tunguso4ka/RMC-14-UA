@@ -39,3 +39,6 @@ ent-CMArmorHelmetM35 = шолом M35
 
 ent-CMArmorHelmetM45 = маскувальний шолом M45
     .desc = Легкий шолом М45 з маскувальною сіткою використовуємий снайперами КМП ООН на розвідувательних місіях.
+
+ent-RMCArmorHelmetM3TDemo = M3-T bombardier helmet
+    .desc = A custom-built helmet for explosive weaponry users. Comes with inbuilt ear blast protection, firing a rocket launcher without this is not recommended.

@@ -72,6 +72,3 @@ ent-CMJumpsuitTShirtGray = сіра футболка
 
 ent-CMJumpsuitColonist = одяг колоніста
     .desc = Стильний сіро-зелений одяг - стандарт для колоністів.
-
-ent-CMJumpsuitCorrespondent = одяг кореспондента.
-    .desc = Стандартний одяг кореспондента.
