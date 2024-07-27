@@ -6,8 +6,6 @@ gun-disabled = Ви не можете користуватися зброєю!
 gun-clumsy = Зброя вибухає у ваших руках!
 gun-set-fire-mode = Перемкнути на {$mode}
 
-gun-magazine-whitelist-fail = Воно не вміщається в зброю!
-
 gun-SemiAuto = напів-авто
 gun-Burst = черга
 gun-FullAuto = авто
@@ -15,9 +13,14 @@ gun-FullAuto = авто
 gun-ballistic-cycle = Cycle
 gun-ballistic-cycled = Cycled
 gun-ballistic-cycled-empty = Cycled (empty)
+gun-ballistic-cycle-delayed = You begin unloading {CAPITALIZE(THE($entity))}. Hold still...
+gun-ballistic-cycle-delayed-cancelled = You stop unloading {CAPITALIZE(THE($entity))}.
+gun-ballistic-cycle-delayed-empty = {CAPITALIZE(THE($entity))} is already unloaded.
 gun-ballistic-transfer-invalid = {CAPITALIZE($ammoEntity)} не вміщається в {$targetEntity}!
 gun-ballistic-transfer-empty = {CAPITALIZE($entity)} порожня.
 gun-ballistic-transfer-target-full = {CAPITALIZE($entity)} вже повністу заряджена.
+
+gun-ballistic-transfer-cancelled = Your reload was interrupted!
 
 gun-cartridge-spent = Він [color=red]використаний[/color].
 gun-cartridge-unspent = Він [color=lime]не використаний[/color].

@@ -9,3 +9,6 @@ ent-XenoAcidStrong = сильна їдка кислота
 
 ent-XenoAcidSprayWeak = weak splatter
     .desc = It burns! It burns, but not as much!
+
+ent-XenoAcidSprayStrong = strong splatter
+    .desc = It burns! It burns!

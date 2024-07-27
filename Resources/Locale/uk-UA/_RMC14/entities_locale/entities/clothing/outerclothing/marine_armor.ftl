@@ -16,8 +16,8 @@ ent-CMArmorM3WO = броня голови ВП зразку M3
 ent-RMCArmorM3G4 = M3-G4 grenadier armor
     .desc = A custom set of M3 armor packed to the brim with padding, plating, and every form of ballistic protection under the sun. Used exclusively by Marine Grenadiers.
 
-ent-CMArmorM3T = легка броня M3-T
-    .desc = Спеціальний варіант броні М3 зроблений для вибухо-техників.
+ent-RMCArmorM3TDemo = M3-T light armor
+    .desc = A custom set of M3 armor designed for users of long-ranged explosive weaponry. Provides better protection against explosives than standard M3 armor, while remaining nimble.
 
 ent-CMArmorM3Light = легка броня зразку M3-L
     .desc = Легкий варіант стандартної броні зразку М3. Хоч в неї і менше захисту ніж в інших, ця дозволяє рухатися швидше.

@@ -4,8 +4,8 @@ ent-RMCUnderAttachmentBase = { ent-RMCAttachmentBase }
 ent-RMCAttachmentAngledGrip = angled grip
     .desc = An angled foregrip that improves weapon ergonomics resulting in faster wielding time. However, it also increases weapon size.
 
-ent-CMAttachmentBipod = двонога
-    .desc = Простий набір телескопічних двоніг для стабілізуваня зброї під час пострілу. Не кріпиться на ніж.
+ent-RMCAttachmentBipod = bipod
+    .desc = A simple set of telescopic poles to keep a weapon stabilized during firing. Greatly increases accuracy and reduces recoil when properly placed, but also increases weapon size and slows firing speed.
 
 ent-RMCAttachmentBurstFireAssembly = burst fire assembly
     .desc = A small angled piece of fine machinery that increases the burst count on some weapons.

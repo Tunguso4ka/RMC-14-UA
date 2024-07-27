@@ -15,3 +15,9 @@ ent-XenoScatteredSpitProjectile = scattered spit
 
 ent-XenoBoneChipsProjectile = bone chips
     .desc = { ent-XenoBaseProjectile.desc }
+
+ent-XenoBombardAcidProjectile = glob of acid gas
+    .desc = { ent-XenoBaseProjectile.desc }
+
+ent-XenoBombardNeurotoxinProjectile = glob of neurotoxin gas
+    .desc = { ent-XenoBombardAcidProjectile.desc }

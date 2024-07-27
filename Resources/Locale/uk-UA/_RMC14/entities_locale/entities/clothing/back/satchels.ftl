@@ -33,3 +33,9 @@ ent-RMCSatchelGrenadeSpec = UNMC IMP M63A1 grenade satchel
 
 ent-RMCSatchelWelder = UNMC technician welder-satchel
     .desc = A specialized satchel worn by UNMC technicians and engineers. It carries two small fuel tanks for quick welder refueling and use.
+
+ent-RMCSatchelWelderChestrig = technician welder chestrig
+    .desc = A specialized Chestrig worn by technicians and engineers. It carries one medium fuel tank for quick welder refueling and use.
+
+ent-RMCSatchelDemoSpec = UNMC IMP M22 rocket bags
+    .desc = A specially-designed backpack that fits to the IMP mounting frame on standard UNMC infantry armor. It's made of two easily-accessible, waterproofed reinforced tubes and one smaller satchel slung at the bottom. The two silos are for rockets, but no one is stopping you from cramming other things in there.
