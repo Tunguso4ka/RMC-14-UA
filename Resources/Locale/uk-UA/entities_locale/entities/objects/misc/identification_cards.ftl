@@ -1,7 +1,7 @@
 ent-IDCardStandard = ідентифікаційна картка
     .desc = Необхідна для доступу в деякі зони станції картка.
 
-ent-PassengerIDCard = ID картка асистента
+ent-PassengerIDCard = ID картка пасажира
     .desc = { ent-IDCardStandard.desc }
 
 ent-TechnicalAssistantIDCard = ID картка техничного асистента
@@ -131,11 +131,11 @@ ent-MusicianIDCard = ID картка музиканта
 ent-CentcomIDCardDeathsquad = ID картка загону смерті
     .desc = { ent-CentcomIDCard.desc }
 
-ent-AgentIDCard = ID картка асистента
+ent-AgentIDCard = { ent-IDCardStandard }
     .desc = { ent-IDCardStandard.desc }
     .suffix = Agent
 
-ent-NukieAgentIDCard = ID картка асистента
+ent-NukieAgentIDCard = { ent-AgentIDCard }
     .desc = { ent-AgentIDCard.desc }
     .suffix = Nukie
 

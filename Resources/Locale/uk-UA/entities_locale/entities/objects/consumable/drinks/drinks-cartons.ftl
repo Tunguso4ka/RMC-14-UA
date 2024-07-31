@@ -5,7 +5,7 @@ ent-DrinkCartonBaseFull = { ent-DrinkBase }
 ent-DrinkCartonBaseLargeFull = { ent-DrinkCartonBaseFull }
     .desc = { ent-DrinkCartonBaseFull.desc }
 
-ent-DrinkCartonVisualsOpenable = ця сутність не має назви
+ent-DrinkCartonVisualsOpenable = { "" }
     .desc = { "" }
 
 ent-DrinkJuiceLimeCarton = lime juice

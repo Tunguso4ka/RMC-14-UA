@@ -1,7 +1,7 @@
-ent-ShowSecurityIcons = ця сутність не має назви
+ent-ShowSecurityIcons = { "" }
     .desc = { "" }
 
-ent-ShowMedicalIcons = ця сутність не має назви
+ent-ShowMedicalIcons = { "" }
     .desc = { "" }
 
 ent-ClothingEyesHudDiagnostic = прозороий дисплей діагностики

@@ -1,45 +1,44 @@
-ent-BaseStation = ця сутність не має назви
+ent-BaseStation = { "" }
     .desc = { "" }
 
-ent-BaseStationCargo = ця сутність не має назви
+ent-BaseStationCargo = { "" }
     .desc = { "" }
 
-ent-BaseStationJobsSpawning = ця сутність не має назви
+ent-BaseStationJobsSpawning = { "" }
     .desc = { "" }
 
-ent-BaseStationRecords = ця сутність не має назви
+ent-BaseStationRecords = { "" }
     .desc = { "" }
 
-ent-BaseStationArrivals = ця сутність не має назви
+ent-BaseStationArrivals = { "" }
     .desc = { "" }
 
-ent-BaseStationGateway = ця сутність не має назви
+ent-BaseStationGateway = { "" }
     .desc = { "" }
 
-ent-BaseStationShuttles = ця сутність не має назви
+ent-BaseStationShuttles = { "" }
     .desc = { "" }
 
-ent-BaseStationCentcomm = ця сутність не має назви
+ent-BaseStationCentcomm = { "" }
     .desc = { "" }
 
-ent-BaseStationEvacuation = ця сутність не має назви
+ent-BaseStationEvacuation = { "" }
     .desc = { "" }
 
-ent-BaseStationAlertLevels = ця сутність не має назви
+ent-BaseStationAlertLevels = { "" }
     .desc = { "" }
 
-ent-BaseStationExpeditions = ця сутність не має назви
+ent-BaseStationExpeditions = { "" }
     .desc = { "" }
 
-ent-BaseStationMagnet = ця сутність не має назви
+ent-BaseStationMagnet = { "" }
     .desc = { "" }
 
-ent-BaseStationSiliconLawCrewsimov = ця сутність не має назви
+ent-BaseStationSiliconLawCrewsimov = { "" }
     .desc = { "" }
 
-ent-BaseStationNews = ця сутність не має назви
+ent-BaseStationNews = { "" }
     .desc = { "" }
 
-ent-BaseStationAllEventsEligible = ця сутність не має назви
+ent-BaseStationAllEventsEligible = { "" }
     .desc = { "" }
-

@@ -19,7 +19,7 @@ ent-SignDirectionalChapel = знак церкви
 ent-SignDirectionalChemistry = знак хімії
     .desc = A direction sign, pointing out which way the chemistry lab is.
 
-ent-SignDirectionalCryo = знак крио
+ent-SignDirectionalCryo = знак кріо
     .desc = A direction sign, pointing out the way to cryogenics.
 
 ent-SignDirectionalDorms = знак кают

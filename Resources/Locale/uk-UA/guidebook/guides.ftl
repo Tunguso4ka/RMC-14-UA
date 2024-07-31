@@ -54,7 +54,7 @@ guide-entry-charactercreation = Створення персонажу
 guide-entry-species = Види/Раси
 
 guide-entry-yourfirstcharacter = Ваш перший персонаж
-guide-entry-controls = Коригування
+guide-entry-controls = Керування
 guide-entry-radio = Рація
 guide-entry-references = Таблиці & Референси
 guide-entry-drinks = Напої

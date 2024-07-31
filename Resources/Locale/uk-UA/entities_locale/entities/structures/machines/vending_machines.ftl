@@ -1,5 +1,5 @@
-ent-VendingMachine = vending machine
-    .desc = Just add capitalism!
+ent-VendingMachine = торговий автомат
+    .desc = Просто додайте капітализма!
 
 ent-VendingMachineCondiments = condiment station
     .desc = Slather these thick gooey substances on your food for a full flavor effect.
@@ -7,8 +7,8 @@ ent-VendingMachineCondiments = condiment station
 ent-VendingMachineAmmo = liberation station
     .desc = An overwhelming amount of ancient patriotism washes over you just by looking at the machine.
 
-ent-VendingMachineBooze = Booze-O-Mat
-    .desc = A technological marvel, supposedly able to mix just the mixture you'd like to drink the moment you ask for one.
+ent-VendingMachineBooze = Бухло-Мат
+    .desc = Технологічне диво, яке, на думку багатьох, може змішати все що би забажаєте щойно ви цього попросите.
 
 ent-VendingMachineCart = PTech
     .desc = PTech vending! Providing a ROBUST selection of PDAs, cartridges, and anything else a dull paper pusher needs!
@@ -28,15 +28,15 @@ ent-VendingMachineWinter = WinterDrobe
 ent-VendingMachineCoffee = Solar's Best Hot Drinks
     .desc = Served boiling so it stays hot all shift!
 
-ent-VendingMachineCola = Robust Softdrinks
-    .desc = A softdrink vendor provided by Robust Industries, LLC.
+ent-VendingMachineCola = освіжаючі напої Робаст
+    .desc = Автомат освіжаючих напоїв компанії Робаст Індацтріз, LLC.
 
 ent-VendingMachineColaBlack = { ent-VendingMachineCola }
     .desc = { ent-VendingMachineCola.desc }
-    .suffix = Black
+    .suffix = Чорний
 
-ent-VendingMachineColaRed = Space Cola Vendor
-    .desc = It vends cola, in space.
+ent-VendingMachineColaRed = автомат КосмоКоли
+    .desc = Видає колу, космічну.
 
 ent-VendingMachineSpaceUp = Space-Up! Vendor
     .desc = Indulge in an explosion of flavor.
@@ -108,8 +108,8 @@ ent-VendingMachineSnackTeal = { ent-VendingMachineSnack }
     .desc = { ent-VendingMachineSnack.desc }
     .suffix = Teal
 
-ent-VendingMachineSovietSoda = BODA
-    .desc = An old vending machine containing sweet water.
+ent-VendingMachineSovietSoda = БОДА
+    .desc = Старий торговий автомат, що видає солодку воду.
 
 ent-VendingMachineTheater = AutoDrobe
     .desc = A vending machine containing costumes.
@@ -201,20 +201,19 @@ ent-VendingMachineViroDrobe = ViroDrobe
 ent-VendingMachineCentDrobe = CentDrobe
     .desc = A one-of-a-kind vending machine for all your centcom aesthetic needs!
 
-ent-VendingMachineHappyHonk = Happy Honk Dispenser
+ent-VendingMachineHappyHonk = автомат Щастливий Гудок
     .desc = A happy honk meal box dispenser made by honk! co.
 
-ent-VendingMachineTankDispenserEVA = gas tank dispenser
-    .desc = A vendor for dispensing gas tanks.
+ent-VendingMachineTankDispenserEVA = диспенсер балонів
+    .desc = Автомат дла видачі газових балонів.
     .suffix = EVA [O2, N2]
 
-ent-VendingMachineTankDispenserEngineering = gas tank dispenser
-    .desc = A vendor for dispensing gas tanks. This one has an engineering livery.
+ent-VendingMachineTankDispenserEngineering = диспенсер балонів
+    .desc = Автомат дла видачі газових балонів. Цей для інженерів.
     .suffix = ENG [O2, Plasma]
 
-ent-VendingMachineChemicals = ChemVend
-    .desc = Probably not the coffee machine.
+ent-VendingMachineChemicals = ХімМат
+    .desc = Скоріше за все, не кавоварка
 
-ent-VendingMachineChemicalsSyndicate = SyndieJuice
-    .desc = Not made with freshly squeezed syndies I hope.
-
+ent-VendingMachineChemicalsSyndicate = СиндіСік
+    .desc = Сподіваюся, він не зроблений з свіже стислих синдікатів.

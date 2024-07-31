@@ -1,6 +1,5 @@
-ent-StorePresetUplink = ця сутність не має назви
+ent-StorePresetUplink = { "" }
     .desc = { "" }
 
-ent-StorePresetSpellbook = ця сутність не має назви
+ent-StorePresetSpellbook = { "" }
     .desc = { "" }
-

@@ -13,10 +13,10 @@ ent-ClothingOuterCoatDetectiveLoadout = { ent-ClothingOuterCoatDetective }
 ent-ClothingOuterCoatGentle = gentle coat
     .desc = A gentle coat for a gentle man, or woman.
 
-ent-ClothingOuterArmorHoS = ця сутність не має назви
+ent-ClothingOuterArmorHoS = { "" }
     .desc = { ent-AllowSuitStorageClothing.desc }
 
-ent-ClothingOuterArmorWarden = ця сутність не має назви
+ent-ClothingOuterArmorWarden = { "" }
     .desc = { ent-AllowSuitStorageClothing.desc }
 
 ent-ClothingOuterCoatHoSTrench = head of security's armored trenchcoat

@@ -4,7 +4,7 @@ ent-BasePDA = КПК
 ent-BaseMedicalPDA = { ent-BasePDA }
     .desc = { ent-BasePDA.desc }
 
-ent-PassengerPDA = КПК асистента
+ent-PassengerPDA = КПК пасажира
     .desc = Чому він не сірий?
 
 ent-TechnicalAssistantPDA = КПК техничного асистента

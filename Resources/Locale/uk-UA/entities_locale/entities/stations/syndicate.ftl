@@ -1,4 +1,3 @@
-ent-BaseStationSyndicate = ця сутність не має назви
+ent-BaseStationSyndicate = { "" }
 
-ent-StandardNukieOutpost = ця сутність не має назви
-
+ent-StandardNukieOutpost = { "" }

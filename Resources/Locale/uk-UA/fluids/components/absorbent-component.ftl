@@ -1,8 +1,8 @@
-mopping-system-target-container-empty = { CAPITALIZE(THE($target)) } is empty!
-mopping-system-target-container-empty-water = { CAPITALIZE(THE($target)) } has no water!
-mopping-system-puddle-space = { THE($used) } is full of water
-mopping-system-puddle-evaporate = { THE($target) } is evaporating
-mopping-system-no-water = { THE($used) } has no water!
+mopping-system-target-container-empty = { CAPITALIZE($target) } не має нічого!
+mopping-system-target-container-empty-water = { CAPITALIZE($target) } не має води!
+mopping-system-puddle-space = { $used } повна води
+mopping-system-puddle-evaporate = { $target } випаровувається
+mopping-system-no-water = { $used } немає води!
 
-mopping-system-full = { THE($used) } is full!
-mopping-system-empty = { THE($used) } is empty!
+mopping-system-full = { $used } повна!
+mopping-system-empty = { $used } порожня!

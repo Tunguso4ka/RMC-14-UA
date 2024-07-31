@@ -1,2 +1,2 @@
-ent-EffectFlashBluespace = ця сутність не має назви
+ent-EffectFlashBluespace = { "" }
 

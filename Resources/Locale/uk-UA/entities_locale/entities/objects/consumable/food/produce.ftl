@@ -13,6 +13,9 @@ ent-OatBushel = oat bushel
 ent-Sugarcane = sugarcane
     .desc = Sickly sweet.
 
+ent-Papercane = papercane roll
+    .desc = Why do we even need to grow paper?
+
 ent-FoodLaughinPeaPod = laughin' pea pod
     .desc = The clown's favorite plant.
 
@@ -88,6 +91,9 @@ ent-FoodEggplant = eggplant
 ent-FoodApple = apple
     .desc = It's a little piece of Eden.
 
+ent-FoodGoldenApple = golden apple
+    .desc = It should be shaped like a cube, shouldn't it?
+
 ent-FoodCocoaPod = cocoa pod
     .desc = You can never have too much chocolate!
 
@@ -145,6 +151,9 @@ ent-FoodAmbrosiaDeus = ambrosia deus
 ent-FoodGalaxythistle = galaxythistle
     .desc = A medicinal plant used for its antitoxin.
 
+ent-FoodGlasstle = glasstle
+    .desc = A fragile crystal plant with lot of spiky thorns.
+
 ent-FoodFlyAmanita = fly amanita
     .desc = A delicious-looking mushroom like you see in those cartoons.
 
@@ -192,4 +201,3 @@ ent-CottonBol = cotton boll
 
 ent-PyrottonBol = pyrotton boll
     .desc = This will probably set you on fire.
-

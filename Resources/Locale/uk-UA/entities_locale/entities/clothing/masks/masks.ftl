@@ -37,6 +37,9 @@ ent-ClothingMaskClown = { ent-ClothingMaskClownBase }
 ent-ClothingMaskClownBanana = banana clown wig and mask
     .desc = { ent-ClothingMaskClown.desc }
 
+ent-ClothingMaskClownSecurity = security clown wig and mask
+    .desc = A debatably oxymoronic but protective mask and wig.
+
 ent-ClothingMaskJoy = joy mask
     .desc = Express your happiness or hide your sorrows with this laughing face with crying tears of joy cutout.
 
@@ -112,4 +115,3 @@ ent-ClothingMaskItalianMoustache = italian moustache
 
 ent-ClothingMaskNinja = ninja mask
     .desc = A close-fitting nano-enhanced mask that acts both as an air filter and a post-modern fashion statement.
-

@@ -1,51 +1,51 @@
-ent-ComputerAlert = alerts computer
-    .desc = Used to access the station's automated alert system.
+ent-ComputerAlert = комп'ютер тривог
+    .desc = Потрібен для доступу до Автоматизованої Системи Тривог станції.
 
-ent-ComputerEmergencyShuttle = emergency shuttle console
-    .desc = Handles authorization to early launch the shuttle.
+ent-ComputerEmergencyShuttle = консоль шатла евакуації
+    .desc = Використовується для раннього запуску шатла.
 
-ent-BaseComputerShuttle = shuttle console
-    .desc = Used to pilot a shuttle.
+ent-BaseComputerShuttle = консоль шатла
+    .desc = Використовується для керування шатлом
 
-ent-ComputerShuttle = shuttle console
-    .desc = Used to pilot a shuttle.
+ent-ComputerShuttle = консоль шатла
+    .desc = Використовується для керування шатлом.
 
-ent-ComputerShuttleSyndie = syndicate shuttle console
-    .desc = Used to pilot a syndicate shuttle.
+ent-ComputerShuttleSyndie = консоль шатла Синдикату
+    .desc = Використовується для керування шатлом Синдикату.
 
-ent-ComputerShuttleCargo = cargo shuttle console
-    .desc = Used to pilot the cargo shuttle.
+ent-ComputerShuttleCargo = консоль шатла логістики
+    .desc = Використовується для керування шатлом логістів.
 
-ent-ComputerShuttleSalvage = salvage shuttle console
-    .desc = Used to pilot the salvage shuttle.
+ent-ComputerShuttleSalvage = консоль шатла шахтарів
+    .desc = Використовується для керування шатлом шахтарів.
 
-ent-ComputerIFF = IFF computer
-    .desc = Allows you to control the IFF characteristics of this vessel.
+ent-ComputerIFF = комп'ютер системи "свій-чужий"
+    .desc = Дозволяє вам керувати системою "свій-чужий" цього шатла.
 
-ent-ComputerIFFSyndicate = IFF computer
-    .desc = Allows you to control the IFF and stealth characteristics of this vessel.
+ent-ComputerIFFSyndicate = { ent-ComputerIFF }
+    .desc = { ent-ComputerIFF.desc }
     .suffix = Syndicate
 
-ent-ComputerPowerMonitoring = power monitoring computer
-    .desc = It monitors power levels across the station.
+ent-ComputerPowerMonitoring = комп'ютер стеження за живленням
+    .desc = Виводить інформацію о живленні по станції.
 
-ent-ComputerMedicalRecords = medical records computer
-    .desc = This can be used to check medical records.
+ent-ComputerMedicalRecords = комп'ютер медічних записів
+    .desc = Дозволяє перевірити медічні записи.
 
-ent-ComputerCriminalRecords = criminal records computer
-    .desc = This can be used to check criminal records. Only security can modify them.
+ent-ComputerCriminalRecords = комп'ютер записів правопорушень
+    .desc = Дозволяє перевірити записи правопорушень. Тільки охорона може змінювати їх.
 
-ent-ComputerStationRecords = station records computer
-    .desc = This can be used to check station records.
+ent-ComputerStationRecords = комп'ютер записів станції
+    .desc = Дозволяє перевірити записи станції.
 
-ent-ComputerCrewMonitoring = crew monitoring console
-    .desc = Used to monitor active health sensors built into most of the crew's uniforms.
+ent-ComputerCrewMonitoring = консоль стеження за екіпажем
+    .desc = Считує і виводить інформацію о здоров'ї та стані екіпажа з датчиків на одязі.
 
-ent-ComputerResearchAndDevelopment = R&D computer
-    .desc = A computer used to interface with R&D tools.
+ent-ComputerResearchAndDevelopment = комп'ютер досліджень
+    .desc = Дозволяє взаімодіяти з інструментами Наукового Відділа.
 
-ent-ComputerAnalysisConsole = analysis console
-    .desc = A computer used to interface with the artifact analyzer.
+ent-ComputerAnalysisConsole = консоль анализу
+    .desc = Дозволяє взаімодіяти з анализатором артефактів.
 
 ent-ComputerId = ID card computer
     .desc = Terminal for programming Nanotrasen employee ID cards to access parts of the station.
@@ -86,16 +86,15 @@ ent-ComputerSurveillanceCameraMonitor = camera monitor
 ent-ComputerSurveillanceWirelessCameraMonitor = wireless camera monitor
     .desc = A wireless surveillance camera monitor. You're watching them. Maybe.
 
-ent-ComputerPalletConsole = cargo sale computer
-    .desc = Used to sell goods loaded onto cargo pallets
+ent-ComputerPalletConsole = комп'ютер продажів логістики
+    .desc = Дозволяє продавати завантажені на палети товари.
 
-ent-ComputerMassMedia = mass-media console
-    .desc = Write your message to the world!
+ent-ComputerMassMedia = консоль ЗМІ
+    .desc = Напишить ваше повідомлення світові!
 
 ent-ComputerSensorMonitoring = sensor monitoring computer
     .desc = A flexible console for monitoring all kinds of sensors.
     .suffix = TESTING, DO NOT MAP
 
-ent-ComputerRoboticsControl = robotics control console
-    .desc = Used to remotely monitor, disable and destroy the station's cyborgs.
-
+ent-ComputerRoboticsControl = консоль контролю робототехники
+    .desc = Дозволяє стежити, вимикати та навіть знищювати кіборгів на станції.

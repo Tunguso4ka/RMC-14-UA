@@ -73,7 +73,7 @@ ent-BedsheetRD = простирадло НД
 ent-BedsheetBrigmedic = простирадло бригмедика
     .desc = Not worse than cotton.
 
-ent-BedsheetRed = red простирадло
+ent-BedsheetRed = червоне простирадло
     .desc = { ent-BedsheetBase.desc }
 
 ent-BedsheetSyndie = простирадло Синдикату

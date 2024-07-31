@@ -1,4 +1,4 @@
-ent-EffectRCDBase = ця сутність не має назви
+ent-EffectRCDBase = { "" }
 
 ent-EffectRCDDeconstructPreview = { ent-EffectRCDBase }
     .desc = { ent-EffectRCDBase.desc }

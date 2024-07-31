@@ -1,3 +1,2 @@
-ent-BrbSign = brb sign
-    .desc = Lets others know you are away.
-
+ent-BrbSign = знак "скоро повернуся"
+    .desc = Каже за вас, що вас тут нема.

@@ -1,4 +1,4 @@
-ent-CollideFloorTrap = ця сутність не має назви
+ent-CollideFloorTrap = { "" }
 
 ent-CollideFloorTrapSpawn = спавн пастка
     .desc = { ent-CollideFloorTrap.desc }
