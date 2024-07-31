@@ -1,2 +1,2 @@
-ent-BaseShadow = ця сутність не має назви
+ent-BaseShadow = { "" }
     .desc = { "" }

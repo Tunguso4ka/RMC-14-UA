@@ -4,7 +4,7 @@ ent-ReagentContainerBase = { ent-BaseItem }
 ent-ReagentPacketBase = { ent-ReagentContainerBase }
     .desc = { ent-ReagentContainerBase.desc }
 
-ent-ItemHeftyBase = ця сутність не має назви
+ent-ItemHeftyBase = { "" }
     .desc = { "" }
 
 ent-ReagentContainerFlour = мішок борошна

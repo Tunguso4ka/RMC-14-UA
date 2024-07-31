@@ -1,4 +1,4 @@
-ent-WallSpawnAsteroid = ця сутність не має назви
+ent-WallSpawnAsteroid = { "" }
 
 ent-WallSpawnAsteroidUraniumCrab = { ent-WallSpawnAsteroid }
     .desc = { ent-WallSpawnAsteroid.desc }

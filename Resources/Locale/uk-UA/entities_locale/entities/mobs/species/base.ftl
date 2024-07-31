@@ -1,8 +1,8 @@
-ent-BaseMobSpecies = ця сутність не має назви
+ent-BaseMobSpecies = { "" }
     .desc = { ent-BaseMob.desc }
 
 ent-BaseMobSpeciesOrganic = { ent-MobBloodstream }
     .desc = { ent-MobBloodstream.desc }
 
-ent-BaseSpeciesDummy = ця сутність не має назви
+ent-BaseSpeciesDummy = { "" }
     .desc = { "" }

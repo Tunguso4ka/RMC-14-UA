@@ -1,23 +1,23 @@
-ent-BaseMob = ця сутність не має назви
+ent-BaseMob = { "" }
     .desc = { "" }
 
-ent-MobDamageable = ця сутність не має назви
+ent-MobDamageable = { "" }
     .desc = { "" }
 
-ent-MobCombat = ця сутність не має назви
+ent-MobCombat = { "" }
     .desc = { "" }
 
-ent-MobAtmosExposed = ця сутність не має назви
+ent-MobAtmosExposed = { "" }
     .desc = { "" }
 
 ent-MobAtmosStandard = { ent-MobAtmosExposed }
     .desc = { ent-MobAtmosExposed.desc }
 
-ent-MobFlammable = ця сутність не має назви
+ent-MobFlammable = { "" }
     .desc = { "" }
 
-ent-MobRespirator = ця сутність не має назви
+ent-MobRespirator = { "" }
     .desc = { "" }
 
-ent-MobBloodstream = ця сутність не має назви
+ent-MobBloodstream = { "" }
     .desc = { "" }

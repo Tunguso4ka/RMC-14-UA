@@ -1,4 +1,4 @@
-ent-BaseMech = ця сутність не має назви
+ent-BaseMech = { "" }
 
 ent-MechRipley = Ripley APLU
     .desc = Versatile and lightly armored, the Ripley is useful for almost any heavy work scenario. The "APLU" stands for Autonomous Power Loading Unit.
@@ -27,4 +27,3 @@ ent-MechVim = Vim
 ent-MechVimBattery = { ent-MechVim }
     .desc = { ent-MechVim.desc }
     .suffix = Battery
-

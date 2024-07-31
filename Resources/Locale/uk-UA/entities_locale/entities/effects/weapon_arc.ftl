@@ -1,6 +1,6 @@
-ent-WeaponArcStatic = ця сутність не має назви
+ent-WeaponArcStatic = { "" }
 
-ent-WeaponArcAnimated = ця сутність не має назви
+ent-WeaponArcAnimated = { "" }
 
 ent-WeaponArcThrust = { ent-WeaponArcStatic }
     .desc = { ent-WeaponArcStatic.desc }
@@ -28,4 +28,3 @@ ent-WeaponArcKick = { ent-WeaponArcStatic }
 
 ent-WeaponArcSmash = { ent-WeaponArcStatic }
     .desc = { ent-WeaponArcStatic.desc }
-

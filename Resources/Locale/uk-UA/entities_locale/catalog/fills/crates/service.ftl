@@ -47,3 +47,5 @@ ent-CrateTrashCartFilled = { ent-CrateTrashCart }
     .desc = { ent-CrateTrashCart.desc }
     .suffix = Заповнена
 
+ent-CrateCandles = ящик свічок
+    .desc = Містить 4 коробки свічок, 2 з великими та 2 з маленькими. Для атмосфери чи чогось такого.

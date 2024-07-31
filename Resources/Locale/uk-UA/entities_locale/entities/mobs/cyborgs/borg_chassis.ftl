@@ -1,27 +1,27 @@
 ent-BorgChassisGeneric = { ent-BaseBorgChassisNT }
     .desc = { ent-BaseBorgChassisNT.desc }
 
-ent-BorgChassisMining = шахтарський киборг
+ent-BorgChassisMining = шахтарський кіборг
     .desc = { ent-BaseBorgChassisNT.desc }
 
-ent-BorgChassisEngineer = інженерний киборг
+ent-BorgChassisEngineer = інженерний кіборг
     .desc = { ent-BaseBorgChassisNT.desc }
 
-ent-BorgChassisJanitor = киборг-прибиральник
+ent-BorgChassisJanitor = кіборг-прибиральник
     .desc = { ent-BaseBorgChassisNT.desc }
 
-ent-BorgChassisMedical = медічний киборг
+ent-BorgChassisMedical = медічний кіборг
     .desc = { ent-BaseBorgChassisNT.desc }
 
-ent-BorgChassisService = сервісний киборг
+ent-BorgChassisService = сервісний кіборг
     .desc = { ent-BaseBorgChassisNT.desc }
 
-ent-BorgChassisSyndicateAssault = штурмовий киборг Синдикату
+ent-BorgChassisSyndicateAssault = штурмовий кіборг Синдикату
     .desc = A lean, mean killing machine with access to a variety of deadly modules.
 
-ent-BorgChassisSyndicateMedical = медічний киборг Синдикату
+ent-BorgChassisSyndicateMedical = медічний кіборг Синдикату
     .desc = A combat medical cyborg. Has limited offensive potential, but makes more than up for it with its support capabilities.
 
-ent-BorgChassisSyndicateSaboteur = киборг-саботажник Синдикату
+ent-BorgChassisSyndicateSaboteur = кіборг-саботажник Синдикату
     .desc = A streamlined engineering cyborg, equipped with covert modules. Its chameleon projector lets it disguise itself as a Nanotrasen cyborg.
 

@@ -1,8 +1,29 @@
 ent-BaseLogicItem = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-LogicGate = логічний елемент
-    .desc = Логічний елемент з двумя входами й одним виходом. Техники можуть змінювати режими його дії з допомогою викрутки.
+ent-LogicGateOr = logic gate
+    .desc = A logic gate with two inputs and one output. Technicians can change its mode of operation using a screwdriver.
+    .suffix = Or
+
+ent-LogicGateAnd = { ent-LogicGateOr }
+    .desc = { ent-LogicGateOr.desc }
+    .suffix = And
+
+ent-LogicGateXor = { ent-LogicGateOr }
+    .desc = { ent-LogicGateOr.desc }
+    .suffix = Xor
+
+ent-LogicGateNor = { ent-LogicGateOr }
+    .desc = { ent-LogicGateOr.desc }
+    .suffix = Nor
+
+ent-LogicGateNand = { ent-LogicGateOr }
+    .desc = { ent-LogicGateOr.desc }
+    .suffix = Nand
+
+ent-LogicGateXnor = { ent-LogicGateOr }
+    .desc = { ent-LogicGateOr.desc }
+    .suffix = Xnor
 
 ent-EdgeDetector = edge detector
     .desc = Splits rising and falling edges into unique pulses and detects how edgy you are.

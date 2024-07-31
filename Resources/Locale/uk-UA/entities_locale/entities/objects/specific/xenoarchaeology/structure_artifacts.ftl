@@ -1,5 +1,5 @@
-ent-BaseXenoArtifact = інопланетний артефакт
-    .desc = Дивний інопланетний пристрій.
+ent-BaseXenoArtifact = іншопланетний артефакт
+    .desc = Дивний іншопланетний пристрій.
 
 ent-SimpleXenoArtifact = { ent-BaseXenoArtifact }
     .desc = { ent-BaseXenoArtifact.desc }

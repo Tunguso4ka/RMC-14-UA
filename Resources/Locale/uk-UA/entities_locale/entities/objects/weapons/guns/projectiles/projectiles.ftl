@@ -1,4 +1,4 @@
-ent-MuzzleFlashEffect = ця сутність не має назви
+ent-MuzzleFlashEffect = { "" }
 
 ent-BaseBullet = BaseBullet
     .desc = If you can see this you're probably dead!

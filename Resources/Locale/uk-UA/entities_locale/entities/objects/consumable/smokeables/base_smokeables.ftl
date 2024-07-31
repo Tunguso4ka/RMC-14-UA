@@ -1,5 +1,5 @@
 ent-BaseSmokable = { ent-BaseItem }
-    .desc = If you want to get cancer, might as well do it in style.
+    .desc = Якщо колись забажаєте отримати рак, то краще зробить це зі стилем.
 
 ent-BaseCigar = { ent-BaseSmokable }
     .desc = { ent-BaseSmokable.desc }
@@ -9,4 +9,3 @@ ent-BaseSmokingPipe = { ent-BaseSmokable }
 
 ent-BaseVape = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-

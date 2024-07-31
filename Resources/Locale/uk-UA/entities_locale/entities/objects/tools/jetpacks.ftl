@@ -1,4 +1,4 @@
-ent-JetpackEffect = ця сутність не має назви
+ent-JetpackEffect = { "" }
 
 ent-BaseJetpack = реактивний ранець
     .desc = Це реактивний ранець.
@@ -53,4 +53,3 @@ ent-JetpackVoid = пустотний реактивний ранець
 ent-JetpackVoidFilled = { ent-JetpackVoid }
     .desc = { ent-JetpackVoid.desc }
     .suffix = Filled
-

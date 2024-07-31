@@ -1,7 +1,7 @@
 ent-ClothingHeadset = навушник
     .desc = Оновлений, модульний інтерком що вміщається у тебе на вухі. Ви можете вставити в нього ключи шифрування.
 
-ent-ClothingHeadsetGrey = навушник асистента
+ent-ClothingHeadsetGrey = навушник пасажира
     .desc = { ent-ClothingHeadset.desc }
 
 ent-ClothingHeadsetCargo = навушник логістів
@@ -10,7 +10,7 @@ ent-ClothingHeadsetCargo = навушник логістів
 ent-ClothingHeadsetMining = шахтарський навушник
     .desc = Навушник видиваємий шахтарям.
 
-ent-ClothingHeadsetQM = навушник кма
+ent-ClothingHeadsetQM = навушник квартирмейстера
     .desc = Навушник видаваємий квартирмейстеру.
 
 ent-ClothingHeadsetCentCom = навушник ЦК
@@ -23,7 +23,7 @@ ent-ClothingHeadsetEngineering = інженерний навушник
     .desc = Навушник для інженерів, щоб порозмовляти під звуки горящої станції.
 
 ent-ClothingHeadsetCE = навушник гі
-    .desc = Навушник ГІ, для ігнорування всіх проблем станції.
+    .desc = Навушник Головного Інженера, для ігнорування всіх проблем станції.
 
 ent-ClothingHeadsetMedical = медічний навушник
     .desc = Навушник натренованого персонала медвідділа.

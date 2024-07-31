@@ -1,4 +1,4 @@
-ent-CryogenicSleepUnit = криогений пристрій сну
+ent-CryogenicSleepUnit = крiогений пристрій сну
     .desc = Супер-охолоджений контейнер, що зберігає членів екіпажу в безпеці під час космічних подорожей.
 
 ent-CryogenicSleepUnitSpawner = { ent-CryogenicSleepUnit }

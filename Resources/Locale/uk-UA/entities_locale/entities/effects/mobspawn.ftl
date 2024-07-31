@@ -9,5 +9,5 @@ ent-MobSpawnCrabSilver = mobspawner silvercrab
 ent-MobSpawnCrabUranium = mobspawner uraniumcrab
     .desc = { ent-MobSpawnCrabQuartz.desc }
 
-ent-EffectAnomalyFloraBulb = ця сутність не має назви
+ent-EffectAnomalyFloraBulb = { "" }
 

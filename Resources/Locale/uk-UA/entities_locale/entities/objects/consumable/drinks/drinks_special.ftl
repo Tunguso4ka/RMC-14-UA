@@ -10,7 +10,7 @@ ent-DrinkJar = jar
 ent-DrinkJarWhat = jar of something
     .desc = You can't really tell what this is.
 
-ent-BartenderMixer = ця сутність не має назви
+ent-BartenderMixer = { "" }
 
 ent-DrinkJigger = jigger
     .desc = Like a shaker, but smaller. Used to control the amount of ingredients.

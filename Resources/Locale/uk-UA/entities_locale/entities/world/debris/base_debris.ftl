@@ -1,2 +1,2 @@
-ent-BaseDebris = ця сутність не має назви
+ent-BaseDebris = { "" }
     .desc = { "" }

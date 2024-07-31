@@ -4,14 +4,14 @@ ent-BaseItem = річ
 ent-BaseStorageItem = річ-сховище
     .desc = { ent-BaseItem.desc }
 
-ent-BaseBagOpenClose = ця сутність не має назви
+ent-BaseBagOpenClose = { "" }
     .desc = { "" }
 
-ent-PowerCellSlotSmallItem = ця сутність не має назви
+ent-PowerCellSlotSmallItem = { "" }
     .desc = { "" }
 
-ent-PowerCellSlotMediumItem = ця сутність не має назви
+ent-PowerCellSlotMediumItem = { "" }
     .desc = { "" }
 
-ent-PowerCellSlotHighItem = ця сутність не має назви
+ent-PowerCellSlotHighItem = { "" }
     .desc = { "" }

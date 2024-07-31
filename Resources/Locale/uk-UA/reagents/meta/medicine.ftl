@@ -13,7 +13,7 @@ reagent-desc-arithrazine = A mildly unstable medication used for the most extrem
 reagent-name-bicaridine = бікарідін
 reagent-desc-bicaridine = An analgesic which is highly effective at treating brute damage. It's useful for stabilizing people who have been severely beaten, as well as treating less life-threatening injuries.
 
-reagent-name-cryoxadone = криоксадон
+reagent-name-cryoxadone = кріоксадон
 reagent-desc-cryoxadone = Required for the proper function of cryogenics. Heals all standard types of damage, but only works in temperatures under 213K. It can treat and rejuvenate plants when applied in small doses.
 
 reagent-name-doxarubixadone = доксарубіксадон

@@ -1,2 +1,2 @@
-ent-AmbientSoundSourceFlies = ця сутність не має назви
+ent-AmbientSoundSourceFlies = { "" }
 

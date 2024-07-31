@@ -21,7 +21,7 @@ id-card-access-level-medical = Медічний
 id-card-access-level-chemistry = Хімія
 id-card-access-level-paramedic = Парамедик
 
-id-card-access-level-quartermaster = Квартермейстер
+id-card-access-level-quartermaster = Квартирмейстер
 id-card-access-level-cargo = Логістика
 id-card-access-level-salvage = Шахтарі
 

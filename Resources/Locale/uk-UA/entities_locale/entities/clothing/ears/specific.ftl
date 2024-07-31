@@ -1,3 +1,3 @@
-ent-ClothingHeadsetChameleon = навушник асистента
-    .desc = Оновлений, модульний інтерком що вміщається у тебе на вухі. Ви можете вставити в нього ключи шифрування.
+ent-ClothingHeadsetChameleon = { ent-ClothingHeadsetGrey }
+    .desc = { ent-ClothingHeadsetGrey.desc }
     .suffix = Chameleon

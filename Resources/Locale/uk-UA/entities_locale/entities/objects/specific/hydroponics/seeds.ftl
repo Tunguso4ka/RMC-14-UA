@@ -46,6 +46,9 @@ ent-PotatoSeeds = packet of potato seeds
 ent-SugarcaneSeeds = packet of sugarcane seeds
     .desc = { ent-SeedBase.desc }
 
+ent-PapercaneSeeds = packet of papercane seeds
+    .desc = { ent-SeedBase.desc }
+
 ent-TowercapSeeds = packet of tower cap spores
     .desc = { ent-SeedBase.desc }
 
@@ -68,6 +71,9 @@ ent-EggplantSeeds = packet of eggplant seeds
     .desc = { ent-SeedBase.desc }
 
 ent-AppleSeeds = packet of apple seeds
+    .desc = { ent-SeedBase.desc }
+
+ent-GoldenAppleSeeds = packet of golden apple seeds
     .desc = { ent-SeedBase.desc }
 
 ent-CornSeeds = packet of corn seeds
@@ -121,6 +127,9 @@ ent-AmbrosiaDeusSeeds = packet of ambrosia deus seeds
 ent-GalaxythistleSeeds = packet of galaxythistle seeds
     .desc = Brushes of starry nights.
 
+ent-GlasstleSeeds = packet of glasstle seeds
+    .desc = Scars of gloomy nights.
+
 ent-FlyAmanitaSeeds = packet of fly amanita spores
     .desc = The iconic, extremely deadly mushroom to be used for purely ornamental purposes.
 
@@ -171,4 +180,3 @@ ent-CottonSeeds = packet of cotton seeds
 
 ent-PyrottonSeeds = packet of pyrotton seeds
     .desc = { ent-SeedBase.desc }
-
