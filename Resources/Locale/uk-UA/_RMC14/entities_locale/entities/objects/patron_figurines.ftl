@@ -93,3 +93,6 @@ ent-RMCFigurinePatronKaylieRowleyininski = Kaylie Rowleyininski figurine
 
 ent-RMCFigurinePatronAmariDroppingHotWilliams = Amari 'Dropping Hot' Williams figurine
     .desc = "FLYING LOW, DROPPING HOT, DRINKING LOTS! OORAH!"
+
+ent-RMCFigurinePatronAlexGregory = Alex Gregory figurine
+    .desc = A prominent Nanotrasen Captain. You think you might have seen him before.

@@ -33,3 +33,6 @@ ent-ActionXenoGrowOvipositor = Grow Ovipositor
 
 ent-ActionXenoTurnInvisible = Стати невідимим (20)
     .desc = Стати практично невідимим на короткий проміжок часу.
+
+ent-ActionXenoDefensiveShield = Defensive Shield (50)
+    .desc = Gain a temporary shield that blocks the next 200 damage (And is immune to explosive damage) lasting 7 seconds. Any damage that impacts the shield is reduced by 10 before processing.

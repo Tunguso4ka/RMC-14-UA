@@ -1,4 +1,4 @@
-﻿command-description-vendorpoints-get = Gets the points that a marine has left to purchase items with at an automated vendor.
+command-description-vendorpoints-get = Gets the points that a marine has left to purchase items with at an automated vendor.
 command-description-vendorpoints-getspecialist = Gets the points that a Weapons Specialist has left to purchase items with at their gear rack.
 command-description-vendorpoints-set = Sets the points that a marine or group of marines have to purchase items with at an automated vendor.
 command-description-vendorpoints-setspecialist = Sets the points that a Weapons Specialist or group of Weapons Specialists have to purchase items with at their gear rack.
@@ -28,6 +28,8 @@ command-description-squad-get = Gets the squad ID of a marine.
 command-description-squad-getname = Gets the squad name of a marine.
 command-description-squad-set = Sets the squad of a marine or group of marines.
 command-description-squad-with = Filters a group of marines by their squad.
+
+command-description-squad-refresh = Manually refreshes the members of a squad.
 
 command-description-xenomature = Instantly matures a xeno. Applicable to the Queen, at which point she gets more health and abilities.
 
