@@ -100,3 +100,7 @@ cm-xeno-invisibility-expire = We feel our invisibility end!
 
 cm-xeno-ovipositor-attach = We start attaching to the ovipositor.
 cm-xeno-ovipositor-detach = We start detaching from the ovipositor.
+rmc-xeno-defensive-shield-end = We feel our enhanced shield end!
+rmc-xeno-defensive-shield-resist-end = Our immunity to explosion damage ends!
+rmc-xeno-defensive-shield-activate = {$user} hunkers down and bolsters its defenses!
+rmc-xeno-defensive-shield-activate-self = We hunker down and bolster our defenses!

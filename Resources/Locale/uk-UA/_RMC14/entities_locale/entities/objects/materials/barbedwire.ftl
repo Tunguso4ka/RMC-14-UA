@@ -6,7 +6,10 @@ ent-BarbedWire10 = { ent-BarbedWireBase }
     .desc = { ent-BarbedWireBase.desc }
     .suffix = 10
 
+ent-BarbedWire15 = { ent-BarbedWireBase }
+    .desc = { ent-BarbedWireBase.desc }
+    .suffix = 15
+
 ent-BarbedWire1 = { ent-BarbedWireBase }
     .desc = { ent-BarbedWireBase.desc }
     .suffix = 1
-
