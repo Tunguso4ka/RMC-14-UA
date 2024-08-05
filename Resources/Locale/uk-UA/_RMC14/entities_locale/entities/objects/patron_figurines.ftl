@@ -96,3 +96,9 @@ ent-RMCFigurinePatronAmariDroppingHotWilliams = Amari 'Dropping Hot' Williams fi
 
 ent-RMCFigurinePatronAlexGregory = Alex Gregory figurine
     .desc = A prominent Nanotrasen Captain. You think you might have seen him before.
+
+ent-RMCFigurinePatronMadelynnBuzzLewis = Madelynn 'Buzz' Lewis figurine
+    .desc = Best chef on the field.
+
+ent-RMCFigurinePatronShawnFox = Shawn Fox figurine
+    .desc = The figurine smells of ..news..
