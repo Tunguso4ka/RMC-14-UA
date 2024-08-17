@@ -1,6 +1,6 @@
-﻿advertisement-donut-1 = Each of us is a little cop!
-advertisement-donut-2 = Hope you're hunger!
-advertisement-donut-3 = Over 1 million donuts sold!
+advertisement-donut-1 = Кожен з нас трошечки поліцейський!
+advertisement-donut-2 = Сподіваюся ви голодні!
+advertisement-donut-3 = Більше мільйону проданих пончиків!
 advertisement-donut-4 = We pride ourselves in the consistency of our products!
 advertisement-donut-5 = Sweet, sugary and delicious!
 thankyou-donut-1 = Enjoy your donut!

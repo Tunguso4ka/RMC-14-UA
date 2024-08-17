@@ -106,3 +106,35 @@ ent-ClothingOuterWinterMusician = musician's winter coat
 ent-ClothingOuterWinterWeb = web winter coat
     .desc = Feels like the inside of a cocoon, not that this would make you less afraid of being in one.
 
+ent-ClothingOuterWinterColorBlack = black winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorPurple = purple winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorRed = red winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorBlue = blue winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorBrown = brown winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorGray = gray winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorGreen = green winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorLightBrown = light brown winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorOrange = orange winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorWhite = white winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+
+ent-ClothingOuterWinterColorYellow = yellow winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }

@@ -15,9 +15,11 @@ ent-Ointment10Lingering = { ent-Ointment }
 
 ent-RegenerativeMesh = regenerative mesh
     .desc = Used to treat even the nastiest burns. Also effective against caustic burns.
+    .suffix = Full
 
 ent-OintmentAdvanced1 = { ent-RegenerativeMesh }
     .desc = { ent-RegenerativeMesh.desc }
+    .suffix = Single
 
 ent-Brutepack = bruise pack
     .desc = A therapeutic gel pack and bandages designed to treat blunt-force trauma.
@@ -33,9 +35,11 @@ ent-Brutepack10Lingering = { ent-Brutepack }
 
 ent-MedicatedSuture = medicated suture
     .desc = A suture soaked in medicine, treats blunt-force trauma effectively and closes wounds.
+    .suffix = Full
 
 ent-BrutepackAdvanced1 = { ent-MedicatedSuture }
     .desc = { ent-MedicatedSuture.desc }
+    .suffix = Single
 
 ent-Bloodpack = blood pack
     .desc = Contains a groundbreaking universal blood replacement created by Nanotrasen's advanced medical science.
@@ -69,6 +73,7 @@ ent-HealingToolbox = healing toolbox
 
 ent-PillDexalin = dexalin pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Dexalin 10u
 
 ent-PillCanisterDexalin = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -76,6 +81,7 @@ ent-PillCanisterDexalin = { ent-PillCanister }
 
 ent-PillDylovene = dylovene pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Dylovene 10u
 
 ent-PillCanisterDylovene = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -83,16 +89,27 @@ ent-PillCanisterDylovene = { ent-PillCanister }
 
 ent-PillHyronalin = hyronalin pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Hyronalin 10u
 
 ent-PillCanisterHyronalin = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
     .suffix = Hyronalin, 5
 
+ent-PillPotassiumIodide = pill
+    .desc = { ent-Pill.desc }
+    .suffix = Potassium iodide 10u
+
+ent-PillCanisterPotassiumIodide = pill canister
+    .desc = { ent-PillCanister.desc }
+    .suffix = Potassium iodide 10u, 5
+
 ent-PillIron = iron pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Iron 10u
 
 ent-PillCopper = copper pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Copper 10u
 
 ent-PillCanisterIron = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -104,6 +121,7 @@ ent-PillCanisterCopper = { ent-PillCanister }
 
 ent-PillKelotane = kelotane pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Kelotane 10u
 
 ent-PillCanisterKelotane = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -111,6 +129,7 @@ ent-PillCanisterKelotane = { ent-PillCanister }
 
 ent-PillDermaline = dermaline pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Dermaline 10u
 
 ent-PillCanisterDermaline = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -121,6 +140,7 @@ ent-PillSpaceDrugs = space drugs
 
 ent-PillTricordrazine = tricordrazine pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Tricordrazine 10u
 
 ent-PillCanisterTricordrazine = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -128,6 +148,7 @@ ent-PillCanisterTricordrazine = { ent-PillCanister }
 
 ent-PillBicaridine = bicaridine pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Bicaridine 10u
 
 ent-PillCanisterBicaridine = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -135,6 +156,7 @@ ent-PillCanisterBicaridine = { ent-PillCanister }
 
 ent-PillCharcoal = charcoal pill (10u)
     .desc = { ent-Pill.desc }
+    .suffix = Charcoal 10u
 
 ent-PillCanisterCharcoal = { ent-PillCanister }
     .desc = { ent-PillCanister.desc }
@@ -194,4 +216,3 @@ ent-SyringeRomerol = romerol syringe
 
 ent-SyringeStimulants = stimulants syringe
     .desc = { ent-BaseSyringe.desc }
-

@@ -76,5 +76,13 @@ ent-BoxFolderCentComClipboard = канцелярський планшет Цен
 ent-BoxFolderQmClipboard = планшет реквизиції
     .desc = Тяжкий електричний планшет, заповнений накладними та іншими фінансовими листками. В ньому стільки важливих документів, що вам варте берегти його як своє життя.
 
+ent-TraitorCodePaper = syndicate codeword
+    .desc = A leaked codeword to possibly get in touch with the Syndicate.
+    .suffix = DO NOT MAP
+
+ent-AllTraitorCodesPaper = syndicate codewords registry
+    .desc = A registry of all active Syndicate codewords.
+    .suffix = Admeme
+
 ent-Envelope = конверт
     .desc = Маленький конверт для того щоб тримати непотрібних людей подалі від потрібних документів.

@@ -1,7 +1,5 @@
 ent-PaperWrittenAMEScribbles = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = "AME scribbles"
-
-ent-HoloparasiteInfo = holoparasite terms and conditions
-    .desc = A tiny volumetric display for documents, makes one wonder if Cybersun's legal budget is way too high.
-
+    .suffix = нотатка про АМД
+ent-HoloparasiteInfo = умови та положення голопаразита
+    .desc = Крихітний голо дисплей для документів який змушує замислитися, чи не завеликий юридичний бюджет Cybersun.

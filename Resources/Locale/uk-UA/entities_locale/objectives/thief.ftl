@@ -82,6 +82,9 @@ ent-ClothingNeckGoldmedalStealObjective = { ent-BaseThiefStealObjective }
 ent-ClothingNeckClownmedalStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }
 
+ent-ClothingNeckShockCollarStealObjective = { ent-BaseThiefStealObjective }
+    .desc = { ent-BaseThiefStealObjective.desc }
+
 ent-NuclearBombStealObjective = { ent-BaseThiefStealStructureObjective }
     .desc = { ent-BaseThiefStealStructureObjective.desc }
 
@@ -107,6 +110,9 @@ ent-AltarNanotrasenStealObjective = { ent-BaseThiefStealStructureObjective }
     .desc = { ent-BaseThiefStealStructureObjective.desc }
 
 ent-PlantRDStealObjective = { ent-BaseThiefStealStructureObjective }
+    .desc = { ent-BaseThiefStealStructureObjective.desc }
+
+ent-ToiletGoldenStealObjective = { ent-BaseThiefStealStructureObjective }
     .desc = { ent-BaseThiefStealStructureObjective.desc }
 
 ent-IanStealObjective = { ent-BaseThiefStealAnimalObjective }
@@ -135,4 +141,3 @@ ent-TropicoStealObjective = { ent-BaseThiefStealAnimalObjective }
 
 ent-EscapeThiefShuttleObjective = Втечить на ЦентКом живим та незв'язаним..
     .desc = Ти ж не хочеш щоб твої нелегальні дії були розкрити, не так ли?
-

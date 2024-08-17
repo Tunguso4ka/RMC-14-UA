@@ -1,7 +1,8 @@
-ent-DisposalPipeBase = ця сутність не має назви
-
+ent-DisposalPipeBase = { "" }
+    .desc = { "" }
 ent-DisposalHolder = disposal holder
 
+    .desc = { "" }
 ent-DisposalPipeBroken = broken disposal pipe
     .desc = A BBP (big broken pipe)
 
@@ -40,4 +41,3 @@ ent-DisposalSignalRouter = disposal signal router
 ent-DisposalSignalRouterFlipped = { ent-DisposalSignalRouter }
     .desc = { ent-DisposalSignalRouter.desc }
     .suffix = flipped
-

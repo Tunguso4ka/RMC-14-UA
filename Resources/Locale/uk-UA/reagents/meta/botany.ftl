@@ -19,5 +19,5 @@ reagent-desc-weed-killer = A mixture that targets weeds. Very effective against 
 reagent-name-ammonia = ammonia
 reagent-desc-ammonia = An effective fertilizer.
 
-reagent-name-diethylamine = diethylamine
+reagent-name-diethylamine = діетиламін
 reagent-desc-diethylamine = A very potent fertilizer.

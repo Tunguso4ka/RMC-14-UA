@@ -1,5 +1,6 @@
 ent-BaseRune = руна
 
+    .desc = { "" }
 ent-CollideRune = руна колізії
     .desc = { ent-BaseRune.desc }
 
@@ -29,4 +30,3 @@ ent-FlashRune = осліпляюча руна
 
 ent-FlashRuneTimer = осліпляюча руна з таймером
     .desc = { ent-CollideTimerRune.desc }
-

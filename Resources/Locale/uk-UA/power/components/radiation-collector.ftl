@@ -1,2 +1,2 @@
-power-radiation-collector-gas-tank-missing = [color=darkred]No plasma tank attached.[/color]
-power-radiation-collector-gas-tank-present = A plasma tank is [color=darkgreen]connected[/color].
+power-radiation-collector-gas-tank-missing = [color=darkred]Балон з плазмою не під'єднаний.[/color]
+power-radiation-collector-gas-tank-present = Балон з плазмою [color=darkgreen]під'єднаний[/color].

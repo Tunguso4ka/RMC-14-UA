@@ -1,10 +1,11 @@
 ent-BaseSuicideAction = Суїцид
+    .desc = { "" }
 
 ent-ActionScream = Кричати
     .desc = АААААААААААААААААААААААА
 
-ent-ActionTurnUndead = Turn Undead
-    .desc = Succumb to your infection and become a zombie.
+ent-ActionTurnUndead = Перетворитися на мертвяка
+    .desc = Здатися інфекції та перетворитися на зомбі.
 
 ent-ActionToggleLight = Перемкнути світло
     .desc = Перемикає світло.
@@ -32,9 +33,6 @@ ent-ActionActivateScramImplant = ТІКАЙ!
 
 ent-ActionActivateDnaScramblerImplant = Змінити ДНК
     .desc = Випадково змінює ваше ім'я та вигляд.
-
-ent-ActionMorphGeras = Morph into Geras
-    .desc = Morphs you into a Geras - a miniature version of you which allows you to move fast, at the cost of your inventory.
 
 ent-ActionToggleSuitPiece = Перемкнути частину одягу
     .desc = Не забувайте перемкнути важливі часті вашого одягу.
@@ -80,4 +78,3 @@ ent-ActionToggleEyes = Відкрити/Закрити очі
 
 ent-ActionToggleWagging = action-name-toggle-wagging
     .desc = action-description-toggle-wagging
-

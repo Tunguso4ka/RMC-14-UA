@@ -4,10 +4,10 @@ ent-BaseCurtains = штора
 ent-HospitalCurtains = штора
     .desc = Вміщує на 1% менше ртуті.
 
+    .suffix = Hospital
 ent-HospitalCurtainsOpen = { ent-HospitalCurtains }
     .desc = { ent-HospitalCurtains.desc }
-    .suffix = Відкрита
-
+    .suffix = Open, Hospital
 ent-CurtainsBlack = { ent-BaseCurtains }
     .desc = { ent-BaseCurtains.desc }
     .suffix = Вишукано чорна
@@ -79,4 +79,3 @@ ent-CurtainsWhite = { ent-BaseCurtains }
 ent-CurtainsWhiteOpen = { ent-CurtainsWhite }
     .desc = { ent-CurtainsWhite.desc }
     .suffix = Відкрита, Вишукано біла
-

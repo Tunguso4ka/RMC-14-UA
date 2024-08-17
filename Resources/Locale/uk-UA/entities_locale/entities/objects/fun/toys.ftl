@@ -1,6 +1,9 @@
 ent-BasePlushie = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
+ent-PlushieThrongler = The Throngler plushie
+    .desc = A stuffed toy to remind cargo techs of what they can no longer have.
+
 ent-PlushieGhost = ghost soft toy
     .desc = The start of your personal GHOST GANG!
 
@@ -183,4 +186,3 @@ ent-CrazyGlue = crazy glue
 
 ent-NewtonCradle = newton cradle
     .desc = A device bored paper pushers use to remind themselves that time did not stop yet. Contains gravity.
-

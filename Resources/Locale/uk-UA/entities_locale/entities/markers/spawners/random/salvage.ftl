@@ -1,9 +1,6 @@
 ent-SalvageMaterialCrateSpawner = Salvage Material Crate Spawner
     .desc = { ent-MarkerBase.desc }
 
-ent-SalvageCanisterSpawner = Salvage Canister Spawner
-    .desc = { ent-MarkerBase.desc }
-
 ent-SalvageLootSpawner = salvage loot spawner
     .desc = { ent-MarkerBase.desc }
 
@@ -34,4 +31,3 @@ ent-SpawnMobCobraSalvage = Salvage Space Cobra Spawner
 ent-SalvageFleshSpawner = Salvage Flesh Spawner
     .desc = { ent-SalvageMobSpawner.desc }
     .suffix = 100
-

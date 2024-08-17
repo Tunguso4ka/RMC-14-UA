@@ -1,20 +1,20 @@
 ent-AdminObserver = адмін оглядач
     .desc = { ent-MobObserver.desc }
 
-ent-ActionAGhostShowSolar = Дієвидло сонячних панелей
-    .desc = Відкриває дієвидло контролю сонячних панелей.
+ent-ActionAGhostShowSolar = Дійовид сонячних панелей
+    .desc = Відкриває дійовид контролю сонячних панелей.
 
-ent-ActionAGhostShowCommunications = Дієвидло комунікацій
-    .desc = Відкриває дієвидло консолі комунікацій.
+ent-ActionAGhostShowCommunications = Дійовид комунікацій
+    .desc = Відкриває дійовид консолі комунікацій.
 
-ent-ActionAGhostShowRadar = Дієвидло сканера маси
-    .desc = Відкриває дієвидло сканера маси.
+ent-ActionAGhostShowRadar = Дійовид сканера маси
+    .desc = Відкриває дійовид сканера маси.
 
-ent-ActionAGhostShowCargo = Дієвидло замовляння товарів
-    .desc = Відкриває дієвидло замовляння товарів.
+ent-ActionAGhostShowCargo = Дійовид замовляння товарів
+    .desc = Відкриває дійовид замовляння товарів.
 
-ent-ActionAGhostShowCrewMonitoring = Дієвидло моніторінгу екіпажа
-    .desc = Відкриває дієвидло моніторінгу екіпажа.
+ent-ActionAGhostShowCrewMonitoring = Дійовид моніторінгу екіпажа
+    .desc = Відкриває дійовид моніторінгу екіпажа.
 
-ent-ActionAGhostShowStationRecords = Дієвидло записів станції
-    .desc = Відкриває дієвидло записів станції
+ent-ActionAGhostShowStationRecords = Дійовид записів станції
+    .desc = Відкриває дійовид записів станції

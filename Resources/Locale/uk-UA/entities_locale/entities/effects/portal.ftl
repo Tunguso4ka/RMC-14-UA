@@ -1,4 +1,4 @@
-ent-BasePortal = блюспейс портал
+ent-BasePortal = синєпросторний портал
     .desc = Він може перености вас кудись далеко.
 
 ent-PortalRed = { ent-BasePortal }

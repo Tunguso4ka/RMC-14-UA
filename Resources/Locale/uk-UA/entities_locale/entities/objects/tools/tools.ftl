@@ -7,12 +7,6 @@ ent-Screwdriver = screwdriver
 ent-Wrench = wrench
     .desc = 'A common tool for assembly and disassembly. Remember: righty tighty, lefty loosey.'
 
-ent-Crowbar = crowbar
-    .desc = A multipurpose tool to pry open doors and fight interdimensional invaders.
-
-ent-CrowbarRed = emergency crowbar
-    .desc = { ent-Crowbar.desc }
-
 ent-Multitool = multitool
     .desc = An advanced tool to copy, store, and send electrical pulses and signals through wires and machines
 
@@ -48,4 +42,3 @@ ent-Shovel = shovel
 
 ent-RollingPin = rolling pin
     .desc = A tool used to shape and flatten dough.
-

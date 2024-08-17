@@ -85,6 +85,9 @@ ent-FoodCakeBatter = cake batter
 ent-FoodButter = stick of butter
     .desc = A stick of delicious, golden, fatty goodness.
 
+ent-FoodButterSlice = butter slice
+    .desc = A pat of delicious, golden, fatty goodness.
+
 ent-FoodCannabisButter = stick of cannabis butter
     .desc = Add this to your favorite baked goods for an irie time.
 

@@ -1,5 +1,6 @@
 ent-MobSiliconBase = { "" }
 
+    .desc = { "" }
 ent-MobHonkBot = хонкбот
     .desc = Жахливо.
 

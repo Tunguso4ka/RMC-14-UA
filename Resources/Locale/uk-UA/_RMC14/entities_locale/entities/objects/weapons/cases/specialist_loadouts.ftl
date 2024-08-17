@@ -15,5 +15,5 @@ ent-RMCDemoSpecEquipmentCase = demolitionist equipment case
 
 ent-RMCScoutSpecEquipmentCase = scout equipment case
     .desc = A large case containing an M4RA battle rifle, M3-S light armor and helmet, M4RA battle sight, M68 thermal cloak, V3 reactive thermal tarp, ammunition and additional pieces of equipment.
-NOTE: You cannot put items back inside this case.
 
+      NOTE: You cannot put items back inside this case.

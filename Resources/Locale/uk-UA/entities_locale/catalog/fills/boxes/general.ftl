@@ -47,7 +47,7 @@ ent-BoxTrashbag = коробка мішків сміття
 ent-BoxEncryptionKeyPassenger = коробка ключів шифрування асистентів
     .desc = Коробка ключів шифрування.
 
-ent-BoxEncryptionKeyCargo = коробка ключів шифрування логистів
+ent-BoxEncryptionKeyCargo = коробка ключів шифрування логістів
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
 ent-BoxEncryptionKeyEngineering = коробка ключів шифрування інженерів

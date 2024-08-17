@@ -47,7 +47,6 @@ job-name-boxer = Боксер
 job-name-zookeeper = Зоолог
 job-name-visitor = Відвідувач
 
-# Role timers - Make these alphabetical or I cut you
 JobAtmosphericTechnician = Атмосферний Техник
 JobBartender = Бармен
 JobBorg = Киборг

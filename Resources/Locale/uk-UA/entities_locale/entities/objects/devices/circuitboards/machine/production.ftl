@@ -232,3 +232,5 @@ ent-ReagentGrinderIndustrialMachineCircuitboard = плата покращено�
 ent-JukeboxCircuitBoard = плата музичного автомату
     .desc = Надрукована плата музичного автомату.
 
+ent-CutterMachineCircuitboard = cutter machine board
+    .desc = { ent-BaseMachineCircuitboard.desc }

@@ -1,5 +1,6 @@
 ent-CollideFloorTrap = { "" }
 
+    .desc = { "" }
 ent-CollideFloorTrapSpawn = спавн пастка
     .desc = { ent-CollideFloorTrap.desc }
 
@@ -28,4 +29,3 @@ ent-SpawnFloorTrapXenoDrone = { ent-CollideFloorTrapSpawn }
 ent-SpawnFloorTrapXenoBurrower = { ent-CollideFloorTrapSpawn }
     .desc = { ent-CollideFloorTrapSpawn.desc }
     .suffix = Ксено. Нюхач
-

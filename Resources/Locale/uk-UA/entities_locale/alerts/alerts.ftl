@@ -1,2 +1,3 @@
 ent-AlertSpriteView = { "" }
 
+    .desc = { "" }

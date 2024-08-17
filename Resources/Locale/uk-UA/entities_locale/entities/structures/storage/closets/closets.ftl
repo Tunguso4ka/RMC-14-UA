@@ -40,9 +40,9 @@ ent-LockerSyndicate = шафа зброярні
 
 ent-ClosetBluespace = підозріла шафа
     .desc = Пристрій зберігання... точно ж?
-    .suffix = Блюспейс
+    .suffix = Синєпростір
 
 ent-ClosetBluespaceUnstable = підозріла шафа
     .desc = Пристрій зберігання... точно ж?
-    .suffix = Блюспейс нестабільна
+    .suffix = Синєпростір, нестабільна
 

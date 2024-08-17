@@ -29,10 +29,10 @@ ent-ClothingBackpackMime = рюкзак міма
     .desc = Мовчаливий рюкзак розроблений для цих мовчаливих працівників.
 
 ent-ClothingBackpackChemistry = рюкзак хіміка
-    .desc = A backpack specially designed to repel stains and hazardous liquids.
+    .desc = Рюкзак, спеціально розроблений для відштовхування плям і небезпечних рідин.
 
 ent-ClothingBackpackHydroponics = рюкзак ботаніка
-    .desc = It's a backpack made of all-natural fibers.
+    .desc = Рюкзак зроблений з повністю натуральних матеріалів.
 
 ent-ClothingBackpackScience = рюкзак науковця
     .desc = A backpack specially designed to repel stains and hazardous liquids.
@@ -80,11 +80,15 @@ ent-ClothingBackpackSyndicate = рюкзак Синдиката
     .desc = { ent-ClothingBackpack.desc }
 
 ent-ClothingBackpackHolding = мішок зберігання
-    .desc = Рюкзак, що відкривається в локалізований карман блюспейса.
+    .desc = Рюкзак, що відкривається в локалізований простір Синєпростору.
 
 ent-ClothingBackpackCluwne = гигик фон дурниктон
     .desc = Рюкзак розроблений Дур! Ко.
     .suffix = Незнімний
+
+ent-ClothingBackpackElectropack = electropack
+    .desc = Shocks on the signal. It is used to keep a particularly dangerous criminal under control.
+    .suffix = SelfUnremovable
 
 ent-ClothingBackpackDebug = фукзак
     .desc = Що це за ху... фігня?
@@ -101,4 +105,3 @@ ent-ClothingBackpackDebug3 = гейський фукзак
 ent-ClothingBackpackDebug4 = безкрайний фукзак
     .desc = Що це за ху... фігня?
     .suffix = Дебаг
-

@@ -12,8 +12,5 @@ bwoink-system-typing-indicator = {$players} {$count ->
 }...
 
 admin-bwoink-play-sound = Бвойньк?
-
 bwoink-title-none-selected = Не обрано
-
 bwoink-system-rate-limited = Система: Ви відправляєте повідомлення занадто швидко.
-

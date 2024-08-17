@@ -1,5 +1,5 @@
-ent-ClothingBackpackChameleon = рюкзак
-    .desc = Ти тягаєш це у себе на спині та кладеш туди речі.
+ent-ClothingBackpackChameleon = { ent-ClothingBackpack }
+    .desc = { ent-ClothingBackpack }
     .suffix = Гамелеон
 
 ent-ClothingBackpackWaterTank = рюкзак-балон з водою

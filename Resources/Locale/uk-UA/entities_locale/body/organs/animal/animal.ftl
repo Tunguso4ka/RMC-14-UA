@@ -4,21 +4,20 @@ ent-BaseAnimalOrganUnGibbable = { ent-BaseItem }
 ent-BaseAnimalOrgan = { ent-BaseAnimalOrganUnGibbable }
     .desc = { ent-BaseAnimalOrganUnGibbable.desc }
 
-ent-OrganAnimalLungs = lungs
+ent-OrganAnimalLungs = легені
     .desc = { ent-BaseAnimalOrgan.desc }
 
-ent-OrganAnimalStomach = stomach
+ent-OrganAnimalStomach = шлунок
     .desc = { ent-BaseAnimalOrgan.desc }
 
-ent-OrganMouseStomach = stomach
+ent-OrganMouseStomach = { ent-OrganAnimalStomach }
     .desc = { ent-OrganAnimalStomach.desc }
 
-ent-OrganAnimalLiver = liver
+ent-OrganAnimalLiver = печинка
     .desc = { ent-BaseAnimalOrgan.desc }
 
-ent-OrganAnimalHeart = heart
+ent-OrganAnimalHeart = серце
     .desc = { ent-BaseAnimalOrgan.desc }
 
-ent-OrganAnimalKidneys = kidneys
+ent-OrganAnimalKidneys = нирки
     .desc = { ent-BaseAnimalOrgan.desc }
-
