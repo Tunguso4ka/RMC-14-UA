@@ -25,8 +25,8 @@ ent-CMArmorM3Light = легка броня зразку M3-L
 ent-CMArmorPress = press body armor
     .desc = Body armor used by war correspondents in battles and wars across the universe.
 
-ent-CMArmorM3Scout = легка броня M3-S
-    .desc = Спеціально модифікований варіант броні М3 зроблений для розвідувательних місій.
+ent-RMCArmorM3Scout = M3-S light armor
+    .desc = A custom set of M3 armor designed for Marine Scouts.
 
 ent-CMArmorM3VLBallistics = M3-VL pattern ballistics vest
     .desc = Up until 2182 USCM non-combat personnel were issued non-standardized ballistics vests, though the lack of IMP compatibility and suit lamps proved time and time again inefficient. This modified M3-L shell is the result of a 6-year R&D program; It provides utility, protection, AND comfort to all USCM non-combat personnel.
@@ -48,3 +48,4 @@ ent-CMArmorSmartGunCombatHarness = ML66A combat harness
 
 ent-CMArmorM2MP = броня воєнполу зразку M2
     .desc = Броня М2 надає підвищений захист проти ближних атак, але погано захищає проти вогнепальної зброї.
+

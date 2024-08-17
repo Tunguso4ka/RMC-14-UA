@@ -4,6 +4,9 @@ ent-CMSatchel = шкіряна сумка
 ent-CMBackpackSniper = плащ снайпера M3
     .desc = Спеціально розроблений плащ з кармашками під всі потреби снайпера.
 
+ent-RMCBackpackScout = M68 thermal cloak
+    .desc = The lightweight thermal dampeners and optical camouflage provided by this cloak are weaker than those found in standard USCM ghillie suits. In exchange, the cloak can be worn over combat armor and offers the wearer high maneuverability and adaptability to many environments.
+
 ent-CMSatchelEngineer = індустріальна сумка
     .desc = Крепка сумка з додатковими кармашками.
 
@@ -39,3 +42,4 @@ ent-RMCSatchelWelderChestrig = technician welder chestrig
 
 ent-RMCSatchelDemoSpec = UNMC IMP M22 rocket bags
     .desc = A specially-designed backpack that fits to the IMP mounting frame on standard UNMC infantry armor. It's made of two easily-accessible, waterproofed reinforced tubes and one smaller satchel slung at the bottom. The two silos are for rockets, but no one is stopping you from cramming other things in there.
+

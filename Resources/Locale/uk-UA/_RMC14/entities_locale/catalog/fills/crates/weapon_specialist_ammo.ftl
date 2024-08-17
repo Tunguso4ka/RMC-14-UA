@@ -18,3 +18,16 @@ ent-RMCCrateM5DemoSpecHighExplosive = M5-ATL High Explosives Crate (HE x3)
 
 ent-RMCCrateM5DemoSpecAntiArmor = M5-ATL Anti-Armor Crate (HE x3)
     .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateMagazineM4SPRCustomMixed = M4SPR Scout Mixed Magazine Crate (regular x2, incendiary x2, impact x2)
+    .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateMagazineM4SPRCustomStandard = M4SPR Scout Magazine Crate (x5)
+    .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateMagazineM4SPRCustomImpact = M4SPR Scout Impact Magazine Crate (x3)
+    .desc = { ent-CMCrateAmmo.desc }
+
+ent-CMCrateMagazineM4SPRCustomIncendiary = M4SPR Scout Incendiary Magazine Crate (x3)
+    .desc = { ent-CMCrateAmmo.desc }
+

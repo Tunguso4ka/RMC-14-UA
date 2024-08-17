@@ -90,3 +90,18 @@ ent-RMCBoxMagazinePistolSU6Empty = magazine box (SU-6 x 16)
 
 ent-RMCBoxMagazinePistolSU6 = { ent-RMCBoxMagazinePistolSU6Empty }
     .desc = { ent-RMCBoxMagazinePistolSU6Empty.desc }
+
+ent-RMCBoxMagazineRevolverM44Empty = speedloader box (M44 x 16)
+    .desc = A box for holding many speedloaders with a carrying handle.
+
+ent-RMCBoxMagazineRevolverM44 = { ent-RMCBoxMagazineRevolverM44Empty }
+    .desc = { ent-RMCBoxMagazineRevolverM44Empty.desc }
+    .suffix = Filled
+
+ent-RMCBoxMagazineRevolverM44MarksmanEmpty = speedloader box (Marksman M44 x 16)
+    .desc = A box for holding many speedloaders with a carrying handle, these ones are loaded with Marksman Rounds.
+
+ent-RMCBoxMagazineRevolverMarksmanM44 = { ent-RMCBoxMagazineRevolverM44MarksmanEmpty }
+    .desc = { ent-RMCBoxMagazineRevolverM44MarksmanEmpty.desc }
+    .suffix = Filled
+

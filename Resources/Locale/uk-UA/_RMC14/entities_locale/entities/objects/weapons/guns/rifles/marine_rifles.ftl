@@ -9,3 +9,7 @@ ent-WeaponRifleM54CE2 = тяжка імпульсна гвинтівка M54CE2
 
 ent-WeaponRifleM4SPR = бойова гвинтівка M4SPR
     .desc = Бойова гвинтівка M4SPR є спеціальною снайперською гвинтівкою на озброєнні КМП ООН. M4SPR має булпап компонування, так що чудово підходить для розвідувальних команд та команд підтримки вогнем.
+
+ent-WeaponRifleM4SPRCustom = M4SPR custom battle rifle
+    .desc = An improvement over the already great M4SPR. Able to take A19 rounds, as well as having better control and accuracy at the cost of being harder to use. Can take traditional M4SPR mags, at lower damage.
+

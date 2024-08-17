@@ -28,8 +28,8 @@ ent-CMArmorHelmetM30 = тактичний шолом M30
 ent-CMArmorHelmetPress = шолом "преса"
     .desc = Спеціальний зразок шоломів для преси.
 
-ent-CMArmorHelmetM3Scout = шолом M3-S
-    .desc = Спеціальний легкий шолом серії М3 зроблений для розвідувательних місій.
+ent-RMCArmorHelmetM3Scout = M3-S helmet
+    .desc = A custom helmet from the M3 series designed to be lightweight and used for recon missions.
 
 ent-RMCArmorHelmetM3G4 = M3-G4 helmet
     .desc = Pairs with the M3-G4 heavy grenadier plating. A distant cousin of the experimental B18 defensive helmet.
@@ -42,3 +42,4 @@ ent-CMArmorHelmetM45 = маскувальний шолом M45
 
 ent-RMCArmorHelmetM3TDemo = M3-T bombardier helmet
     .desc = A custom-built helmet for explosive weaponry users. Comes with inbuilt ear blast protection, firing a rocket launcher without this is not recommended.
+

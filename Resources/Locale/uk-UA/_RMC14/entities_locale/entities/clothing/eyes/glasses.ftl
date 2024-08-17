@@ -4,6 +4,9 @@ ent-CMGlassesSecurity = окуляри охорони
 ent-CMGlassesM42ScoutSight = M42 scout sight
     .desc = A headset and night vision sighting system for the M42 Scout Rifle. Allows highlighted imaging of surroundings.
 
+ent-RMCGlassesM4SPRBattleSight = M4SPR Battle Sight
+    .desc = A headset and night vision sighting system for the M4SPR Custom Battle Rifle. Allows highlighted imaging of surroundings.
+
 ent-RMCGlassesSmartGunSight = ML66A head mounted sight
     .desc = A headset and goggles system for the ML66A Smart Gun.
 
@@ -21,3 +24,4 @@ ent-RMCGogglesM1A1Ballistic = M1A1 Ballistic goggles
 
 ent-RMCGogglesPrescriptionBallistic = Prescription ballistic goggles
     .desc = Standard issue USCM goggles. Mostly used to decorate one's helmet. Contains prescription lenses in case you weren't sure if they were lame or not.
+
