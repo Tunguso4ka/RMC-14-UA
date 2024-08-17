@@ -1,1 +1,1 @@
-﻿bodyburn-text-others =  Тіло {$name} перетворюється на попіл!
+bodyburn-text-others = {$name} перетворюється на попіл!

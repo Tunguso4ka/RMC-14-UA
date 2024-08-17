@@ -27,3 +27,7 @@ ent-CMXenoTail = ця сутність не має назви
 
 ent-CMXenoFlammable = ця сутність не має назви
     .desc = { "" }
+
+ent-RMCXenoSpeechSounds = { "" }
+    .desc = { "" }
+

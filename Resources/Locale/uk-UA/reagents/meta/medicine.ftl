@@ -128,7 +128,7 @@ reagent-name-insuzine = інсузін
 reagent-desc-insuzine = Rapidly repairs dead tissue caused by electrocution, but cools you slightly. Completely freezes the patient when overdosed.
 
 reagent-name-opporozidone = оппорозідон
-reagent-desc-opporozidone= A difficult to synthesize cryogenic drug used to regenerate rotting tissue and brain matter.
+reagent-desc-opporozidone = A difficult to synthesize cryogenic drug used to regenerate rotting tissue and brain matter.
 
 reagent-name-necrosol = некрозол
 reagent-desc-necrosol = A necrotic substance that seems to be able to heal frozen corpses. It can treat and rejuvenate plants when applied in small doses.

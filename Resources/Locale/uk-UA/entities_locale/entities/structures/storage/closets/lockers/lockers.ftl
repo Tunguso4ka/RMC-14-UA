@@ -87,7 +87,7 @@ ent-LockerEvidence = шафка доказів
 ent-LockerSyndicatePersonal = шафка зброї
     .desc = Персональне сховище одягу оперативників.
 
-ent-LockerBluespaceStation = блюспейс шафка
+ent-LockerBluespaceStation = синєпросторна шафка
     .desc = Покращена технологія шафок.
     .suffix = once to station
 

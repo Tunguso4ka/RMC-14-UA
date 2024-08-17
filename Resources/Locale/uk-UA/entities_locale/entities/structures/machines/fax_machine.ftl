@@ -1,5 +1,5 @@
 ent-FaxMachineBase = факс дального зв'язку
-    .desc = Блюспейс технології на службі бюрократії.
+    .desc = Синєпросторні технології на службі бюрократії.
 
 ent-FaxMachineCentcom = факс дального зв'язку ЦентКома
     .desc = { ent-FaxMachineBase.desc }

@@ -11,8 +11,6 @@ marking-used-forced = {$marking-name} (Forced)
 marking-slot-add = Додати
 marking-slot-remove = Прибрати
 
-# Categories
-
 markings-category-Hair = Волосся
 markings-category-FacialHair = Волосся на обличчі
 markings-category-Head = Голова

@@ -1,7 +1,7 @@
 borg-player-not-allowed = Мізки не вміщаються!
-borg-player-not-allowed-eject = The brain was expelled from the chassis!
+borg-player-not-allowed-eject = Мізки дивним чином вислізнули з корпусу!
 
-borg-panel-not-open = Панель киборга закрита...
+borg-panel-not-open = Панель кіборга закрита...
 
 borg-mind-added = {CAPITALIZE($name)} вмикається!
 borg-mind-removed = {CAPITALIZE($name)} вимикається!
@@ -12,7 +12,7 @@ borg-module-whitelist-deny = This module doesn't fit in this type of cyborg...
 
 borg-construction-guide-string = The cyborg limbs and torso must be attached to the endoskeleton.
 
-borg-ui-menu-title = Дієвидло Киборга
+borg-ui-menu-title = Дійовид Кіборга
 borg-ui-charge-label = Зарядка: {$charge}%
 borg-ui-no-brain = Мізки відсутні
 borg-ui-remove-battery = Вийняти

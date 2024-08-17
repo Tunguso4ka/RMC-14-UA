@@ -1,8 +1,8 @@
-ent-BoxHandcuff = handcuff box
-    .desc = A box full of handcuffs.
+ent-BoxHandcuff = коробка кайданів
+    .desc = Заповнена кайданами коробка.
 
-ent-BoxFlashbang = flashbang box
-    .desc = 'WARNING: These devices are extremely dangerous and can cause blindness or deafness in repeated use.'
+ent-BoxFlashbang = коробка світлошумових
+    .desc = УВАГА: Ці пристрої надзвичайно небезпечні і можуть спричинити сліпоту та глухоту.
 
 ent-BoxSechud = sechud box
     .desc = A box of security glasses.
@@ -12,4 +12,3 @@ ent-BoxZiptie = ziptie box
 
 ent-BoxForensicPad = forensic pad box
     .desc = A box of forensic pads.
-

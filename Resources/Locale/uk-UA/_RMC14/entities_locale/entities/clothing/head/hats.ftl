@@ -16,8 +16,12 @@ ent-CMHeadBeretCO = берет командуючого
 ent-CMHeadBeretCOBlack = чорний берет командуючого
     .desc = { ent-CMHeadBeret.desc }
 
+ent-RMCHeadBeretGreen = берет МК ОН
+    .desc = { ent-CMHeadBeret.desc }
+    .suffix = Green
+
 ent-CMHeadCapMP = кепка воєнполу
-    .desc = Кепка бейсболка для більш повсякденних з сил військової поліції КМП ООН.
+    .desc = Кепка бейсболка для більш повсякденних з сил військової поліції МК ОН.
 
 ent-CMHeadCapWarden = кашкет наглядача
     .desc = Пахне пончиками.
@@ -54,3 +58,4 @@ ent-CMHeadCapSurgPurple = фіолетова шапка хірурга
 
 ent-CMHeadCapSurgOrange = оранжева шапка хірурга
     .desc = { ent-CMHeadCapSurgBlue.desc }
+

@@ -102,3 +102,31 @@ ent-RMCFigurinePatronMadelynnBuzzLewis = Madelynn 'Buzz' Lewis figurine
 
 ent-RMCFigurinePatronShawnFox = Shawn Fox figurine
     .desc = The figurine smells of ..news..
+
+ent-RMCFigurinePatronPandiFackler = CMO Pandi Fackler figurine
+    .desc = A small and kind Redsuko, a rare race of felinid with the markings and characteristics of a Red Panda. Pacifist by nature, she’s often found healing others in the medical bay
+
+ent-RMCFigurinePatronJermaineBaitMcClune = Jermaine 'Bait' McClune figurine
+    .desc = Let's see... e-barrels, smarties, drums, plasteel, cardboard, rockets, HEDP, cells, and a LOT of metal...
+
+ent-RMCFigurinePatronMazyTheFortressTusji = Mazy 'The Fortress' Tusji figurine
+    .desc = This figurine is covered in chew marks and acid burns, yet remains recognizable and unbroken.
+
+ent-RMCFigurinePatronAstorDebb = Astor Debb figurine
+    .desc = Full-time demolitionist, she moves with a purpose, wielding her ~Magic Missile~
+
+ent-RMCFigurinePatronNesartOnan = Nesart Onan figurine
+    .desc = Blood loss is no joke! Come get some bandages from your local med bay today!
+
+ent-RMCFigurinePatronDaltonHarris = Dalton Harris figurine
+    .desc = Former NFSD sergeant, but through some weird military loopholes ended up on the Almayer.
+
+ent-RMCFigurinePatronChadScott = Chad Scott figurine
+    .desc = "This is Chad Scott, last survivor of the warship, signing off."
+
+ent-RMCFigurinePatronWorships-The-Gods = Worships-The-Gods figurine
+    .desc = Just a Silly Lizzy.
+
+ent-RMCFigurinePatronSukunaKurze = Sukuna Kurze figurine
+    .desc = This man is fueled by root beer and patriotism, and brother we're all outta root beer...
+

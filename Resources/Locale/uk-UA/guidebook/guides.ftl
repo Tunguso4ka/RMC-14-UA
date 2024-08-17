@@ -56,6 +56,7 @@ guide-entry-species = Види/Раси
 guide-entry-yourfirstcharacter = Ваш перший персонаж
 guide-entry-controls = Керування
 guide-entry-radio = Рація
+
 guide-entry-references = Таблиці & Референси
 guide-entry-drinks = Напої
 guide-entry-foodrecipes = Рецепти їжи

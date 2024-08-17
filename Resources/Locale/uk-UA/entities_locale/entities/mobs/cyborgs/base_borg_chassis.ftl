@@ -3,6 +3,7 @@ ent-BaseBorgChassis = кіборг
 
 ent-BaseBorgTransponder = { "" }
 
+    .desc = { "" }
 ent-BaseBorgChassisNT = { ent-BaseBorgChassis }
     .desc = { ent-BaseBorgChassis.desc }
 

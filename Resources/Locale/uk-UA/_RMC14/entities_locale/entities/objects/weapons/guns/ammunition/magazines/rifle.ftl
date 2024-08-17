@@ -23,3 +23,7 @@ ent-CMMagazineRifleM4SPRAP = M4SPR ББ магазин (10x24mm)
 
 ent-CMMagazineRifleM4SPRExt = M4SPR збільшений магазин (10x24mm)
     .desc = { ent-CMMagazineRifleM4SPR.desc }
+
+ent-RMCMagazineRifleM4SPRA19 = M4SPR A19 magazine (high-velocity)
+    .desc = A magazine of high-velocity A19 rounds for use in the M4SPR battle rifle.
+

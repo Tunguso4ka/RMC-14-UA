@@ -180,3 +180,10 @@ ent-CottonSeeds = packet of cotton seeds
 
 ent-PyrottonSeeds = packet of pyrotton seeds
     .desc = { ent-SeedBase.desc }
+
+ent-RealCapfruitSeeds = packet of capfruit seeds
+    .desc = Is it real, or is it fake?
+
+ent-FakeCapfruitSeeds = { ent-RealCapfruitSeeds }
+    .desc = { ent-RealCapfruitSeeds.desc }
+    .suffix = Fake

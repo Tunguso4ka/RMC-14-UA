@@ -20,7 +20,7 @@ humanoid-profile-editor-import-button = Імпорт
 humanoid-profile-editor-export-button = Експорт
 humanoid-profile-editor-save-button = Зберегти
 humanoid-profile-editor-reset-button = Скинути
-humanoid-profile-editor-spawn-priority-label = Пріоритет спавна:
+humanoid-profile-editor-spawn-priority-label = Пріоритет появи:
 humanoid-profile-editor-eyes-label = Колір очей:
 humanoid-profile-editor-jobs-tab = Посади
 humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Залишитися в лобі якщо обрані посади не доступні.
@@ -55,4 +55,3 @@ humanoid-profile-editor-trait-count-hint = Балів доступно: [{$curre
 
 trait-category-disabilities = Вади
 trait-category-speech = Вимова
-trait-category-quirks = Примхи

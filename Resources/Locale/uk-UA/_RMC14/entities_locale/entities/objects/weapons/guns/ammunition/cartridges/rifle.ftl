@@ -7,3 +7,6 @@ ent-CMCartridgeRifle10x24mm = набій (10x24мм)
 ent-CMCartridgeRifle10x24mmAP = бронебійний набій (10x24mm)
     .desc = An armor piercing 10x24mm cartridge. Fits in 10x24mm AP magazines.
 
+ent-RMCCartridgeRifleM4SPRA19 = cartridge (A19 high-velocity)
+    .desc = A high-velocity A19 cartridge. Fits in M4SPR custom magazines.
+

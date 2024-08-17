@@ -13,6 +13,10 @@ ent-SheetPlasma = плазма
     .desc = { ent-SheetOtherBase.desc }
     .suffix = Повний
 
+ent-SheetPlasma10 = { ent-SheetPlasma }
+    .desc = { ent-SheetPlasma.desc }
+    .suffix = 10
+
 ent-SheetPlasma1 = { ent-SheetPlasma }
     .desc = { ent-SheetPlasma.desc }
     .suffix = Один
@@ -44,4 +48,3 @@ ent-MaterialSheetMeat = м'ясний лист
 ent-MaterialSheetMeat1 = { ent-MaterialSheetMeat }
     .desc = { ent-MaterialSheetMeat.desc }
     .suffix = Один
-

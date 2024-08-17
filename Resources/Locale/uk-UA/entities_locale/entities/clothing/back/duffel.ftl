@@ -64,8 +64,8 @@ ent-ClothingBackpackDuffelSyndicateMedical = мішок Синдикату
 ent-ClothingBackpackDuffelSyndicateMedicalBundle = { ent-ClothingBackpackDuffelSyndicateMedical }
     .desc = { ent-ClothingBackpackDuffelSyndicateMedical.desc }
 
-ent-ClothingBackpackDuffelHolding = мішок тримання
-    .desc = Мішок який відкривається в локалізований простір блюспейсу.
+ent-ClothingBackpackDuffelHolding = мішок зберігання
+    .desc = Мішок який відкривається в локалізований простір Синєпростору.
 
 ent-ClothingBackpackDuffelCBURN = мішок РХБЗ
     .desc = Мішок тримаючий в собі додаткові речі біологічної боротьби.

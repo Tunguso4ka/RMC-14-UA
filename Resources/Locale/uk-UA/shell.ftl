@@ -1,50 +1,73 @@
-### for technical and/or system messages
-
-## General
-
 shell-server-cannot = Server cannot do this.
-shell-command-success = Command successful
-shell-invalid-command = Invalid command.
-shell-invalid-command-specific = Invalid {$commandName} command.
-shell-cannot-run-command-from-server = You cannot run this command from the server.
-shell-only-players-can-run-this-command = Only players can run this command.
-shell-must-be-attached-to-entity = You must be attached to an entity to run this command.
+shell-command-success = Успішна команда.
 
-## Arguments
+shell-invalid-command = Хибна команда.
 
-shell-need-exactly-one-argument = Need exactly one argument.
-shell-wrong-arguments-number-need-specific = Need {$properAmount} arguments, there were {$currentAmount}.
-shell-argument-must-be-number = Argument must be a number.
-shell-argument-must-be-boolean = Argument must be a boolean.
-shell-wrong-arguments-number = Wrong number of arguments.
-shell-need-between-arguments = Need {$lower} to {$upper} arguments!
-shell-need-minimum-arguments = Need at least {$minimum} arguments!
-shell-need-minimum-one-argument = Need at least one argument!
+shell-invalid-command-specific = Хибна {$commandName} команда.
+
+shell-cannot-run-command-from-server = Ви не можете виконати цю команду з серверу.
+
+shell-only-players-can-run-this-command = Тільки гравці можуть виконати цю команду.
+
+shell-must-be-attached-to-entity = Ви повинні бути під'єднанні до сутності, щоб виконати цю команду.
+
+shell-need-exactly-one-argument = Потрібен лише один аргумент.
+
+shell-wrong-arguments-number-need-specific = Потрібно {$properAmount} аргументів, але получено {$currentAmount}.
+
+shell-argument-must-be-number = Аргумент повинен бути числом.
+
+shell-argument-must-be-boolean = Аргумент повинен бути булом.
+
+shell-wrong-arguments-number = Хибна кількість аргументів.
+
+shell-need-between-arguments = Потрібно від {$lower} до {$upper} аргументів!
+
+shell-need-minimum-arguments = Потрібно щонайменш {$minimum} аргументів!
+
+shell-need-minimum-one-argument = Потрібен щонайменш один аргумент!
 
 shell-argument-uid = EntityUid
 
-## Guards
 
-shell-entity-is-not-mob = Target entity is not a mob!
-shell-invalid-entity-id = Invalid entity ID.
-shell-invalid-grid-id = Invalid grid ID.
-shell-invalid-map-id = Invalid map ID.
-shell-invalid-entity-uid = {$uid} is not a valid entity uid
-shell-invalid-bool = Invalid boolean.
-shell-entity-uid-must-be-number = EntityUid must be a number.
-shell-could-not-find-entity = Could not find entity {$entity}
-shell-could-not-find-entity-with-uid = Could not find entity with uid {$uid}
-shell-entity-with-uid-lacks-component = Entity with uid {$uid} doesn't have {INDEFINITE($componentName)} {$componentName} component
-shell-invalid-color-hex = Invalid color hex!
-shell-target-player-does-not-exist = Target player does not exist!
-shell-target-entity-does-not-have-message = Target entity does not have {INDEFINITE($missing)} {$missing}!
-shell-timespan-minutes-must-be-correct = {$span} is not a valid minutes timespan.
-shell-argument-must-be-prototype = Argument {$index} must be a {LOC($prototypeName)}!
-shell-argument-number-must-be-between = Argument {$index} must be a number between {$lower} and {$upper}!
-shell-argument-station-id-invalid = Argument {$index} must be a valid station id!
-shell-argument-map-id-invalid = Argument {$index} must be a valid map id!
-shell-argument-number-invalid = Argument {$index} must be a valid number!
+shell-entity-is-not-mob = Вказана сутність не є мобом!
 
-# Hints
+shell-invalid-entity-id = Хибне ID сутності.
+
+shell-invalid-grid-id = Хибне ID гріда.
+
+shell-invalid-map-id = Хибне ID мапи.
+
+shell-invalid-entity-uid = {$uid} не є дійсною entity uid
+
+shell-invalid-bool = Хибний бул.
+
+shell-entity-uid-must-be-number = EntityUid повинно бути числом.
+
+shell-could-not-find-entity = Не можемо знайти сутність {$entity}
+
+shell-could-not-find-entity-with-uid = Не можемо знайти сутність з uid {$uid}
+
+shell-entity-with-uid-lacks-component = Сутність з uid {$uid} не має {INDEFINITE($componentName)} {$componentName} компоненту
+
+shell-invalid-color-hex = Хибний hex колір!
+
+shell-target-player-does-not-exist = Вказаний гравець не існує!
+
+shell-target-entity-does-not-have-message = Вказана сутність не має {INDEFINITE($missing)} {$missing}!
+
+shell-timespan-minutes-must-be-correct = {$span} не є дісним промижком часу в хвилинах.
+
+shell-argument-must-be-prototype = Аргумент {$index} повинен бути {LOC($prototypeName)}!
+
+shell-argument-number-must-be-between = Аргумент {$index} повинен бути числом між {$lower} та {$upper}!
+
+shell-argument-station-id-invalid = Аргумент {$index} повинен бути дійсним ID станції!
+
+shell-argument-map-id-invalid = Аргумент {$index} повинен бути дійсним ID мапи!
+
+shell-argument-number-invalid = Аргумент {$index} повинен бути дійсним числом!
+
 shell-argument-username-hint = <username>
+
 shell-argument-username-optional-hint = [username]

@@ -1,54 +1,53 @@
-ent-ClothingBackpackSatchel = satchel
-    .desc = A trendy looking satchel.
+ent-ClothingBackpackSatchel = сумка
+    .desc = Модна на вигляд сумка.
 
-ent-ClothingBackpackSatchelLeather = leather satchel
-    .desc = A trend-setting satchel from a bygone era.
+ent-ClothingBackpackSatchelLeather = шкіряна сумка
+    .desc = Сумка, що встановила моду минулої епохи.
 
-ent-ClothingBackpackSatchelEngineering = engineering satchel
-    .desc = A tough satchel with extra pockets.
+ent-ClothingBackpackSatchelEngineering = сумка інженерів
+    .desc = Міцна сумка з додатковими кишенями.
 
-ent-ClothingBackpackSatchelAtmospherics = atmospherics satchel
-    .desc = A tough satchel made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackSatchelAtmospherics = сумка атмос. техів
+    .desc = Міцна сумка, що зроблена з вогнестійких матеріалів. Пахне плазмою.
 
-ent-ClothingBackpackSatchelClown = clown satchel
-    .desc = For fast running from security.
+ent-ClothingBackpackSatchelClown = сумка клоуна
+    .desc = Для найшвидшої втечі від охоронців.
 
-ent-ClothingBackpackSatchelMime = mime satchel
-    .desc = A satchel designed for the silent and expressive art of miming.
+ent-ClothingBackpackSatchelMime = сумка міма
+    .desc = Сумка, розроблена для мовчаливого та експресивного мистецтва міміки.
 
-ent-ClothingBackpackSatchelMedical = medical satchel
-    .desc = A sterile satchel used in medical departments.
+ent-ClothingBackpackSatchelMedical = сумка лікарів
+    .desc = Стерільна сумка для медічного відділу.
 
-ent-ClothingBackpackSatchelChemistry = chemistry satchel
-    .desc = A sterile satchel with chemist colours.
+ent-ClothingBackpackSatchelChemistry = сумка хіміків
+    .desc = Стерільна сумка в кольорах хімії.
 
-ent-ClothingBackpackSatchelVirology = virology satchel
-    .desc = A satchel made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
+ent-ClothingBackpackSatchelVirology = сумка вірологів
+    .desc = Сумка, зроблена з гіпо-алергійних матеріалів. Розроблена для превенції просунення захворювань. Пахне мавпою.
 
-ent-ClothingBackpackSatchelGenetics = genetics satchel
-    .desc = A sterile satchel with geneticist colours.
+ent-ClothingBackpackSatchelGenetics = сумка генетиків
+    .desc = Стерільна сумка в кольорах генетики.
 
-ent-ClothingBackpackSatchelScience = science satchel
-    .desc = Useful for holding research materials.
+ent-ClothingBackpackSatchelScience = сумка науковців
+    .desc = Підходить для зберігання наукових матеріалів.
 
-ent-ClothingBackpackSatchelSecurity = security satchel
-    .desc = A robust satchel for security related needs.
+ent-ClothingBackpackSatchelSecurity = сумка охорони
+    .desc = Міцна сумка для всіх потреб охорони.
 
-ent-ClothingBackpackSatchelBrigmedic = brigmedic satchel
-    .desc = A sterile satchel for medical related needs.
+ent-ClothingBackpackSatchelBrigmedic = сумка бріглікаря
+    .desc = Стерільна сумка для медічних потреб.
 
-ent-ClothingBackpackSatchelCaptain = captain's satchel
-    .desc = An exclusive satchel for Nanotrasen officers.
+ent-ClothingBackpackSatchelCaptain = сумка капітана
+    .desc = Ексклюзивна сумка офіцерів НаноТрайзен.
 
-ent-ClothingBackpackSatchelHydroponics = hydroponics satchel
-    .desc = A satchel made of all natural fibers.
+ent-ClothingBackpackSatchelHydroponics = сумка ботаників
+    .desc = Сумка, зроблена з повністю натуральних матеріалів.
 
-ent-ClothingBackpackSatchelCargo = cargo satchel
-    .desc = A robust satchel for stealing cargo's loot.
+ent-ClothingBackpackSatchelCargo = сумка логістів
+    .desc = Міцна сумка для вкраденого добра.
 
-ent-ClothingBackpackSatchelSalvage = salvage satchel
-    .desc = A robust satchel for stashing your loot.
+ent-ClothingBackpackSatchelSalvage = сумка шахтарів
+    .desc = Міцна сумка для врятованого добра. 
 
-ent-ClothingBackpackSatchelHolding = satchel of holding
-    .desc = A satchel that opens into a localized pocket of bluespace.
-
+ent-ClothingBackpackSatchelHolding = сумка зберігання
+    .desc = Сумка, що відкривається в окремий простір Синєпростору.

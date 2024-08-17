@@ -5,6 +5,7 @@ ent-BaseLatheLube = { ent-BaseLathe }
     .desc = { ent-BaseLathe.desc }
 
 ent-BaseHyperlathe = ця сутність не має назви
+    .desc = { "" }
 
 ent-Autolathe = autolathe
     .desc = It produces items using metal and glass.
@@ -51,3 +52,5 @@ ent-OreProcessorIndustrial = industrial ore processor
 ent-Sheetifier = sheet-meister 2000
     .desc = A very sheety machine.
 
+ent-CutterMachine = cutter machine
+    .desc = This is a cutter. It cuts. Add variety to your station floor with eye-pleasing patterns! Don't stick your fingers in.

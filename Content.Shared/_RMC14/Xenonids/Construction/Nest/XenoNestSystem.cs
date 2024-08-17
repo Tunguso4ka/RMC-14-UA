@@ -1,11 +1,13 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
+using Content.Shared._RMC14.Map;
 using Content.Shared._RMC14.Xenonids.Parasite;
 using Content.Shared._RMC14.Xenonids.Weeds;
 using Content.Shared.ActionBlocker;
 using Content.Shared.Coordinates;
 using Content.Shared.DoAfter;
 using Content.Shared.DragDrop;
+using Content.Shared.Hands.Components;
 using Content.Shared.Interaction;
 using Content.Shared.Interaction.Events;
 using Content.Shared.Inventory.Events;
@@ -33,18 +35,19 @@ public sealed class XenoNestSystem : EntitySystem
 {
     [Dependency] private readonly ActionBlockerSystem _actionBlocker = default!;
     [Dependency] private readonly SharedDoAfterSystem _doAfter = default!;
+    [Dependency] private readonly IMapManager _map = default!;
     [Dependency] private readonly MobStateSystem _mobState = default!;
     [Dependency] private readonly INetManager _net = default!;
     [Dependency] private readonly OccluderSystem _occluder = default!;
+    [Dependency] private readonly SharedXenoParasiteSystem _parasite = default!;
     [Dependency] private readonly ISharedPlayerManager _player = default!;
     [Dependency] private readonly SharedPopupSystem _popup = default!;
     [Dependency] private readonly PullingSystem _pulling = default!;
+    [Dependency] private readonly RMCMapSystem _rmcMap = default!;
     [Dependency] private readonly StandingStateSystem _standing = default!;
     [Dependency] private readonly IGameTiming _timing = default!;
     [Dependency] private readonly SharedTransformSystem _transform = default!;
     [Dependency] private readonly TurfSystem _turf = default!;
-    [Dependency] private readonly IMapManager _map = default!;
-    [Dependency] private readonly SharedXenoParasiteSystem _parasite = default!;
 
     private EntityQuery<OccluderComponent> _occluderQuery;
     private EntityQuery<XenoNestComponent> _xenoNestQuery;
@@ -285,7 +288,7 @@ public sealed class XenoNestSystem : EntitySystem
 
     private void TryStartNesting(EntityUid user, Entity<XenoNestSurfaceComponent> surface, EntityUid victim)
     {
-        if (!HasComp<XenoComponent>(user) ||
+        if (!HasComp<XenoComponent>(user) || !HasComp<HandsComponent>(user) ||
             !CanNestPopup(user, victim, surface, out _))
         {
             return;
@@ -328,6 +331,14 @@ public sealed class XenoNestSystem : EntitySystem
         {
             if (!silent)
                 _popup.PopupClient(Loc.GetString("cm-xeno-nest-failed", ("target", victim)), surface, user);
+
+            return false;
+        }
+
+        if (_mobState.IsDead(victim))
+        {
+            if (!silent)
+                _popup.PopupClient(Loc.GetString("rmc-xeno-nest-failed-dead", ("target", victim)), surface, user);
 
             return false;
         }
@@ -487,6 +498,28 @@ public sealed class XenoNestSystem : EntitySystem
         {
             occluder = (nestSurface.Weedable.Value, occluderComp);
             return true;
+        }
+
+        return false;
+    }
+
+    public bool HasAdjacentNestFacing(EntityCoordinates coordinates)
+    {
+        foreach (var cardinal in _rmcMap.CardinalDirections)
+        {
+            var anchored = _rmcMap.GetAnchoredEntitiesEnumerator(coordinates, cardinal);
+            var opposite = cardinal.GetOpposite();
+            while (anchored.MoveNext(out var uid))
+            {
+                if (!_xenoNestSurfaceQuery.TryComp(uid, out var surface))
+                    continue;
+
+                if (surface.Nests.TryGetValue(opposite, out var nest) &&
+                    !TerminatingOrDeleted(nest))
+                {
+                    return true;
+                }
+            }
         }
 
         return false;

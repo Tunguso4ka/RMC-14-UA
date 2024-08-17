@@ -227,7 +227,7 @@ reagent-name-silencer = глушник
 reagent-desc-silencer = A drink from Mime Heaven.
 
 reagent-name-singulo = сінгуло
-reagent-desc-singulo = A blue-space beverage!
+reagent-desc-singulo = Синєпросторивий напій!
 
 reagent-name-snow-white = білосніжний
 reagent-desc-snow-white = A cold refreshment.
@@ -235,8 +235,8 @@ reagent-desc-snow-white = A cold refreshment.
 reagent-name-sui-dream = sui dream
 reagent-desc-sui-dream = 'Comprised of: White soda, blue curacao, melon liquor.'
 
-reagent-name-syndicate-bomb = бомба синдікату
-reagent-desc-syndicate-bomb = Somebody set us up the bomb!
+reagent-name-syndicate-bomb = бомба синдикату
+reagent-desc-syndicate-bomb = Хтось заклад тут бомбу!
 
 reagent-name-tequila-sunrise = світанок текили
 reagent-desc-tequila-sunrise = Tequila and orange juice. Much like a Screwdriver, only Mexican.

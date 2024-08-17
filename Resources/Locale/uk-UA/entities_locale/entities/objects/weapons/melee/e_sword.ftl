@@ -1,3 +1,6 @@
+ent-BaseMeleeWeaponEnergy = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+
 ent-EnergySword = енергомеч
     .desc = Дуже гучний та небезпечний меч, його промінь зроблен з чистої, концентрованої плазми. Ріже все як масло.
 

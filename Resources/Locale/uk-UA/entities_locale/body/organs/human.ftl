@@ -4,33 +4,32 @@ ent-BaseHumanOrganUnGibbable = { ent-BaseItem }
 ent-BaseHumanOrgan = { ent-BaseHumanOrganUnGibbable }
     .desc = { ent-BaseHumanOrganUnGibbable.desc }
 
-ent-OrganHumanBrain = brain
-    .desc = The source of incredible, unending intelligence. Honk.
+ent-OrganHumanBrain = мізки
+    .desc = Джерело неймовірного та нескінченого інтелекту. Хонк.
 
-ent-OrganHumanEyes = eyes
-    .desc = I see you!
+ent-OrganHumanEyes = очі
+    .desc = А я тебе бачу!
 
-ent-OrganHumanTongue = tongue
-    .desc = A fleshy muscle mostly used for lying.
+ent-OrganHumanTongue = язик
+    .desc = М'ясний мускул, зазвичай використовується щоб брехати.
 
-ent-OrganHumanAppendix = appendix
+ent-OrganHumanAppendix = апендикс
     .desc = { ent-BaseHumanOrgan.desc }
 
-ent-OrganHumanEars = ears
+ent-OrganHumanEars = вуши
     .desc = There are three parts to the ear. Inner, middle and outer. Only one of these parts should normally be visible.
 
-ent-OrganHumanLungs = lungs
+ent-OrganHumanLungs = легені
     .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier.
 
-ent-OrganHumanHeart = heart
+ent-OrganHumanHeart = серце
     .desc = I feel bad for the heartless bastard who lost this.
 
-ent-OrganHumanStomach = stomach
-    .desc = Gross. This is hard to stomach.
+ent-OrganHumanStomach = шлунок
+    .desc = Фу. Такий вид складно переварити...
 
-ent-OrganHumanLiver = liver
+ent-OrganHumanLiver = печинка
     .desc = Pairing suggestion: chianti and fava beans.
 
-ent-OrganHumanKidneys = kidneys
+ent-OrganHumanKidneys = нирки
     .desc = Filters toxins from the bloodstream.
-

@@ -12,5 +12,11 @@ ent-CMScrubsGreen = { ent-CMScrubsBlue }
 
 ent-CMScrubsPurple = { ent-CMScrubsBlue }
 
+    .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in purple.
+
+ent-CMScrubsOrange = orange medical scrubs
+    .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in dark orange.
+
 ent-CMScrubsNurse = nurse scrubs
     .desc = Standard-issue nurse scrubs.
+

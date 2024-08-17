@@ -1,9 +1,5 @@
-## Entity
-
-gas-analyzer-component-player-cannot-reach-message = Ви не можете дістати до туди.
+gas-analyzer-component-player-cannot-reach-message = You can't reach there.
 gas-analyzer-shutoff = Анализатор газу вимикається.
-
-## UI
 
 gas-analyzer-window-name = Анализатор Газу
 gas-analyzer-window-environment-tab-label = Середовіще
@@ -25,10 +21,8 @@ gas-analyzer-window-molarity-text = {$mol}
 gas-analyzer-window-percentage-text = {$percentage}
 gas-analyzer-window-molarity-percentage-text = {$gasName}: {$amount} мол ({$percentage}%)
 
-# Used for GasEntry.ToString()
 gas-entry-info = {$gasName}: {$gasAmount} мол
 
-# overrides for trinary devices to have saner names
 gas-analyzer-window-text-inlet = Inlet
 gas-analyzer-window-text-outlet = Outlet
 gas-analyzer-window-text-filter = Filter

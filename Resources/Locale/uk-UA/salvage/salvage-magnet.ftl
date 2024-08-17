@@ -1,10 +1,15 @@
 salvage-system-announcement-losing = Магніт більше не може утримувати уламки. До втрати уламка: {$timeLeft} секунд.
+
 salvage-system-announcement-spawn-debris-disintegrated = Уламок було знищено під час орбітального переміщення.
+
 salvage-system-announcement-spawn-no-debris-available = Жодного уламку не було притягнуто магнітом.
+
 salvage-system-announcement-arrived = Уламок було притягнуто магнітом. До втрати уламка: {$timeLeft} секунд.
+
 salvage-asteroid-name = Астероїд
 
 salvage-magnet-window-title = Шахтарський магніт
+
 salvage-expedition-window-progression = Просування
 
 salvage-magnet-resources = {$resource ->
@@ -29,13 +34,14 @@ salvage-magnet-resources-count = {$count ->
     *[other] (Extraordinary)
 }
 
-# Asteroids
 dungeon-config-proto-BlobAsteroid = Asteroid clump
+
 dungeon-config-proto-ClusterAsteroid = Asteroid cluster
+
 dungeon-config-proto-SpindlyAsteroid = Asteroid spiral
+
 dungeon-config-proto-SwissCheeseAsteroid = Asteroid fragments
 
-# Wrecks
 salvage-map-proto-Small1 = Engineering Storage
 salvage-map-proto-Small2 = Gaming Nook
 salvage-map-proto-Small3 = Laundromat

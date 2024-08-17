@@ -160,6 +160,13 @@ ent-FoodFlyAmanita = fly amanita
 ent-FoodGatfruit = gatfruit
     .desc = A delicious, gun-shaped fruit with a thick wooden stem.
 
+ent-FoodRealCapfruit = capfruit
+    .desc = A soft but smooth gun-shaped fruit.
+
+ent-FoodFakeCapfruit = capfruit
+    .desc = { ent-FoodRealCapfruit.desc }
+    .suffix = Fake
+
 ent-RiceBushel = rice bushel
     .desc = Can be ground into rice, perfect for pudding or sake.
 
@@ -201,3 +208,4 @@ ent-CottonBol = cotton boll
 
 ent-PyrottonBol = pyrotton boll
     .desc = This will probably set you on fire.
+

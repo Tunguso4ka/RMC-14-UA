@@ -46,6 +46,11 @@ ent-BasicStationEventScheduler = { ent-BaseGameRule }
 ent-RampingStationEventScheduler = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-BasicRoundstartVariation = { ent-BaseGameRule }
+ent-SpaceTrafficControlEventScheduler = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-SpaceTrafficControlFriendlyEventScheduler = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
+ent-BasicRoundstartVariation = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

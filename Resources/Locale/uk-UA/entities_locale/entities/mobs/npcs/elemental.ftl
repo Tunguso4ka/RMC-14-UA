@@ -1,5 +1,5 @@
-ent-MobElementalBase = ця сутність не має назви
-
+ent-MobElementalBase = { "" }
+    .desc = { "" }
 ent-MobOreCrab = ore crab
     .desc = { ent-MobElementalBase.desc }
 
@@ -69,4 +69,3 @@ ent-ReagentSlimeEphedrine = { ent-ReagentSlime }
 ent-ReagentSlimeRobustHarvest = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
     .suffix = Robust Harvest
-

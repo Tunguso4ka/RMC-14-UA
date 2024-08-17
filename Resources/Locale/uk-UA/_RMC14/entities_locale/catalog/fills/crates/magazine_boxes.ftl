@@ -45,3 +45,10 @@ ent-RMCCrateMagazineSmartGun = ML66A smart gun drum crate (2x)
 
 ent-RMCCrateBoxMagazineSmartPistol = Magazine box (SU-6, 16x mags)
     .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateBoxMagazineM44Revolver = Speedloader box (M44, 16x loaders)
+    .desc = { ent-CMCrateAmmo.desc }
+
+ent-RMCCrateBoxMagazineM44RevolverMarksman = Speedloader box (Marksman M44, 16x loaders)
+    .desc = { ent-CMCrateAmmo.desc }
+
