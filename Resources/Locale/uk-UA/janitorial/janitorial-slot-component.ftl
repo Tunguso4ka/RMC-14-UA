@@ -1,10 +1,8 @@
-# mop bucket
-mop-bucket-slot-component-slot-name-shark = Shark
-# janitorial trolley
-janitorial-trolley-slot-component-slot-name-plunger = Plunger
-janitorial-trolley-slot-component-slot-name-sign = Sign
-janitorial-trolley-slot-component-slot-name-lightreplacer = Light Replacer
-janitorial-trolley-slot-component-slot-name-spray = Spray
-janitorial-trolley-slot-component-slot-name-bucket = Bucket
-janitorial-trolley-slot-component-slot-name-trashbag = Trash Bag
-janitorial-trolley-slot-component-slot-name-mop = Mop
+mop-bucket-slot-component-slot-name-shark = Акула
+janitorial-trolley-slot-component-slot-name-plunger = Вантуз
+janitorial-trolley-slot-component-slot-name-sign = Знак
+janitorial-trolley-slot-component-slot-name-lightreplacer = Замінювач ламп
+janitorial-trolley-slot-component-slot-name-spray = Спрей
+janitorial-trolley-slot-component-slot-name-bucket = Відро
+janitorial-trolley-slot-component-slot-name-trashbag = Пакет для сміття
+janitorial-trolley-slot-component-slot-name-mop = Швабра

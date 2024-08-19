@@ -337,10 +337,16 @@ ent-CMAlamoWall84 = { ent-CMBaseAlamoWall }
     .desc = { ent-CMBaseAlamoWall.desc }
     .suffix = 84
 
+ent-CMAlamoWall84Flipped = starboard fore weapon attach point
+    .desc = { ent-CMAlamoWall84.desc }
+    .suffix = 84, Flipped
 ent-CMAlamoWall85 = { ent-CMBaseAlamoWall }
     .desc = { ent-CMBaseAlamoWall.desc }
     .suffix = 85
 
+ent-CMAlamoWall85Flipped = { ent-CMAlamoWall85 }
+    .desc = { ent-CMAlamoWall85.desc }
+    .suffix = 85, Flipped
 ent-CMAlamoWall86 = { ent-CMBaseAlamoWall }
     .desc = { ent-CMBaseAlamoWall.desc }
     .suffix = 86
@@ -408,4 +414,3 @@ ent-CMAlamoWall101 = { ent-CMBaseAlamoWall }
 ent-CMAlamoWall102 = { ent-CMBaseAlamoWall }
     .desc = { ent-CMBaseAlamoWall.desc }
     .suffix = 102
-

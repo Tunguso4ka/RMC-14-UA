@@ -1,15 +1,10 @@
-ent-CMCrateSupplyInternals = ящик кисневого обладнання (x3 масок, x3 балонів)
-    .desc = { ent-CMCrateSupply.desc }
-
-ent-CMCrateSupplyEvacuation = аварійне обладнання (x2 ящичків, x2 hazard vest, x5 балонів, x5 масок)
-    .desc = { ent-CMCrateSupply.desc }
-
-ent-CMCrateSuppliesBoxes = ящик порожніх коробок (x10)
-    .desc = { ent-CMCrateSupply.desc }
-
-ent-CMCrateSupplyJanitor = різноманітне приладдя для прибиральників
-    .desc = { ent-CMCrateSupply.desc }
-
-ent-CMCrateSuppliesCrayons = ящик олівців
-    .desc = { ent-CMCrateSupply.desc }
-
+ent-RMCCrateSupplyInternals = oxygen internals crate (x3 masks, x3 tanks)
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSupplyEvacuation = emergency equipment (x2 toolbox, x2 hazard vest, x5 oxygen tank, x5 masks)
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSuppliesBoxes = cardboard sheets (x50)
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSupplyJanitor = assorted janitorial supplies
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSuppliesCrayons = boxes of crayons
+    .desc = { ent-RMCCrateSupply.desc }

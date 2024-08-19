@@ -31,9 +31,8 @@ ent-FoodDonutCaramel = caramel donut
 ent-FoodDonutChocolate = chocolate donut
     .desc = Goes great with a glass of warm milk.
 
-ent-FoodDonutBlumpkin = blumpkin donut
-    .desc = Goes great with a mug of soothing drunken blumpkin.
-
+ent-FoodDonutBluePumpkin = blue pumpkin donut
+    .desc = Goes great with a mug of soothing drunken blue pumpkin.
 ent-FoodDonutBungo = bungo donut
     .desc = Goes great with a mason jar of hippie's delight.
 
@@ -61,9 +60,8 @@ ent-FoodDonutJellyCaramel = caramel jelly-donut
 ent-FoodDonutJellyChocolate = chocolate jelly-donut
     .desc = Goes great with a glass of warm milk.
 
-ent-FoodDonutJellyBlumpkin = blumpkin jelly-donut
-    .desc = Goes great with a mug of soothing drunken blumpkin.
-
+ent-FoodDonutJellyBluePumpkin = blue pumpkin jelly-donut
+    .desc = Goes great with a mug of soothing drunken blue pumpkin.
 ent-FoodDonutJellyBungo = bungo jelly-donut
     .desc = Goes great with a mason jar of hippie's delight.
 
@@ -79,4 +77,3 @@ ent-FoodDonutJellySlugcat = slugcat jelly-donut
 ent-FoodDonutPoison = { ent-FoodDonutPink }
     .desc = { ent-FoodDonutPink.desc }
     .suffix = Poison
-

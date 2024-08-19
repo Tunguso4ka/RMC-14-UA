@@ -1,90 +1,63 @@
-ent-CMBoxMagazineBase = надзвичайно звичайна коробка магазинів (? x ?)"
-    .desc = Коробка повна магазинів.
-
-ent-CMBoxMagazineAPBase = надзвичайно звичайна коробка магазинів (? x ?)"
-    .desc = Коробка повна магазинів.
-
-ent-CMBoxMagazineHVBase = надзвичайно звичайна коробка магазинів (? x ?)"
-    .desc = Коробка повна магазинів.
-
-ent-CMBoxMagazineRifleM54CEmpty = коробка магазинів (M54C x 10)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazineRifleM54C = коробка магазинів (M54C x 10)
-    .desc = { ent-CMBoxMagazineBase.desc }
+ent-RMCBoxMagazineBase = generic magazine box (? x ?)"
+    .desc = A box of magazines.
+ent-RMCBoxMagazineAPBase = generic magazine box (? x ?)"
+    .desc = A box of magazines.
+ent-RMCBoxMagazineHVBase = generic magazine box (? x ?)"
+    .desc = A box of magazines.
+ent-RMCBoxMagazineRifleM54CEmpty = magazine box (M54C x 10)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazineRifleM54C = { ent-RMCBoxMagazineRifleM54CEmpty }
+    .desc = { ent-RMCBoxMagazineRifleM54CEmpty.desc }
     .suffix = Filled
-
-ent-CMBoxMagazineRifleM54CAPEmpty = коробка магазинів (AP M54C x 10)
-    .desc = { ent-CMBoxMagazineAPBase.desc }
-
-ent-CMBoxMagazineRifleM54CAP = коробка магазинів (AP M54C x 10)
-    .desc = { ent-CMBoxMagazineAPBase.desc }
+ent-RMCBoxMagazineRifleM54CAPEmpty = magazine box (AP M54C x 10)
+    .desc = { ent-RMCBoxMagazineAPBase.desc }
+ent-RMCBoxMagazineRifleM54CAP = magazine box (AP M54C x 10)
+    .desc = { ent-RMCBoxMagazineRifleM54CAPEmpty.desc }
     .suffix = Filled
-
-ent-CMBoxMagazineRifleM54CExtEmpty = коробка магазинів (Ext M54C x 8)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazineRifleM54CExt = коробка магазинів (Ext M54C x 8)
-    .desc = { ent-CMBoxMagazineBase.desc }
+ent-RMCBoxMagazineRifleM54CExtEmpty = magazine box (Ext M54C x 8)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazineRifleM54CExt = magazine box (Ext M54C x 8)
+    .desc = { ent-RMCBoxMagazineRifleM54CExtEmpty.desc }
     .suffix = Filled
-
-ent-CMBoxMagazineSMGM63Empty = коробка магазинів (M63 x 12)
-    .desc = { ent-CMBoxMagazineHVBase.desc }
-
-ent-CMBoxMagazineSMGM63 = коробка магазинів (M63 x 12)
-    .desc = { ent-CMBoxMagazineHVBase.desc }
-
-ent-CMBoxMagazineSMGM63APEmpty = коробка магазинів (AP M63 x 12)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazineSMGM63AP = коробка магазинів (AP M63 x 12)
-    .desc = { ent-CMBoxMagazineBase.desc }
+ent-RMCBoxMagazineSMGM63Empty = magazine box (M63 x 12)
+    .desc = { ent-RMCBoxMagazineHVBase.desc }
+ent-RMCBoxMagazineSMGM63 = magazine box (M63 x 12)
+    .desc = { ent-RMCBoxMagazineSMGM63Empty.desc }
+ent-RMCBoxMagazineSMGM63APEmpty = magazine box (AP M63 x 12)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazineSMGM63AP = magazine box (AP M63 x 12)
+    .desc = { ent-RMCBoxMagazineSMGM63APEmpty.desc }
     .suffix = Full
-
-ent-CMBoxMagazineSMGM63ExtEmpty = коробка магазинів (Ext M63 x 10)
-    .desc = { ent-CMBoxMagazineHVBase.desc }
-
-ent-CMBoxMagazineSMGM63Ext = коробка магазинів (Ext M63 x 10)
-    .desc = { ent-CMBoxMagazineHVBase.desc }
+ent-RMCBoxMagazineSMGM63ExtEmpty = magazine box (Ext M63 x 10)
+    .desc = { ent-RMCBoxMagazineHVBase.desc }
+ent-RMCBoxMagazineSMGM63Ext = magazine box (Ext M63 x 10)
+    .desc = { ent-RMCBoxMagazineSMGM63ExtEmpty.desc }
     .suffix = Full
-
-ent-CMBoxMagazineRifleM4SPREmpty = коробка магазинів (M4SPR x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazineRifleM4SPR = коробка магазинів (M4SPR x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
+ent-RMCBoxMagazineRifleM4SPREmpty = magazine box (M4SPR x 16)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazineRifleM4SPR = magazine box (M4SPR x 16)
+    .desc = { ent-RMCBoxMagazineRifleM4SPREmpty.desc }
     .suffix = Filled
-
-ent-CMBoxMagazineRifleM4SPRAPEmpty = коробка магазинів (AP M4SPR x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazineRifleM4SPRAP = коробка магазинів (AP M4SPR x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazineRifleM4SPRExtEmpty = коробка магазинів (Ext M4SPR x 12)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazineRifleM4SPRExt = коробка магазинів (Ext M4SPR x 12)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazinePistolM1984Empty = коробка магазинів (M1984 x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazinePistolM1984 = коробка магазинів (M1984 x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazinePistolM77APEmpty = коробка магазинів (M77 AP x 16)
-    .desc = { ent-CMBoxMagazineAPBase.desc }
-
-ent-CMBoxMagazinePistolM77AP = коробка магазинів (M77 AP x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazinePistolMK80Empty = коробка магазинів (MK80 x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
-ent-CMBoxMagazinePistolMK80 = коробка магазинів (MK80 x 16)
-    .desc = { ent-CMBoxMagazineBase.desc }
-
+ent-RMCBoxMagazineRifleM4SPRAPEmpty = magazine box (AP M4SPR x 16)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazineRifleM4SPRAP = magazine box (AP M4SPR x 16)
+    .desc = { ent-RMCBoxMagazineRifleM4SPRAPEmpty.desc }
+ent-RMCBoxMagazineRifleM4SPRExtEmpty = magazine box (Ext M4SPR x 12)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazineRifleM4SPRExt = magazine box (Ext M4SPR x 12)
+    .desc = { ent-RMCBoxMagazineRifleM4SPRExtEmpty.desc }
+ent-RMCBoxMagazinePistolM1984Empty = magazine box (M1984 x 16)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazinePistolM1984 = magazine box (M1984 x 16)
+    .desc = { ent-RMCBoxMagazinePistolM1984Empty.desc }
+ent-RMCBoxMagazinePistolM77APEmpty = magazine box (M77 AP x 16)
+    .desc = { ent-RMCBoxMagazineAPBase.desc }
+ent-RMCBoxMagazinePistolM77AP = magazine box (M77 AP x 16)
+    .desc = { ent-RMCBoxMagazinePistolM77APEmpty.desc }
+ent-RMCBoxMagazinePistolMK80Empty = magazine box (MK80 x 16)
+    .desc = { ent-RMCBoxMagazineBase.desc }
+ent-RMCBoxMagazinePistolMK80 = magazine box (MK80 x 16)
+    .desc = { ent-RMCBoxMagazinePistolMK80Empty.desc }
 ent-RMCBoxMagazinePistolSU6Empty = magazine box (SU-6 x 16)
     .desc = { ent-CMBoxMagazineBase.desc }
 
@@ -104,4 +77,3 @@ ent-RMCBoxMagazineRevolverM44MarksmanEmpty = speedloader box (Marksman M44 x 16)
 ent-RMCBoxMagazineRevolverMarksmanM44 = { ent-RMCBoxMagazineRevolverM44MarksmanEmpty }
     .desc = { ent-RMCBoxMagazineRevolverM44MarksmanEmpty.desc }
     .suffix = Filled
-

@@ -1,8 +1,6 @@
-ent-CMCrateGrenadesHighExplosive = ящик гранат M40 HEDP (x6)
-    .desc = { ent-CMCrateExplosives.desc }
-
-ent-CMCrateGrenadesFrag = ящик уламкових гранат M40 HEFA (x6)
-    .desc = { ent-CMCrateExplosives.desc }
-
+ent-RMCCrateGrenadesHighExplosive = M40 HEDP blast grenades crate (x6)
+    .desc = { ent-RMCCrateExplosives.desc }
+ent-RMCCrateGrenadesFrag = M40 HEFA fragmentation grenades crate (x6)
+    .desc = { ent-RMCCrateExplosives.desc }
 ent-RMCCrateBreachingCharges = ящик вибухових зарядів (x4)
     .desc = { ent-CMCrateExplosives.desc }

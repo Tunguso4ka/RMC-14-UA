@@ -1,87 +1,62 @@
-ent-CMCrateBase = ящик
-    .desc = Прямокутний сталевий ящик.
-
-ent-CMCrateLarge = великий ящик
-    .desc = Здоровенний дерев'яний ящик.
-
-ent-CMCrateWeldable = { ent-CMCrateBase }
-    .desc = { ent-CMCrateBase.desc }
-
-ent-CMCrateAlpha = ящик загону Альфа
-    .desc = Ящик з символом загону Альфа.
-
-ent-CMCrateBravo = ящик загону Браво
-    .desc = Ящик з символом загону Браво.
-
-ent-CMCrateCharlie = ящик загону Чарлі
-    .desc = Ящик з символом загону Чарлі.
-
-ent-CMCrateDelta = ящик загону Дельта
-    .desc = Ящик з символом загону Дельта.
-
-ent-CMCrateAmmo = ящик амуніції
-    .desc = Просто ящик амуніції, просто для знищення ксеноморфів.
-
-ent-CMCrateGreen = зелений ящик
-    .desc = Стандартний зелений ящик, використовується КМП ООН. Вони настільки поширені, що всередині можу бути будь-що.
-
-ent-CMCrateConstruction = будівельний ящик
-    .desc = Просто будівельний ящик, просто для матеріалів.
-
-ent-CMCrateExplosives = ящик вибухівки
-    .desc = Просто ящик вибухівки, просто вибухонебезпечно.
-
-ent-CMCrateFreezer = ящик-холодильник
-    .desc = Чудо інженерної думки для довготривалого зберігання органів чи запасів тактичної піци.
-
-ent-CMCrateHydro = ящик для гідропоніки
-    .desc = Все що потрібно для знищення інопланетної зарази в вашій бульбі.
-
-ent-CMCrateInternals = ящик з балонами
-    .desc = Просто ящик з балонами, просто щоб дихати, це ж круто.
-
-ent-CMCratePlastic = пластиковий ящик
-    .desc = Пластиковий ящик в формі прямокутного паралелепіпеда.
-
-ent-CMCrateRadiation = набір проти радіації
-    .desc = Ящик зі знаком радіації на ньому.
-
-ent-CMCrateScience = ящик вчених
-    .desc = Ящик для яйцеголових.
-
-ent-CMCrateSupply = ящик підтримки
-    .desc = Просто ящик для підтрмки, підтримки чогось.
-
-ent-CMCrateWeapons = ящик зброї
-    .desc = Ящик зі зброєю щоб робити ксеноморфам "куля голова боляче робити".
-
-ent-CMCrateMedical = медичний ящик
-    .desc = Це медичний ящик, ага.
-
-ent-CMCrateSecure = захищений ящик
-    .desc = Просто захищений ящик щоб ніякий space asshole не вкрав ваш хабар.
-    .suffix = Захищений
-
-ent-CMCrateSecureAmmo = захищений ящик амуніції
-    .desc = Захищений ящик амуніції.
-
-ent-CMCrateSecureExplosives = захищений ящик вибухівки
-    .desc = Ящик вибухівки, захищений але досі вибухонебезпечний.
-
-ent-CMCrateSecureGear = gear crate
+ent-RMCCrateBase = crate
+    .desc = A rectangular metal crate.
+ent-RMCCrateLarge = large crate
+    .desc = A hefty wooden crate.
+ent-RMCCrateWeldable = { ent-RMCCrateBase }
+    .desc = { ent-RMCCrateBase.desc }
+ent-RMCCrateAlpha = alpha squad crate
+    .desc = A crate with alpha squad's symbol on it.
+ent-RMCCrateBravo = bravo squad crate
+    .desc = A crate with bravo squad's symbol on it.
+ent-RMCCrateCharlie = charlie squad crate
+    .desc = A crate with charlie squad's symbol on it.
+ent-RMCCrateDelta = delta squad crate
+    .desc = A crate with delta squad's symbol on it.
+ent-RMCCrateAmmo = ammunitions crate
+    .desc = An ammunitions crate.
+ent-RMCCrateGreen = green crate
+    .desc = A standard green storage crate employed by the Marines. These things are so common, just about anything could be inside.
+ent-RMCCrateConstruction = construction crate
+    .desc = A construction crate.
+ent-RMCCrateExplosives = explosives crate
+    .desc = An explosives crate.
+ent-RMCCrateFreezer = freezer crate
+    .desc = A freezer crate.
+ent-RMCCrateHydro = hydroponics crate
+    .desc = All you need to destroy those pesky weeds and pests.
+ent-RMCCrateInternals = internals crate
+    .desc = An internals crate.
+ent-RMCCratePlastic = plastic crate
+    .desc = A rectangular plastic crate.
+ent-RMCCrateRadiation = radioactive gear crate
+    .desc = A crate with a radiation sign on it.
+ent-RMCCrateScience = science crate
+    .desc = A science crate.
+ent-RMCCrateSupply = supply crate
+    .desc = A supply crate.
+ent-RMCCrateWeapons = weapons crate
+    .desc = A weapons crate.
+ent-RMCCrateMedical = medical crate
+    .desc = A medical crate.
+ent-RMCCrateSecure = secure crate
+    .desc = A secure crate.
+    .suffix = Secure
+ent-RMCCrateSecureAmmo = secure ammunitions crate
+    .desc = A secure ammunitions crate.
+ent-RMCCrateSecureExplosives = explosives crate
+    .desc = An explosives crate.
+ent-RMCCrateSecureGear = gear crate
     .desc = A secure gear crate.
-
-ent-CMCrateSecureHydro = захищений ящик для гідропоніки
-    .desc = Захищений ящик з засобами проти інопланетних колорадських жуків.
-
+ent-RMCCrateSecureHydro = secure hydroponics crate
+    .desc = A crate with a lock on it, painted in the scheme of the station's botanists.
 ent-CMCrateSecureSurgery = ящик з хірургічними інструментами
     .desc = Ящик з усім для хірургії щоб витягувати кулі товаришів з твого тіла, або личинок ксеноморфів, як пощастить.
 
-ent-CMCrateSecureWeapons = захищений ящик зброї
-    .desc = Захищений ящик зброї щоб робити ксеноморфам "куля голова боляче робити".
-
-ent-CMCrateSecureWeYa = захищений ящик Ве-Я
-    .desc = Захищений замком ящик з лого Ве-Я.
-
+ent-RMCCrateSecureWeapons = weapons crate
+    .desc = A secure weapons crate.
+ent-RMCCrateSecureWeYa = secure We-Ya crate
+    .desc = A secure crate with a We-Ya insignia on it.
 ent-RMCCrateSecurePhoron = ящик форону
     .desc = Не з форону, але з фороном.
+ent-RMCCrateMinecart = minecart
+    .desc = Essentially a big metal bucket on wheels. This one has a modern plastic shroud.

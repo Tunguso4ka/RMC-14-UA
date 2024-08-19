@@ -28,6 +28,10 @@ ent-RMCPlatformKutjevoCornerSmall = raised metal corner
 ent-RMCPlatformKutjevoSM = raised metal edge
     .desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
 
+ent-RMCPlatformKutjevoSMCorner = raised metal edge
+    .desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformKutjevoSMRound = raised metal edge
+    .desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
 ent-RMCPlatformKutjevoStairRight = raised metal edge
     .desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
 

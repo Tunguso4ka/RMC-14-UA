@@ -1,7 +1,9 @@
 tiles-cm-default = стальний тайл
 tiles-cm-default-no-weeds = стальний тайл (без резина)
 tiles-rmc-underplating-no-weeds = тайл (без резини)
+tiles-rmc-empty = empty space
 tiles-cm-plate = стальний плаский тайл
+tiles-rmc-mono = mono tile
 tiles-cm-office = офісний тайл
 tiles-cm-sterile = стальний стерильний тайл
 tiles-cm-sterile-dark = темний стальний стерильний тайл
@@ -13,7 +15,6 @@ tiles-cm-white-sterile = білий стальний стерильний тай
 tiles-cm-green-sterile = зелений стальний стерильний тайл
 tiles-cm-freezer = freezer tile
 tiles-cm-black = чорний стальний тайл
-tiles-cm-ai = тайл кімнати ШІ
 tiles-cm-tcomms = тайл телекомунікацій
 tiles-cm-cargo = тайл логістів
 tiles-cm-plating = плаский тайл
@@ -46,3 +47,7 @@ tiles-cm-default-red = red metal tile
 tiles-cm-default-yellow = yellow metal tile
 
 tiles-cm-floor = підлога
+tiles-rmc-striped = striped tile
+tiles-rmc-research = research containment tile
+tiles-rmc-tcomms = tcomms tile
+tiles-rmc-outer-hull = outer hull tile

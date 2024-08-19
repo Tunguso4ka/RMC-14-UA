@@ -4,3 +4,5 @@ ent-CMSeatPassenger = passenger seat
 ent-CMSeatPilot = pilot's chair
     .desc = A specially designed chair for pilots to sit in.
 
+ent-RMCSeatHunter = hunter chair
+    .desc = An exquisitely crafted chair for a large humanoid hunter.

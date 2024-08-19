@@ -9,3 +9,5 @@ ent-CMWebbingBlack = чорний розвантажувальний жилет
 
 ent-CMWebbingBrown = коричневий розвантажувальний жилет
     .desc = Міцний коричнений жилет з купою карманів для того щоб тримати все що ти хочеш, але не можеш.
+ent-CMWebbingPouch = drop pouch
+    .desc = A convenient pouch to carry loose items around.

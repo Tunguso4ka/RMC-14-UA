@@ -23,7 +23,7 @@ ent-RandomTraitorAliveObjective = { ent-BaseKeepAliveObjective }
     .desc = Допомогайте з тіней або прямо. Нам важливо щоб цій агент залишився в живих.
 
 ent-RandomTraitorProgressObjective = { ent-BaseHelpProgressObjective }
-    .desc = Допомогайте з тіней або прямо. Нам важливо щоб цілі були виконані.
+    .desc = Допоможить ним із тіней або прямо. Нам важливо щоб їх цілі були виконані.
 
 ent-BaseCMOStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
@@ -43,9 +43,8 @@ ent-RDHardsuitStealObjective = { ent-BaseTraitorStealObjective }
 ent-HandTeleporterStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
 
-ent-SecretDocumentsStealObjective = { ent-BaseTraitorStealObjective }
+ent-EnergyShotgunStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-MagbootsStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
 
@@ -69,4 +68,3 @@ ent-CaptainGunStealObjective = { ent-BaseCaptainObjective }
 
 ent-NukeDiskStealObjective = { ent-BaseCaptainObjective }
     .desc = { ent-BaseCaptainObjective.desc }
-

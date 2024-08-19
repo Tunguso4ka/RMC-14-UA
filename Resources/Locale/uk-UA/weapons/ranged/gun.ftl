@@ -21,6 +21,7 @@ gun-ballistic-transfer-empty = {CAPITALIZE($entity)} порожня.
 gun-ballistic-transfer-target-full = {CAPITALIZE($entity)} вже повністу заряджена.
 
 gun-ballistic-transfer-cancelled = Your reload was interrupted!
+gun-ballistic-transfer-primed = You can't load a primed {$ammoEntity}!
 
 gun-cartridge-spent = Він [color=red]використаний[/color].
 gun-cartridge-unspent = Він [color=lime]не використаний[/color].

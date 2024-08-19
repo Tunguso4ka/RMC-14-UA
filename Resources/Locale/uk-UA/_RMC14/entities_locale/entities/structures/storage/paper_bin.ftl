@@ -14,3 +14,6 @@ ent-CMPaperBin20 = { ent-CMPaperBin }
     .desc = { ent-CMPaperBin.desc }
     .suffix = 20
 
+ent-CMPaperBin30 = { ent-CMPaperBin }
+    .desc = { ent-CMPaperBin.desc }
+    .suffix = 30

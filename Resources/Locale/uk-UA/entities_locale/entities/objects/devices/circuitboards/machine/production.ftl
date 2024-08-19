@@ -166,9 +166,6 @@ ent-ElectrolysisUnitMachineCircuitboard = плата пристрою елект
 ent-CentrifugeMachineCircuitboard = плата центрифуги
     .desc = Надрукована плата центрифуги.
 
-ent-MaterialReclaimerMachineCircuitboard = плата переробника матеріалів
-    .desc = { ent-BaseMachineCircuitboard.desc }
-
 ent-OreProcessorMachineCircuitboard = плата переробника руди
     .desc = { ent-BaseMachineCircuitboard.desc }
 

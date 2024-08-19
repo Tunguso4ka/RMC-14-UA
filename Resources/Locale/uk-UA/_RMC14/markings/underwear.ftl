@@ -1,5 +1,8 @@
 marking-RMCUnderwearBoxers = Труси-боксери
 marking-RMCUnderwearBoxers-c_boxers = Труси-боксери
+marking-RMCUnderwearBoxersBlue = Сині труси-боксери
+marking-RMCUnderwearBoxersBlue-d_boxers = Сині труси-боксери
+
 marking-RMCUnderwearBriefs = Труси-бріфи
 marking-RMCUnderwearBriefs-c_briefs = Труси-бріфи
 marking-RMCUnderwearLowriders = Труси лоурайдери

@@ -337,10 +337,16 @@ ent-CMNormandyWall84 = { ent-CMBaseNormandyWall }
     .desc = { ent-CMBaseNormandyWall.desc }
     .suffix = 84
 
+ent-CMNormandyWall84Flipped = starboard fore weapon attach point
+    .desc = { ent-CMNormandyWall84.desc }
+    .suffix = 84, Flipped
 ent-CMNormandyWall85 = { ent-CMBaseNormandyWall }
     .desc = { ent-CMBaseNormandyWall.desc }
     .suffix = 85
 
+ent-CMNormandyWall85Flipped = { ent-CMNormandyWall85 }
+    .desc = { ent-CMNormandyWall85.desc }
+    .suffix = 85, Flipped
 ent-CMNormandyWall86 = { ent-CMBaseNormandyWall }
     .desc = { ent-CMBaseNormandyWall.desc }
     .suffix = 86
@@ -408,4 +414,3 @@ ent-CMNormandyWall101 = { ent-CMBaseNormandyWall }
 ent-CMNormandyWall102 = { ent-CMBaseNormandyWall }
     .desc = { ent-CMBaseNormandyWall.desc }
     .suffix = 102
-

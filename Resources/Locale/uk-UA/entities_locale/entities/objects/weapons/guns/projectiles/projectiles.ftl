@@ -1,5 +1,6 @@
 ent-MuzzleFlashEffect = { "" }
 
+    .desc = { "" }
 ent-BaseBullet = BaseBullet
     .desc = If you can see this you're probably dead!
 
@@ -101,14 +102,26 @@ ent-BulletAcid = acid spit
 
 ent-BulletWaterShot = water
 
+    .desc = { "" }
 ent-BulletCannonBall = cannonball
     .desc = { ent-BaseBulletTrigger.desc }
 
 ent-GrapplingHook = grappling hook
 
+    .desc = { "" }
 ent-BulletDisablerSmg = disabler bolt smg
     .desc = { ent-BaseBullet.desc }
 
 ent-TeslaGunBullet = tesla gun lightning
     .desc = { ent-BaseBullet.desc }
 
+ent-BulletLaser = laser bolt
+    .desc = { ent-BaseBullet.desc }
+ent-BulletLaserSpread = wide laser barrage
+    .desc = { ent-BulletLaser.desc }
+ent-BulletLaserHeavy = heavy laser bolt
+    .desc = { ent-BulletLaser.desc }
+ent-BulletLaserHeavySpread = narrow laser barrage
+    .desc = { ent-BulletLaser.desc }
+ent-BulletDisablerSmgSpread = disabling laser barrage
+    .desc = { ent-BulletDisablerSmg.desc }

@@ -1,0 +1,14 @@
+ent-ColMarTechStaffOfficerEquipment = ColMarTech Staff Officer Equipment Rack
+    .desc = An automated equipment vendor for Staff Officers
+ent-ColMarTechStaffOfficerWeapon = ColMarTech Staff Officer Armory Weapon Rack
+    .desc = An automated combat equipment vendor for Staff Officers.
+ent-ColMarTechExecutiveOfficerEquipment = ColMarTech Executive Officer Equipment Rack
+    .desc = An automated equipment rack for the Executive Officer. It features a sizeable selection of equipment meant only for the second in command of a ship.
+ent-ColMarTechExecutiveOfficerWeapon = ColMarTech Executive Officer Weapon Rack
+    .desc = An automated weapons rack for the Executive Officer. It features a decent selection of weaponry meant only for the second in command of a ship.
+ent-ColMarTechCommandingOfficerClothing = ColMarTech Commanding Officer Clothing Rack
+    .desc = An automated closet hooked up to a colossal storage of standard-issue dress uniform variants.
+ent-ColMarTechCommandingOfficerEquipment = ColMarTech Commanding Officer Equipment Rack
+    .desc = An automated equipment vendor for the Commanding Officer. Contains a prime selection of equipment for only the UNMC's top officers.
+ent-ColMarTechCommandingOfficerWeapon = ColMarTech Commanding Officer Weapon Rack
+    .desc = An automated weapons rack for the Commanding Officer. It features a robust selection of weaponry meant only for the UNMC's top officers.
