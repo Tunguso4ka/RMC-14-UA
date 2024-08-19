@@ -28,6 +28,8 @@ figurines-musician-1 = Ніколи тебе не покину!
 figurines-musician-2 = Ніколи тебе не принижу!
 
 
+figurines-boxer-1 = The first rule of Fight Club is...
+
 figurines-captain-1 = Екіпаж, ніхто не бачив мого диска?
 figurines-captain-2 = Слава НТ!
 figurines-captain-3 = Ядерний диск в безпеці. Де? Та десь.
@@ -40,12 +42,16 @@ figurines-warden-1 = Стратьте його за проникнення!
 figurines-warden-2 = Видати зброю в червоний код? Ви що?!
 figurines-warden-3 = Ми обходимося зі всіма однаково і НЕ принижуємо їх, так так!
 
+figurines-warden-4 = Brig is my home. My home is brig. My brig is home. Stop, what?
+
 figurines-detective-1 = Це був дворецький.
 figurines-detective-2 = Ех, після цього мені точно не завадить трошечки віски.
 
 figurines-security-1 = Я є закон!
 figurines-security-2 = Ви порушили закон номер 1984.
 figurines-security-3 = Якщо мені нудно, то і всім повинно бути нудно! Нумо в клітку!
+
+figurines-security-4 = Ви маєте два права: не базикати і не плакати.
 
 figurines-lawyer-1 = Краще подзвонить Солу!
 figurines-lawyer-2 = Протестую!

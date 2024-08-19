@@ -12,3 +12,5 @@ ent-RMCWindowFrameColony = { ent-RMCBaseWindowFrame }
 
 ent-RMCWindowFrameColonyReinforced = { ent-RMCBaseWindowFrame }
     .desc = { ent-RMCBaseWindowFrame.desc }
+ent-RMCWindowFrameWood = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }

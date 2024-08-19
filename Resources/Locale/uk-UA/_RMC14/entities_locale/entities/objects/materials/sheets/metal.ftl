@@ -13,6 +13,9 @@ ent-CMSheetMetal30 = { ent-CMSheetMetal }
     .desc = { ent-CMSheetMetal.desc }
     .suffix = 30
 
+ent-CMSheetMetal40 = { ent-CMSheetMetal }
+    .desc = { ent-CMSheetMetal.desc }
+    .suffix = 40
 ent-CMSheetMetal50 = { ent-CMSheetMetal }
     .desc = { ent-CMSheetMetal.desc }
     .suffix = 50
@@ -29,6 +32,9 @@ ent-CMSheetPlasteel10 = { ent-CMSheetPlasteel }
     .desc = { ent-CMSheetMetalBase.desc }
     .suffix = 10
 
+ent-CMSheetPlasteel15 = plasteel
+    .desc = { ent-CMSheetPlasteel.desc }
+    .suffix = 15
 ent-CMSheetPlasteel30 = пласталь
     .desc = { ent-CMSheetPlasteel.desc }
     .suffix = 30

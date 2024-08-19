@@ -89,3 +89,6 @@ ent-CMDoubleDoorSecuritySolidLocked = { ent-CMDoubleDoorSecuritySolid }
 ent-CMDoubleDoorMedicalGlassLocked = { ent-CMDoubleDoorMedicalGlass }
     .desc = { ent-CMDoubleDoorMedicalGlass.desc }
     .suffix = Medical, Glass
+ent-CMAirlockLiaisonLocked = { ent-CMAirlock }
+    .desc = { ent-CMAirlock.desc }
+    .suffix = Liaison, Locked

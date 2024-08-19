@@ -1,3 +1,3 @@
-suspicion-role-component-role-traitor = traitor
-suspicion-role-component-role-innocent = innocent
-suspicion-role-component-on-examine-tooltip = They were {$article} [color={$colorName}]{$role}[/color]!
+suspicion-role-component-role-traitor = підозрюваний
+suspicion-role-component-role-innocent = невінний
+suspicion-role-component-on-examine-tooltip = На станції було {$article} [color={$colorName}]{$role}[/color]!

@@ -46,6 +46,8 @@ ent-PotatoSeeds = packet of potato seeds
 ent-SugarcaneSeeds = packet of sugarcane seeds
     .desc = { ent-SeedBase.desc }
 
+ent-TeaPlantSeeds = packet of tea plant seeds
+    .desc = { ent-SeedBase.desc }
 ent-PapercaneSeeds = packet of papercane seeds
     .desc = { ent-SeedBase.desc }
 
@@ -175,6 +177,8 @@ ent-PeaSeeds = packet of pea pods
 ent-PumpkinSeeds = packet of pumpkin seeds
     .desc = { ent-SeedBase.desc }
 
+ent-BluePumpkinSeeds = packet of blue pumpkin seeds
+    .desc = { ent-SeedBase.desc }
 ent-CottonSeeds = packet of cotton seeds
     .desc = { ent-SeedBase.desc }
 

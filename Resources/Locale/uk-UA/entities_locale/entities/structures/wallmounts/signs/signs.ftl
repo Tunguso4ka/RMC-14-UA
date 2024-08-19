@@ -4,6 +4,8 @@ ent-PaintingMonkey = малюнок мавпи
 ent-BaseSignDirectional = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
+ent-SignDirectionalAtmos = atmos sign
+    .desc = A direction sign, pointing out which way the Atmospherics department is.
 ent-SignDirectionalBar = знак бару
     .desc = A direction sign, pointing out which way the bar is.
 

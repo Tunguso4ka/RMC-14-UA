@@ -34,3 +34,5 @@ ent-RMCBeltGrenadeLarge = M276 pattern M40 grenade rig Mk. II
 ent-RMCBeltSmartPistol = M276 pattern SU-6 smart pistol holster rig
     .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is for the SU-6 smartpistol.
 
+ent-RMCBeltUtilityGeneral = M276 G8-A general utility pouch
+    .desc = A small, lightweight pouch that can be clipped onto M3 Pattern armor to provide additional storage. The newer G8-A model, while uncomfortable, can also be clipped around the waist.

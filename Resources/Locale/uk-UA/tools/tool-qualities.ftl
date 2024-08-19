@@ -1,7 +1,7 @@
 tool-quality-anchoring-name = Закріпляти
 tool-quality-anchoring-tool-name = Гайковий ключ
 
-tool-quality-prying-name = Prying
+tool-quality-prying-name = Відчинити ломиком
 tool-quality-prying-tool-name = Лом
 
 tool-quality-screwing-name = Викручувати

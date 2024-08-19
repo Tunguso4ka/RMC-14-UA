@@ -1,12 +1,8 @@
-ent-CMCrateFoodDonuts = ящик пончиків
-    .desc = { ent-CMCratePlastic.desc }
-
-ent-CMCrateFoodMRE = ящик сухпая КМП ООН
-    .desc = { ent-CMCratePlastic.desc }
-
-ent-CMCrateFoodPizza = ящик піци
-    .desc = { ent-CMCratePlastic.desc }
-
-ent-CMCrateFoodIngredients = ящик інгрідієнтів
-    .desc = { ent-CMCratePlastic.desc }
-
+ent-RMCCrateFoodDonuts = donuts crate
+    .desc = { ent-RMCCratePlastic.desc }
+ent-RMCCrateFoodMRE = Marine MRE crate
+    .desc = { ent-RMCCratePlastic.desc }
+ent-RMCCrateFoodPizza = pizza ready-to-eat crate
+    .desc = { ent-RMCCratePlastic.desc }
+ent-RMCCrateFoodIngredients = ingredients crate
+    .desc = { ent-RMCCratePlastic.desc }

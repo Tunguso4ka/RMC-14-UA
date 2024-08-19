@@ -1,21 +1,14 @@
-ent-CMBoxShotgunBase = коробка набоїв для дробовика
+ent-RMCBoxShotgunBase = box of shotgun shells
     .desc = { ent-AmmoProviderShotgunShell.desc }
-
-ent-CMBoxShotgunBuckshot = коробка картечі
-    .desc = Коробка наповнена картеччю для дробовика. 12 Калібр.
-
-ent-CMBoxShotgunSlugs = коробка точних набоїв для дробовика
-    .desc = Коробка наповнена точними тяжкими набоями для дробовика. Вічна класика. 12 Калібр.
-
-ent-CMBoxShotgunIncendiary = коробка точних запальних набоїв для дробовика
-    .desc = Коробка наповнена точними самодетонуючими запальними набоями для дробовика. 12 Калібр.
-
-ent-CMBoxShotgunBeanbag = коробка точних гумових набоїв для дробовика
-    .desc = Коробка наповнена гумовими набоями для дробовика, використовується для несмертельного контролю натовпу. 12 Калібр.
-
-ent-CMBoxShotgunFlechette = коробка флешетних набоїв для дробовика
-    .desc = Коробка наповнена флешетними набоями для дробовика. 12 Калібр.
-
-ent-CMBoxShotgunIncendiaryBuckshot = коробка набоїв запальної кортечі для дробовика
-    .desc = Коробка наповнена самодетонуючою запальною картечю для дробовиків. 12 Калібр.
-
+ent-RMCBoxShotgunBuckshot = box of buckshot shells
+    .desc = A box filled with buckshot spread shotgun shells. 12 Gauge.
+ent-RMCBoxShotgunSlugs = box of shotgun slugs
+    .desc = A box filled with heavy shotgun shells. A timeless classic. 12 Gauge.
+ent-RMCBoxShotgunIncendiary = box of incendiary slugs
+    .desc = A box filled with self-detonating incendiary shotgun rounds. 12 Gauge.
+ent-RMCBoxShotgunBeanbag = box of beanbag slugs
+    .desc = A box filled with beanbag shotgun shells used for non-lethal crowd control. 12 Gauge.
+ent-RMCBoxShotgunFlechette = box of flechette shells
+    .desc = A box filled with flechette shotgun shells. 12 Gauge.
+ent-RMCBoxShotgunIncendiaryBuckshot = box of incendiary buckshots
+    .desc = A box filled with self-detonating buckshot incendiary shotgun rounds. 12 Gauge.

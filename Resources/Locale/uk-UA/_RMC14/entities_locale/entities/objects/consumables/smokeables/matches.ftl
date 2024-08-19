@@ -1,2 +1,2 @@
-ent-CMMatchbox = коробка сірників
-    .desc = { ent-Matchbox.desc }
+ent-RMCMatchbox = match box
+    .desc = matchbox

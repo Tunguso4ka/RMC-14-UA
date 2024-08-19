@@ -20,3 +20,5 @@ rmc-announcement-ares-lz-designated = Наказ Командування Вид
     {$name} був назначен як основна зона висадки.
 
 rmc-announcement-cooldown = Будь ласка, зачекайте щонайменш {$seconds} секунд між оголошеннями.
+rmc-announcement-emergency-dropship-crash = [font size=14][bold][color=white]НАДЗВИЧАЙНА СИТУАЦІЯ[/color][/bold][/font][font size=12][color=red]
+  ЧОВНИК НА КУРСІ ЗІТКНЕННЯ. КАТАСТРОФА НЕМИНУЧА.[/color][/font]

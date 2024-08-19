@@ -1,8 +1,6 @@
-ent-CMCrateBoxShellsShotgunSlugs = коробка набоїв (100x куль для рушниці)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxShellsShotgunBuckshot = коробка набоїв (100x рушничних набоїв)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxShellsShotgunFlechette = коробка набоїв (100x шрапнельний набій)
-    .desc = { ent-CMCrateAmmo.desc }
+ent-RMCCrateBoxShellsShotgunSlugs = Shell box (100x slug shells)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxShellsShotgunBuckshot = Shell box (100x buckshot shells)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxShellsShotgunFlechette = Shell box (100x flechette shells)
+    .desc = { ent-RMCCrateAmmo.desc }

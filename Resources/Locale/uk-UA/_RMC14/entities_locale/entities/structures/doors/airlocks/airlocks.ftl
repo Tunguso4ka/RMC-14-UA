@@ -20,6 +20,9 @@ ent-CMAirlockSecurity = двері воєнполу
 ent-CMAirlockMaint = тех. тунелі
     .desc = { ent-CMBaseDoor.desc }
 
+ent-CMAirlockMaintReinforced = reinforced maintenance hatch
+    .desc = { ent-CMAirlockMaint.desc }
+    .suffix = Reinforced
 ent-CMAirlockSecure = усилені двері
     .desc = { ent-CMBaseDoor.desc }
 
@@ -59,3 +62,5 @@ ent-CMAirlockPrepCharlie = підготовка загону Чарлі
 ent-CMAirlockPrepDelta = підготовка загону Дельта
     .desc = { ent-CMBaseDoor.desc }
 
+ent-RMCAirlockStrata = { ent-CMAirlock }
+    .desc = { ent-CMAirlock.desc }

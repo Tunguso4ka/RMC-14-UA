@@ -25,3 +25,5 @@ ent-RMCGogglesM1A1Ballistic = M1A1 Ballistic goggles
 ent-RMCGogglesPrescriptionBallistic = Prescription ballistic goggles
     .desc = Standard issue USCM goggles. Mostly used to decorate one's helmet. Contains prescription lenses in case you weren't sure if they were lame or not.
 
+ent-RMCGogglesBallisticSquad = Advanced ballistic goggles
+    .desc = Cutting edge UNMC goggles. Advanced polymers and expensive nanotechnology allow the goggles to link with the wearer's armor and change the color of the lenses to match their squad designation. The lenses are invisible when worn by the unworthy.

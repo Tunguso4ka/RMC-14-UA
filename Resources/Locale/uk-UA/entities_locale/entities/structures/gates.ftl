@@ -1,3 +1,5 @@
+ent-LogicEmptyCircuit = empty circuit
+    .desc = Something seems to be missing.
 ent-BaseLogicItem = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
@@ -30,3 +32,5 @@ ent-EdgeDetector = edge detector
 
 ent-PowerSensor = power sensor
     .desc = Generates signals in response to powernet changes. Can be cycled between cable voltages.
+ent-MemoryCell = memory cell
+    .desc = A D-Latch circuit that stores a signal which can be changed depending on input and enable ports.

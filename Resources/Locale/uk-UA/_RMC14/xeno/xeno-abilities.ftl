@@ -30,6 +30,8 @@ rmc-xeno-evolution-cant-devolve-damaged = Ми заслабкі для де-ев
 rmc-xeno-evolution-cant-evolve-recent-queen-death-minutes = We must wait about {$minutes} minutes and {$seconds} seconds for the hive to recover from the previous Queen's death.
 rmc-xeno-evolution-cant-evolve-recent-queen-death-seconds = We must wait about {$seconds} seconds for the hive to recover from the previous Queen's death.
 
+rmc-xeno-evolution-failed-bad-location = We can't evolve here.
+
 cm-xeno-fortify-cant-headbutt = Ми не можемо розбігтись поки знаходимся в захисній стійці!
 cm-xeno-fortify-cant-rest = Ми не можемо відпочити знаходячись в захисній стійці!
 cm-xeno-fortify-cant-tail-sweep = Ми не можемо вдарити хвостом поки знаходимося в захисній стійці!

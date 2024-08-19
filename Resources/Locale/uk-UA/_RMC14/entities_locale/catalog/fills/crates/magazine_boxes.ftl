@@ -1,42 +1,30 @@
-ent-CMCrateBoxMagazineRifleM54C = коробка магазинів (M54C, 10x звичайних магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazineRifleM54CAP = коробка магазинів (M54C, 10x ББ магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazineRifleM54CExt = коробка магазинів (M54C, 8x збільшених магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
+ent-RMCCrateBoxMagazineRifleM54C = Magazine box (M54C, 10x regular mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineRifleM54CAP = Magazine box (M54C, 10x AP mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineRifleM54CExt = Magazine box (M54C, 8x extended mags)
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateMagazineRifleM54CE2 = M54CE2 HAR Magazines crate (HAR ammo box x2)
     .desc = { ent-CMCrateAmmo.desc }
 
-ent-CMCrateBoxMagazineRifleM4SPR = коробка магазинів (M4SPR, 16x звичайних магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazineRifleM4SPRAP = коробка магазинів (M4SPR, 16x ББ магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazineRifleM4SPRExt = коробка магазинів (M4SPR, 12x збільшених магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazineSMGM63 = коробка магазинів (M63, 12x звичайних магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazineSMGM63AP = коробка магазинів (M63, 12x ББ магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazineSMGM63Ext = коробка магазинів (M63, 12x звичайних магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazinePistolM1984 = коробка магазинів (M1984, 16x звичайних магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazinePistolM77AP = коробка магазинів (M77 AP, 16x магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
-ent-CMCrateBoxMagazinePistolMK80 = коробка магазинів (MK80, 16x магазинів)
-    .desc = { ent-CMCrateAmmo.desc }
-
+ent-RMCCrateBoxMagazineRifleM4SPR = Magazine box (M4SPR, 16x regular mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineRifleM4SPRAP = Magazine box (M4SPR, 16x AP mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineRifleM4SPRExt = Magazine box (M4SPR, 12x extended mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineSMGM63 = Magazine box (M63, 12x regular mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineSMGM63AP = Magazine box (M63, 12x AP mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineSMGM63Ext = Magazine box (M63, 12x regular mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazinePistolM1984 = Magazine box (M1984, 16x regular mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazinePistolM77AP = Magazine box (M77 AP, 16x mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazinePistolMK80 = Magazine box (MK80, 16x mags)
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBatterySmartGun = ML66A smart gun battery crate (4x)
     .desc = { ent-CMCrateAmmo.desc }
 
@@ -51,4 +39,3 @@ ent-RMCCrateBoxMagazineM44Revolver = Speedloader box (M44, 16x loaders)
 
 ent-RMCCrateBoxMagazineM44RevolverMarksman = Speedloader box (Marksman M44, 16x loaders)
     .desc = { ent-CMCrateAmmo.desc }
-

@@ -1,4 +1,4 @@
-ent-CMBarricadeBase = металева барикада
+ent-CMBarricadeBase = { ent-CMBaseStructureCorrodible }
     .desc = { ent-CMBaseStructureCorrodible.desc }
 
 ent-CMBarricadeMetal = металева барикада
@@ -34,5 +34,7 @@ ent-RMCBarricadeHandrailStrata = { ent-RMCBarricadeHandrail }
 ent-RMCBarricadeHandrailKutjevo = { ent-RMCBarricadeHandrail }
     .desc = { ent-RMCBarricadeHandrail.desc }
 
+ent-RMCBarricadeWireRail = { ent-RMCBarricadeHandrail }
+    .desc = { ent-RMCBarricadeHandrail.desc }
 ent-CMBarricadeMetalDoor = складна металева барикада
     .desc = Складна металева барикада слабша за нескладний аналог. Можливе відкриття та закриття в будь-який момент. Ремонтується зварювальним апаратом.

@@ -1,4 +1,5 @@
 ent-CMWallMetal = { ent-CMBaseWall }
+
     .desc = { ent-CMBaseWall.desc }
 
 ent-CMWallMetalAlmayer = { ent-CMBaseWall }
@@ -54,3 +55,7 @@ ent-RMCWallElevator = elevator wall
 
 ent-RMCWallElevatorBroken = elevator wall
     .desc = { ent-CMBaseWallInvincible.desc }
+ent-RMCWallHunter = hunter wall
+    .desc = Nigh indestructible walls that make up the hull of a hunter ship.
+ent-RMCWallHunterDegraded = degraded hunter wall
+    .desc = Ancient beyond measure, these walls make up the hull of a vessel of non human origin. Despite this, they can be felled with plastic explosives like any other opaque blocker.
