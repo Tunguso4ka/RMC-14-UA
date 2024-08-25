@@ -1,4 +1,3 @@
-shell-server-cannot = Server cannot do this.
 shell-command-success = Успішна команда.
 
 shell-invalid-command = Хибна команда.
@@ -71,3 +70,4 @@ shell-argument-number-invalid = Аргумент {$index} повинен бут�
 shell-argument-username-hint = <username>
 
 shell-argument-username-optional-hint = [username]
+

@@ -7,6 +7,12 @@ reagent-desc-juice-banana = Чиста есенція банану. Хонк.
 reagent-name-juice-berry = ягідний сік
 reagent-desc-juice-berry = Смачна змісь декільких видів ягід.
 
+reagent-name-juice-blue-pumpkin = blue pumpkin juice
+reagent-desc-juice-blue-pumpkin = The juice of a blue pumpkin. Smells like pool water.
+
+reagent-name-juice-bungo = bungo juice
+reagent-desc-juice-bungo = The juice of a bungo fruit. Exotic!
+
 reagent-name-juice-berry-poison = отруєний ягідний сік
 reagent-desc-juice-berry-poison = A surprisingly tasty juice blended from various kinds of very deadly and toxic berries.
 

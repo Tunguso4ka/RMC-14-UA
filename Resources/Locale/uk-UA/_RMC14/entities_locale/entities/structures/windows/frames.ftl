@@ -7,6 +7,8 @@ ent-RMCWindowFrameAlmayer = { ent-RMCBaseWindowFrame }
 ent-RMCWindowFrameWhite = { ent-RMCBaseWindowFrame }
     .desc = { ent-RMCBaseWindowFrame.desc }
 
+ent-RMCWindowFrameAI = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
 ent-RMCWindowFrameColony = { ent-RMCBaseWindowFrame }
     .desc = { ent-RMCBaseWindowFrame.desc }
 

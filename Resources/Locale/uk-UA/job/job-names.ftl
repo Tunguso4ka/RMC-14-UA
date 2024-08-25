@@ -47,6 +47,15 @@ job-name-boxer = Боксер
 job-name-zookeeper = Зоолог
 job-name-visitor = Відвідувач
 
+job-name-geneticist = Генетик
+job-name-no-id = Нема ID
+job-name-prisoner = В'язень
+job-name-roboticist = Робототехник
+job-name-syndicate = Синдикат
+job-name-unknown = Невідомий
+job-name-virologist = Віролог
+job-name-zombie = Зомбі
+
 JobAtmosphericTechnician = Атмосферний Техник
 JobBartender = Бармен
 JobBorg = Киборг

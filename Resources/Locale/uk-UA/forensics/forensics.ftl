@@ -23,6 +23,8 @@ forensic-scanner-verb-message = Зробити криміналістичний 
 forensic-pad-fingerprint-name = відбитки {$entity}
 forensic-pad-gloves-name = фібри {$entity}
 
+forensics-dna-unknown = невідоме ДНК
+
 forensics-verb-text = Прибрати докази
 forensics-verb-message = Прибрати відбитки та ДНК з об'єкту!
 forensics-cleaning = Ви почали прибирати докази з {$target}...

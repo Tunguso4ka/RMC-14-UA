@@ -10,3 +10,5 @@ comp-solution-transfer-verb-amount = {$amount}ю
 comp-solution-transfer-verb-toggle = Перемкнути на {$amount}ю
 
 comp-solution-transfer-set-amount = Переміщення перемкнуто на {$amount}ю.
+comp-solution-transfer-set-amount-max = Макс: {$amount}ю
+comp-solution-transfer-set-amount-min = Мін: {$amount}ю

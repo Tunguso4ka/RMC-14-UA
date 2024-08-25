@@ -189,3 +189,5 @@ ent-ClothingUniformJumpskirtMusician = musician's skirt
 
 ent-ClothingUniformJumpskirtPsychologist = psychologist suitskirt
     .desc = I don't lose things. I place things in locations which later elude me.
+ent-ClothingUniformJumpskirtClown = clown skirt
+    .desc = HONK!

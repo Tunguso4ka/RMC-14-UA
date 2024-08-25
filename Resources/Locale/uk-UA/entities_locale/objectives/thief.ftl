@@ -82,9 +82,6 @@ ent-ClothingNeckGoldmedalStealObjective = { ent-BaseThiefStealObjective }
 ent-ClothingNeckClownmedalStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }
 
-ent-ClothingNeckShockCollarStealObjective = { ent-BaseThiefStealObjective }
-    .desc = { ent-BaseThiefStealObjective.desc }
-
 ent-NuclearBombStealObjective = { ent-BaseThiefStealStructureObjective }
     .desc = { ent-BaseThiefStealStructureObjective.desc }
 

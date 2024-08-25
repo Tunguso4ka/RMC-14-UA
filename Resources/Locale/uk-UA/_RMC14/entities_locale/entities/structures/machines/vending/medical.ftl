@@ -10,5 +10,7 @@ ent-CMVendorChemistry = хімія плюс
 ent-ColMarTechMarineMedical = КорМорТех МорпіхМед
     .desc = Автомат з базовими медичними припасами для морпіхів.
 
+ent-RMCNanoMed = NanoMed
+    .desc = A wall-mounted medical equipment dispenser.
 ent-CMVendorBlood = MM роздатчик крові
     .desc = The Marine Med Brand Blood Pack Dispensary is the premier, top-of-the-line blood dispenser of 2105! Get yours today!

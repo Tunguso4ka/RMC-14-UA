@@ -71,6 +71,8 @@ ui-options-hud-theme-clockwork = Годинники
 ui-options-hud-theme-retro = Ретро
 ui-options-hud-theme-minimalist = Мінімализм
 ui-options-hud-theme-ashen = Ашен
+ui-options-hud-layout-default = Стандартний
+ui-options-hud-layout-separated = Розділений
 ui-options-vp-stretch = Розтягнути поле зору під розмір окна гри
 ui-options-vp-scale = Фіксований розмір екрану: x{ $scale }
 ui-options-vp-scale-value = x{ $scale }
@@ -149,6 +151,12 @@ ui-options-function-try-pull-object = Тягнути об'єкт
 ui-options-function-move-pulled-object = Пересунти об'єкт
 ui-options-function-release-pulled-object = Відпустити об'єкт
 ui-options-function-point = Вказати
+
+ui-options-function-rotate-object-clockwise = Обернути за годинником
+
+ui-options-function-rotate-object-counterclockwise = Обернути проти годинника
+
+ui-options-function-flip-object = Перевернути
 
 ui-options-function-focus-chat-input-window = Сфокусувати чат
 ui-options-function-focus-local-chat-window = Сфокусувати чат (IC)

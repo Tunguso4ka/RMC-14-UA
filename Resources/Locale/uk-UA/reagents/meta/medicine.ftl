@@ -141,3 +141,9 @@ reagent-desc-mannitol = Efficiently restores brain damage.
 
 reagent-name-psicodine = псікодін
 reagent-desc-psicodine = Suppresses anxiety and other various forms of mental distress. Overdose causes hallucinations and minor toxin damage.
+
+reagent-name-potassium-iodide = іодід калію
+reagent-desc-potassium-iodide = Will reduce the damaging effects of radiation by 90%. Prophylactic use only.
+
+reagent-name-haloperidol = галоперідол
+reagent-desc-haloperidol = Removes most stimulating and hallucinogenic drugs. Reduces druggy effects and jitteriness. Causes drowsiness.

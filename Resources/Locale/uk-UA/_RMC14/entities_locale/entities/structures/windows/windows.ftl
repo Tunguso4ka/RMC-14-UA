@@ -22,3 +22,5 @@ ent-RMCWindowWood = вікно
     .desc = A glass window. It looks thin and flimsy. A few knocks with anything should shatter it.
 ent-RMCWindowWoodReinforced = армоване вікно
     .desc = A glass window with a special rod matrix inside a wall frame. It looks rather strong. Might take a few good hits to shatter it.
+ent-RMCWindowAIReinforced = reinforced window
+    .desc = A glass window with a special rod matrix inside a wall frame. It looks rather strong. Might take a few good hits to shatter it.

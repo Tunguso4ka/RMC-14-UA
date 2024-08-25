@@ -10,3 +10,5 @@ ent-ThrowingKnivesKit = набір кидаємих ножів
 
 ent-BoxDeathRattleImplants = deathrattle implant box
     .desc = Six deathrattle implants and handheld GPS devices for the whole squad.
+ent-CombatBakeryKit = combat bakery kit
+    .desc = A kit of clandestine baked weapons.

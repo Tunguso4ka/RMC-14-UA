@@ -35,6 +35,12 @@ tiles-cm-rock = каменюка
 
 tiles-rmc-red-desert = червона пустеля
 
+tiles-rmc-desert-water-shore = shore
+tiles-rmc-coagulation = coagulation
+
+tiles-rmc-asphalt = asphalt tile
+tiles-rmc-cement = cement tile
+
 tiles-cm-default-alpha = стальний тайл Альфа
 tiles-cm-default-bravo = стальний тайл Браво
 tiles-cm-default-charlie = стальний тайл Чарлі

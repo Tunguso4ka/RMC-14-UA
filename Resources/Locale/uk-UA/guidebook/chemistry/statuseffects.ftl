@@ -11,3 +11,5 @@ reagent-effect-status-effect-PressureImmunity = стійкість до тиск
 reagent-effect-status-effect-Pacified = нездатність до опору
 reagent-effect-status-effect-RatvarianLanguage = мовні шаблони ратварської
 reagent-effect-status-effect-StaminaModifier = змінює витривалість
+reagent-effect-status-effect-RadiationProtection = захист від радіації
+reagent-effect-status-effect-Drowsiness = сонливість

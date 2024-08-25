@@ -130,3 +130,11 @@ ent-RMCFigurinePatronWorships-The-Gods = Worships-The-Gods figurine
 ent-RMCFigurinePatronSukunaKurze = Sukuna Kurze figurine
     .desc = This man is fueled by root beer and patriotism, and brother we're all outta root beer...
 
+ent-RMCFigurinePatronTheSoilofMartyrs = The Soil of Martyrs figurine
+    .desc = It used to be green.
+ent-RMCFigurinePatronSethSleeper = Seth Sleeper figurine
+    .desc = The type of guy to bring a pillow to a gunfight.
+ent-RMCFigurinePatronLanceVictors = Lance Victors figurine
+    .desc = This detailed figurine of a Marine Corps Warden just LOOKS like it's going to bury you in paperwork. And it has an eye scar. Edgy.
+ent-RMCFigurinePatronBredDahne = Bred Dahne figurine
+    .desc = Gluten Free

@@ -1,7 +1,8 @@
 ghost-gui-return-to-body-button = Повернутися до тіла
 ghost-gui-ghost-warp-button = Телепортуватися
 ghost-gui-ghost-roles-button = Ролі для привідів ({$count})
-ghost-gui-toggle-ghost-visibility-popup = Перемкнуто видімість привідів.
+ghost-gui-toggle-ghost-visibility-popup-on = Enabled visibility of ghosts.
+ghost-gui-toggle-ghost-visibility-popup-off = Disabled visibility of ghosts.
 ghost-gui-toggle-lighting-manager-popup = Перемкнуто світло.
 ghost-gui-toggle-fov-popup = Перемкнуто поле зору.
 
@@ -14,16 +15,16 @@ ghost-target-window-current-button = До: {$name}
 ghost-target-window-warp-to-most-followed = Найвідстежуваний
 
 ghost-roles-window-title = Ролі для привидів
-ghost-roles-window-join-raffle-button = Join raffle
-ghost-roles-window-raffle-in-progress-button =
-    Join raffle ({$time} left, { $players ->
-         [one] {$players} player
-        *[other] {$players} players
+ghost-roles-window-join-raffle-button = Приєднатися до розіграшу
+ghost-roles-window-raffle-in-progress-button = 
+    Приєднатися (залишилося {$time}, { $players ->
+         [one] {$players} гравець
+        *[other] {$players} гравців
     })
-ghost-roles-window-leave-raffle-button =
-    Leave raffle ({$time} left, { $players ->
-         [one] {$players} player
-        *[other] {$players} players
+ghost-roles-window-leave-raffle-button = 
+    Залишити (залишилося {$time}, { $players ->
+         [one] {$players} гравець
+        *[other] {$players} гравців
     })
 ghost-roles-window-request-role-button = Запросити
 ghost-roles-window-request-role-button-timer = Запросити через ({$time}с)

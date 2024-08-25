@@ -7,3 +7,5 @@ object-tab-object-type-grids = Grids
 object-tab-object-type-maps = Мапи
 object-tab-object-type-stations = Станції
 object-tab-refresh-button = Оновити
+object-tab-entity-teleport = Телепортувати
+object-tab-entity-delete = Видалити

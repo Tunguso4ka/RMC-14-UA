@@ -72,3 +72,5 @@ ent-RubberStampDenied = печатка ВІДХИЛЕНО
 ent-RubberStampDetective = печатка детектива
     .desc = { ent-RubberStampBase.desc }
     .suffix = не мапувати
+ent-RubberStampGreytide = greytide's rubber stamp
+    .desc = A rubber stamp for stamping important documents. The tide washes over you, just looking at it...

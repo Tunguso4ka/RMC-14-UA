@@ -3,6 +3,7 @@ advertisement-donut-2 = Сподіваюся ви голодні!
 advertisement-donut-3 = Більше мільйону проданих пончиків!
 advertisement-donut-4 = We pride ourselves in the consistency of our products!
 advertisement-donut-5 = Sweet, sugary and delicious!
+advertisement-donut-6 = Donut worry, be happy!
 thankyou-donut-1 = Enjoy your donut!
 thankyou-donut-2 = Another donut sold!
 thankyou-donut-3 = Have a nice day, officer!

@@ -1,9 +1,8 @@
-### Connecting dialog when you start up the game
-
-connecting-title = Космічна Станція 14
+connecting-title = Корпус МорПіхоти 14
 connecting-exit = Вийти
 connecting-retry = Спробувати знов
 connecting-reconnect = Перепід'єднатися
+connecting-copy = Копіювати повідомлення
 connecting-redial = Перезапустити
 connecting-redial-wait = Будь ласка, зачекайте: { TOSTRING($time, "G3") }
 connecting-in-progress = Під'єднання до серверу...

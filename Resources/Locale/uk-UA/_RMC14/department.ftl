@@ -20,7 +20,7 @@ department-CMAuxiliarySupport = Допоміжни Війська
 cm-department-AuxiliarySupport-description = Завдання Допоміжних Військ як не дивно - допомогати морпіхам. Силою чи іншими зусіллями.
 
 department-CMOther = Інші
-cm-department-Other-Description = ""
+cm-department-Other-description = { "" }
 
 department-CMSurvivor = Виживші
 cm-department-Survivor-description = Виживіть за будь яку ціну.

@@ -32,6 +32,8 @@ ent-NukeCodePaperStation = { ent-NukeCodePaper }
     .desc = { ent-NukeCodePaper.desc }
     .suffix = Станція
 
+ent-BoxFolderNuclearCodes = nuclear code folder
+    .desc = { ent-BaseItem.desc }
 ent-BoxFolderBase = тека
     .desc = Заповнена догори секретною інформацією тека.
 
