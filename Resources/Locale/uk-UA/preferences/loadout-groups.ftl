@@ -1,5 +1,4 @@
-loadout-group-species-restriction = This item is not available for your current species.
-
+loadout-group-species-restriction = Ця річ не доступна виду вашого персонажа.
 loadout-group-trinkets = Дрібнички
 
 loadout-group-glasses = Окуляри
@@ -18,6 +17,10 @@ loadout-group-survival-syndicate = Github is forcing me to write text that is li
 loadout-group-breath-tool = Species-dependent breath tools
 loadout-group-tank-harness = Species-specific survival equipment
 
+loadout-group-EVA-tank = Species-specific gas tank
+
+loadout-group-survival-mime = Mime Survival Box
+
 loadout-group-captain-head = Голова
 loadout-group-captain-jumpsuit = Одяг
 loadout-group-captain-neck = Шія
@@ -35,6 +38,8 @@ loadout-group-passenger-mask = Маска
 loadout-group-passenger-gloves = Рукавички
 loadout-group-passenger-outerclothing = Зовнішний одяг
 loadout-group-passenger-shoes = Взуття
+
+loadout-group-passenger-neck = Шія
 
 loadout-group-bartender-head = Голова
 loadout-group-bartender-jumpsuit = Одяг
@@ -160,6 +165,8 @@ loadout-group-detective-outerclothing = Зовнішний одяг
 
 loadout-group-security-cadet-jumpsuit = Одяг
 
+loadout-group-security-star = Security Star
+
 loadout-group-medical-gloves = Рукавички
 loadout-group-medical-mask = Маски
 
@@ -187,6 +194,8 @@ loadout-group-paramedic-jumpsuit = Одяг
 loadout-group-paramedic-outerclothing = Зовнішний одяг
 loadout-group-paramedic-shoes = Взуття
 loadout-group-reporter-jumpsuit = Одяг
+
+loadout-group-psychologist-jumpsuit = Psychologist jumpsuit
 
 loadout-group-boxer-jumpsuit = Одяг
 loadout-group-boxer-gloves = Рукавички

@@ -38,6 +38,12 @@ ent-BoxHugNitrogen = { ent-BoxHug }
     .desc = { ent-BoxHug.desc }
     .suffix = Emergency N2
 
+ent-BoxMime = { ent-BoxSurvival }
+    .desc = { ent-BoxSurvival.desc }
+    .suffix = Mime, Emergency
+ent-BoxMimeNitrogen = { ent-BoxSurvivalNitrogen }
+    .desc = { ent-BoxSurvivalNitrogen.desc }
+    .suffix = Mime, Emergency N2
 ent-BoxSurvivalSyndicate = екстрена коробка збільшеної ємності
     .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.
     .suffix = Syndicate
@@ -45,4 +51,3 @@ ent-BoxSurvivalSyndicate = екстрена коробка збільшеної 
 ent-BoxSurvivalSyndicateNitrogen = { ent-BoxSurvivalSyndicate }
     .desc = { ent-BoxSurvivalSyndicate.desc }
     .suffix = Syndicate N2
-

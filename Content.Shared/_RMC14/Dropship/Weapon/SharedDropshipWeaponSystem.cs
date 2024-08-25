@@ -6,7 +6,6 @@ using Content.Shared._RMC14.Map;
 using Content.Shared._RMC14.Marines.Skills;
 using Content.Shared._RMC14.Marines.Squads;
 using Content.Shared._RMC14.Rules;
-using Content.Shared.Coordinates;
 using Content.Shared.Coordinates.Helpers;
 using Content.Shared.Damage;
 using Content.Shared.DoAfter;
@@ -20,6 +19,7 @@ using Content.Shared.Item;
 using Content.Shared.Light.Components;
 using Content.Shared.Popups;
 using Content.Shared.Shuttles.Components;
+using Content.Shared.Shuttles.Systems;
 using Content.Shared.Throwing;
 using Content.Shared.Timing;
 using Robust.Shared.Audio.Systems;
@@ -274,7 +274,7 @@ public abstract class SharedDropshipWeaponSystem : EntitySystem
             return;
 
         var active = EnsureComp<ActiveLaserDesignatorComponent>(ent);
-        TryQueueDel(active.Target);
+        QueueDel(active.Target);
 
         coords = _transform.GetMoverCoordinates(coords);
         active.Target = Spawn(ent.Comp.TargetSpawn, coords);
@@ -461,7 +461,8 @@ public abstract class SharedDropshipWeaponSystem : EntitySystem
             if (!_dropship.TryGetGridDropship(weapon.Value, out dropship))
                 return;
 
-            if (!HasComp<FTLComponent>(dropship))
+            if (!TryComp(dropship, out FTLComponent? ftl) ||
+                (ftl.State != FTLState.Travelling && ftl.State != FTLState.Arriving))
             {
                 var msg = Loc.GetString("rmc-dropship-weapons-fire-not-flying");
                 _popup.PopupClient(msg, actor, PopupType.SmallCaution);
@@ -480,7 +481,7 @@ public abstract class SharedDropshipWeaponSystem : EntitySystem
             return;
         }
 
-        var coordinates = target.ToCoordinates().SnapToGrid(EntityManager, _mapManager);
+        var coordinates = _transform.GetMoverCoordinates(target).SnapToGrid(EntityManager, _mapManager);
         if (!_casDebug && !_area.CanCAS(coordinates))
         {
             var msg = Loc.GetString("rmc-laser-designator-not-cas");
@@ -805,7 +806,7 @@ public abstract class SharedDropshipWeaponSystem : EntitySystem
 
             if (flight.Marker != null)
             {
-                TryQueueDel(flight.Marker);
+                QueueDel(flight.Marker);
                 flight.Marker = null;
                 Dirty(uid, flight);
             }
@@ -823,8 +824,8 @@ public abstract class SharedDropshipWeaponSystem : EntitySystem
 
                 if (!TryComp(flight.Ammo, out ammo))
                 {
-                    TryQueueDel(flight.Marker);
-                    TryQueueDel(uid);
+                    QueueDel(flight.Marker);
+                    QueueDel(uid);
                     continue;
                 }
 
@@ -833,7 +834,7 @@ public abstract class SharedDropshipWeaponSystem : EntitySystem
                 var target = _transform.ToMapCoordinates(flight.Target).Offset(spread);
                 Spawn(ammo.ImpactEffect, target, rotation: _random.NextAngle());
 
-                _entityLookup.GetEntitiesInRange(target, 0.49f, _damageables);
+                _entityLookup.GetEntitiesInRange(target, 0.49f, _damageables, LookupFlags.Uncontained);
                 foreach (var damageable in _damageables)
                 {
                     _damageable.TryChangeDamage(
@@ -855,18 +856,18 @@ public abstract class SharedDropshipWeaponSystem : EntitySystem
 
             if (!TryComp(flight.Ammo, out ammo))
             {
-                TryQueueDel(flight.Marker);
-                TryQueueDel(uid);
+                QueueDel(flight.Marker);
+                QueueDel(uid);
                 continue;
             }
 
-            flight.PlayGroundSoundAt ??= ammo.SoundTravelTime;
+            flight.PlayGroundSoundAt ??= _timing.CurTime + ammo.SoundTravelTime;
             Dirty(uid, flight);
 
-            if (time < flight.PlayGroundSoundAt)
+            if (time >= flight.PlayGroundSoundAt)
             {
                 _audio.PlayPvs(ammo.SoundGround, flight.Target);
-                TryQueueDel(uid);
+                QueueDel(uid);
             }
         }
 

@@ -6,6 +6,8 @@ gun-disabled = Ви не можете користуватися зброєю!
 gun-clumsy = Зброя вибухає у ваших руках!
 gun-set-fire-mode = Перемкнути на {$mode}
 
+gun-magazine-whitelist-fail = Воно не вміщається в зброю!
+
 gun-SemiAuto = напів-авто
 gun-Burst = черга
 gun-FullAuto = авто

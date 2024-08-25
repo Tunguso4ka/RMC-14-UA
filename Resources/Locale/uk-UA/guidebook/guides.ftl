@@ -77,6 +77,8 @@ guide-entry-revolutionaries = Революціонери
 guide-entry-minor-antagonists = Мінорні антаги
 guide-entry-space-ninja = Космічний Ніндзя
 
+guide-entry-thieves = Thieves
+
 guide-entry-rules = Правила сервера
 guide-entry-rules-core-only = Core Only Ruleset
 guide-entry-rules-lrp = Стандартні правила

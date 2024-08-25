@@ -12,6 +12,8 @@ ent-CMBootsBlackFilled = { ent-CMBootsBlack }
     .desc = { ent-CMBootsBlack.desc }
     .suffix = Заповнені
 
+ent-RMCScoutShoes = infiltrator boots
+    .desc = A modified pair of combat boots, including several trimmed down areas and padded with cloth alongside some form of leather
 ent-CMBootsBrown = бурі чоботи
     .desc =  Стандартні бойові чоботи що використовуються КМП ООН під час бойових дій. Завжди готові до бою. Ці коричневого коліру.
 

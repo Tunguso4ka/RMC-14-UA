@@ -1,0 +1,1 @@
+marking-HumanLongEars = Довгі вуха

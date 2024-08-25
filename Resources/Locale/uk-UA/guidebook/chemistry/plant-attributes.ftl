@@ -1,5 +1,6 @@
 plant-attribute-growth = вік
 plant-attribute-water = рівень води
+plant-attribute-potency = потенція
 plant-attribute-weeds = рівень бур'янів
 plant-attribute-toxins = рівень токсинів
 plant-attribute-nutrition = рівень поживних речовин

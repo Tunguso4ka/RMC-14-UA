@@ -16,3 +16,6 @@ ent-AtmosFixInstantPlasmaFireMarker = Atmos Fix Instant Plasmafire Marker
 ent-AtmosFixFreezerMarker = Atmos Fix Freezer Marker
     .desc = Change air temp to 235K, for freezer with a big of wiggle room to get set up.
 
+ent-AtmosFixVoxMarker = { ent-AtmosFixNitrogenMarker }
+    .desc = Nitrogen @ 101 kPa, 20C
+    .suffix = Vox Atmosphere

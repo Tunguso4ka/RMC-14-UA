@@ -19,6 +19,8 @@ ent-CMWallReinforcedAlmayer = { ent-CMWallReinforced }
 ent-CMWallReinforcedAlmayerWhite = { ent-CMWallReinforced }
     .desc = { ent-CMWallReinforced.desc }
 
+ent-CMWallReinforcedAlmayerAI = reinforced hull
+    .desc = A reinforced metal wall used to isolate potentially dangerous areas.
 ent-CMWallReinforcedHeavy = двічі посилена стіна
     .desc = Великий шматок двічі посиленого металу. Виглядає незнищенним.
 
@@ -28,6 +30,8 @@ ent-CMWallReinforcedHeavyAlmayer = { ent-CMWallReinforcedHeavy }
 ent-CMWallReinforcedHeavyAlmayerWhite = { ent-CMWallReinforcedHeavy }
     .desc = { ent-CMWallReinforcedHeavy.desc }
 
+ent-CMWallReinforcedHeavyAlmayerAI = heavy reinforced hull
+    .desc = An extremely reinforced metal wall used to isolate potentially dangerous areas. Looks virtually indestructible.
 ent-CMWallShuttleBlack = { ent-CMBaseWall }
     .desc = { ent-CMBaseWall.desc }
 

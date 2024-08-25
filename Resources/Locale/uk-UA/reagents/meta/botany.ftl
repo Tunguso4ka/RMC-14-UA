@@ -21,3 +21,6 @@ reagent-desc-ammonia = An effective fertilizer.
 
 reagent-name-diethylamine = діетиламін
 reagent-desc-diethylamine = A very potent fertilizer.
+
+reagent-name-sedin = насінин
+reagent-desc-sedin = Модіфікована версія діетиламіна, що може відновити насіння рослини ціною потенції.

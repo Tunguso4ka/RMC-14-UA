@@ -4,8 +4,6 @@ ent-PaintingMonkey = малюнок мавпи
 ent-BaseSignDirectional = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
-ent-SignDirectionalAtmos = atmos sign
-    .desc = A direction sign, pointing out which way the Atmospherics department is.
 ent-SignDirectionalBar = знак бару
     .desc = A direction sign, pointing out which way the bar is.
 
@@ -246,6 +244,9 @@ ent-SignServer = server sign
 ent-SignCans = canisters sign
     .desc = A sign indicating the auspicious presence of gas canisters.
 
+ent-SignCansScience = { ent-SignCans }
+    .desc = { ent-SignCans.desc }
+    .suffix = science
 ent-SignShipDock = docking sign
     .desc = A sign indicating the ship docking area.
 
@@ -357,6 +358,8 @@ ent-SignLaserMed = laser sign
 ent-SignSecureMed = secure sign
     .desc = A sign indicating that the area ahead is a secure area.
 
+ent-SignVox = vox area sign
+    .desc = A sign indicating that the area ahead possibly contains a nitrogen-filled atmosphere.
 ent-WarningAir = air warning sign
     .desc = WARNING! Air flow tube. Ensure the flow is disengaged before working.
 

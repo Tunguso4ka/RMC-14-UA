@@ -6,6 +6,7 @@ advertisement-lawdrobe-5 = Ніхто не стоїть вище за закон
 advertisement-lawdrobe-6 = Ні офіцере, я не погоджуюся на обшук!
 advertisement-lawdrobe-7 = Вприскування космічних наркотиків не залишає по собі доказів!
 advertisement-lawdrobe-8 = Ви чи ваш рідний постраждали від НаноТрайзен? Трапляється.
+advertisement-lawdrobe-9 = Справу закрито! Сторона захисту має найкращій drip!
 thankyou-lawdrobe-1 = З цим костюмчиком усі справи вже виграні!
 thankyou-lawdrobe-2 = Візьмить ще один для свого клієнта!
 thankyou-lawdrobe-3 = Перемога чи програш - не важливо, вам заплатять і так і так!

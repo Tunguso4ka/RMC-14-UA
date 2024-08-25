@@ -1,0 +1,8 @@
+lathe-recipe-Medkit-name = first aid kit (порожня)
+lathe-recipe-MedkitBurn-name = burn treatment kit (порожня)
+lathe-recipe-MedkitToxin-name = toxin treatment kit (порожня)
+lathe-recipe-MedkitO2-name = oxygen deprivation treatment kit (порожня)
+lathe-recipe-MedkitBrute-name = brute trauma treatment kit (порожня)
+lathe-recipe-MedkitAdvanced-name = advanced first aid kit (порожня)
+lathe-recipe-MedkitRadiation-name = radiation treatment kit (порожня)
+lathe-recipe-MedkitCombat-name = combat medical kit (порожня)
