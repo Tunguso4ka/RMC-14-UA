@@ -13,7 +13,7 @@ ent-RMCPouchFirstAidPills = { ent-RMCPouchFirstAid }
     .desc = { ent-RMCPouchFirstAid.desc }
     .suffix = Pills
 
-ent-RMCPouchFirstAidERT = { ent-CMPouchFirstAid }
+ent-RMCPouchFirstAidERT = { ent-RMCPouchFirstAid }
     .desc = Може містити автошприци, мазі та бинти. Цей має більше всього.
     .suffix = ГШР
 
@@ -46,7 +46,7 @@ ent-RMCPouchMedicalSocDutchFill = { ent-RMCPouchMedicalSocDutch }
     .desc = { ent-RMCPouchMedicalSocDutch.desc }
     .suffix = Filled
 
-ent-RMCPouchMedicalSocDutchUnmarked = { ent-CMPouchMedicalSoc }
+ent-RMCPouchMedicalSocDutchUnmarked = { ent-RMCPouchMedicalSoc }
     .desc = Тяжкий мішочок вмішающий все що треба щоб встати назад на ноги. Якось, виглядає настільки засекреченим що тебе можуть відправити під військовий суд за один тільки погляд на нього.
 
 ent-RMCPouchFirstResponder = мішочок first responders
