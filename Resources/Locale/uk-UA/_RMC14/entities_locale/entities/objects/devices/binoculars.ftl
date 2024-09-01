@@ -1,10 +1,14 @@
 ent-RMCBinoculars = binoculars
     .desc = A military-issued pair of binoculars.
+ent-RMCRangefinder = rangefinder
+    .desc = A pair of binoculars with a rangefinding function. Click a tile to acquire it's coordinates.
 ent-RMCLaserDesignator = laser designator
     .desc = A budget laser designator with one mode: target marking for CAS with IR laser. Click a tile to target something.
 ent-RMCLaserDesignatorScout = scout laser designator
     .desc = An improved laser designator, issued to USCM scouts, with one mode: target marking for CAS with IR laser. Click a tile to target something.
-ent-RMCLaserDesignatorTarget = laser
+ent-RMCRangefinderTarget = laser
+    .desc = { "" }
+ent-RMCLaserDesignatorTarget = { ent-RMCRangefinderTarget }
     .desc = It's a laser to designate artillery targets, get away from it!
 ent-RMCLaserDropshipTarget = blinking laser
     .desc = { "" }

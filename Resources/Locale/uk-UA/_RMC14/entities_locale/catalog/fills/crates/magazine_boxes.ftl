@@ -39,3 +39,5 @@ ent-RMCCrateBoxMagazineM44Revolver = Speedloader box (M44, 16x loaders)
 
 ent-RMCCrateBoxMagazineM44RevolverMarksman = Speedloader box (Marksman M44, 16x loaders)
     .desc = { ent-CMCrateAmmo.desc }
+ent-RMCCrateBoxMagazineSentry = UA 571-C sentry ammunition (x2)
+    .desc = { ent-RMCCrateAmmo.desc }

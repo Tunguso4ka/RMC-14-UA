@@ -1,3 +1,5 @@
+command-description-areas-load = Load all saved areas to the map as entities.
+command-description-areas-loadmortar = Load only mortarable saved areas to the map as entities.
 command-description-areas-save = Save all mapped areas to the map.
 
 command-description-bioscan-marine = Manually triggers an ARES bioscan to announce to marines where xenos are and how many are left.

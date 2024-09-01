@@ -4,3 +4,7 @@ ent-CMEffectStomp = { "" }
     .desc = { "" }
 ent-RMCEffectCripple = { ent-CMEffectStomp }
     .desc = { ent-CMEffectStomp.desc }
+ent-RMCEffectLurkerSlow = { ent-CMEffectStomp }
+    .desc = { ent-CMEffectStomp.desc }
+ent-RMCEffectCrusherSlow = { ent-CMEffectStomp }
+    .desc = { ent-CMEffectStomp.desc }
