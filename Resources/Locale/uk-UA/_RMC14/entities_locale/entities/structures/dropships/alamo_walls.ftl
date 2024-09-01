@@ -333,15 +333,15 @@ ent-CMAlamoWall83 = { ent-CMBaseAlamoWall }
     .desc = { ent-CMBaseAlamoWall.desc }
     .suffix = 83
 
-ent-CMAlamoWall84 = { ent-CMBaseAlamoWall }
-    .desc = { ent-CMBaseAlamoWall.desc }
+ent-CMAlamoWall84 = port fore weapon attach point
+    .desc = A place where heavy equipment can be installed with a powerloader.
     .suffix = 84
 
 ent-CMAlamoWall84Flipped = starboard fore weapon attach point
-    .desc = { ent-CMAlamoWall84.desc }
+    .desc = A place where heavy equipment can be installed with a powerloader.
     .suffix = 84, Flipped
-ent-CMAlamoWall85 = { ent-CMBaseAlamoWall }
-    .desc = { ent-CMBaseAlamoWall.desc }
+ent-CMAlamoWall85 = electronic system attach point
+    .desc = A place where heavy equipment can be installed with a powerloader.
     .suffix = 85
 
 ent-CMAlamoWall85Flipped = { ent-CMAlamoWall85 }

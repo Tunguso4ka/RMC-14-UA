@@ -333,15 +333,15 @@ ent-CMNormandyWall83 = { ent-CMBaseNormandyWall }
     .desc = { ent-CMBaseNormandyWall.desc }
     .suffix = 83
 
-ent-CMNormandyWall84 = { ent-CMBaseNormandyWall }
-    .desc = { ent-CMBaseNormandyWall.desc }
+ent-CMNormandyWall84 = port fore weapon attach point
+    .desc = A place where heavy equipment can be installed with a powerloader.
     .suffix = 84
 
 ent-CMNormandyWall84Flipped = starboard fore weapon attach point
-    .desc = { ent-CMNormandyWall84.desc }
+    .desc = A place where heavy equipment can be installed with a powerloader.
     .suffix = 84, Flipped
-ent-CMNormandyWall85 = { ent-CMBaseNormandyWall }
-    .desc = { ent-CMBaseNormandyWall.desc }
+ent-CMNormandyWall85 = electronic system attach point
+    .desc = A place where heavy equipment can be installed with a powerloader.
     .suffix = 85
 
 ent-CMNormandyWall85Flipped = { ent-CMNormandyWall85 }
