@@ -4,5 +4,7 @@ ent-RMCCrateClothingMedicalPouches = medical pouches crate (1x firstaid, medical
     .desc = { ent-RMCCrateWeldable.desc }
 ent-RMCCrateClothingWebbing = webbing crate (x4)
     .desc = { ent-RMCCrateWeldable.desc }
+ent-RMCCrateClothingWebbingPouch = drop pouch crate (x4)
+    .desc = { ent-RMCCrateWeldable.desc }
 ent-RMCCrateClothingOfficerOutfit = officer outfit crate
     .desc = { ent-RMCCrateWeldable.desc }

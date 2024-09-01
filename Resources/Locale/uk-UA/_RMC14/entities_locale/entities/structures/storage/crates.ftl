@@ -60,3 +60,5 @@ ent-RMCCrateSecurePhoron = ящик форону
     .desc = Не з форону, але з фороном.
 ent-RMCCrateMinecart = minecart
     .desc = Essentially a big metal bucket on wheels. This one has a modern plastic shroud.
+ent-RMCCrateMortarAmmo = mortar ammo crate
+    .desc = A crate containing live mortar shells with various payloads. DO NOT DROP. KEEP AWAY FROM FIRE SOURCES.

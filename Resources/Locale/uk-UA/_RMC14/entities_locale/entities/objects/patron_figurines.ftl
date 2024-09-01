@@ -138,3 +138,7 @@ ent-RMCFigurinePatronLanceVictors = Lance Victors figurine
     .desc = This detailed figurine of a Marine Corps Warden just LOOKS like it's going to bury you in paperwork. And it has an eye scar. Edgy.
 ent-RMCFigurinePatronBredDahne = Bred Dahne figurine
     .desc = Gluten Free
+ent-RMCFigurinePatronDartingSleepyGroth = Darting 'Sleepy' Groth figurine
+    .desc = "Is it naptime yet..?"
+ent-RMCFigurinePatronSamAli = Sam Ali figurine
+    .desc = Heavily wounded dwarf.

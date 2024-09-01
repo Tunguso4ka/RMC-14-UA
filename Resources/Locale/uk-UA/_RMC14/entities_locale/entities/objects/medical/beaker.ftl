@@ -16,3 +16,8 @@ ent-CMMiniTank = MS-11 розумний заправочний контейне�
 
 ent-CMPressurizedCanister = каністра під тиском
     .desc = Каністра під тиском. Внутрішня частина мішка-каністри під тиском. Ви можете вставити його тільки в мішок, пристрої або в контейнер.
+ent-RMCVial = ампула
+    .desc = A small glass vial. Can hold up to 30 units.
+ent-RMCVialTricordrazine = tricordrazine vial
+    .desc = A small glass vial. Can hold up to 30 units. Contains Tricordrazine, a weak general use medicine for treating damage.
+    .suffix = Filled, Tricordrazine
