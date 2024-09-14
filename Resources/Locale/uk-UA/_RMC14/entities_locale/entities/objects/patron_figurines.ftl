@@ -142,3 +142,8 @@ ent-RMCFigurinePatronDartingSleepyGroth = Darting 'Sleepy' Groth figurine
     .desc = "Is it naptime yet..?"
 ent-RMCFigurinePatronSamAli = Sam Ali figurine
     .desc = Heavily wounded dwarf.
+ent-RMCFigurinePatronWalks-The-Graves = Walks-The-Graves figurine
+    .desc = { ent-RMCBaseFigurinePatron.desc }
+ent-RMCFigurinePatronHonkzeeBeezs = Honkzee Beezs figurine
+    .desc = "Wowies, marines eated more crayons than honkzee!"
+This figurine is horrifically unbalanced.

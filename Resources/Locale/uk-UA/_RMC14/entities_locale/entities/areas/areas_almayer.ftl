@@ -38,6 +38,8 @@ ent-RMCAreaAlmayerEngineering = { ent-RMCAreaAlmayer }
 ent-RMCAreaAlmayerEngineeringLower = Lower Deck Engineering
     .desc = { ent-RMCAreaAlmayerEngineering.desc }
 
+ent-RMCAreaAlmayerEngineeringLowerEngine = { ent-RMCAreaAlmayerEngineeringLower }
+    .desc = { ent-RMCAreaAlmayerEngineeringLower.desc }
 ent-RMCAreaAlmayerEngineeringLowerEngineMonitoring = Lower Deck Engine Reactor Monitoring
     .desc = { ent-RMCAreaAlmayerEngineeringLower.desc }
 
@@ -643,4 +645,3 @@ ent-RMCAreaAlmayerEvacuationStrandedPod17 = { ent-RMCAreaAlmayerEvacuationStrand
 
 ent-RMCAreaAlmayerEvacuationStrandedPod18 = { ent-RMCAreaAlmayerEvacuationStranded }
     .desc = { ent-RMCAreaAlmayerEvacuationStranded.desc }
-

@@ -7,3 +7,5 @@ ent-BulletRifle10x24mmAP = { ent-BulletRifle10x24mm }
 ent-BulletRifleM4SPRA19 = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 
+ent-BulletRifleM4SPRA19Impact = { ent-BaseBullet }
+    .desc = { ent-BaseBullet.desc }

@@ -10,3 +10,6 @@ cm-distress-signal-alldied = [color=yellow]Нічия: Обі сторони в�
 cm-distress-signal-none = [color=yellow]Без результатів![/color]
 
 cm-distress-signal-marine = {$player}
+rmc-distress-signal-next-map-title = Наступна планета
+rmc-distress-signal-next-map-tie = Нічия на голосуванні за планету! Обираємо... {$picked}
+rmc-distress-signal-next-map-win = {$winner} перемогла голосування за планету!

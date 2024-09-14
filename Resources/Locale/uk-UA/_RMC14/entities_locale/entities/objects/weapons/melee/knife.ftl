@@ -1,6 +1,7 @@
-ent-RMCM5Bayonet = M5 'Night Raider' bayonet
-    .desc = The standard-issue bayonet of the Marines. You can slide this knife into your boots.
-
+ent-RMCBaseMeleeWeapon = { "" }
+    .desc = { "" }
+ent-RMCM5Bayonet = M5 'Нічний Рейдер' багнет
+    .desc = Стандартний багнет Морської Піхоти. Ви можете вставити його в свої чоботи.
 ent-CMM11Knife = M11 метальний ніж
     .desc = Військовий ніж, призначений для кидання у ворога.
 

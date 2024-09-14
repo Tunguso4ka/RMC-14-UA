@@ -35,6 +35,8 @@ rmc-dropship-weapons-cams = КАМЕРИ
 rmc-dropship-weapons-cancel = ВІДМИНИТИ
 rmc-dropship-weapons-exit = ВИЙТИ
 rmc-dropship-weapons-offset-calibration = Калібрування зміщення
+rmc-dropship-weapons-offset-calibration-does-not-affect-direct-bombardment = Does not affect direct bombardment!
+
 rmc-dropship-weapons-fire = ВОГОНЬ
 rmc-dropship-weapons-strike = ВРАЗИТИ
 rmc-dropship-weapons-vector = ВЕКТОР

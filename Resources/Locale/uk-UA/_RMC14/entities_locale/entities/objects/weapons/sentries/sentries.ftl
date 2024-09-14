@@ -6,3 +6,7 @@ ent-RMCSentry = UN 571-C sentry gun
     .desc = A deployable, semi-automated turret with AI targeting capabilities. Armed with an M30 Autocannon and a 500-round drum magazine.
 ent-RMCSentryMini = UN 512-M mini sentry
     .desc = A compact version of the UNMC defenses. Designed for quick deployment of the associated type in the field.
+ent-RMCSentrySniper = UN 725-D sniper sentry
+    .desc = A fully-automated defence turret with long-range targeting capabilities. Armed with a modified M32-S Autocannon and an internal belt feed.
+ent-RMCSentryOmni = UN 571-D omnidirectional sentry gun
+    .desc = A deployable, semi-automated turret with 360 degree range AI targeting capabilities. Armed with an M30 Autocannon and a 500-round drum magazine.

@@ -27,3 +27,5 @@ ent-CMMagazineRifleM4SPRExt = M4SPR збільшений магазин (10x24mm
 ent-RMCMagazineRifleM4SPRA19 = M4SPR A19 magazine (high-velocity)
     .desc = A magazine of high-velocity A19 rounds for use in the M4SPR battle rifle.
 
+ent-RMCMagazineRifleM4SPRA19Impact = M4SPR A19 magazine (high-velocity high impact)
+    .desc = A magazine of high-velocity high impact A19 rounds for use in the M4SPR battle rifle.
