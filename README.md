@@ -6,7 +6,7 @@
 
 ## Посилання
 
-[Сайт SS14 (Англійська)](https://spacestation14.io/) | [Discord RMC14 (Англійська)](https://discord.gg/mjpJk2ueDY) | [Steam SS14](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Лаунчер SS14](https://spacestation14.io/about/nightlies/)
+[RMC-14 Community Wiki](https://wiki.rouny-ss14.com/) | [Discord](https://discord.gg/rouny) | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher Download](https://spacestation14.io/about/nightlies/)
 
 ## Сприяння розробці
 
