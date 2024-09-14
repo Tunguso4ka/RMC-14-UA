@@ -1,5 +1,4 @@
 ent-CMWallMetal = { ent-CMBaseWall }
-
     .desc = { ent-CMBaseWall.desc }
 
 ent-CMWallMetalAlmayer = { ent-CMBaseWall }
