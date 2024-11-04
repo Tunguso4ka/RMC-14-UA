@@ -22,6 +22,8 @@ ent-ActionXenoLeap = Leap
 ent-ActionXenoPounce = Pounce (20)
     .desc = Jump towards a given location and knock down the first enemy hit if you are invisible.
 
+ent-ActionXenoDash = Dash (40)
+    .desc = Dash a short distance towards a given location.
 ent-ActionXenoHeadbutt = Headbutt (10)
     .desc = Charge in a direction and push back any enemies in your way.
 
@@ -46,6 +48,12 @@ ent-ActionXenoSprayAcid = Spray Acid (40)
 ent-ActionXenoSprayAcidBoiler = { ent-ActionXenoSprayAcid }
     .desc = { ent-ActionXenoSprayAcid.desc }
 
+ent-ActionXenoSprayAcidPraetorian = Spray Acid (80)
+    .desc = Sprays acid along the ground in a line, covering tiles with it. [color=red]Will coat barricades in acid![/color]
+ent-ActionXenoSprayAcidWarden = Spray Acid (130)
+    .desc = { ent-ActionXenoSprayAcidPraetorian.desc }
+ent-ActionXenoAcidBall = Acid Ball (80)
+    .desc = Throws a projectile that will explode into acid spit in all directions after a short delay.
 ent-ActionXenoParalyzingSlash = Paralyzing Slash (50)
     .desc = Temporarily charge up a melee attack that will knockdown the first enemy it hits after a short delay.
 

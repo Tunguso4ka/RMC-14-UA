@@ -1,7 +1,8 @@
-ent-CMGuidebookActionXenoBase = ця сутність не має назви
+ent-CMGuidebookActionXenoBase = { "" }
+
     .desc = { "" }
 
-ent-ActionXenoPlantWeeds = Посадити траву
+ent-ActionXenoPlantWeeds = Посадити траву (75)
     .desc = Plant a weed node that will spread more weeds.
 
 ent-ActionXenoChooseStructure = Обрати структуру
@@ -13,3 +14,5 @@ ent-ActionXenoSecreteStructure = Виділити смолу
 ent-ActionXenoOrderConstruction = Замовити будівництво
     .desc = Starts construction of an important hive structure.
 
+ent-ActionXenoResinHole = Plant Resin Hole
+    .desc = Places a resin hole on weeds. It can be filled with boiler gas, acid, or parasites.
