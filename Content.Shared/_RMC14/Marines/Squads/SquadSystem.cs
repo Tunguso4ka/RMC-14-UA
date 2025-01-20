@@ -2,6 +2,7 @@
 using System.Linq;
 using Content.Shared._RMC14.Admin;
 using Content.Shared._RMC14.Chat;
+using Content.Shared._RMC14.Cryostorage;
 using Content.Shared._RMC14.Inventory;
 using Content.Shared._RMC14.Marines.Announce;
 using Content.Shared._RMC14.Marines.Orders;
@@ -13,7 +14,6 @@ using Content.Shared.Chat;
 using Content.Shared.Clothing;
 using Content.Shared.Clothing.Components;
 using Content.Shared.Clothing.EntitySystems;
-using Content.Shared.Hands;
 using Content.Shared.Hands.EntitySystems;
 using Content.Shared.Inventory;
 using Content.Shared.Mind;
@@ -28,9 +28,9 @@ using Content.Shared.Roles;
 using Content.Shared.Roles.Jobs;
 using Content.Shared.Storage;
 using Content.Shared.Storage.EntitySystems;
+using Robust.Shared.Network;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
-using Robust.Shared.Network;
 
 namespace Content.Shared._RMC14.Marines.Squads;
 
@@ -57,23 +57,26 @@ public sealed class SquadSystem : EntitySystem
     [Dependency] private readonly SharedStorageSystem _storage = default!;
 
     private static readonly ProtoId<JobPrototype> SquadLeaderJob = "CMSquadLeader";
+    public static readonly EntProtoId<SquadTeamComponent> EchoSquadId = "SquadEcho";
 
     public ImmutableArray<EntityPrototype> SquadPrototypes { get; private set; }
     public ImmutableArray<JobPrototype> SquadRolePrototypes { get; private set; }
 
     private readonly HashSet<EntityUid> _membersToUpdate = new();
 
+    private EntityQuery<RMCMapToSquadComponent> _mapToSquadQuery;
+    private EntityQuery<OriginalRoleComponent> _originalRoleQuery;
     private EntityQuery<SquadArmorWearerComponent> _squadArmorWearerQuery;
     private EntityQuery<SquadMemberComponent> _squadMemberQuery;
     private EntityQuery<SquadTeamComponent> _squadTeamQuery;
-    private EntityQuery<RMCMapToSquadComponent> _mapToSquadQuery;
 
     public override void Initialize()
     {
+        _mapToSquadQuery = GetEntityQuery<RMCMapToSquadComponent>();
+        _originalRoleQuery = GetEntityQuery<OriginalRoleComponent>();
         _squadArmorWearerQuery = GetEntityQuery<SquadArmorWearerComponent>();
         _squadMemberQuery = GetEntityQuery<SquadMemberComponent>();
         _squadTeamQuery = GetEntityQuery<SquadTeamComponent>();
-        _mapToSquadQuery = GetEntityQuery<RMCMapToSquadComponent>();
 
         SubscribeLocalEvent<SquadArmorComponent, GetEquipmentVisualsEvent>(OnSquadArmorGetVisuals, after: [typeof(ClothingSystem)]);
 
@@ -84,6 +87,8 @@ public sealed class SquadSystem : EntitySystem
         SubscribeLocalEvent<SquadMemberComponent, PlayerAttachedEvent>(OnSquadMemberPlayerAttached);
         SubscribeLocalEvent<SquadMemberComponent, PlayerDetachedEvent>(OnSquadMemberPlayerDetached);
         SubscribeLocalEvent<SquadMemberComponent, GetMarineIconEvent>(OnSquadRoleGetIcon, after: [typeof(SharedMarineSystem)]);
+        SubscribeLocalEvent<SquadMemberComponent, EnteredCryostorageEvent>(OnSquadMemberEnteredCryo);
+        SubscribeLocalEvent<SquadMemberComponent, LeftCryostorageEvent>(OnSquadMemberLeftCryo);
 
         SubscribeLocalEvent<SquadLeaderComponent, EntityTerminatingEvent>(OnSquadLeaderTerminating);
         SubscribeLocalEvent<SquadLeaderComponent, GetMarineIconEvent>(OnSquadLeaderGetMarineIcon, after: [typeof(SharedMarineSystem)]);
@@ -172,6 +177,35 @@ public sealed class SquadSystem : EntitySystem
     {
         args.Background = member.Comp.Background;
         args.BackgroundColor = member.Comp.BackgroundColor;
+    }
+
+    private void OnSquadMemberEnteredCryo(Entity<SquadMemberComponent> ent, ref EnteredCryostorageEvent args)
+    {
+        if (!_originalRoleQuery.TryComp(ent, out var role) || role.Job is not { } jobId)
+            return;
+
+        if (!_squadTeamQuery.TryComp(ent.Comp.Squad, out var squad) ||
+            !squad.Roles.TryGetValue(jobId, out var roles) ||
+            roles <= 0)
+        {
+            return;
+        }
+
+        squad.Roles[jobId] = roles - 1;
+    }
+
+    private void OnSquadMemberLeftCryo(Entity<SquadMemberComponent> ent, ref LeftCryostorageEvent args)
+    {
+        if (!_originalRoleQuery.TryComp(ent, out var role) || role.Job is not { } jobId)
+            return;
+
+        if (!_squadTeamQuery.TryComp(ent.Comp.Squad, out var squad) ||
+            !squad.Roles.TryGetValue(jobId, out var roles))
+        {
+            return;
+        }
+
+        squad.Roles[jobId] = roles + 1;
     }
 
     private void OnSquadLeaderTerminating(Entity<SquadLeaderComponent> ent, ref EntityTerminatingEvent args)
@@ -319,6 +353,11 @@ public sealed class SquadSystem : EntitySystem
         return true;
     }
 
+    public bool HasSquad(EntProtoId id)
+    {
+        return TryGetSquad(id, out _);
+    }
+
     public bool TryEnsureSquad(EntProtoId id, out Entity<SquadTeamComponent> squad)
     {
         if (!_prototypes.TryIndex(id, out var prototype) ||
@@ -361,7 +400,8 @@ public sealed class SquadSystem : EntitySystem
             return;
 
         var member = EnsureComp<SquadMemberComponent>(marine);
-        if (_squadTeamQuery.TryComp(member.Squad, out var oldSquad))
+        var oldSquadId = member.Squad;
+        if (_squadTeamQuery.TryComp(oldSquadId, out var oldSquad))
         {
             oldSquad.Members.Remove(marine);
 
@@ -407,6 +447,15 @@ public sealed class SquadSystem : EntitySystem
         var ev = new SquadMemberUpdatedEvent(team);
         RaiseLocalEvent(marine, ref ev);
 
+        if (oldSquadId != null && oldSquad != null)
+        {
+            var removeEv = new SquadMemberRemovedEvent((oldSquadId.Value, oldSquad), marine);
+            RaiseLocalEvent(marine, ref removeEv, true);
+        }
+
+        var addEv = new SquadMemberAddedEvent((team, team.Comp), marine);
+        RaiseLocalEvent(marine, ref addEv, true);
+
         if (Prototype(team)?.ID is { } squadProto)
             _appearance.SetData(marine, SquadVisuals.Squad, squadProto);
 
@@ -446,6 +495,9 @@ public sealed class SquadSystem : EntitySystem
         {
             var ev = new SquadMemberUpdatedEvent(squad);
             RaiseLocalEvent(member, ref ev);
+
+            var squadEv = new SquadMemberRemovedEvent((squad, squad.Comp), member);
+            RaiseLocalEvent(member, ref squadEv, true);
         }
     }
 
@@ -553,6 +605,50 @@ public sealed class SquadSystem : EntitySystem
             _marineAnnounce.AnnounceSquad($"Attention: A new Squad Leader has been set: {Name(toPromote)}", squadProto.ID);
             _popup.PopupCursor($"{Name(toPromote)} is {Name(squad.Value)}'s new leader!", user, PopupType.Medium);
         }
+    }
+
+    public bool AreInSameSquad(Entity<SquadMemberComponent?> one, Entity<SquadMemberComponent?> two)
+    {
+        if (!Resolve(one, ref one.Comp, false) ||
+            !Resolve(two, ref two.Comp, false))
+        {
+            return false;
+        }
+
+        if (one.Comp.Squad == null)
+            return false;
+
+        return one.Comp.Squad == two.Comp.Squad;
+    }
+
+    public bool TryGetSquadLeader(Entity<SquadTeamComponent> squad, out Entity<SquadLeaderComponent> leader)
+    {
+        var leaders = EntityQueryEnumerator<SquadLeaderComponent, SquadMemberComponent>();
+        while (leaders.MoveNext(out var uid, out var leaderComp, out var member))
+        {
+            if (member.Squad != squad)
+                continue;
+
+            leader = (uid, leaderComp);
+            return true;
+        }
+
+        leader = default;
+        return false;
+    }
+
+    public bool IsSquadLeader(ProtoId<JobPrototype> job)
+    {
+        return job == SquadLeaderJob;
+    }
+
+    public bool HasSpaceForRole(Entity<SquadTeamComponent> squad, ProtoId<JobPrototype> job)
+    {
+        if (!squad.Comp.MaxRoles.TryGetValue(job, out var maxRoles))
+            return true;
+
+        squad.Comp.Roles.TryGetValue(job, out var currentRoles);
+        return currentRoles < maxRoles;
     }
 
     public override void Update(float frameTime)

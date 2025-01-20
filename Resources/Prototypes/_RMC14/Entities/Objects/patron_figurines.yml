@@ -1049,3 +1049,36 @@
     state: taleryn_vogsburg
   - type: PatronFigurine
     id: 4424328e-e2fb-41a8-b572-045186b30245
+
+- type: entity
+  parent: RMCBaseFigurinePatron
+  id: RMCFigurinePatronPenelopeCyclopsDavid
+  name: Penelope 'Cyclops' David figurine
+  description: "Easy to spot, misses a lot."
+  components:
+  - type: Sprite
+    state: penelope_cyclops_david
+  - type: PatronFigurine
+    id: 422661bf-d453-4c3e-8aff-e319fd91af91
+
+- type: entity
+  parent: RMCBaseFigurinePatron
+  id: RMCFigurinePatronWilliamSpursCrockett
+  name: William 'Spurs' Crockett figurine
+  description: "He has spurs that jingle jangle jingle"
+  components:
+  - type: Sprite
+    state: william_spurs_crockett
+  - type: PatronFigurine
+    id: ac7102b0-d759-4e4d-bbef-1f68b9d2de9b
+
+- type: entity
+  parent: RMCBaseFigurinePatron
+  id: RMCFigurinePatronRinaShell-ShockedGensvil
+  name: Rina 'Shell-Shocked' Gensvil figurine
+  description: "In front of you is a statuette of a noticeably battered and tired red-haired felinid. Her right eye is completely missing, in its place you see a black eye patch. She looks physically fit, her arms look strong. There's a medical HUD on her only surviving eye. There's a word, scratched with something sharp on the bottom of the small figurine. It says \"UNFAIR\"."
+  components:
+  - type: Sprite
+    state: rina_shell-shocked_gensvil
+  - type: PatronFigurine
+    id: 392b385b-5e99-446d-a81b-119ca1c90a6e
