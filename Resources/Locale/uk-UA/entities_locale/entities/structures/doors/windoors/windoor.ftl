@@ -35,52 +35,52 @@ ent-WindoorChapelLocked = { ent-Windoor }
     .desc = { ent-Windoor.desc }
     .suffix = Chapel, Locked
 
-ent-WindoorHydroponicsLocked = { ent-Windoor }
-    .desc = { ent-Windoor.desc }
+ent-WindoorHydroponicsLocked = { ent-WindoorServiceLocked }
+    .desc = { ent-WindoorServiceLocked.desc }
     .suffix = Hydroponics, Locked
 
-ent-WindoorJanitorLocked = { ent-Windoor }
-    .desc = { ent-Windoor.desc }
+ent-WindoorJanitorLocked = { ent-WindoorServiceLocked }
+    .desc = { ent-WindoorServiceLocked.desc }
     .suffix = Janitor, Locked
 
 ent-PlasmaWindoorJanitorLocked = { ent-WindoorPlasma }
     .desc = { ent-WindoorPlasma.desc }
     .suffix = Janitor, Locked, Plasma
 
-ent-WindoorKitchenLocked = { ent-Windoor }
-    .desc = { ent-Windoor.desc }
+ent-WindoorKitchenLocked = { ent-WindoorServiceLocked }
+    .desc = { ent-WindoorServiceLocked.desc }
     .suffix = Kitchen, Locked
 
-ent-WindoorKitchenHydroponicsLocked = { ent-Windoor }
-    .desc = { ent-Windoor.desc }
+ent-WindoorKitchenHydroponicsLocked = { ent-WindoorServiceLocked }
+    .desc = { ent-WindoorServiceLocked.desc }
     .suffix = Kitchen&Hydroponics, Locked
 
 ent-WindoorServiceLocked = { ent-Windoor }
     .desc = { ent-Windoor.desc }
     .suffix = Service, Locked
 
-ent-WindoorTheatreLocked = { ent-Windoor }
-    .desc = { ent-Windoor.desc }
+ent-WindoorTheatreLocked = { ent-WindoorServiceLocked }
+    .desc = { ent-WindoorServiceLocked.desc }
     .suffix = Theatre, Locked
 
-ent-WindoorSecureArmoryLocked = { ent-WindoorSecureSecurityLocked }
-    .desc = { ent-WindoorSecureSecurityLocked.desc }
+ent-WindoorSecureArmoryLocked = { ent-WindoorSecure }
+    .desc = { ent-WindoorSecure.desc }
     .suffix = Armory, Locked
 
 ent-PlasmaWindoorSecureArmoryLocked = { ent-WindoorSecurePlasma }
     .desc = { ent-WindoorSecurePlasma.desc }
     .suffix = Armory, Locked, Plasma
 
-ent-WindoorSecureAtmosphericsLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureAtmosphericsLocked = { ent-WindoorSecureEngineeringLocked }
+    .desc = { ent-WindoorSecureEngineeringLocked.desc }
     .suffix = Atmospherics, Locked
 
-ent-PlasmaWindoorSecureAtmosphericsLocked = { ent-WindoorSecurePlasma }
-    .desc = { ent-WindoorSecurePlasma.desc }
+ent-PlasmaWindoorSecureAtmosphericsLocked = { ent-PlasmaWindoorSecureEngineeringLocked }
+    .desc = { ent-PlasmaWindoorSecureEngineeringLocked.desc }
     .suffix = Atmospherics, Locked, Plasma
 
-ent-WindoorSecureBarLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureBarLocked = { ent-WindoorSecureServiceLocked }
+    .desc = { ent-WindoorSecureServiceLocked.desc }
     .suffix = Bar, Locked
 
 ent-WindoorSecureBrigLocked = { ent-WindoorSecureSecurityLocked }
@@ -95,20 +95,20 @@ ent-WindoorSecureChapelLocked = { ent-WindoorSecure }
     .desc = { ent-WindoorSecure.desc }
     .suffix = Chapel, Locked
 
-ent-WindoorSecureChemistryLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureChemistryLocked = { ent-WindoorSecureMedicalLocked }
+    .desc = { ent-WindoorSecureMedicalLocked.desc }
     .suffix = Chemistry, Locked
 
 ent-PlasmaWindoorSecureChemistryLocked = { ent-WindoorSecurePlasma }
     .desc = { ent-WindoorSecurePlasma.desc }
     .suffix = Chemistry, Locked, Plasma
 
-ent-WindoorSecureCentralCommandLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureCentralCommandLocked = { ent-WindoorSecureCommandLocked }
+    .desc = { ent-WindoorSecureCommandLocked.desc }
     .suffix = Central Command, Locked
 
-ent-PlasmaWindoorSecureCentralCommandLocked = { ent-WindoorSecurePlasma }
-    .desc = { ent-WindoorSecurePlasma.desc }
+ent-PlasmaWindoorSecureCentralCommandLocked = { ent-PlasmaWindoorSecureCommandLocked }
+    .desc = { ent-PlasmaWindoorSecureCommandLocked.desc }
     .suffix = Central Command, Locked, Plasma
 
 ent-UraniumWindoorSecureCentralCommandLocked = { ent-WindoorSecureUranium }
@@ -123,8 +123,8 @@ ent-PlasmaWindoorSecureCommandLocked = { ent-WindoorSecurePlasma }
     .desc = { ent-WindoorSecurePlasma.desc }
     .suffix = Command, Locked, Plasma
 
-ent-WindoorSecureDetectiveLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureDetectiveLocked = { ent-WindoorSecureSecurityLocked }
+    .desc = { ent-WindoorSecureSecurityLocked.desc }
     .suffix = Detective, Locked
 
 ent-WindoorSecureEngineeringLocked = { ent-WindoorSecure }
@@ -143,16 +143,16 @@ ent-WindoorSecureExternalLocked = { ent-WindoorSecure }
     .desc = { ent-WindoorSecure.desc }
     .suffix = External, Locked
 
-ent-WindoorSecureJanitorLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureJanitorLocked = { ent-WindoorSecureServiceLocked }
+    .desc = { ent-WindoorSecureServiceLocked.desc }
     .suffix = Janitor, Locked
 
 ent-PlasmaWindoorSecureJanitorLocked = { ent-WindoorSecurePlasma }
     .desc = { ent-WindoorSecurePlasma.desc }
     .suffix = Janitor, Locked, Plasma
 
-ent-WindoorSecureKitchenLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureKitchenLocked = { ent-WindoorSecureServiceLocked }
+    .desc = { ent-WindoorSecureServiceLocked.desc }
     .suffix = Kitchen, Locked
 
 ent-WindoorSecureSecurityLawyerLocked = { ent-WindoorSecureSecurityLocked }
@@ -163,8 +163,8 @@ ent-WindoorSecureMedicalLocked = { ent-WindoorSecure }
     .desc = { ent-WindoorSecure.desc }
     .suffix = Medical, Locked
 
-ent-WindoorSecureSalvageLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureSalvageLocked = { ent-WindoorSecureCargoLocked }
+    .desc = { ent-WindoorSecureCargoLocked.desc }
     .suffix = Salvage, Locked
 
 ent-WindoorSecureSecurityLocked = { ent-WindoorSecure }
@@ -187,7 +187,43 @@ ent-WindoorSecureServiceLocked = { ent-WindoorSecure }
     .desc = { ent-WindoorSecure.desc }
     .suffix = Service, Locked
 
-ent-WindoorSecureHeadOfPersonnelLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureHeadOfPersonnelLocked = { ent-WindoorSecureCommandLocked }
+    .desc = { ent-WindoorSecureCommandLocked.desc }
     .suffix = HeadOfPersonnel, Locked
 
+ent-WindoorSyndicateLocked = { ent-Windoor }
+    .desc = { ent-Windoor.desc }
+    .suffix = Syndicate, Locked
+ent-WindoorSecureSyndicateLocked = { ent-WindoorSecure }
+    .desc = { ent-WindoorSecure.desc }
+    .suffix = Syndicate, Locked
+ent-PlasmaWindoorSyndicateLocked = { ent-WindoorPlasma }
+    .desc = { ent-WindoorPlasma.desc }
+    .suffix = Syndicate, Locked, Plasma
+ent-PlasmaWindoorSecureSyndicateLocked = { ent-WindoorSecurePlasma }
+    .desc = { ent-WindoorSecurePlasma.desc }
+    .suffix = Syndicate, Locked, Plasma
+ent-UraniumWindoorSyndicateLocked = { ent-WindoorUranium }
+    .desc = { ent-WindoorUranium.desc }
+    .suffix = Syndicate, Locked, Uranium
+ent-UraniumWindoorSecureSyndicateLocked = { ent-WindoorSecureUranium }
+    .desc = { ent-WindoorSecureUranium.desc }
+    .suffix = Syndicate, Locked, Uranium
+ent-WindoorNukeopLocked = { ent-Windoor }
+    .desc = { ent-Windoor.desc }
+    .suffix = Nukeop, Locked
+ent-WindoorSecureNukeopLocked = { ent-WindoorSecure }
+    .desc = { ent-WindoorSecure.desc }
+    .suffix = Nukeop, Locked
+ent-PlasmaWindoorNukeopLocked = { ent-WindoorPlasma }
+    .desc = { ent-WindoorPlasma.desc }
+    .suffix = Nukeop, Locked, Plasma
+ent-PlasmaWindoorSecureNukeopLocked = { ent-WindoorSecurePlasma }
+    .desc = { ent-WindoorSecurePlasma.desc }
+    .suffix = Nukeop, Locked, Plasma
+ent-UraniumWindoorNukeopLocked = { ent-WindoorUranium }
+    .desc = { ent-WindoorUranium.desc }
+    .suffix = Nukeop, Locked, Uranium
+ent-UraniumWindoorSecureNukeopLocked = { ent-WindoorSecureUranium }
+    .desc = { ent-WindoorSecureUranium.desc }
+    .suffix = Nukeop, Locked, Uranium

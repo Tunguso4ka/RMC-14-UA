@@ -19,39 +19,62 @@ ent-BaseChemistryBottleFilled = { ent-BaseChemistryEmptyBottle }
 ent-EpinephrineChemistryBottle = epinephrine bottle
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-RobustHarvestChemistryBottle = robust harvest bottle
-    .desc = This will increase the potency of your plants.
-
-ent-EZNutrientChemistryBottle = ez nutrient bottle
-    .desc = This will provide some nutrition to your plants.
-
-ent-Left4ZedChemistryBottle = left-4-zed bottle
-    .desc = This will increase the effectiveness of mutagen.
-
-ent-UnstableMutagenChemistryBottle = unstable mutagen bottle
-    .desc = This will cause rapid mutations in your plants.
-
-ent-NocturineChemistryBottle = nocturine bottle
-    .desc = This will make someone fall down almost immediately. Hard to overdose on.
-
-ent-EphedrineChemistryBottle = ephedrine bottle
+    .suffix = epinephrine
+ent-RobustHarvestChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = robust harvest
+ent-EZNutrientChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = ez nutrient
+ent-Left4ZedChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = left-4-zed
+ent-UnstableMutagenChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = unstable mutagen
+ent-PotassiumChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = potassium
+ent-NitrogenChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = nitrogen
+ent-PhosphorusChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = phosphorus
+ent-HydrogenChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = hydrogen
+ent-EthanolChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = ethanol
+ent-NocturineChemistryBottle = { ent-BaseChemistryBottleFilled }
+    .desc = { ent-BaseChemistryBottleFilled.desc }
+    .suffix = nocturine
+ent-EphedrineChemistryBottle = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-OmnizineChemistryBottle = omnizine bottle
+    .suffix = ephedrine
+ent-OmnizineChemistryBottle = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-CognizineChemistryBottle = cognizine bottle
+    .suffix = omnizine
+ent-CognizineChemistryBottle = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-PaxChemistryBottle = pax bottle
+    .suffix = cognizine
+ent-PaxChemistryBottle = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-MuteToxinChemistryBottle = mute toxin bottle
+    .suffix = pax
+ent-MuteToxinChemistryBottle = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-LeadChemistryBottle = lead bottle
+    .suffix = mute toxin
+ent-LeadChemistryBottle = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-ToxinChemistryBottle = toxin bottle
+    .suffix = lead
+ent-ToxinChemistryBottle = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
+    .suffix = toxin

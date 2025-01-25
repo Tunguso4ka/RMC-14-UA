@@ -4,6 +4,7 @@ ent-ImmovableRod = нерухомий жезл
 ent-ImmovableRodDespawn = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
 
+    .suffix = Despawn
 ent-ImmovableRodSlow = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
     .suffix = Повільний
@@ -41,3 +42,5 @@ ent-ImmovableRodThrongler = нерухомий тронґлер
 ent-ImmovableRodGibstick = нерухома гібпалка
     .desc = А що ти ще очікував?
 
+ent-ImmovableRodWeh = immovable weh
+    .desc = WEH!

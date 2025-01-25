@@ -1,4 +1,5 @@
 sandbox-window-title = Пісочниця
+sandbox-window-ai-overlay-button = AI Overlay
 sandbox-window-respawn-button = Відродження
 sandbox-window-spawn-entities-button = Ств. сутності
 sandbox-window-spawn-tiles-button = Ств. тайли
@@ -13,4 +14,4 @@ sandbox-window-toggle-suicide-button = Самогубство
 sandbox-window-show-spawns-button = Показувати спавни
 sandbox-window-show-bb-button = Показувати хітбокси
 sandbox-window-show-npc-button = Показувати НІП
-sandbox-window-link-machines-button = Зв'язувати апарати
+sandbox-window-link-machines-button = Link machines

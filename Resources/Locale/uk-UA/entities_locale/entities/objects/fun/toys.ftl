@@ -35,12 +35,16 @@ ent-PlushieArachind = arachnid plushie
 ent-PlushieLizard = lizard plushie
     .desc = An adorable stuffed toy that resembles a lizardperson. Made by CentCom as a token initiative to combat speciesism in work environments. "Welcome your new colleagues as you do this plush, with open arms!"
 
+ent-PlushieRainbowLizard = rainbow lizard plushie
+    .desc = An adorable stuffed toy that resembles a lizardperson of every color. You just might trip while staring at it...
 ent-PlushieLizardMirrored = { ent-PlushieLizard }
     .desc = { ent-PlushieLizard.desc }
 
 ent-PlushieSpaceLizard = space lizard plushie
     .desc = An adorable stuffed toy that resembles a lizardperson in an EVA suit. Made by CentCom as a token initiative to combat speciesism in space environments. "Welcome your new colleges as you do this plush, with open arms!"
 
+ent-PlushieLizardInversed = drazil plushie
+    .desc = An adorable stuffed toy that resembles a lizardperson from an inversed dimension. Hew!
 ent-PlushieDiona = diona plushie
     .desc = An adorable stuffed toy that resembles a diona. Love water and cuddles. Do not wet!
 
@@ -186,3 +190,5 @@ ent-CrazyGlue = crazy glue
 
 ent-NewtonCradle = newton cradle
     .desc = A device bored paper pushers use to remind themselves that time did not stop yet. Contains gravity.
+ent-RubberChicken = rubber chicken
+    .desc = A stress inducing parody of nature's most delectable avian.

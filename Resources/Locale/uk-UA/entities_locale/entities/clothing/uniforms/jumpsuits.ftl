@@ -154,6 +154,8 @@ ent-ClothingUniformJumpsuitSecBlue = blue shirt and tie
 ent-ClothingUniformJumpsuitSecGrey = сірий комбінезон офіцера
     .desc = A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
 
+ent-ClothingUniformSecurityTrooper = trooper uniform
+    .desc = A formal uniform issued to the Nanotrasen Troopers, usually it comes with a car.
 ent-ClothingUniformJumpsuitWarden = форма наглядача
     .desc = A formal security suit for officers complete with Nanotrasen belt buckle.
 
@@ -320,6 +322,7 @@ ent-ClothingUniformJumpsuitCasualPurple = повсякденний фіолет�
 ent-ClothingUniformJumpsuitCasualRed = повсякденний червоний комбінезон
     .desc = A loose worn red shirt with a grey pants, perfect for someone looking to relax.
 
+ent-ClothingUniformJumpsuitCasualGreen = casual green jumpsuit
+    .desc = A loose worn green shirt with a grey pants, perfect for someone looking to relax.
 ent-ClothingUniformJumpsuitFamilyGuy = familiar garbs
     .desc = Makes you remember the time you did something funny.
-

@@ -319,14 +319,14 @@ ent-PosterLegitSafetyMothDelam = Safety Moth - Delamination Safety Precautions
 ent-PosterLegitSafetyMothEpi = Safety Moth - Epinephrine
     .desc = This informational poster uses Safety Moth™ to inform the viewer to help injured/deceased crewmen with their epinephrine injectors. \"Prevent organ rot with this one simple trick!\"
 
-ent-PosterLegitSafetyMothHardhat = Safety Moth - Hardhats
-    .desc = This informational poster uses Safety Moth™ to tell the viewer to wear hardhats in cautious areas. \"It's like a lamp for your head!\"
+ent-PosterLegitSafetyMothPiping = Safety Moth - Piping
+    .desc = This informational poster uses Safety Moth™ to tell atmospheric technicians correct types of piping to be used. \"Pipes, not Pumps! Proper pipe placement prevents poor performance!\"
 
 ent-PosterLegitSafetyMothMeth = Safety Moth - Methamphetamine
     .desc = This informational poster uses Safety Moth™ to tell the viewer to seek CMO approval before cooking methamphetamine. \"Stay close to the target temperature, and never go over!\" ...You shouldn't ever be making this.
 
-ent-PosterLegitSafetyMothPiping = Safety Moth - Piping
-    .desc = This informational poster uses Safety Moth™ to tell atmospheric technicians correct types of piping to be used. \"Pipes, not Pumps! Proper pipe placement prevents poor performance!\"
+ent-PosterLegitSafetyMothHardhat = Safety Moth - Hardhats
+    .desc = This informational poster uses Safety Moth™ to tell the viewer to wear hardhats in cautious areas. \"It's like a lamp for your head!\"
 
 ent-PosterLegitVacation = Nanotrasen Corporate Perks: Vacation
     .desc = This informational poster provides information on some of the prizes available via the NT Corporate Perks program, including a two-week vacation for two on the resort world Idyllus.
@@ -340,6 +340,10 @@ ent-PosterLegitRenault = Renault Poster
 ent-PosterLegitNTTGC = Nanotrasen Tactical Game Cards
     .desc = An advertisement for Nanotrasen's TCG cards: BUY MORE CARDS.
 
+ent-PosterLegitSafetyMothSSD = Safety Moth - Space Sleep Disorder
+    .desc = This informational poster uses Safety Moth™ to tell the viewer about Space Sleep Disorder (SSD), a condition where the person stops reacting to things. "Treat SSD crew with care! They might wake up at any time!"
+ent-PosterLegitOppenhopper = Oppenhopper
+    .desc = A poster for a long-forgotten movie. It follows a group of tenacious greenhorns from the Grasshopper Sector as they defend against onslaughts of the infamous Nuclear Operatives. The tagline reads: "Nuke Ops will continue until robustness improves."
 ent-PosterMapBagel = Bagel Map
     .desc = A map of Bagel Station.
 
@@ -372,4 +376,3 @@ ent-PosterMapWaystation = Waystation Map
 
 ent-PosterMapOrigin = origin map
     .desc = A map of Origin Station.
-

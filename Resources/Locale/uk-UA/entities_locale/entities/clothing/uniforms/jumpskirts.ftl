@@ -1,31 +1,30 @@
-ent-ClothingUniformJumpskirtBartender = bartender's uniform
+ent-ClothingUniformJumpskirtBartender = одяг бармена
     .desc = A nice and tidy uniform. Shame about the bar though.
 
-ent-ClothingUniformJumpskirtCaptain = captain's jumpskirt
+ent-ClothingUniformJumpskirtCaptain = спідниця капітана
     .desc = It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
 
-ent-ClothingUniformJumpskirtCargo = cargo tech jumpskirt
+ent-ClothingUniformJumpskirtCargo = спідниця вантажника
     .desc = A sturdy jumpskirt, issued to members of the Cargo department.
 
-ent-ClothingUniformJumpskirtChiefEngineer = chief engineer's jumpskirt
+ent-ClothingUniformJumpskirtChiefEngineer = спідниця головного інженера
     .desc = It's a high visibility jumpskirt given to those engineers insane enough to achieve the rank of Chief Engineer. It has minor radiation shielding.
 
-ent-ClothingUniformJumpskirtChiefEngineerTurtle = chief engineer's turtleneck
+ent-ClothingUniformJumpskirtChiefEngineerTurtle = гольф головного інженера
     .desc = A yellow turtleneck designed specifically for work in conditions of the engineering department.
 
-ent-ClothingUniformJumpskirtChaplain = chaplain's jumpskirt
+ent-ClothingUniformJumpskirtChaplain = спідниця капелана
     .desc = It's a black jumpskirt, often worn by religious folk.
 
-ent-ClothingUniformJumpskirtChef = chef uniform
-    .desc = Can't cook without this.
-
-ent-ClothingUniformJumpskirtChemistry = chemistry jumpskirt
+ent-ClothingUniformJumpskirtChef = одяг шеф-кухаря
+    .desc = Без цього не можливо готувати.
+ent-ClothingUniformJumpskirtChemistry = спідниця хіміка
     .desc = There's some odd stains on this jumpskirt. Hm.
 
-ent-ClothingUniformJumpskirtVirology = virology jumpskirt
+ent-ClothingUniformJumpskirtVirology = спідниця віролога
     .desc = It's made of a special fiber that gives special protection against biohazards. It has a virologist rank stripe on it.
 
-ent-ClothingUniformJumpskirtGenetics = genetics jumpskirt
+ent-ClothingUniformJumpskirtGenetics = спідниця генетика
     .desc = It's made of a special fiber that gives special protection against biohazards. It has a geneticist rank stripe on it.
 
 ent-ClothingUniformJumpskirtCMO = chief medical officer's jumpskirt
@@ -181,6 +180,8 @@ ent-ClothingUniformJumpskirtCasualPurple = casual purple jumpskirt
 ent-ClothingUniformJumpskirtCasualRed = casual red jumpskirt
     .desc = A loose worn red shirt with a grey skirt, perfect for someone looking to relax.
 
+ent-ClothingUniformJumpskirtCasualGreen = casual green jumpskirt
+    .desc = A loose worn green shirt with a grey skirt, perfect for someone looking to relax.
 ent-ClothingUniformJumpskirtOldDress = old dress
     .desc = A worn-looking dress from a very long time ago.
 

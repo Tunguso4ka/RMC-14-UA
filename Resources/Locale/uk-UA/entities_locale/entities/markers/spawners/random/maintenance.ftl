@@ -14,3 +14,6 @@ ent-MaintenancePlantSpawner = Maint Loot Spawner
     .desc = { ent-MarkerBase.desc }
     .suffix = Plants
 
+ent-MaintenanceInsulsSpawner = Maint Loot Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Insuls, safe

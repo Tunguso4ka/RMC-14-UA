@@ -7,3 +7,7 @@ ent-ArrowRegular = arrow
 ent-ArrowImprovised = glass shard arrow
     .desc = The greyshirt's preferred projectile.
 
+ent-ArrowImprovisedPlasma = plasma glass shard arrow
+    .desc = The greyshirt's preferred projectile. Now with extra lethality!
+ent-ArrowImprovisedUranium = uranium glass shard arrow
+    .desc = The greyshirt's preferred projectile. Now with added radiation!

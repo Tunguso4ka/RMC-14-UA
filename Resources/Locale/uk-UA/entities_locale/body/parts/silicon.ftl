@@ -1,21 +1,15 @@
 ent-PartSilicon = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BaseBorgArmLeft = left cyborg arm
+ent-LeftArmBorg = ліва рука кіборга
     .desc = { ent-PartSilicon.desc }
-
-ent-BaseBorgArmRight = right cyborg arm
+ent-RightArmBorg = права рука кіборга
     .desc = { ent-PartSilicon.desc }
-
-ent-BaseBorgLegLeft = left cyborg leg
+ent-LeftLegBorg = ліва нога кіборга
     .desc = { ent-PartSilicon.desc }
-
-ent-BaseBorgLegRight = right cyborg leg
+ent-RightLegBorg = права нога кіборга
     .desc = { ent-PartSilicon.desc }
-
-ent-BaseBorgHead = cyborg head
+ent-LightHeadBorg = голова кіборга
     .desc = { ent-PartSilicon.desc }
-
-ent-BaseBorgTorso = cyborg torso
+ent-TorsoBorg = тіло кіборга
     .desc = { ent-PartSilicon.desc }
-

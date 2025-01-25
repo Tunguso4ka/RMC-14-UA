@@ -19,6 +19,7 @@ loadout-group-tank-harness = Species-specific survival equipment
 
 loadout-group-EVA-tank = Species-specific gas tank
 
+loadout-group-pocket-tank-double = Species-specific double emergency tank in pocket
 loadout-group-survival-mime = Mime Survival Box
 
 loadout-group-captain-head = Голова
@@ -84,6 +85,8 @@ loadout-group-mime-mask = Маска
 loadout-group-mime-jumpsuit = Одяг
 loadout-group-mime-backpack = Рюкзак
 loadout-group-mime-outerclothing = Зовнішний одяг
+
+loadout-group-mime-belt = Mime belt
 
 loadout-group-musician-jumpsuit = Musician jumpsuit
 loadout-group-musician-outerclothing = Зовнішний одяг

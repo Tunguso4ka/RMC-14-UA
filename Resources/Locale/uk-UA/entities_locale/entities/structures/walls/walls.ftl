@@ -46,6 +46,9 @@ ent-WallPlastitaniumDiagonal = стіна з пластиніума
     .desc = { ent-WallShuttleDiagonal.desc }
     .suffix = diagonal
 
+ent-WallPlastitaniumDiagonalIndestructible = plastitanium wall
+    .desc = Keeps the air in and the greytide out.
+    .suffix = diagonal, indestructible
 ent-WallReinforced = посилена стіна
     .desc = { ent-BaseWall.desc }
 
@@ -71,11 +74,11 @@ ent-WallShuttleDiagonal = стіна шатлу
     .suffix = Diagonal
 
 ent-WallShuttle = стіна шатлу
-    .desc = { ent-WallReinforced.desc }
+    .desc = { ent-BaseWall.desc }
     .suffix = Reinforced, Exterior
 
 ent-WallShuttleInterior = стіна шатлу
-    .desc = { ent-WallSolid.desc }
+    .desc = { ent-BaseWall.desc }
     .suffix = Interior
 
 ent-WallSolid = стіна
@@ -119,8 +122,10 @@ ent-WallVaultSandstone = sandstone vault wall
 
 ent-WallInvisible = Invisible Wall
 
+    .desc = { "" }
 ent-WallForce = force wall
 
+    .desc = { "" }
 ent-WallCobblebrick = cobblestone brick wall
     .desc = Stone by stone, perfectly fitted together to form a wall.
 
@@ -141,4 +146,3 @@ ent-WallChromiteCobblebrick = chromite brick wall
 
 ent-WallAndesiteCobblebrick = andesite brick wall
     .desc = { ent-WallCobblebrick.desc }
-

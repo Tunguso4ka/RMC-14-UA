@@ -5,7 +5,9 @@ shuttle-console-in-ftl = Ви не можете ШЗС поки ви в ШЗС!
 shuttle-console-mass = Занадто великий для ШЗС
 shuttle-console-prevent = Ви не можете пілотувати цього шатлу.
 
-# NAV
+
+shuttle-console-static = Grid is static
+
 
 shuttle-console-display-label = Дісплей
 
@@ -22,7 +24,6 @@ shuttle-console-nav-settings = Налаштування
 shuttle-console-iff-toggle = Перемкнути IFF
 shuttle-console-dock-toggle = Показувати стиковки
 
-# MAP
 
 shuttle-console-ftl-label = Статус ШЗС
 shuttle-console-ftl-state-Available = Доступний
@@ -40,7 +41,6 @@ shuttle-console-no-signal = Нема сігналу
 
 shuttle-console-map-objects = Об'єкти
 
-# DOCK
 shuttle-console-docked = {$index} (Пристиковане)
 
 shuttle-console-view = Вид

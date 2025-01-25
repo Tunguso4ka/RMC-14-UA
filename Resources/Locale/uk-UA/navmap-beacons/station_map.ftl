@@ -2,6 +2,8 @@ station-map-window-title = Мапа
 station-map-user-interface-flavor-left = Не паникуйте
 station-map-user-interface-flavor-right = v1.42
 
+station-map-filter-placeholder = Шукати по назві
+
 nav-beacon-window-title = Маяк станції
 nav-beacon-toggle-visible = Видимий
 nav-beacon-toggle-invisible = Невидимий

@@ -1,15 +1,12 @@
 ent-BaseBeaker = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
 ent-BaseBeakerMetallic = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
 ent-Beaker = beaker
     .desc = Used to contain a moderate amount of chemicals and solutions.
-
-ent-CryoxadoneBeakerSmall = cryoxadone beaker
-    .desc = Filled with a reagent used in cryogenic tubes.
-
+ent-CryoxadoneBeakerSmall = { ent-Beaker.desc }
+    .desc = { ent-Beaker.desc }
+    .suffix = cryoxadone
 ent-LargeBeaker = large beaker
     .desc = Used to contain a large amount of chemicals or solutions.
 
@@ -31,6 +28,8 @@ ent-BaseSyringe = syringe
 ent-Syringe = { ent-BaseSyringe }
     .desc = { ent-BaseSyringe.desc }
 
+ent-MiniSyringe = mini syringe
+    .desc = A regular syringe, reshaped to fit inside of a gun.
 ent-PrefilledSyringe = { ent-BaseSyringe }
     .desc = { ent-BaseSyringe.desc }
 
@@ -40,9 +39,8 @@ ent-SyringeBluespace = bluespace syringe
 ent-SyringeCryostasis = cryostasis syringe
     .desc = A syringe used to contain chemicals or solutions without reactions.
 
-ent-Pill = pill
+ent-Pill = пігулка
     .desc = It's not a suppository.
 
-ent-PillCanister = pill canister
-    .desc = Holds up to 10 pills.
-
+ent-PillCanister = баночка для пігулок
+    .desc = Може тримати в сові до 10 пігулок.

@@ -1,0 +1,1 @@
+rmc-clock-examine = На {$device}: [color=white]{$time}[/color]

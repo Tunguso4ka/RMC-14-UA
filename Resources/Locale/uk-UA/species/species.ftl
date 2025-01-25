@@ -1,5 +1,3 @@
-﻿## Species Names
-
 species-name-human = Людина
 species-name-dwarf = Дворф
 species-name-reptilian = Унатх
@@ -9,3 +7,4 @@ species-name-arachnid = Арахнід
 species-name-moth = Ніана
 species-name-skeleton = Скелет
 species-name-vox = Вокс
+snail-hurt-by-salt-popup = The salty solution burns like acid!

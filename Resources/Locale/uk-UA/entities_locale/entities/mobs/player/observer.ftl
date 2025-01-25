@@ -1,6 +1,9 @@
-ent-MobObserver = оглядач
+ent-Incorporeal = { "" }
+    .desc = Mobs without physical bodies
+ent-MobObserverBase = оглядач
     .desc = Бу!
-
+ent-MobObserver = { ent-MobObserverBase }
+    .desc = { ent-MobObserverBase.desc }
 ent-ActionGhostBoo = Бу!
     .desc = Нажахайте свій екіпаж!
 

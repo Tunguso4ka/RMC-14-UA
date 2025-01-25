@@ -1,11 +1,9 @@
 ent-AirlockFreezer = { ent-Airlock }
     .desc = { ent-Airlock.desc }
-    .suffix = Freezer
-
+    .suffix = Холодильник
 ent-AirlockEngineering = { ent-Airlock }
     .desc = { ent-Airlock.desc }
-    .suffix = Engineering
-
+    .suffix = Інженерний
 ent-AirlockAtmospherics = { ent-AirlockEngineering }
     .desc = { ent-AirlockEngineering.desc }
     .suffix = Atmospherics
@@ -14,6 +12,9 @@ ent-AirlockCargo = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Cargo
 
+ent-AirlockHydroponics = { ent-Airlock }
+    .desc = { ent-Airlock.desc }
+    .suffix = Hydroponics
 ent-AirlockMedical = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Medical
@@ -75,6 +76,9 @@ ent-AirlockCargoGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Cargo
 
+ent-AirlockHydroponicsGlass = { ent-AirlockGlass }
+    .desc = { ent-AirlockGlass.desc }
+    .suffix = Hydroponics
 ent-AirlockMedicalGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Medical
@@ -110,4 +114,3 @@ ent-AirlockMiningGlass = { ent-AirlockCargoGlass }
 ent-AirlockCentralCommandGlass = { ent-AirlockCommandGlass }
     .desc = { ent-AirlockCommandGlass.desc }
     .suffix = Central Command
-

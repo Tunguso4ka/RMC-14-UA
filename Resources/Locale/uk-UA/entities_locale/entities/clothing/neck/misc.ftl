@@ -12,3 +12,6 @@ ent-ClothingNeckLawyerbadge = lawyer badge
 
 ent-ActionStethoscope = Listen with stethoscope
 
+    .desc = { "" }
+ent-Dinkystar = star sticker
+    .desc = A dinky lil star for only the hardest working security officers! It's not even sticky anymore.

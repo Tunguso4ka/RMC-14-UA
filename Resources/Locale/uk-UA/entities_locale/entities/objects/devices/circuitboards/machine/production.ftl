@@ -34,6 +34,8 @@ ent-ExosuitFabricatorMachineCircuitboard = плата фабрикатору е�
 ent-ResearchAndDevelopmentServerMachineCircuitboard = плата наукового серверу
     .desc = Надрукована плата наукового серверу.
 
+ent-BiogeneratorMachineCircuitboard = biogenerator machine board
+    .desc = A machine printed circuit board for a biogenerator.
 ent-UniformPrinterMachineCircuitboard = плата друкувача одягу
     .desc = { ent-BaseMachineCircuitboard.desc }
 
@@ -112,6 +114,8 @@ ent-SeedExtractorMachineCircuitboard = плата екстрактора нас�
 ent-SMESMachineCircuitboard = плата НпМА
     .desc = Надрукована плата НпМа.
 
+ent-SMESAdvancedMachineCircuitboard = advanced SMES machine board
+    .desc = A machine printed circuit board for an Advanced SMES.
 ent-CellRechargerCircuitboard = плата зарядки батарейок
     .desc = Надрукована плата зарядки батарейок.
 
@@ -223,6 +227,8 @@ ent-SalvageMagnetMachineCircuitboard = плата шахтарського ма�
 ent-MiniGravityGeneratorCircuitboard = плата маленього генератору гравитації
     .desc = Надрукована плата a mini gravity generator.
 
+ent-StationAnchorCircuitboard = station anchor machine board
+    .desc = A machine printed circuit board for a station anchor.
 ent-ReagentGrinderIndustrialMachineCircuitboard = плата покращеного подрібнювача елементів
     .desc = { ent-BaseMachineCircuitboard.desc }
 

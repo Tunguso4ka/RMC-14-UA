@@ -54,6 +54,12 @@ ent-AirlockAssemblyFreezer = { ent-AirlockAssembly }
     .desc = { ent-AirlockAssembly.desc }
     .suffix = Freezer
 
+ent-AirlockAssemblyHydroponics = { ent-AirlockAssembly }
+    .desc = { ent-AirlockAssembly.desc }
+    .suffix = Hydroponics
+ent-AirlockAssemblyHydroponicsGlass = { ent-AirlockAssembly }
+    .desc = { ent-AirlockAssembly.desc }
+    .suffix = Hydroponics, Glass
 ent-AirlockAssemblyMaintenance = { ent-AirlockAssembly }
     .desc = { ent-AirlockAssembly.desc }
     .suffix = Maintenance
@@ -137,4 +143,3 @@ ent-AirlockAssemblyShuttleSyndicateGlass = { ent-AirlockAssembly }
 ent-AirlockAssemblyHighSec = { ent-AirlockAssembly }
     .desc = { ent-AirlockAssembly.desc }
     .suffix = HighSec
-

@@ -13,6 +13,10 @@ ent-FoodBakedMuffinCherry = cherry muffin
 ent-FoodBakedMuffinBluecherry = bluecherry muffin
     .desc = Blue cherries inside a delicious muffin.
 
+ent-FoodBakedMuffinChocolate = chocolate muffin
+    .desc = A delicious and spongy chocolate muffin.
+ent-FoodBakedMuffinBanana = banana muffin
+    .desc = A delicious and spongy banana muffin.
 ent-FoodBakedBunHoney = honey bun
     .desc = A sticky pastry bun glazed with honey.
 
@@ -22,9 +26,8 @@ ent-FoodBakedBunHotX = hotcross bun
 ent-FoodBakedBunMeat = meat bun
     .desc = Has the potential to not be dog.
 
-ent-FoodBakedCookie = cookie
-    .desc = COOKIE!!!
-
+ent-FoodBakedCookie = печиво
+    .desc = ПЕЧИВКО!
 ent-FoodBakedCookieOatmeal = oatmeal cookie
     .desc = The best of both cookie and oat.
 
@@ -70,6 +73,8 @@ ent-FoodBakedDumplings = dumplings
 ent-FoodBakedChevreChaud = chèvre chaud
     .desc = A disk of slightly melted chèvre flopped on top of a crostini, and toasted all-round.
 
+ent-FoodBakedChevreChaudCotton = cotton chèvre chaud
+    .desc = A disk of slightly melted chèvre flopped on top of a... cotton crostini, and toasted all-round.
 ent-FoodBakedBrownieBatch = brownies
     .desc = A pan of brownies.
 
@@ -88,3 +93,5 @@ ent-FoodOnionRings = onion rings
 
 ent-FoodBakedCroissant = croissant
     .desc = Buttery, flaky goodness.
+ent-FoodBakedCroissantCotton = cotton croissant
+    .desc = Buttery, flaky, fibery goodness.

@@ -4,6 +4,8 @@ ent-PaintingMonkey = малюнок мавпи
 ent-BaseSignDirectional = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
+ent-SignDirectionalAtmos = знак атмосферіки
+    .desc = A direction sign, pointing out which way the Atmospherics department is.
 ent-SignDirectionalBar = знак бару
     .desc = A direction sign, pointing out which way the bar is.
 
@@ -76,6 +78,8 @@ ent-SignDirectionalSupply = знак логістики
 ent-SignDirectionalWash = знак вани
     .desc = A direction sign, pointing to the way to a washroom.
 
+ent-SignDirectionalEscapePod = escape pods sign
+    .desc = A direction sign, pointing out the way to an escape pod dock.
 ent-SignAi = знак ШІ
     .desc = A sign, indicating an AI is present.
 
@@ -103,6 +107,8 @@ ent-SignAtmos = знак атмосфери
 ent-SignBar = знак бара
     .desc = A sign indicating the bar.
 
+ent-SignBath = bathroom sign
+    .desc = A sign indicating the bathroom.
 ent-SignKitchen = знак кухні
     .desc = The heart of the home. And disease.
 

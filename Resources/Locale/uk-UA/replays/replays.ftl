@@ -8,6 +8,8 @@ replay-loading-failed = Не вдалося завантажити Перегл�
                         {$reason}
 replay-loading-retry = Try load with more exception tolerance - MAY CAUSE BUGS!
 
+replay-loading-cancel = Cancel
+
 replay-menu-subtext = Replay Client
 replay-menu-load = Завантажити перегляд
 replay-menu-select = Обрати перегляд

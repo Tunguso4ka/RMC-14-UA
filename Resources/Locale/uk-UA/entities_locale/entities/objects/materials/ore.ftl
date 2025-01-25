@@ -1,5 +1,5 @@
 ent-OreBase = { ent-BaseItem }
-    .desc = Частичка не переробленої руди.
+    .desc = Шматочек не обробленої руди.
 
 ent-GoldOre = золота руда
     .desc = { ent-OreBase.desc }
@@ -9,7 +9,7 @@ ent-GoldOre1 = { ent-GoldOre }
     .desc = { ent-GoldOre.desc }
     .suffix = Один
 
-ent-DiamondOre = алмазна руда
+ent-DiamondOre = діамантова руда
     .desc = { ent-OreBase.desc }
     .suffix = Full
 
@@ -73,6 +73,15 @@ ent-Coal1 = { ent-Coal }
     .desc = { ent-Coal.desc }
     .suffix = Один
 
+ent-Coal5 = { ent-Coal }
+    .desc = { ent-Coal.desc }
+    .suffix = Five
+ent-Coal10 = { ent-Coal }
+    .desc = { ent-Coal.desc }
+    .suffix = Ten
+ent-Coal15 = { ent-Coal }
+    .desc = { ent-Coal.desc }
+    .suffix = Fifteen
 ent-SaltOre = сіль
     .desc = { ent-OreBase.desc }
     .suffix = Повний

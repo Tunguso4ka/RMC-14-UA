@@ -28,6 +28,8 @@ ent-BaseTraitorRule = { ent-BaseGameRule }
 ent-Traitor = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-TraitorReinforcement = { ent-Traitor }
+    .desc = { ent-Traitor.desc }
 ent-Revolutionary = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

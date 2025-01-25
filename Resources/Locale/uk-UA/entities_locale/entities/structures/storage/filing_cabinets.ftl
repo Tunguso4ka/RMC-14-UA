@@ -1,26 +1,18 @@
-ent-filingCabinet = filing cabinet
+ent-BaseFilingCabinet = { ent-BaseStructureDynamic }
     .desc = A cabinet for all your filing needs.
-    .suffix = Empty
-
+    .suffix = Порожній
+ent-filingCabinet = filing cabinet
+    .desc = { ent-BaseFilingCabinet.desc }
 ent-filingCabinetTall = tall cabinet
-    .desc = { ent-filingCabinet.desc }
-    .suffix = Empty
-
+    .desc = { ent-BaseFilingCabinet.desc }
 ent-filingCabinetDrawer = chest drawer
     .desc = A small drawer for all your filing needs, Now with wheels!
-    .suffix = Empty
-
-ent-BaseBureaucraticStorageFill = ця сутність не має назви
-
-ent-filingCabinetRandom = { ent-filingCabinet }
-    .desc = { ent-filingCabinet.desc }
-    .suffix = Random
-
-ent-filingCabinetTallRandom = { ent-filingCabinetTall }
-    .desc = { ent-filingCabinetTall.desc }
-    .suffix = Random
-
-ent-filingCabinetDrawerRandom = { ent-filingCabinetDrawer }
-    .desc = { ent-filingCabinetDrawer.desc }
-    .suffix = Random
-
+ent-BaseBureaucraticStorageFill = { "" }
+    .desc = { "" }
+    .suffix = Заповнений
+ent-filingCabinetRandom = { ent-BaseBureaucraticStorageFill }
+    .desc = { ent-BaseBureaucraticStorageFill.desc }
+ent-filingCabinetTallRandom = { ent-BaseBureaucraticStorageFill }
+    .desc = { ent-BaseBureaucraticStorageFill.desc }
+ent-filingCabinetDrawerRandom = { ent-BaseBureaucraticStorageFill }
+    .desc = { ent-BaseBureaucraticStorageFill.desc }

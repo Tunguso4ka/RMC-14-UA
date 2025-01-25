@@ -10,9 +10,8 @@ ent-CrateEmergencyInternals = internals crate
 ent-CrateEmergencyInternalsLarge = internals crate (large)
     .desc = Master your life energy and control your breathing with six breath masks, six emergency oxygen tanks and six large air tanks.
 
-ent-CrateSlimepersonLifeSupport = slimeperson life support crate
-    .desc = Contains four breath masks and four large nitrogen tanks.
-
+ent-CrateNitrogenInternals = internals crate (nitrogen)
+    .desc = Contains four breath masks and four large nitrogen tanks. Intended for Slimepeople and Vox.
 ent-CrateEmergencyRadiation = radiation protection crate
     .desc = Survive the Nuclear Apocalypse and Supermatter Engine alike with two sets of Radiation suits. Each set contains a helmet, suit, and Geiger counter. We'll even throw in a bottle of vodka and some glasses too, considering the life-expectancy of people who order this.
 
@@ -21,4 +20,3 @@ ent-CrateEmergencyInflatablewall = inflatable wall crate
 
 ent-CrateGenericBiosuit = emergency bio suit crate
     .desc = Contains 2 biohazard suits to ensure that no disease will distract you from what you're doing there.
-

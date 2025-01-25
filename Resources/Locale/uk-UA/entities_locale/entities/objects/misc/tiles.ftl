@@ -241,6 +241,8 @@ ent-FloorTileItemGCircuit = green circuit floor
 ent-FloorTileItemBCircuit = blue circuit floor
     .desc = { ent-FloorTileItemBase.desc }
 
+ent-FloorTileItemRCircuit = red circuit floor
+    .desc = { ent-FloorTileItemBase.desc }
 ent-FloorTileItemGCircuit4 = { ent-FloorTileItemGCircuit }
     .desc = { ent-FloorTileItemGCircuit.desc }
     .suffix = 4
@@ -249,6 +251,9 @@ ent-FloorTileItemBCircuit4 = { ent-FloorTileItemBCircuit }
     .desc = { ent-FloorTileItemBCircuit.desc }
     .suffix = 4
 
+ent-FloorTileItemRCircuit4 = { ent-FloorTileItemRCircuit }
+    .desc = { ent-FloorTileItemRCircuit.desc }
+    .suffix = 4
 ent-FloorTileItemGrass = grass tile
     .desc = { ent-FloorTileItemBase.desc }
 

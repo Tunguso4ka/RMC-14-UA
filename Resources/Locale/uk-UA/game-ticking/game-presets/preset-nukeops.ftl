@@ -1,9 +1,11 @@
-﻿nukeops-title = Ядерні оперативники
+nukeops-title = Ядерні оперативники
 nukeops-description = Ядерні оперативники націлилися на станцію. Захистить диск ядерної активації та не дайте їм підірвати ядерну боєголовку.
 
-nukeops-welcome =
+nukeops-welcome = 
     Ви - Ядерний Оперативник. Ваша ціль - підірвати {$station}, та впевнетися що від неї не залишиться і камінця. Ваш наймач, Синдикат, забезпечив вас потрібними речима.
     Операція {$name} розпочата ! Смерть НаноТрайзен!
+
+nukeops-briefing = Your objectives are simple. Deliver the payload and make sure it detonates. Begin mission.
 
 nukeops-opsmajor = [color=crimson]Мажорна перемога Синдикату![/color]
 nukeops-opsminor = [color=crimson]Мінорна перемога Синдикату![/color]

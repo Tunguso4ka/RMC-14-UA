@@ -1,75 +1,75 @@
-ent-ClothingHandsGlovesBoxingRed = red boxing gloves
-    .desc = Red gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRed = червоні рукавиці для боксу
+    .desc = Червоні рукавиці для змагань з боксу.
 
-ent-ClothingHandsGlovesBoxingBlue = blue boxing gloves
-    .desc = Blue gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingBlue = сині рукавиці для боксу
+    .desc = Сині рукавиці для змагань з боксу.
 
-ent-ClothingHandsGlovesBoxingGreen = green boxing gloves
-    .desc = Green gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingGreen = зелені рукавиці для боксу
+    .desc = Зелені рукавиці для змагань з боксу.
 
-ent-ClothingHandsGlovesBoxingYellow = yellow boxing gloves
-    .desc = Yellow gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingYellow = жовті рукавиці для боксу
+    .desc = Жовті рукавиці для змагань з боксу.
 
 ent-ClothingHandsGlovesBoxingRigged = { ent-ClothingHandsGlovesBoxingBlue }
     .desc = { ent-ClothingHandsGlovesBoxingBlue.desc }
-    .suffix = Rigged
+    .suffix = Нечесні
 
-ent-ClothingHandsGlovesCaptain = captain gloves
-    .desc = Regal blue gloves, with a nice gold trim. Swanky.
+ent-ClothingHandsGlovesCaptain = рукавиці капітана
+    .desc = Королівські сині рукавиці з гарним золотим обрамленням. Шикарні.
 
-ent-ClothingHandsGlovesHop = papercut-proof gloves
-    .desc = Perfect for dealing with paperwork and matters with bureaucracy.
+ent-ClothingHandsGlovesHop = порізостійкі рукавички
+    .desc = Годяться для роботи з паперами та бюрократичними обовʼязками.
 
-ent-ClothingHandsGlovesLatex = latex gloves
-    .desc = Thin sterile latex gloves. Basic PPE for any doctor.
+ent-ClothingHandsGlovesLatex = рукавички з латексу
+    .desc = Тонкі стерильні латексні рукавички. Базовий ЗІЗ будь-якого доктора.
 
-ent-ClothingHandsGlovesNitrile = nitrile gloves
-    .desc = High-quality nitrile gloves. Expensive medical PPE.
+ent-ClothingHandsGlovesNitrile = нітрилові рукавички
+    .desc = Високоякісні нітрилові рукавички. Дорогий медичний ЗІЗ.
 
-ent-ClothingHandsGlovesLeather = botanist's leather gloves
-    .desc = These leather gloves protect against thorns, barbs, prickles, spikes and other harmful objects of floral origin. They're also quite warm.
+ent-ClothingHandsGlovesLeather = шкіряні рукавички ботаніка
+    .desc = Ці шкіряні рукавички захищають від колючок, заноз, шипів, та інших шкодливих обʼєктів рослинного походження. Вони також досить теплі.
 
-ent-ClothingHandsGlovesPowerglove = power gloves
-    .desc = Now I'm playin' with power! Wait... they're turned off.
+ent-ClothingHandsGlovesPowerglove = рукавиці сили
+    .desc = Now I'm playin' with power! Стривай-но... вони вимкнені.
 
-ent-ClothingHandsGlovesRobohands = robohands gloves
-    .desc = Beep boop borp!
+ent-ClothingHandsGlovesRobohands = роборуки
+    .desc = Біп-боп-буп!
 
-ent-ClothingHandsGlovesSpaceNinja = space ninja gloves
-    .desc = These black nano-enhanced gloves insulate from electricity and provide fire resistance.
+ent-ClothingHandsGlovesSpaceNinja = рукавички космічного ніндзі
+    .desc = Ці поліпшені нанотехнолоґіями чорні рукавички ізолюють від струму та надають стійкість до вогню.
 
-ent-ClothingHandsGlovesCombat = combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesCombat = бойові рукавиці
+    .desc = Ці тактичні рукавиці є вогне- та струмостійкими.
 
-ent-ClothingHandsTacticalMaidGloves = tactical maid gloves
-    .desc = Tactical maid gloves, every self-respecting maid should be able to discreetly eliminate her goals.
+ent-ClothingHandsTacticalMaidGloves = тактичні рукавички покоївки
+    .desc = Тактичні рукавичкі покоївки, кожна самоповажна покоївка має бути спроможна непомітно усунути свої цілі.
 
-ent-ClothingHandsMercGlovesCombat = mercenary combat gloves
-    .desc = High-quality combat gloves to protect hands from mechanical damage during combat.
+ent-ClothingHandsMercGlovesCombat = бойові рукавиці наймита
+    .desc = Високоякісні бойові рукавиці для захисту рук від механічної шкоди під час бою.
 
-ent-ClothingHandsGlovesFingerless = fingerless gloves
-    .desc = Plain black gloves without fingertips for the hard working.
+ent-ClothingHandsGlovesFingerless = безпальцівки
+    .desc = Прості чорні безпальцівки для роботящих.
 
-ent-ClothingHandsGlovesFingerlessInsulated = fingerless insulated gloves
-    .desc = Insulated gloves resistant to shocks, or at least they used to.
+ent-ClothingHandsGlovesFingerlessInsulated = ізольовані безпальцівки
+    .desc = Ізольовані рукавичкі. Струмостійкі, принаймні у минулому.
 
-ent-ClothingHandsGlovesMercFingerless = mercenary fingerless gloves
-    .desc = Gloves that may not protect you from finger burns, but will make you cooler.
+ent-ClothingHandsGlovesMercFingerless = безпальцівки наймита
+    .desc = Хай ці рукавиці й не вбережуть тебе від опіків пальців, але точно змусять виглядати круто.
 
 ent-ThievingGloves = { ent-ClothingHandsGlovesColorBlack }
     .desc = { ent-ClothingHandsGlovesColorBlack.desc }
-    .suffix = Thieving
+    .suffix = Крадіжкові
 
-ent-ClothingHandsGlovesCluwne = cluwne hands
-    .desc = A cursed pair of cluwne hands.
-    .suffix = Unremoveable
+ent-ClothingHandsGlovesCluwne = клоунські руки
+    .desc = Проклята пара клоунських рук.
+    .suffix = Незнімні
 
-ent-ClothingHandsGlovesNorthStar = gloves of the north star
-    .desc = These gloves allow you to punch incredibly fast.
+ent-ClothingHandsGlovesNorthStar = рукавиці північної зорі
+    .desc = Ці рукавиці дозволяють тобі лупити неймовірно швидко.
 
-ent-ClothingHandsGlovesForensic = forensic gloves
-    .desc = Do not leave fibers or fingerprints. If you work without them, you're A TERRIBLE DETECTIVE.
+ent-ClothingHandsGlovesForensic = рукавиці судмедексперта
+    .desc = Не залишай фібр або відбитків. Якщо ти працюєш без них, ти ЖАХЛИВИЙ ДЕТЕКТИВ.
 
-ent-ClothingHandsGlovesJanitor = rubber gloves
-    .desc = High-quality rubber gloves, squeaky to do some cleaning!
+ent-ClothingHandsGlovesJanitor = гумові рукавички
+    .desc = Високоякісні гумові рукавички, скриплять під час прибирання!
 

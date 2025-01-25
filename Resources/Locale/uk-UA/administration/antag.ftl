@@ -1,4 +1,4 @@
-verb-categories-antag = Антагі
+verb-categories-antag = Антаги
 admin-verb-make-traitor = Перетворює ціль на зрадника.
 admin-verb-make-initial-infected = Перетворює ціль на першого інфікованого.
 admin-verb-make-zombie = Перетворює ціль на зомбі.

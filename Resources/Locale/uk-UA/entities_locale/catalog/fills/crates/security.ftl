@@ -7,9 +7,6 @@ ent-CrateSecurityHelmet = helmet crate
 ent-CrateSecurityNonlethal = nonlethals crate
     .desc = Disabler weapons. Requires Security access to open.
 
-ent-CrateSecurityRiot = swat crate
-    .desc = Contains two sets of riot armor, helmets, shields, and enforcers loaded with beanbags. Extra ammo is included. Requires Armory access to open.
-
 ent-CrateSecuritySupplies = security supplies crate
     .desc = Contains various supplies for the station's Security team. Requires Security access to open.
 
@@ -21,4 +18,3 @@ ent-CrateSecurityBiosuit = security bio suit crate
 
 ent-CrateSecurityTrackingMindshieldImplants = implanter crate
     .desc = Contains 4 MindShield implants and 4 tracking implant. Requires Security access to open.
-

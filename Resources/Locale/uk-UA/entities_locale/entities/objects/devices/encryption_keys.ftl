@@ -43,5 +43,7 @@ ent-EncryptionKeySyndie = криваво-червоний ключ шифрув�
 ent-EncryptionKeyBinary = ключ бінарного перекладу
     .desc = Ключ шифрування який перекладає бінарні сігнали використовуємі ботами.
 
+ent-EncryptionKeyBinarySyndicate = binary translator key
+    .desc = A syndicate encryption key that translates binary signals used by silicons.
 ent-EncryptionKeyFreelance = ключ шифрування фрілансерів
     .desc = Ключ шифрування використовуємий фрілансерами, які можуть або не можуть мати зв'язки.

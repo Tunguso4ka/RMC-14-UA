@@ -1,6 +1,5 @@
 ent-LockerBooze = сховище алкоголю
-    .desc = Місце де живе алкоголь.
-
+    .desc = Домівка для алкоголю.
 ent-LockerSteel = захищена шафка
     .desc = { ent-LockerBaseSecure.desc }
 
@@ -78,6 +77,9 @@ ent-LockerSecurity = шафка офіцера охорони
 ent-GunSafe = сейф зброї
     .desc = { ent-LockerBaseSecure.desc }
 
+ent-GunSafeBaseSecure = { ent-GunSafe }
+    .desc = { ent-GunSafe.desc }
+    .suffix = Armory, Locked
 ent-LockerDetective = кабінет детектива
     .desc = Холодний... як сльози що котяться по вікну нічого не підозрюваючого міста. Порожній... як твоє серце.
 
@@ -99,4 +101,3 @@ ent-LockerMime = шафка міма
 
 ent-LockerRepresentative = шафка представника
     .desc = { ent-LockerBaseSecure.desc }
-

@@ -40,6 +40,10 @@ ent-FoodPieMeat = meat pie
 ent-FoodPieMeatSlice = slice of meat pie
     .desc = { ent-FoodPieSliceBase.desc }
 
+ent-FoodPiePumpkin = pumpkin pie
+    .desc = Someone should turn this into a latte!
+ent-FoodPiePumpkinSlice = slice of pumpkin pie
+    .desc = { ent-FoodPieSliceBase.desc }
 ent-FoodPieXeno = xeno pie
     .desc = { ent-FoodPieBase.desc }
 
@@ -72,4 +76,3 @@ ent-FoodTartGapple = golden apple streusel tart
 
 ent-FoodTartCoco = chocolate lava tart
     .desc = A tasty dessert made of chocolate, with a liquid core.
-

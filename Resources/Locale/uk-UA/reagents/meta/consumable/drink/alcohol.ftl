@@ -157,7 +157,7 @@ reagent-desc-hooch = Either someone's failure at cocktail making or attempt in a
 reagent-name-iced-beer = холодне пиво
 reagent-desc-iced-beer = A beer which is so cold the air around it freezes.
 
-reagent-name-irish-car-bomb = ірландська автомобильна бомба
+reagent-name-irish-car-bomb = irish car bomb
 reagent-desc-irish-car-bomb = A troubling mixture of irish cream and ale.
 
 reagent-name-irish-cream = ірландський крем

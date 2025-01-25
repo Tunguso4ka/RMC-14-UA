@@ -15,7 +15,6 @@ chat-manager-no-headset-on-message = На вас немає рації!
 chat-manager-no-radio-key = Не обрано ключа рації!
 chat-manager-no-such-channel = Ключа рації з '{$key}' не існує!
 chat-manager-whisper-headset-on-message = Ти не можеш шептіти в рацію!
-
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
 chat-manager-sender-announcement = Центральне Командування
 chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} Оголошення:[/font][font size=12]

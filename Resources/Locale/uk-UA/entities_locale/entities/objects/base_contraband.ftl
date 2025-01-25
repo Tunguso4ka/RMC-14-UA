@@ -10,9 +10,28 @@ ent-BaseMajorContraband = { "" }
 ent-BaseRestrictedContraband = { "" }
     .desc = { "" }
 
+ent-BaseCentcommContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
 ent-BaseCommandContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 
+ent-BaseSecurityContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+ent-BaseEngineeringContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+
+ent-BaseScienceContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+
+ent-BaseMedicalContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+ent-BaseCivilianContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+ent-BaseCargoContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+
+ent-BaseCentcommCommandContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
 ent-BaseSecurityCommandContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 
@@ -22,17 +41,12 @@ ent-BaseSecurityScienceCommandContraband = { ent-BaseRestrictedContraband }
 ent-BaseSecurityEngineeringContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 
-ent-BaseEngineeringContraband = { ent-BaseRestrictedContraband }
+ent-BaseSiliconScienceContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
-
-ent-BaseScienceContraband = { ent-BaseRestrictedContraband }
-    .desc = { ent-BaseRestrictedContraband.desc }
-
 ent-BaseSecurityCargoContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 
-ent-BaseCargoContraband = { ent-BaseRestrictedContraband }
+ent-BaseMedicalScienceContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
-
 ent-BaseGrandTheftContraband = { "" }
     .desc = { "" }

@@ -40,6 +40,10 @@ wires-board-name-flatpacker = Flatpacker
 wires-board-name-spaceheater = Space Heater
 
 
+wires-board-name-jukebox = Jukebox
+wires-board-name-computer = Computer
+
+
 wire-name-access = ДОС
 wire-name-arcade-overflow = ОГРН
 wire-name-air-alarm-panic = ПНК

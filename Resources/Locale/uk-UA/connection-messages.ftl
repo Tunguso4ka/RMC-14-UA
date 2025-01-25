@@ -1,14 +1,3 @@
-whitelist-not-whitelisted = Ви не у вайтлісті.
-
-whitelist-playercount-invalid = {$min ->
-    [0] Вайтліст на цьому сервері працює тільки коли гравців менше за {$max}.
-    *[other] Вайтліст на цьому сервері працює тільки коли гравців більше за {$min} {$max ->
-        [2147483647] -> гравців, так що ви зможете під'єднатися пізніше.
-       *[other] -> гравців і менше за {$max} гравців, так що ви зможете під'єднатися пізніше.
-    }
-}
-whitelist-not-whitelisted-rp = Ви не у вайтлисті. Щоб попасти у нього - зайдить на наш Діскорд.
-
 cmd-whitelistadd-desc = Додає вказаного гравця до вайтлисту серверу.
 cmd-whitelistadd-help = Використання: whitelistadd <нікнейм>
 cmd-whitelistadd-existing = {$username} і так був у вайтлисті!
@@ -39,8 +28,30 @@ panic-bunker-account-denied-reason = Цей сервер у режиму Пан�
 panic-bunker-account-reason-account = Вік цього акаунту повинен бути більше {$minutes} хвилин.
 panic-bunker-account-reason-overall = Загальний час гри на цьому акаунті повинен бути більше {$hours} годин
 
+whitelist-playtime = You do not have enough playtime to join this server. You need at least {$minutes} minutes of playtime to join this server.
+whitelist-player-count = This server is currently not accepting players. Please try again later.
+whitelist-notes = You currently have too many admin notes to join this server. You can check your notes by typing /adminremarks in chat.
+whitelist-manual = You are not whitelisted on this server.
+whitelist-blacklisted = You are blacklisted from this server.
+whitelist-always-deny = You are not allowed to join this server.
+whitelist-fail-prefix = Not whitelisted: {$msg}
+whitelist-misconfigured = The server is misconfigured and is not accepting players. Please contact the server owner and try again later.
+
+cmd-blacklistadd-desc = Adds the player with the given username to the server blacklist.
+cmd-blacklistadd-help = Usage: blacklistadd <username>
+cmd-blacklistadd-existing = {$username} is already on the blacklist!
+cmd-blacklistadd-added = {$username} added to the blacklist
+cmd-blacklistadd-not-found = Unable to find '{$username}'
+cmd-blacklistadd-arg-player = [player]
+
+cmd-blacklistremove-desc = Removes the player with the given username from the server blacklist.
+cmd-blacklistremove-help = Usage: blacklistremove <username>
+cmd-blacklistremove-existing = {$username} is not on the blacklist!
+cmd-blacklistremove-removed = {$username} removed from the blacklist
+cmd-blacklistremove-not-found = Unable to find '{$username}'
+cmd-blacklistremove-arg-player = [player]
+
 baby-jail-account-denied = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun!
 baby-jail-account-denied-reason = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun! Reason: "{$reason}"
 baby-jail-account-reason-account = Your Space Station 14 account is too old. It must be younger than {$minutes} minutes
 baby-jail-account-reason-overall = Your overall playtime on the server must be younger than {$minutes} $minutes
-

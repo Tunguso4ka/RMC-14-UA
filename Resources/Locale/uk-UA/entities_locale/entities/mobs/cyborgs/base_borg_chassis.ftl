@@ -9,3 +9,5 @@ ent-BaseBorgChassisNT = { ent-BaseBorgChassis }
 
 ent-BaseBorgChassisSyndicate = { ent-BaseBorgChassis }
     .desc = { ent-BaseBorgChassis.desc }
+ent-BaseBorgChassisDerelict = { ent-BaseBorgChassis }
+    .desc = { ent-BaseBorgChassis.desc }

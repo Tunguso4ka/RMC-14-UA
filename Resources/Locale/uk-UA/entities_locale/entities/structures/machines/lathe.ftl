@@ -1,19 +1,19 @@
-ent-BaseLathe = lathe
+ent-BaseLathe = лат
     .desc = { ent-BaseMachinePowered.desc }
 
 ent-BaseLatheLube = { ent-BaseLathe }
     .desc = { ent-BaseLathe.desc }
 
-ent-BaseHyperlathe = ця сутність не має назви
+ent-BaseHyperlathe = { "" }
     .desc = { "" }
 
-ent-Autolathe = autolathe
+ent-Autolathe = автолат
     .desc = It produces items using metal and glass.
 
 ent-AutolatheHyperConvection = hyper convection autolathe
     .desc = A highly-experimental autolathe that harnesses the power of extreme heat to slowly create objects more cost-effectively.
 
-ent-Protolathe = protolathe
+ent-Protolathe = протолат
     .desc = Converts raw materials into useful objects.
 
 ent-ProtolatheHyperConvection = hyper convection protolathe
@@ -43,6 +43,8 @@ ent-MedicalTechFab = medical techfab
 ent-UniformPrinter = uniform printer
     .desc = Prints new or replacement uniforms.
 
+ent-Biogenerator = biogenerator
+    .desc = Converts plants into biomass, which can be used to construct useful items.
 ent-OreProcessor = ore processor
     .desc = It produces sheets and ingots using ores.
 

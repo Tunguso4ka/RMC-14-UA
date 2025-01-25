@@ -14,10 +14,10 @@ rmc-attachable-activation-fail-not-owned = {CAPITALIZE(THE($holder))} must be he
 
 rmc-attachable-shoot-fail-not-wielded = {CAPITALIZE(THE($holder))} must be wielded to shoot {THE($attachable)}!
 
-rmc-attachable-verb-toggle = Toggle {THE($attachable)}
+rmc-attachable-verb-toggle = Перемкнути {$attachable}
 
-attachable-popup-activate-generic = You activate {THE($attachable)}.
-attachable-popup-deactivate-generic = You deactivate {THE($attachable)}.
+attachable-popup-activate-generic = Ви активуєтє {$attachable}.
+attachable-popup-deactivate-generic = Ви деактивуєте {$attachable}.
 
 attachable-popup-activate-deploy-on-generic = You deploy {THE($attachable)} on {THE($surface)}.
 attachable-popup-activate-deploy-on-ground = You deploy {THE($attachable)} on the ground.
@@ -50,6 +50,7 @@ rmc-attachable-examine-condition-blacklist-comps = the holder [bold]lacks {$comp
 rmc-attachable-examine-condition-blacklist-sizes = the holder [bold]is not[/bold] one of the following sizes: [bold]{$sizes}[/bold]
 rmc-attachable-examine-condition-blacklist-tags = the holder [bold]lacks {$tagNumber}[/bold] of the following tags: [bold]{$tags}[/bold]
 
+rmc-attachable-examine-ranged-accuracy = [color={$colour}]{$sign}{$accuracy}[/color] accuracy multiplier.
 rmc-attachable-examine-ranged-scatter = [color={$colour}]{$sign}{$scatter}[/color] degrees of scatter.
 rmc-attachable-examine-ranged-burst-scatter = [color={$colour}]{$sign}{$burstScatterMult}[/color] burst scatter multiplier.
 rmc-attachable-examine-ranged-shots-per-burst = [color={$colour}]{$sign}{$shots}[/color] burst shots.

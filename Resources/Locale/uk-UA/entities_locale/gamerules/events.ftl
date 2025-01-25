@@ -1,15 +1,13 @@
 ent-BaseStationEvent = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
 ent-BaseStationEventShortDelay = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-BaseStationEventLongDelay = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-AnomalySpawn = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
+ent-AnomalySpawn = { ent-BaseStationEventShortDelay }
+    .desc = { ent-BaseStationEventShortDelay.desc }
 ent-BluespaceArtifact = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -43,15 +41,6 @@ ent-GasLeak = { ent-BaseGameRule }
 ent-KudzuGrowth = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-MouseMigration = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
-ent-KingRatMigration = { ent-BaseStationEventShortDelay }
-    .desc = { ent-BaseStationEventShortDelay.desc }
-
-ent-CockroachMigration = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-PowerGridCheck = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -64,6 +53,8 @@ ent-VentClog = { ent-BaseGameRule }
 ent-SlimesSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-SnakeSpawn = { ent-BaseStationEventShortDelay }
+    .desc = { ent-BaseStationEventShortDelay.desc }
 ent-SpiderSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -86,4 +77,8 @@ ent-IonStorm = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-MimicVendorRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-GreytideVirus = { ent-BaseStationEventShortDelay }
+    .desc = { ent-BaseStationEventShortDelay.desc }
+ent-DerelictCyborgSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }

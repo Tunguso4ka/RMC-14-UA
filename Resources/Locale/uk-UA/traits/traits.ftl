@@ -53,3 +53,8 @@ trait-german-desc = Ви родом з космічної Німеччини.
 
 trait-italian-name = Італьянський акцент (неперекладено)
 trait-italian-desc = Мамма мія! Звучите як космічний італьянець!
+trait-french-name = French accent
+trait-french-desc = Your accent seems to have a certain «je ne sais quoi».
+
+trait-spanish-name = Spanish accent
+trait-spanish-desc = Hola señor, donde esta la biblioteca.

@@ -15,6 +15,9 @@ ent-FoodBoxPizzaFilled = pizza box
     .desc = { ent-FoodBoxPizza.desc }
     .suffix = Filled
 
+ent-FoodBoxPizzaCotton = pizza box
+    .desc = { ent-FoodBoxPizzaFilled.desc }
+    .suffix = Cotton Pizza
 ent-FoodBoxNugget = chicken nuggets
     .desc = You suddenly have an urge to trade on the intergalactic stock market.
 
@@ -67,4 +70,3 @@ ent-HappyHonkCluwne = woeful cluwne meal
 ent-FoodMealHappyHonkClown = { ent-HappyHonk }
     .desc = { ent-HappyHonk.desc }
     .suffix = random food spawner meal
-

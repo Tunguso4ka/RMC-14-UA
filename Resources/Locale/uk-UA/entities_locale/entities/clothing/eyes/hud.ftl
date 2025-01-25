@@ -4,7 +4,7 @@ ent-ShowSecurityIcons = { "" }
 ent-ShowMedicalIcons = { "" }
     .desc = { "" }
 
-ent-ClothingEyesHudDiagnostic = прозороий дисплей діагностики
+ent-ClothingEyesHudDiagnostic = прозорий дисплей діагностики
     .desc = Прозорий дисплей, що здатень аналізувати цілісність та статус роботів та екзокостюмів.
 
 ent-ClothingEyesHudMedical = медічний прозорий дисплей
@@ -13,6 +13,8 @@ ent-ClothingEyesHudMedical = медічний прозорий дисплей
 ent-ClothingEyesHudSecurity = прозорий дисплей охорони
     .desc = Прозорий дисплей, що сканує гуманоїдів в поле зору та показує інформацію про їх ID статус та кріминальну історію.
 
+ent-ClothingEyesHudCommand = administration hud
+    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status.
 ent-ClothingEyesHudBeer = пивні окуляри
     .desc = Пара сонцезахісних прозорих дисплеїв, що можуть сканувати реагенти.
 
@@ -70,4 +72,3 @@ ent-ClothingEyesEyepatchHudDiag = diagnostic hud eyepatch
 
 ent-ClothingEyesEyepatchHudDiagFlipped = { ent-ClothingEyesEyepatchHudDiag }
     .desc = { ent-ClothingEyesEyepatchHudDiag.desc }
-

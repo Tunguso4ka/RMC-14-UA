@@ -28,3 +28,6 @@ ent-GasRecycler = gas recycler
 ent-HeatExchanger = radiator
     .desc = Transfers heat between the pipe and its surroundings.
 
+ent-HeatExchangerBend = { ent-HeatExchanger }
+    .desc = { ent-HeatExchanger.desc }
+    .suffix = Bend

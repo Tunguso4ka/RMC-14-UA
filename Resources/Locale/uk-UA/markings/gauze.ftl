@@ -46,6 +46,9 @@ marking-GauzeUpperLegRight = Gauze Thigh Wrap (Right)
 marking-GauzeBlindfold-gauze_blindfold = Gauze Blindfold
 marking-GauzeBlindfold = Gauze Blindfold
 
+marking-GauzeHead-gauze_head = Gauze Head Wrap
+marking-GauzeHead = Gauze Head Wrap
+
 marking-GauzeLizardBlindfold-gauze_lizard_blindfold = Gauze Blindfold
 marking-GauzeLizardBlindfold = Gauze Blindfold
 
@@ -99,4 +102,3 @@ marking-GauzeMothLowerLegRight = Insectoid Gauze Shin Wrap (Right)
 
 marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Insectoid Gauze Shin Wrap (Left)
 marking-GauzeMothLowerLegLeft = Insectoid Gauze Shin Wrap (Left)
-

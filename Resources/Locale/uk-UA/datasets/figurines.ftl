@@ -30,6 +30,10 @@ figurines-musician-2 = Ніколи тебе не принижу!
 
 figurines-boxer-1 = The first rule of Fight Club is...
 
+figurines-boxer-2 = We settle this in the ring, alright?
+figurines-boxer-3 = I. AM. THE. CHAMPION!!
+figurines-boxer-4 = Don't look at me, he was shot, not punched.
+
 figurines-captain-1 = Екіпаж, ніхто не бачив мого диска?
 figurines-captain-2 = Слава НТ!
 figurines-captain-3 = Ядерний диск в безпеці. Де? Та десь.

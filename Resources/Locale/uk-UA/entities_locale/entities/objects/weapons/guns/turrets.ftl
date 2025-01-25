@@ -20,7 +20,9 @@ ent-WeaponTurretHostile = { ent-BaseWeaponTurret }
     .desc = { ent-BaseWeaponTurret.desc }
     .suffix = Hostile
 
+ent-WeaponTurretAllHostile = { ent-BaseWeaponTurret }
+    .desc = { ent-BaseWeaponTurret.desc }
+    .suffix = All hostile
 ent-WeaponTurretXeno = xeno turret
     .desc = Shoots 9mm acid projectiles
     .suffix = Xeno
-

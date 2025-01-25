@@ -1,8 +1,10 @@
 department-Cargo = Логістика
 department-Civilian = Цивільні
 department-Command = Командування
+department-CentralCommand = Центральне Командування
 department-Engineering = Інженерія
 department-Medical = Медічний
 department-Security = Охорона
 department-Science = Наука
+department-Silicon = Кіборги
 department-Specific = Специфічний

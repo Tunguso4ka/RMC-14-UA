@@ -14,10 +14,10 @@ ent-ClothingBeltMedical = медічний ремінь
     .desc = Може тримати в собі медічні припаси.
 
 ent-ClothingBeltMedicalEMT = EMT belt
-    .desc = Perfect for holding various equipment for medical emergencies.
+    .desc = Годиться для вміщення різноманітного обладнання для медичних випадків.
 
 ent-ClothingBeltPlant = ботанічний ремінь
-    .desc = Ремінь, що може тримати в собі більшість речей ботаників. Неочікувано не зелений.
+    .desc = Ремінь, що може тримати в собі більшість речей ботаників. На диво, не зелений.
 
 ent-ClothingBeltChef = ремінь кухаря
     .desc = Ремінь, що може тримати в собі ножі й приправи.
@@ -25,38 +25,39 @@ ent-ClothingBeltChef = ремінь кухаря
 ent-ClothingBeltSecurity = ремінь офіцера
     .desc = Може тримати в собі інструменти офіцерів безпеки.
 
-ent-ClothingBeltSheath = sabre sheath
-    .desc = An ornate sheath designed to hold an officer's blade.
+ent-ClothingBeltSheath = шаблеві піхви
+    .desc = Оздоблені піхви для носіння офіцерського клинка.
 
-ent-ClothingBeltBandolier = bandolier
-    .desc = A bandolier for holding shotgun ammunition.
+ent-ClothingBeltBandolier = бандольєр
+    .desc = Бандольєр для зберігання набоїв до дробовика.
 
-ent-ClothingBeltChampion = championship belt
-    .desc = Proves to the world that you are the strongest!
+ent-ClothingBeltChampion = чемпіонський пояс
+    .desc = Доказ твоєї найсильнішості!
 
-ent-ClothingBeltHolster = shoulder holster
-    .desc = 'A holster to carry a handgun and ammo. WARNING: Badasses only.'
+ent-ClothingBeltHolster = наплічна кобура
+    .desc = 'Кобура для носіння пістолета та набоїв. УВАГА: лише для крутеликів.'
 
-ent-ClothingBeltSyndieHolster = syndicate shoulder holster
-    .desc = A deep shoulder holster capable of holding many types of ballistics.
+ent-ClothingBeltSyndieHolster = наплічна кобура синдикату
+    .desc = Глибока наплічна кобура, здатна тримати багато видів зброї.
 
-ent-ClothingBeltSecurityWebbing = security webbing
-    .desc = Unique and versatile chest rig, can hold security gear.
+ent-ClothingBeltSecurityWebbing = розвантажний пояс охорони
+    .desc = Гнучкий у користанні пояс, може тримати спорядження охорони.
 
-ent-ClothingBeltMercWebbing = mercenarie webbing
-    .desc = Ideal for storing everything from ammo to weapons and combat essentials.
+ent-ClothingBeltMercWebbing = розвантажний пояс наймита
+    .desc = Годиться для зберігання усього, від набоїв до зброї та бойових необхіднощів.
 
-ent-ClothingBeltSalvageWebbing = salvage rig
-    .desc = Universal unloading system for work in space.
+ent-ClothingBeltSalvageWebbing = рятівний нагрудник
+    .desc = Універсальна розвантажна система для роботи в космосі.
 
-ent-ClothingBeltMilitaryWebbing = chest rig
-    .desc = A set of tactical webbing worn by Syndicate boarding parties.
+ent-ClothingBeltMilitaryWebbing = тактичний нагрудник
+    .desc = Набір тактичних розвантажних поясів, що носять абордажники Синдикату.
 
-ent-ClothingBeltMilitaryWebbingMed = medical chest rig
-    .desc = A set of tactical webbing worn by Gorlex Marauder medic operatives.
+ent-ClothingBeltMilitaryWebbingMed = тактичний нагрудник медика
+    .desc = Набір тактичних розвантажних поясів, що носять медики Головорізів Ґорлакса.
 
-ent-ClothingBeltSuspenders = підтяжки
-    .desc = Це тримає ваші штані.
-
-ent-ClothingBeltWand = wand belt
-    .desc = A belt designed to hold various rods of power. A veritable fanny pack of exotic magic.
+ent-ClothingBeltSuspendersRed = red suspenders
+    .desc = For holding your pants up.
+ent-ClothingBeltSuspendersBlack = black suspenders
+    .desc = { ent-ClothingBeltSuspendersRed.desc }
+ent-ClothingBeltWand = жезловий ремінь
+    .desc = Ремінь, здатний тримати різноманітні чарівні палички. Повні штані екзотичної маґії.

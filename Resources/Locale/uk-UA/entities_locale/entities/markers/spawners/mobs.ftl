@@ -7,6 +7,9 @@ ent-SpawnMobCockroach = Cockroach Spawner
 ent-SpawnMobCorgi = HoP Corgi Spawner
     .desc = { ent-MarkerBase.desc }
 
+ent-SpawnMobCorgiMouse = Dev Mouse Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Admeme
 ent-SpawnMobPossumMorty = Possum Morty Spawner
     .desc = { ent-MarkerBase.desc }
 
@@ -182,4 +185,11 @@ ent-SpawnClownSpider = clown spider spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-SpawnHonkBot = honk bot spawner
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobGingerbreadAI = gingerbread man Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Ghostrole
+ent-SpawnMobReindeerBuck = Reindeer Buck Spawner
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobReindeerDoe = Reindeer Doe Spawner
     .desc = { ent-MarkerBase.desc }

@@ -19,3 +19,5 @@ ent-FoodPlateSmallPlastic = plastic plate
 ent-FoodPlateTin = pie tin
     .desc = A cheap foil tin for pies.
 
+ent-FoodPlateMuffinTin = muffin tin
+    .desc = A cheap foil tin for muffins.

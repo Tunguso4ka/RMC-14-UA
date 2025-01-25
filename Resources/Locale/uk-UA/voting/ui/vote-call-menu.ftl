@@ -2,22 +2,32 @@ ui-vote-type-restart = Перезапустити раунд
 ui-vote-type-gamemode = Наступний ігровой режим
 ui-vote-type-map = Наступна мапа
 
-# Window title of the vote create menu
+ui-vote-type-votekick = Votekick
+
+ui-vote-votekick-type-raiding = Рейдер
+ui-vote-votekick-type-cheating = Чітер
+ui-vote-votekick-type-spamming = Спамер
+
 ui-vote-create-title = Голосування
 
-# Submit button in the vote create button
 ui-vote-create-button = Розпочати голосування
 
-# Timeout text if a standard vote type is currently on timeout.
+ui-vote-follow-button = Слідувати
+
 ui-vote-type-timeout = За це вже недавно голосували ({$remaining})
 
-# Unavailable text if a vote type has been disabled manually.
 ui-vote-type-not-available = Цій тип голосування було вимкнуто
 
-# Hue hue hue
+ui-vote-trusted-users-notice = 
+  This vote option is only available to whitelisted players.
+  In addition, you must have been a ghost for { $timeReq } minutes.
+
+ui-vote-abuse-warning = 
+  Warning!
+  Abuse of the votekick system may result in an indefinite ban!
+
 ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology
 
-## Vote menu command
 
 ui-vote-menu-command-description = Opens the voting menu
-ui-vote-menu-command-help-text = Usage: votemenu
+ui-vote-menu-command-help-text = Використання: votemenu

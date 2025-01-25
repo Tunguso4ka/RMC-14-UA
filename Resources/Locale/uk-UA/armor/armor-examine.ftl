@@ -1,4 +1,3 @@
-# Armor examines
 armor-examinable-verb-text = Броня
 armor-examinable-verb-message = Дослідити властивості броні.
 armor-examine = Надає наступний захист:

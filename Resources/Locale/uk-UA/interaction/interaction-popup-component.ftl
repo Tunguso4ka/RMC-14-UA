@@ -54,6 +54,7 @@ petting-success-honkbot = Ти пестиш {$target} по {POSS-ADJ($target)} s
 petting-success-mimebot = Ти пестиш {$target} по {POSS-ADJ($target)} cold metal head.
 petting-success-cleanbot = Ти пестиш {$target} по {POSS-ADJ($target)} damp metal head.
 petting-success-medibot = Ти пестиш {$target} по {POSS-ADJ($target)} sterile metal head.
+petting-success-firebot = You pet {THE($target)} on {POSS-ADJ($target)} warm metal head. 
 petting-success-generic-cyborg = You pet {$target} on {POSS-ADJ($target)} metal head.
 petting-success-salvage-cyborg = You pet {$target} on {POSS-ADJ($target)} dirty metal head.
 petting-success-engineer-cyborg = You pet {$target} on {POSS-ADJ($target)} reflective metal head.
@@ -68,6 +69,7 @@ petting-failure-cleanbot = Ти тягнешся щоб попестити {$tar
 petting-failure-mimebot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} busy miming!
 petting-failure-medibot = Ти тягнешся щоб попестити {$target}, але {POSS-ADJ($target)} syringe nearly stabs your hand!
 
+petting-failure-firebot = You reach out to pet {THE($target)}, but {SUBJECT($target)} sprays you in the face before you can get close!
 petting-failure-generic-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy stating laws!
 petting-failure-salvage-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy drilling!
 petting-failure-engineer-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy repairing!

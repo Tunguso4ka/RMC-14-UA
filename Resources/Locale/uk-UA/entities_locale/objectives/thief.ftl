@@ -13,9 +13,6 @@ ent-BaseThiefStealStructureObjective = { ent-BaseThiefObjective }
 ent-BaseThiefStealAnimalObjective = { ent-BaseThiefObjective }
     .desc = { ent-BaseThiefObjective.desc }
 
-ent-FigurineStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
-    .desc = { ent-BaseThiefStealCollectionObjective.desc }
-
 ent-HeadCloakStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
     .desc = { ent-BaseThiefStealCollectionObjective.desc }
 
@@ -46,6 +43,8 @@ ent-FlippoEngravedLighterStealObjective = { ent-BaseThiefStealObjective }
 ent-ClothingHeadHatWardenStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }
 
+ent-WantedListCartridgeStealObjective = { ent-BaseThiefStealObjective }
+    .desc = { ent-BaseThiefStealObjective.desc }
 ent-ClothingOuterHardsuitVoidParamedStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }
 
@@ -65,9 +64,6 @@ ent-ExpeditionsCircuitboardStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }
 
 ent-CargoShuttleCircuitboardStealObjective = { ent-BaseThiefStealObjective }
-    .desc = { ent-BaseThiefStealObjective.desc }
-
-ent-SalvageShuttleCircuitboardStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }
 
 ent-ClothingEyesHudBeerStealObjective = { ent-BaseThiefStealObjective }

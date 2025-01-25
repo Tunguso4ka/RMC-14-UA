@@ -45,6 +45,12 @@ ent-PoweredLEDSmallLight = { ent-PoweredSmallLightEmpty }
     .desc = { ent-PoweredSmallLightEmpty.desc }
     .suffix = LED
 
+ent-PoweredDimSmallLight = { ent-PoweredSmallLightEmpty }
+    .desc = { ent-PoweredSmallLightEmpty.desc }
+    .suffix = Dim
+ent-PoweredWarmSmallLight = { ent-PoweredSmallLightEmpty }
+    .desc = { ent-PoweredSmallLightEmpty.desc }
+    .suffix = Warm
 ent-PoweredSmallLight = { ent-PoweredSmallLightEmpty }
     .desc = { ent-PoweredSmallLightEmpty.desc }
 

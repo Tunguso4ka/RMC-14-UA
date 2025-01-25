@@ -42,3 +42,5 @@ reagent-desc-juice-tomato = Томати перероблені в сік. Як�
 
 reagent-name-juice-watermelon = кавуневий сік
 reagent-desc-juice-watermelon = Смачнющий сік із кавуна.
+reagent-name-juice-cherry = cherry juice
+reagent-desc-juice-cherry = Tasty cherry juice, sweet and tangy.

@@ -1,5 +1,3 @@
-## ConstructionMenu.xaml.cs
-
 construction-menu-title = Будивництво
 construction-menu-place-ghost = Поставити привид конструкції
 construction-menu-clear-all = Стерти все

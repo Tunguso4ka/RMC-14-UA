@@ -148,13 +148,15 @@ ent-MobGrenadePenguin = grenade penguin
 ent-MobSnake = змія
     .desc = Хісс! Ця не отруйна.
 
+ent-MobSpiderBase = { ent-SimpleMobBase }
+    .desc = { ent-SimpleMobBase.desc }
+ent-MobSpiderAngryBase = { ent-MobSpiderBase }
+    .desc = { ent-MobSpiderBase.desc }
 ent-MobGiantSpider = тарантул
     .desc = Всесвітньо признані як найгірша штука на світі.
 
 ent-MobGiantSpiderAngry = тарантул
     .desc = { ent-MobGiantSpider.desc }
-    .suffix = Angry
-
 ent-MobClownSpider = клоун-павук
     .desc = Ви боїтеся й клоунів й павуків? Тоді ця істота для вас - клоуно-павук!
 
@@ -184,7 +186,7 @@ ent-MobCorgiNarsi = зіпсований коргі
 ent-MobCorgiPuppy = цуценя коргі
     .desc = Маленький коргі! Авв...
 
-ent-MobCat = cat
+ent-MobCat = кіт
     .desc = Feline pet, very funny.
 
 ent-MobCatCalico = calico cat
@@ -208,12 +210,11 @@ ent-MobSloth = sloth
 ent-MobFerret = ferret
     .desc = Just a silly little guy!
 
-ent-MobHamster = hamster
+ent-MobHamster = хом'як
     .desc = A cute, fluffy, robust hamster.
 
-ent-MobPig = pig
-    .desc = Oink.
-
+ent-MobPig = свиня
+    .desc = А це - свиня.
 ent-MobDionaNymph = diona nymph
     .desc = It's like a cat, only.... branch-ier.
 
@@ -221,3 +222,7 @@ ent-MobDionaNymphAccent = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
     .suffix = Accent
 
+ent-MobReindeerBuck = reindeer buck
+    .desc = You think it can pull a sleigh?
+ent-MobReindeerDoe = reindeer doe
+    .desc = { ent-MobReindeerBuck.desc }

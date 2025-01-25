@@ -1,4 +1,3 @@
-﻿# Spells
 spellbook-fireball-name = Вогняна куля
 spellbook-fireball-desc = Вони вибухуть від ярості коли побачать цю вогняну кулю! Від ярості же?
 
@@ -17,7 +16,6 @@ spellbook-polymorph-rod-desc = Перетворітеся на Нерухоми�
 spellbook-charge-name = Заряд
 spellbook-charge-desc = Повертає заряд в твій жезл.
 
-# Equipment
 
 spellbook-wand-polymorph-door-name = Жезл входу
 spellbook-wand-polymorph-door-description = Для моментів коли вам необхідні двері саме у цієї стіні.
@@ -25,11 +23,9 @@ spellbook-wand-polymorph-door-description = Для моментів коли в�
 spellbook-wand-polymorph-carp-name = Жезл поліморфу в карпа
 spellbook-wand-polymorph-carp-description = Для моментів коли тобі хочеться риби, а поряд тільки клоун.
 
-# Events
 
 spellbook-event-summon-ghosts-name = Виклик привидів
-spellbook-event-summon-ghosts-description = УууУУууУУУуу!
+spellbook-event-summon-ghosts-description = І кого ж ти покличеш?
 
-# Upgrades
 spellbook-upgrade-fireball-name = Покращення вогняної кулі
 spellbook-upgrade-fireball-description = Покращує вашу вогняну кулю до 3 рівня!

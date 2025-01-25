@@ -1,4 +1,6 @@
 rmc-dropship-pre-flight-fueling = Човник все ще підзаряжається для політу і не може відбути прямо зараз. Будь ласка, зачекайте ще {$minutes} хвилин.
+rmc-dropship-pre-hijack = This terminal won't be operational for another {$minutes} minutes.
+
 rmc-dropship-weapons-title = Консоль Озброєння
 
 rmc-dropship-weapons-main-screen-text = U.N.M.C.
@@ -58,6 +60,11 @@ rmc-dropship-weapons-fire-cooldown = {$weapon} щойно стріляло, за
 rmc-dropship-weapons-point-gun = It has a {$weapon} loaded.
 rmc-dropship-weapons-point-ammo = It has a {$ammo} loaded.
 rmc-dropship-weapons-rounds-left = It has {$current} out of {$max} rounds left.
+
+rmc-dropship-utility-activate-not-flying = Utility Systems can only activate while in flight.
+rmc-dropship-utility-not-flyby = {$utility} can only be used during flyby.
+rmc-dropship-utility-not-skilled = You don't have the training to use this system!
+rmc-dropship-utility-cooldown = {$utility} was just used, you need to wait a bit before using it again.
 
 rmc-dropship-flyby-no-skill = У вас немає навичок для виконання прольоту.
 rmc-dropship-fabricator-title = Друкувач Деталей

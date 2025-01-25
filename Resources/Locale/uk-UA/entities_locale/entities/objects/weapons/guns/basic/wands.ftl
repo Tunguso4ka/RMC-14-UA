@@ -10,6 +10,8 @@ ent-WeaponWandPolymorphMonkey = wand of monkey polymorph
 ent-WeaponWandFireball = wand of fireball
     .desc = Great big balls of fire!
 
+ent-WeaponWandLocker = wand of the locker
+    .desc = Stuff nerds at a distance!
 ent-WeaponWandDeath = magical wand of instant death
     .desc = Only the best and brightest of the Space Wizards R&D team worked together to create this beauty.
 
@@ -21,4 +23,3 @@ ent-WeaponWandCluwne = wand of cluwning
 
 ent-WeaponWandPolymorphBread = magic bread wand
     .desc = Turn all your friends into bread! Your boss! Your enemies! Your dog! Make everything bread!
-

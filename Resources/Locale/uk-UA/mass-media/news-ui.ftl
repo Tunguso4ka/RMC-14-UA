@@ -16,13 +16,14 @@ news-write-ui-delete-text = Видалити
 news-write-ui-publish-text = Опублікувати
 news-write-ui-create-text = Створити
 news-write-ui-cancel-text = Відминити
+news-write-ui-save-text = Зберегти
 news-write-ui-preview-text = Предогляд
 news-write-ui-article-count-0 = 0 Статей
 news-write-ui-article-count-text = {$count} Статей
 news-write-ui-footer-text = News#Manager™ Authoring System
 news-write-ui-new-article = Нові статті
 news-write-ui-article-name-label = Заголовок:
-news-write-no-access-popup = Нема доступу
+news-write-no-access-popup = Немає доступу
 news-writer-text-length-exceeded = Забагато симболів
 news-write-ui-richtext-tooltip = Новини підтримують Rich Text
     The following rich text tags are supported:

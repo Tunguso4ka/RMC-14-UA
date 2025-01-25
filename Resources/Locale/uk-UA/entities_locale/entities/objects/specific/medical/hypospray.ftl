@@ -1,4 +1,4 @@
-ent-Hypospray = hypospray
+ent-Hypospray = гіпоспрей
     .desc = A sterile injector for rapid administration of drugs to patients.
 
 ent-SyndiHypo = gorlex hypospray
@@ -29,6 +29,12 @@ ent-BurnAutoInjector = burn auto-injector
 ent-RadAutoInjector = rad auto-injector
     .desc = A rapid dose of anti-radiation. Contains arithrazine and bicaridine.
 
+ent-PunctAutoInjector = puncturase auto-injector
+    .desc = A rapid dose of puncturase and tranexamic acid, intended for combat applications.
+ent-PyraAutoInjector = pyrazine auto-injector
+    .desc = A rapid dose of pyrazine and dermaline, intended for combat applications.
+ent-AirlossAutoInjector = airloss auto-injector
+    .desc = A rapid dose of saline and dexalin plus, intended to get someone up quickly.
 ent-SpaceMedipen = space medipen
     .desc = Contains a mix of chemicals that protect you from the deadly effects of space.
 
@@ -47,4 +53,3 @@ ent-Hypopen = pen
 
 ent-HypopenBox = hypopen box
     .desc = A small box containing a hypopen. Packaging disintegrates when opened, leaving no evidence behind.
-

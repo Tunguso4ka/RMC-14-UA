@@ -28,6 +28,9 @@ signal-port-description-doorbolt = Болтує двері.
 signal-port-name-trigger = Тригер
 signal-port-description-trigger = Посилає сигнал активації пристрою.
 
+signal-port-name-timer = Timer
+signal-port-description-timer = Starts the timer countdown of the device.
+
 signal-port-name-order-sender = Order sender
 signal-port-description-order-sender = Cargo console order sender
 

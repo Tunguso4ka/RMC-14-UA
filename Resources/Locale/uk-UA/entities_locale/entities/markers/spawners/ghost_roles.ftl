@@ -17,10 +17,8 @@ ent-SpawnPointGhostNukeOperative = спавн точка ролі для при�
     .desc = { ent-MarkerBase.desc }
     .suffix = ядерний оперативник
 
-ent-SpawnPointLoneNukeOperative = спавн точка ролі для привидів
+ent-SpawnPointLoneNukeOperative = { ent-BaseAntagSpawner }
     .desc = { ent-MarkerBase.desc }
-    .suffix = оперативник одинак
-
 ent-SpawnPointNukeopsCommander = { ent-SpawnPointLoneNukeOperative }
     .desc = { ent-SpawnPointLoneNukeOperative.desc }
 
@@ -30,11 +28,9 @@ ent-SpawnPointNukeopsMedic = { ent-SpawnPointLoneNukeOperative }
 ent-SpawnPointNukeopsOperative = { ent-SpawnPointLoneNukeOperative }
     .desc = { ent-SpawnPointLoneNukeOperative.desc }
 
-ent-SpawnPointGhostDragon = спавн точка ролі для привидів
+ent-SpawnPointGhostDragon = { ent-BaseAntagSpawner }
     .desc = { ent-MarkerBase.desc }
-    .suffix = дракон
-
-ent-SpawnPointGhostSpaceNinja = спавн точка ролі для привидів
+ent-SpawnPointGhostSpaceNinja = { ent-BaseAntagSpawner }
     .desc = { ent-MarkerBase.desc }
-    .suffix = космічний нінзя
-
+ent-SpawnPointGhostDerelictCyborg = { ent-BaseAntagSpawner }
+    .desc = { ent-BaseAntagSpawner.desc }

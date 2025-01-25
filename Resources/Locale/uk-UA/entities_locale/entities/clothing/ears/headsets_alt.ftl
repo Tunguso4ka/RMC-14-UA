@@ -7,10 +7,6 @@ ent-ClothingHeadsetAltCargo = повнорозмірний навушник кв
 ent-ClothingHeadsetAltCentCom = повнорозмірний навушник ЦентКому
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltCentComFake = { ent-ClothingHeadsetAltCentCom }
-    .desc = { ent-ClothingHeadsetAltCentCom.desc }
-    .suffix = Fake
-
 ent-ClothingHeadsetAltCommand = повнорозмірний навушник командування
     .desc = { ent-ClothingHeadsetAlt.desc }
 
@@ -31,4 +27,3 @@ ent-ClothingHeadsetAltSyndicate = криваво-червоний повноро
 
 ent-ClothingHeadsetAltFreelancer = freelancer's over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }
-

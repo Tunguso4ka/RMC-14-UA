@@ -1,3 +1,5 @@
+voice-mask-default-name-override = Невідомий
+
 voice-mask-name-change-window = Змінити ім'я Голосової маски
 voice-mask-name-change-info = Введить ім'я людини чий голос ви хочете імітувати.
 voice-mask-name-change-speech-style = Стиль голосу

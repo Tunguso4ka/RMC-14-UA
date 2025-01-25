@@ -1,6 +1,8 @@
 ent-ComputerAlert = комп'ютер тривог
     .desc = Потрібен для доступу до Автоматизованої Системи Тривог станції.
 
+ent-ComputerAtmosMonitoring = atmospheric network monitor
+    .desc = Used to monitor the station's atmospheric networks.
 ent-ComputerEmergencyShuttle = консоль шатла евакуації
     .desc = Використовується для раннього запуску шатла.
 
@@ -15,9 +17,6 @@ ent-ComputerShuttleSyndie = консоль шатла Синдикату
 
 ent-ComputerShuttleCargo = консоль шатла логістики
     .desc = Використовується для керування шатлом логістів.
-
-ent-ComputerShuttleSalvage = консоль шатла шахтарів
-    .desc = Використовується для керування шатлом шахтарів.
 
 ent-ComputerIFF = комп'ютер системи "свій-чужий"
     .desc = Дозволяє вам керувати системою "свій-чужий" цього шатла.
@@ -59,16 +58,16 @@ ent-ComputerComms = communications computer
 ent-SyndicateComputerComms = syndicate communications computer
     .desc = A computer capable of remotely hacking into the station's communications systems. Using this to make an announcement will alert the station to your presence.
 
-ent-ComputerSolarControl = solar control computer
+ent-ComputerSolarControl = компʼютер керування сон. панелями
     .desc = A controller for solar panel arrays.
 
-ent-ComputerRadar = mass scanner computer
+ent-ComputerRadar = компʼютер сканування масси
     .desc = A computer for detecting nearby bodies, displaying them by position and mass.
 
-ent-ComputerCargoShuttle = cargo shuttle computer
+ent-ComputerCargoShuttle = компʼютер шатла логістики
     .desc = Used to order the shuttle.
 
-ent-ComputerCargoOrders = cargo request computer
+ent-ComputerCargoOrders = компʼютер замовлень
     .desc = Used to order supplies and approve requests.
 
 ent-ComputerCargoBounty = cargo bounty computer
@@ -80,7 +79,7 @@ ent-ComputerCloningConsole = cloning console computer
 ent-ComputerSalvageExpedition = salvage expeditions computer
     .desc = Used to accept salvage missions, if you're tough enough.
 
-ent-ComputerSurveillanceCameraMonitor = camera monitor
+ent-ComputerSurveillanceCameraMonitor = консоль камер
     .desc = A surveillance camera monitor. You're watching them. Maybe.
 
 ent-ComputerSurveillanceWirelessCameraMonitor = wireless camera monitor
@@ -92,9 +91,11 @@ ent-ComputerPalletConsole = комп'ютер продажів логістик�
 ent-ComputerMassMedia = консоль ЗМІ
     .desc = Напишить ваше повідомлення світові!
 
-ent-ComputerSensorMonitoring = sensor monitoring computer
+ent-ComputerSensorMonitoring = компʼютер моніторінгу сенсорів
     .desc = A flexible console for monitoring all kinds of sensors.
     .suffix = TESTING, DO NOT MAP
 
 ent-ComputerRoboticsControl = консоль контролю робототехники
     .desc = Дозволяє стежити, вимикати та навіть знищювати кіборгів на станції.
+ent-StationAiUploadComputer = AI upload console
+    .desc = Used to update the laws of the station AI.

@@ -1,6 +1,5 @@
 ent-FoodBreadBase = { ent-FoodInjectableBase }
     .desc = { ent-FoodInjectableBase.desc }
-
 ent-FoodBreadSliceBase = { ent-FoodBreadBase }
     .desc = { ent-FoodBreadBase.desc }
 
@@ -16,6 +15,10 @@ ent-FoodBreadBanana = banana bread
 ent-FoodBreadBananaSlice = banana bread slice
     .desc = A slice of delicious banana bread.
 
+ent-FoodBreadCotton = cotton bread
+    .desc = Bread, but for moff.
+ent-FoodBreadCottonSlice = cotton bread slice
+    .desc = A slice of (maybe) delicious cotton bread.
 ent-FoodBreadCorn = cornbread
     .desc = Some good down-home country-style, rootin'-tootin', revolver-shootin', dad-gum yeehaw cornbread.
 
@@ -73,9 +76,13 @@ ent-FoodBreadMeatXenoSlice = xeno meat bread slice
 ent-FoodBreadBaguette = baguette
     .desc = Bon appétit!
 
+ent-FoodBreadBaguetteCotton = cotton baguette
+    .desc = Bon azzétit!
 ent-FoodBreadBaguetteSlice = crostini
     .desc = Bon ap-petite!
 
+ent-FoodBreadBaguetteCottonSlice = cotton crostini
+    .desc = Bon az-zetite!
 ent-FoodBreadButteredToast = buttered toast
     .desc = Crunchy.
 
@@ -94,6 +101,5 @@ ent-FoodBreadMoldySlice = moldy bread slice
 ent-FoodBreadTwoSlice = two slice
     .desc = Classy.
 
-ent-MobBreadDog = bread dog
-    .desc = It's a bread. It's a dog. It's a... breaddog?
-
+ent-MobBreadDog = хлібпес
+    .desc = Одного разу, невідомо коли, на світі зʼявився цей малий. Схожий він був на хліб та на пса.

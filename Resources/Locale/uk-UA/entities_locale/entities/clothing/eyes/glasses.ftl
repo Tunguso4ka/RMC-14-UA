@@ -31,6 +31,8 @@ ent-ClothingEyesGlassesSunglasses = sun glasses
 ent-ClothingEyesGlassesSecurity = security glasses
     .desc = Upgraded sunglasses that provide flash immunity and a security HUD.
 
+ent-ClothingEyesGlassesCommand = administration glasses
+    .desc = Upgraded sunglasses that provide flash immunity and show ID card status.
 ent-ClothingEyesGlassesMercenary = mercenary glasses
     .desc = Glasses made for combat, to protect the eyes from bright blinding flashes.
 
@@ -42,4 +44,3 @@ ent-ClothingEyesGlassesChemical = chemical analysis goggles
 
 ent-ClothingEyesVisorNinja = ninja visor
     .desc = An advanced visor protecting a ninja's eyes from flashing lights.
-

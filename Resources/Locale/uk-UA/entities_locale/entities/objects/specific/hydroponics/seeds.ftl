@@ -4,6 +4,8 @@ ent-SeedBase = { ent-BaseItem }
 ent-WheatSeeds = packet of wheat seeds
     .desc = { ent-SeedBase.desc }
 
+ent-MeatwheatSeeds = packet of meatwheat seeds
+    .desc = If you ever wanted to drive a vegetarian to insanity, here's how.
 ent-OatSeeds = packet of oat seeds
     .desc = { ent-SeedBase.desc }
 
@@ -37,6 +39,8 @@ ent-LimeSeeds = packet of lime seeds
 ent-OrangeSeeds = packet of orange seeds
     .desc = { ent-SeedBase.desc }
 
+ent-ExtradimensionalOrangeSeeds = packet of extradimensional orange seeds
+    .desc = Polygonal seeds.
 ent-PineappleSeeds = packet of pineapple seeds
     .desc = { ent-SeedBase.desc }
 
@@ -159,6 +163,8 @@ ent-OnionRedSeeds = packet of red onion seeds
 ent-WatermelonSeeds = packet of watermelon seeds
     .desc = { ent-SeedBase.desc }
 
+ent-HolymelonSeeds = packet of holymelon seeds
+    .desc = { ent-SeedBase.desc }
 ent-GrapeSeeds = packet of grape seeds
     .desc = { ent-SeedBase.desc }
 
@@ -174,6 +180,8 @@ ent-BungoSeeds = packet of bungo seeds
 ent-PeaSeeds = packet of pea pods
     .desc = These humble plants were once a vital part in the study of genetics.
 
+ent-WorldPeaSeeds = packet of world pea seeds
+    .desc = These rather large seeds give off a soothing blue glow.
 ent-PumpkinSeeds = packet of pumpkin seeds
     .desc = { ent-SeedBase.desc }
 
@@ -191,3 +199,7 @@ ent-RealCapfruitSeeds = packet of capfruit seeds
 ent-FakeCapfruitSeeds = { ent-RealCapfruitSeeds }
     .desc = { ent-RealCapfruitSeeds.desc }
     .suffix = Fake
+ent-CherrySeeds = packet of cherry seeds
+    .desc = { ent-SeedBase.desc }
+ent-AnomalyBerrySeeds = packet of anomaly berry seeds
+    .desc = { ent-SeedBase.desc }

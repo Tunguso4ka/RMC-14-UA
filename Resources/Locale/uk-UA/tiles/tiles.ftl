@@ -90,6 +90,7 @@ tiles-reinforced-glass-floor = усилена скляна підлога
 tiles-metal-foam = metal foam floor
 tiles-green-circuit-floor = green circuit floor
 tiles-blue-circuit-floor = blue circuit floor
+tiles-red-circuit-floor = red circuit floor
 tiles-snow = сніг
 tiles-snow-plating = snowed plating
 tiles-snow-dug = dug snow

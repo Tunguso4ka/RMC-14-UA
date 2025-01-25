@@ -10,6 +10,10 @@ ent-LightBulb = incandescent light bulb
 ent-LedLightBulb = led light bulb
     .desc = A power efficient light bulb.
 
+ent-DimLightBulb = dim light bulb
+    .desc = A dim light bulb for populating the darkness of maintenance.
+ent-WarmLightBulb = warm light bulb
+    .desc = A warm light bulb for a more cozy atmosphere.
 ent-LightBulbOld = old incandescent light bulb
     .desc = An aging light bulb.
 
@@ -56,4 +60,3 @@ ent-LightTubeCrystalRed = red crystal light tube
 
 ent-LightTubeCrystalGreen = green crystal light tube
     .desc = { ent-LightTubeCrystalCyan.desc }
-

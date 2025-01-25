@@ -1,4 +1,4 @@
-botany-swab-from = You carefully collect pollen from the plant.
-botany-swab-to = You carefully dust pollen on the plant.
-swab-used = This swab has been used to collect something.
-swab-unused = This swab is clean and ready to be used.
+botany-swab-from = Ви обережно збираєте пилок з рослини.
+botany-swab-to = Ви обережно струшуєте пилок на рослину.
+swab-used = Ця паличка була використана для збирання чогось.
+swab-unused = Ця паличка чиста і готова до використання.

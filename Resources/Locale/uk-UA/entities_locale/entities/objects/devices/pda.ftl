@@ -1,6 +1,8 @@
 ent-BasePDA = КПК
     .desc = Кишеньковий персональний комп'ютер.
 
+ent-BaseSecurityPDA = { ent-BasePDA }
+    .desc = { ent-BasePDA.desc }
 ent-BaseMedicalPDA = { ent-BasePDA }
     .desc = { ent-BasePDA.desc }
 
@@ -31,12 +33,18 @@ ent-BotanistPDA = КПК ботаніка
 ent-ClownPDA = КПК клоуна
     .desc = Вигляд може бути хибним.
 
+ent-VisitorClownPDA = { ent-ClownPDA }
+    .desc = { ent-ClownPDA.desc }
+    .suffix = Visitor
 ent-MimePDA = КПК міма
     .desc = Неочікувано, але не на безвучному.
 
 ent-ChaplainPDA = КПК священика
     .desc = КПК обраний богом.
 
+ent-VisitorChaplainPDA = { ent-ChaplainPDA }
+    .desc = { ent-ChaplainPDA.desc }
+    .suffix = Visitor
 ent-QuartermasterPDA = КПК квартирмейстера
     .desc = КПК теї людини що замовляє зброю.
 
@@ -52,9 +60,15 @@ ent-BartenderPDA = КПК бармена
 ent-LibrarianPDA = КПК бібліотекаря
     .desc = Пахне як книга.
 
+ent-VisitorLibrarianPDA = { ent-LibrarianPDA }
+    .desc = { ent-LibrarianPDA.desc }
+    .suffix = Visitor
 ent-LawyerPDA = КПК адвоката
     .desc = Допомогає адвокатам переманювати сумнівних кліентів.
 
+ent-VisitorLawyerPDA = { ent-LawyerPDA }
+    .desc = { ent-LawyerPDA.desc }
+    .suffix = Visitor
 ent-JanitorPDA = КПК прибиральника
     .desc = Пахне як відбілювач.
 
@@ -76,6 +90,9 @@ ent-CMOPDA = КПК головного лікаря
 ent-MedicalPDA = КПК лікаря
     .desc = Чистий та стерільний. Має вбудований анализатор здоров'я.
 
+ent-VisitorMedicalPDA = { ent-MedicalPDA }
+    .desc = { ent-MedicalPDA.desc }
+    .suffix = Visitor
 ent-ParamedicPDA = КПК парамедика
     .desc = Чистий та стерільний. Має вбудований швидкий анализатор здоров'я.
 
@@ -103,10 +120,6 @@ ent-CentcomPDA = КПК ЦентКому
 ent-AdminPDA = КПК адмііна
     .desc = Якщо ви не є адміном, будь ласка, повернить цей КПК найближчому адміну.
 
-ent-CentcomPDAFake = { ent-CentcomPDA }
-    .desc = { ent-CentcomPDA.desc }
-    .suffix = Fake
-
 ent-DeathsquadPDA = { ent-CentcomPDA }
     .desc = { ent-CentcomPDA.desc }
     .suffix = Загін Смерті
@@ -114,12 +127,17 @@ ent-DeathsquadPDA = { ent-CentcomPDA }
 ent-MusicianPDA = КПК музиканта
     .desc = Надихає вас на мистецтво.
 
+ent-VisitorMusicianPDA = { ent-MusicianPDA }
+    .desc = { ent-MusicianPDA.desc }
+    .suffix = Visitor
 ent-AtmosPDA = КПК атмосферника
     .desc = Все ще пахне плазмою.
 
 ent-ClearPDA = чистий КПК
     .desc = 99 та 44 сотих відсотків чистого пластику.
 
+ent-VisitorPDA = { ent-ClearPDA }
+    .desc = { ent-ClearPDA.desc }
 ent-SyndiPDA = КПК Синдикату
     .desc = Ойой, круто! Я тепер поганий хлопець.
 
@@ -189,3 +207,6 @@ ent-PiratePDA = КПК пірата
 
 ent-SyndiAgentPDA = КПК агента Синдикату
     .desc = Для лікаря поганих хлопців.
+ent-ChameleonPDA = { ent-PassengerPDA }
+    .desc = { ent-PassengerPDA.desc }
+    .suffix = Chameleon

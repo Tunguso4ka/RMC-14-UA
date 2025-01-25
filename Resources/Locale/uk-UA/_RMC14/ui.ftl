@@ -26,6 +26,8 @@ rmc-ui-named-sidearm = Назва додаткової зброї
 rmc-ui-named-helmet = Назва шолому
 rmc-ui-named-armor = Назва броні
 
+rmc-ui-named-sentry = Sentry Name
+
 rmc-ui-patron-perks = Patron Perks
 rmc-ui-lobby-message = Lobby Message
 rmc-ui-lobby-message-description = Displayed to players before the game starts.
@@ -47,8 +49,15 @@ rmc-ui-figurine-in-preferences = You can export your character to be made into a
   Limited to one active figurine per person!
   If you want to change yours, tell us on Discord.
 
+rmc-ui-ghost-color = Ghost Color
+rmc-ui-ghost-color-clear = Clear
+rmc-ui-ghost-color-save = Save
+
 rmc-ui-shoutout-marine = [bold]Операцію проспонсорував [color=green]{$name}[/color]![/bold]
 rmc-ui-shoutout-xeno = [bold]Надав допомогу вулику [color=purple]{$name}[/color]![/bold]
 
 rmc-ui-discord = Discord
 rmc-ui-patreon = Patreon
+rmc-other-credits-tab = Інше
+rmc-ui-auto-punctuate = Automatically punctuate in-character messages
+rmc-ui-auto-eject-magazines = Automatically eject magazines from guns

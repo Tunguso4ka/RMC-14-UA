@@ -1,5 +1,5 @@
 job-greet-station-name = Вітаємо на {$stationName}.
-job-greet-planet-name = Наразі на орбіті {$planetName}
+job-greet-planet-name = Наразі ми знаходимося на орбиті {$planetName}
 job-greet-introduce-job-name = Ваша роль: {$jobName}.
 job-greet-important-disconnect-admin-notify = Ви граєте за роль що є важливою для ігрового процессу. Будь ласка, якщо вам треба відійти - повідомте адміністрації через ahelp (F1).
 job-greet-supervisors-warning = Як {$jobName} ви підчиняєтеся {$supervisors}. Непередбаченні випадкі можуть змінити це.

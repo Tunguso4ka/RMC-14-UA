@@ -1,7 +1,7 @@
 ## EntitySpawnWindow
 
 entity-spawn-window-title = Панель створення сутностей
-entity-spawn-window-search-bar-placeholder = пошук
+entity-spawn-window-search-bar-placeholder = Пошук
 entity-spawn-window-clear-button = Очистити
 entity-spawn-window-replace-button-text = Замінити
 entity-spawn-window-erase-button-text = Видалити

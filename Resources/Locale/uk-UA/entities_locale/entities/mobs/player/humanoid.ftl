@@ -7,7 +7,7 @@ ent-RandomHumanoidSpawnerERTLeader = лідер ГШР
     .suffix = ERTRole, Basic
 
 ent-RandomHumanoidSpawnerERTLeaderEVA = лідер ГШР
-    .desc = { ent-MarkerBase.desc }
+    .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
     .suffix = ERTRole, Armored EVA
 
 ent-RandomHumanoidSpawnerERTLeaderEVALecter = { ent-RandomHumanoidSpawnerERTLeaderEVA }
@@ -74,42 +74,3 @@ ent-RandomHumanoidSpawnerNukeOp = ядерний оперативник
 ent-RandomHumanoidSpawnerCluwne = клувня
     .desc = { "" }
     .suffix = створює клувню
-
-ent-LostCargoTechnicianSpawner = спавнер загубленого вантажника
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomHumanoidLostCargoTechnician = роль загубленого вантажника
-    .desc = { "" }
-
-ent-ClownTroupeSpawner = clown troupe spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomHumanoidClownTroupe = clown troupe ghost role
-    .desc = { "" }
-
-ent-RandomHumanoidClownTroupeBanana = banana clown troupe
-    .desc = { ent-RandomHumanoidClownTroupe.desc }
-
-ent-TravelingChefSpawner = traveling chef spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomHumanoidTravelingChef = traveling chef ghost role
-    .desc = { "" }
-
-ent-DisasterVictimSpawner = disaster victim spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomHumanoidDisasterVictimRD = disaster victim RD ghost role
-    .desc = { "" }
-
-ent-RandomHumanoidDisasterVictimCMO = disaster victim CMO ghost role
-    .desc = { ent-RandomHumanoidDisasterVictimRD.desc }
-
-ent-RandomHumanoidDisasterVictimCaptain = disaster victim Captain ghost role
-    .desc = { ent-RandomHumanoidDisasterVictimRD.desc }
-
-ent-SyndieDisasterVictimSpawner = syndie disaster victim spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomHumanoidSyndieDisasterVictim = syndie disaster victim ghost role
-    .desc = { "" }

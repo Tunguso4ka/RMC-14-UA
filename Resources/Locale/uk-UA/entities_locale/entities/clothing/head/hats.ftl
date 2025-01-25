@@ -10,6 +10,8 @@ ent-ClothingHeadHatBeretFrench = French beret
 ent-ClothingHeadHatBeretSecurity = security beret
     .desc = A stylish clothing option for security officers.
 
+ent-ClothingHeadHatSecurityTrooper = trooper hat
+    .desc = A campaign hat for the Nanotrasen Troopers, comes with a case too, but you lost it.
 ent-ClothingHeadHatCasa = casa
     .desc = Cone-shaped hat
 
@@ -172,6 +174,8 @@ ent-ClothingHeadHatPirateTricord = pirate hat
 ent-ClothingHeadHatWatermelon = watermelon helmet
     .desc = A carelessly cut half of a watermelon, gutted from the inside, to be worn as a helmet. It can soften the blow to the head.
 
+ent-ClothingHeadHatHolyWatermelon = watermelon halo
+    .desc = Holy moly.
 ent-ClothingHeadHatSyndie = syndicate hat
     .desc = A souvenir hat from "Syndieland", their production has already been closed.
 
@@ -189,13 +193,10 @@ ent-ClothingHeadHatMagician = magician's top hat.
 
 ent-ClothingHeadHatCapcap = cap cap
     .desc = A grand, stylish captain cap.
-
 ent-ClothingHeadHatCentcomcap = CentCom cap
     .desc = An extravagant, fancy Central Commander cap.
-
 ent-ClothingHeadHatGladiator = gladiator helmet
     .desc = Protects the head from harsh ash winds and toy spears.
-
 ent-ClothingHeadHatPartyRed = red party hat
     .desc = Spread a joy!
 
@@ -240,4 +241,3 @@ ent-ClothingHeadHatStrawHat = straw hat
 
 ent-ClothingHeadHatBeretMedic = medical beret
     .desc = White beret that encourages you to be clean.
-

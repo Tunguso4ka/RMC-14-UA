@@ -12,3 +12,9 @@ ent-NetProbeCartridge = картридж NetProbe
 
 ent-LogProbeCartridge = картридж LogProbe
     .desc = Застосунок для считування журналу доступів з пристроїв.
+ent-WantedListCartridge = Wanted list cartridge
+    .desc = A program to get a list of wanted persons.
+ent-MedTekCartridge = MedTek cartridge
+    .desc = A program that provides medical diagnostic tools.
+ent-AstroNavCartridge = AstroNav cartridge
+    .desc = A program for navigation that provides GPS coordinates.

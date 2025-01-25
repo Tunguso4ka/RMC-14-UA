@@ -97,6 +97,8 @@ ent-RDIDCard = ID картка наукового директора
 ent-HoSIDCard = ID картка голови охорони
     .desc = { ent-IDCardStandard.desc }
 
+ent-VisitorIDCard = visitor ID card
+    .desc = { ent-IDCardStandard.desc }
 ent-BrigmedicIDCard = ID картка бригмедика
     .desc = { ent-IDCardStandard.desc }
 
@@ -120,10 +122,6 @@ ent-ERTMedicIDCard = ID картка лікаря ГШР
 
 ent-ERTSecurityIDCard = ID картка офіцера ГШР
     .desc = { ent-ERTChaplainIDCard.desc }
-
-ent-CentcomIDCardSyndie = ID картка офіцера ЦК
-    .desc = { ent-IDCardStandard.desc }
-    .suffix = Fake
 
 ent-MusicianIDCard = ID картка музиканта
     .desc = { ent-IDCardStandard.desc }

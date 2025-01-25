@@ -7,6 +7,8 @@ ent-ProjectileDragonsBreath = dragon's breath
 ent-ProjectileAnomalyFireball = fireball
     .desc = Hovering blob of flame.
 
+ent-ProjectileLocker = cursed locker
+    .desc = A cursed magical locker! Can you resist?
 ent-ProjectilePolyboltBase = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 
@@ -33,4 +35,3 @@ ent-ProjectileIcicle = Icicle
 
 ent-ProjectilePolyboltBread = bread polybolt
     .desc = Nooo, I don't wanna be bread!
-

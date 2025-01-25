@@ -145,6 +145,9 @@ ent-LockableButtonAtmospherics = lockable button
     .desc = { ent-LockableButton.desc }
     .suffix = Atmospherics
 
+ent-LockableButtonCentcomm = { ent-LockableButton }
+    .desc = { ent-LockableButton.desc }
+    .suffix = CentComm
 ent-ButtonFrame = button frame
     .desc = It's a frame to help distinguish switches visually.
 
@@ -167,4 +170,3 @@ ent-ButtonFrameExit = { ent-ButtonFrame }
 ent-ButtonFrameJanitor = { ent-ButtonFrame }
     .desc = { ent-ButtonFrame.desc }
     .suffix = janitor
-

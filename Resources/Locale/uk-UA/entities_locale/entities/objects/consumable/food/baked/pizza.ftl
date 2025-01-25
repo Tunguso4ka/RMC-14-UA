@@ -66,3 +66,7 @@ ent-FoodPizzaUranium = spicy rock pizza
 
 ent-FoodPizzaUraniumSlice = slice of spicy rock pizza
     .desc = A glowing slice of spicy rock pizza.
+ent-FoodPizzaCotton = cotton pizza
+    .desc = Flat fabric cotton dough with cotton topping. Incredible.
+ent-FoodPizzaCottonSlice = slice of cotton pizza
+    .desc = A slice of cotton pizza. Cotton included.

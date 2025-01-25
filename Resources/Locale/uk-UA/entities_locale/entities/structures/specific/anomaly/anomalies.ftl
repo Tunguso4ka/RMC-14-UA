@@ -50,7 +50,7 @@ ent-AnomalyFlora = { ent-BaseAnomaly }
     .suffix = Flora
 
 ent-AnomalyFloraBulb = дивна сяюча ягідка
-    .desc = Це чудова дивна сяюча ягідка. Гмм, в неї щось росте...
+    .desc = Це чудова дивна сяюча ягідка. Гм, в неї щось росте?
     .suffix = Flora Anomaly
 
 ent-AnomalyLiquid = { ent-BaseAnomaly }
@@ -61,3 +61,11 @@ ent-AnomalyShadow = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
     .suffix = Shadow
 
+ent-AnomalyTech = { ent-BaseAnomaly }
+    .desc = { ent-BaseAnomaly.desc }
+    .suffix = Tech
+ent-AnomalyTechBeam = { "" }
+    .desc = { "" }
+ent-AnomalySanta = { ent-BaseAnomaly }
+    .desc = { ent-BaseAnomaly.desc }
+    .suffix = Santa

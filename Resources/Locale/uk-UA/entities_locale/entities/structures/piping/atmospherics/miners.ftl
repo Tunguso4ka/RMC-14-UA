@@ -34,6 +34,8 @@ ent-GasMinerPlasma = plasma gas miner
 ent-GasMinerTritium = tritium gas miner
     .desc = { ent-GasMinerBase.desc }
 
+ent-GasMinerFrezon = frezon gas miner
+    .desc = { ent-GasMinerBase.desc }
 ent-GasMinerWaterVapor = water vapor gas miner
     .desc = { ent-GasMinerBase.desc }
 
@@ -42,4 +44,3 @@ ent-GasMinerAmmonia = ammonia gas miner
 
 ent-GasMinerNitrousOxide = nitrous oxide gas miner
     .desc = { ent-GasMinerBase.desc }
-

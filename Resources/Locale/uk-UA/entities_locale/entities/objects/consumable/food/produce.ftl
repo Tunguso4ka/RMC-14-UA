@@ -7,6 +7,8 @@ ent-FoodProduceBase = { ent-FoodInjectableBase }
 ent-WheatBushel = wheat bushel
     .desc = Sigh... wheat... a-grain?
 
+ent-MeatwheatBushel = meatwheat bushel
+    .desc = Some blood-drenched wheat stalks. You can crush them into what passes for meat if you squint hard enough.
 ent-OatBushel = oat bushel
     .desc = Eat oats, do squats.
 
@@ -70,6 +72,8 @@ ent-FoodLime = lime
 ent-FoodOrange = orange
     .desc = Healthy, very orange.
 
+ent-FoodExtradimensionalOrange = extradimensional orange
+    .desc = You can hardly wrap your head around this thing.
 ent-FoodPineapple = pineapple
     .desc = Mmm, tropical.
 
@@ -185,6 +189,10 @@ ent-FoodWatermelon = watermelon
 ent-FoodWatermelonSlice = watermelon slice
     .desc = Juicy green and red slice.
 
+ent-FoodHolymelon = holymelon
+    .desc = The water within this melon has been blessed by some deity that's particularly fond of watermelon.
+ent-FoodHolymelonSlice = holymelon slice
+    .desc = Juicy golden and red slice.
 ent-FoodGrape = grapes
     .desc = The food of emperors, Space France inhabitants (usually as wine) and soccer moms. One day it could be used in wine production for the bartender if he ever runs out.
 
@@ -200,6 +208,8 @@ ent-FoodBungoPit = bungo pit
 ent-FoodPeaPod = pea pod
     .desc = A duck's favorite treat!
 
+ent-FoodWorldPeas = cluster of world peas
+    .desc = It's rumored to bring peace to any who consume it.
 ent-FoodPumpkin = pumpkin
     .desc = A large, orange... berry. Seriously.
 
@@ -210,3 +220,9 @@ ent-CottonBol = cotton boll
 
 ent-PyrottonBol = pyrotton boll
     .desc = This will probably set you on fire.
+ent-FoodCherry = cherry
+    .desc = Juicy red cherry with a pit inside.
+ent-TrashCherryPit = cherry pit
+    .desc = { ent-FoodInjectableBase.desc }
+ent-FoodAnomalyBerry = anomaly berry
+    .desc = A strange blue fruit. Something about it doesn't seem right.

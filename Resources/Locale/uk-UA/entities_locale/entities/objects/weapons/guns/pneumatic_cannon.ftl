@@ -4,6 +4,8 @@ ent-WeaponImprovisedPneumaticCannon = improvised pneumatic cannon
 ent-LauncherCreamPie = pie cannon
     .desc = Load cream pie for optimal results.
 
+ent-LauncherSyringe = syringe gun
+    .desc = Load full of poisoned syringes for optimal fun.
 ent-WeaponImprovisedPneumaticCannonGun = { ent-WeaponImprovisedPneumaticCannon }
     .desc = { ent-WeaponImprovisedPneumaticCannon.desc }
     .suffix = Gun
@@ -11,4 +13,3 @@ ent-WeaponImprovisedPneumaticCannonGun = { ent-WeaponImprovisedPneumaticCannon }
 ent-WeaponImprovisedPneumaticCannonAdmeme = { ent-WeaponImprovisedPneumaticCannonGun }
     .desc = { ent-WeaponImprovisedPneumaticCannonGun.desc }
     .suffix = Admeme
-

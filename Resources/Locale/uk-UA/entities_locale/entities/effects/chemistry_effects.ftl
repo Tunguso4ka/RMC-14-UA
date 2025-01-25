@@ -1,6 +1,7 @@
 ent-BaseFoam = { "" }
 
-ent-Smoke = smoke
+    .desc = { "" }
+ent-Smoke = дим
     .desc = { ent-BaseFoam.desc }
 
 ent-Foam = foam
@@ -17,9 +18,12 @@ ent-AluminiumMetalFoam = aluminium metal foam
 
 ent-BaseFoamedMetal = base foamed metal
 
+    .desc = { "" }
 ent-FoamedIronMetal = foamed iron metal
     .desc = For sealing hull breaches.
 
 ent-FoamedAluminiumMetal = foamed aluminium metal
     .desc = For sealing hull breaches.
 
+ent-ReactionFlash = { "" }
+    .desc = { "" }

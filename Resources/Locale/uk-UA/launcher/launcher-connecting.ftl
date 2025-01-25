@@ -1,4 +1,4 @@
-connecting-title = Корпус МорПіхоти 14
+connecting-title = Космічна Станція 14
 connecting-exit = Вийти
 connecting-retry = Спробувати знов
 connecting-reconnect = Перепід'єднатися

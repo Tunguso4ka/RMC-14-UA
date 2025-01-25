@@ -11,3 +11,8 @@ ui-options-function-cm-holster-primary = Розстебнути кобуру
 ui-options-function-cm-holster-secondary = Розстебнути додаткову кобуру
 ui-options-function-cm-holster-tertiary = Розтебнути третю кобуру
 ui-options-function-cm-holster-quaternary = Розстебнути четверту кобуру
+ui-options-function-rmc-pick-up-dropped-items = Pick up dropped items
+
+ui-options-header-rmc-xeno = Xeno
+
+ui-options-function-cm-xeno-wide-swing = Xeno wide swing

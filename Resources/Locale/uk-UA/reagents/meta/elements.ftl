@@ -61,7 +61,7 @@ reagent-desc-sodium = A silvery-white alkali metal. Highly reactive in its pure 
 reagent-name-uranium = уран
 reagent-desc-uranium = A grey metallic chemical element in the actinide series, weakly radioactive.
 
-reagent-name-bananium = бананій
+reagent-name-bananium = bananium
 reagent-desc-bananium = A yellow radioactive organic solid.
 
 reagent-name-zinc = цинк

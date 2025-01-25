@@ -20,9 +20,6 @@ forensic-scanner-printer-not-ready = Друкувач ще не готовий.
 forensic-scanner-verb-text = Сканувати
 forensic-scanner-verb-message = Зробити криміналістичний скан
 
-forensic-pad-fingerprint-name = відбитки {$entity}
-forensic-pad-gloves-name = фібри {$entity}
-
 forensics-dna-unknown = невідоме ДНК
 
 forensics-verb-text = Прибрати докази

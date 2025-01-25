@@ -1,94 +1,94 @@
-ent-ClothingBackpack = рюкзак
-    .desc = Ти тягаєш це у себе на спині та кладеш туди речі.
+ent-ClothingBackpack = наплічник
+    .desc = Ти тягаєш це у себе на спині та складаєш туди речі.
 
 ent-ClothingBackpackClown = хихик фон гудоктон
-    .desc = Рюкзак розроблений Гудок! Ко.
+    .desc = Наплічник, розроблений Гудок! Ко.
 
-ent-ClothingBackpackIan = рюкзак Іана
+ent-ClothingBackpackIan = наплічник Іана
     .desc = Іноді він носить його.
 
-ent-ClothingBackpackSecurity = рюкзак офіцерів
-    .desc = Дуже міцний рюкзак.
+ent-ClothingBackpackSecurity = наплічник офіцерів
+    .desc = Дуже міцний наплічник.
 
-ent-ClothingBackpackBrigmedic = рюкзак брігмедика
-    .desc = Дуже стерільний рюкзак.
+ent-ClothingBackpackBrigmedic = наплічник бригмедика
+    .desc = Дуже стерильний наплічник.
 
-ent-ClothingBackpackEngineering = рюкзак інженера
-    .desc = Крепкий рюкзак для щоденого життя на станції.
+ent-ClothingBackpackEngineering = наплічник інженера
+    .desc = Міцний наплічник для щоденого життя на станції.
 
-ent-ClothingBackpackAtmospherics = рюкзак атмосферника
-    .desc = Рюкзак що зроблен з вогнестійких фібр. Пахне плазмою.
+ent-ClothingBackpackAtmospherics = наплічник атмосферника
+    .desc = Наплічник із вогнестійких фібр. Пахне плазмою.
 
-ent-ClothingBackpackMedical = рюкзак медика
-    .desc = Рюкзак спеціально розроблений для використання в стерільному середовищі.
+ent-ClothingBackpackMedical = наплічник медика
+    .desc = Наплічник спеціально розроблений для використання в стерільному середовищі.
 
-ent-ClothingBackpackCaptain = рюкзак капітана
-    .desc = Спеціальний рюкзак спеціально зроблений для офіцерів НаноТрайзен.
+ent-ClothingBackpackCaptain = наплічник капітана
+    .desc = Спеціальний наплічник спеціально розроблений для офіцерів НаноТрайзен.
 
-ent-ClothingBackpackMime = рюкзак міма
-    .desc = Мовчаливий рюкзак розроблений для цих мовчаливих працівників.
+ent-ClothingBackpackMime = наплічник міма
+    .desc = Мовчазний наплічник, розроблений для цих мовчазних працівників.
 
-ent-ClothingBackpackChemistry = рюкзак хіміка
-    .desc = Рюкзак, спеціально розроблений для відштовхування плям і небезпечних рідин.
+ent-ClothingBackpackChemistry = наплічник хіміка
+    .desc = Наплічник, спеціально розроблений для відштовхування плям і небезпечних рідин.
 
-ent-ClothingBackpackHydroponics = рюкзак ботаніка
-    .desc = Рюкзак зроблений з повністю натуральних матеріалів.
+ent-ClothingBackpackHydroponics = наплічник ботаніка
+    .desc = Наплічник, зроблений із повністю натуральних матеріалів.
 
-ent-ClothingBackpackScience = рюкзак науковця
-    .desc = A backpack specially designed to repel stains and hazardous liquids.
+ent-ClothingBackpackScience = наплічник науковця
+    .desc = Наплічник, спеціально розроблений для протидії плямам та небезпечним рідинам.
 
-ent-ClothingBackpackVirology = рюкзак віролога
-    .desc = A backpack made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
+ent-ClothingBackpackVirology = наплічник віролога
+    .desc = Наплічник із гіпоалергенних фібр. Розроблений, аби попередити поширення хвороб. Пахне мавпою.
 
-ent-ClothingBackpackGenetics = рюкзак генетика
-    .desc = A backpack designed to be super tough, just in case someone hulks out on you.
+ent-ClothingBackpackGenetics = наплічник генетика
+    .desc = Наплічник, створений бути надміцним, на той випадок, якщо хтось накинеться на тебе.
 
-ent-ClothingBackpackCargo = рюкзак логістів
-    .desc = A robust backpack for stealing cargo's loot.
+ent-ClothingBackpackCargo = наплічник логіста
+    .desc = Дужий наплічник для викрадання добра з карґо.
 
-ent-ClothingBackpackSalvage = рюкзак шахтарів
-    .desc = A robust backpack for stashing your loot.
+ent-ClothingBackpackSalvage = наплічник шахтарів
+    .desc = Дужий наплічник для схову надибаного добра.
 
-ent-ClothingBackpackMerc = рюкзак найманця
-    .desc = A backpack that has been in many dangerous places, a reliable combat backpack.
+ent-ClothingBackpackMerc = наплічник найманця
+    .desc = Наплічник, що побував у багатьох небезпечних місцях. Надійний бойовий наплічник.
 
-ent-ClothingBackpackERTLeader = рюкзак лідера ГШР
-    .desc = A spacious backpack with lots of pockets, worn by the Commander of an Emergency Response Team.
+ent-ClothingBackpackERTLeader = наплічник лідера ГШР
+    .desc = Просторий наплічник із купою кишень, призначений для ужитку лідером ГШР.
 
-ent-ClothingBackpackERTSecurity = рюкзак офіцера ГШР
-    .desc = A spacious backpack with lots of pockets, worn by Security Officers of an Emergency Response Team.
+ent-ClothingBackpackERTSecurity = наплічник офіцера ГШР
+    .desc = Просторий наплічник із купою кишень, призначений для ужитку офіцером ГШР.
 
-ent-ClothingBackpackERTMedical = рюкзак медика ГШР
-    .desc = A spacious backpack with lots of pockets, worn by Medical Officers of an Emergency Response Team.
+ent-ClothingBackpackERTMedical = наплічник медика ГШР
+    .desc = Просторий наплічник із купою кишень, призначений для ужитку медиком ГШР.
 
-ent-ClothingBackpackERTEngineer = рюкзак інженера ГШР
-    .desc = A spacious backpack with lots of pockets, worn by Engineers of an Emergency Response Team.
+ent-ClothingBackpackERTEngineer = наплічник інженера ГШР
+    .desc = Просторий наплічник із купою кишень, призначений для ужитку інженером ГШР.
 
-ent-ClothingBackpackERTJanitor = рюкзак прибиральника ГШР
-    .desc = A spacious backpack with lots of pockets, worn by Janitors of an Emergency Response Team.
+ent-ClothingBackpackERTJanitor = наплічник прибиральника ГШР
+    .desc = Просторий наплічник із купою кишень, призначений для ужитку прибиральником ГШР.
 
-ent-ClothingBackpackERTClown = рюкзак клоуна ГШР
-    .desc = A spacious backpack with lots of pockets, worn by Clowns of an Emergency Response Team.
+ent-ClothingBackpackERTClown = наплічник клоуна ГШР
+    .desc = Просторий наплічник із купою кишень, призначений для ужитку клоунами ГШР.
 
-ent-ClothingBackpackERTChaplain = рюкзак капелана ГШР
-    .desc = A spacious backpack with lots of pockets, worn by Chaplains of an Emergency Response Team.
+ent-ClothingBackpackERTChaplain = наплічник капелана ГШР
+    .desc = Просторий наплічник із купою кишень, призначений для ужитку капеланами ГШР.
 
-ent-ClothingBackpackDeathSquad = рюкзак загону смерті
-    .desc = Holds the kit of CentComm's most feared agents.
+ent-ClothingBackpackDeathSquad = наплічник загону смерті
+    .desc = Утримує кориснощі найжахаючіших аґентів CentComm.
 
-ent-ClothingBackpackSyndicate = рюкзак Синдиката
+ent-ClothingBackpackSyndicate = наплічник Синдиката
     .desc = { ent-ClothingBackpack.desc }
 
 ent-ClothingBackpackHolding = мішок зберігання
-    .desc = Рюкзак, що відкривається в локалізований простір Синєпростору.
+    .desc = Наплічник, що відкривається в локалізований простір Синєпростору.
 
 ent-ClothingBackpackCluwne = гигик фон дурниктон
-    .desc = Рюкзак розроблений Дур! Ко.
+    .desc = Наплічник розроблений Дур! Ко.
     .suffix = Незнімний
 
 ent-ClothingBackpackElectropack = electropack
-    .desc = Shocks on the signal. It is used to keep a particularly dangerous criminal under control.
-    .suffix = SelfUnremovable
+    .desc = Бʼє струмом за сиґналом. Використовується для утримання особливо небезпечних злочинців під контролем.
+    .suffix = Незнімний
 
 ent-ClothingBackpackDebug = фукзак
     .desc = Що це за ху... фігня?
@@ -98,7 +98,7 @@ ent-ClothingBackpackDebug2 = великий фукзак
     .desc = Що це за ху... фігня?
     .suffix = Дебаг
 
-ent-ClothingBackpackDebug3 = гейський фукзак
+ent-ClothingBackpackDebug3 = ґейський фукзак
     .desc = Що це за ху... фігня?
     .suffix = Дебаг
 

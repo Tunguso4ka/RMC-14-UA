@@ -254,10 +254,9 @@ ent-IrishBoolGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = irish bool
 
-ent-DrinkIrishCarBomb = { ent-DrinkGlass }
+ent-DrinkIrishSlammer = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = irish car bomb
-
+    .suffix = irish slammer
 ent-DrinkIrishCoffeeGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = irish coffee
@@ -549,21 +548,10 @@ ent-XenoBasherGlass = { ent-DrinkGlass }
     .suffix = xeno basher
 
 ent-DrinkShakeBlue = blue milkshake
-    .desc = { "" }
-
 ent-DrinkShakeEmpty = shakeempty
-    .desc = { "" }
-
 ent-DrinkShakeMeat = meat shake
-    .desc = { "" }
-
 ent-DrinkShakeRobo = robo shake
-    .desc = { "" }
-
 ent-DrinkShakeWhite = white shake
-    .desc = { "" }
-
 ent-DrinkBloodGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = blood
-

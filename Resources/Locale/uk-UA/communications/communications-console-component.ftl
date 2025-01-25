@@ -21,3 +21,4 @@ comms-console-announcement-unknown-sender = Невідомим
 comms-console-announcement-title-station = Консоль Комунікацій
 comms-console-announcement-title-centcom = Центральне Командування
 comms-console-announcement-title-nukie = Головорізи Горлакса
+comms-console-announcement-title-station-ai = Станційний ШІ

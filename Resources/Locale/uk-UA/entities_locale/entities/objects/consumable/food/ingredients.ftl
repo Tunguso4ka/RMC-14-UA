@@ -1,6 +1,5 @@
 ent-ReagentContainerBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
 ent-ReagentPacketBase = { ent-ReagentContainerBase }
     .desc = { ent-ReagentContainerBase.desc }
 
@@ -64,6 +63,12 @@ ent-FoodDoughTortillaSlice = tortilla dough slice
 ent-FoodDoughTortillaFlat = flattened tortilla dough
     .desc = A flattened slice of tortilla dough, cook this to get a taco shell.
 
+ent-FoodDoughCotton = cotton dough
+    .desc = A piece of fabric dough.
+ent-FoodDoughCottonSlice = cotton dough slice
+    .desc = A slice of cotton dough.
+ent-FoodDoughCottonRope = dough rope
+    .desc = A thin noodle of cotton dough. Can be cooked into a cotton bagel.
 ent-FoodDoughPastryBaseRaw = raw pastry base
     .desc = Must be cooked before use.
 
@@ -76,6 +81,8 @@ ent-FoodDoughPie = pie dough
 ent-FoodDoughFlat = flat dough
     .desc = A flattened dough.
 
+ent-FoodDoughCottonFlat = flat cotton dough
+    .desc = A flattened cotton dough.
 ent-FoodDoughPizzaBaked = pizza bread
     .desc = Add ingredients to make a pizza.
 
@@ -116,3 +123,5 @@ ent-FoodCocoaBeans = cocoa beans
     .desc = You can never have too much chocolate!
 ent-FoodCroissantRaw = raw croissant
     .desc = Buttery, flaky goodness waiting to happen.
+ent-FoodCroissantRawCotton = raw cotton croissant
+    .desc = Buttery, flaky, fibery goodness waiting to happen.

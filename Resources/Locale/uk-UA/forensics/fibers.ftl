@@ -2,6 +2,7 @@ forensic-fibers = {LOC($material)} фібри
 forensic-fibers-colored = {LOC($color)} {LOC($material)} фібри
 
 fibers-insulative = ізоляційні
+fibers-insulative-frayed = frayed insulative
 fibers-synthetic = синтетичні
 fibers-leather = шкіряні
 fibers-durathread = дюралеві
@@ -15,6 +16,7 @@ fibers-purple = фіолетові
 fibers-red = червоні
 fibers-black = чорні
 fibers-blue = сині
+fibers-teal = teal
 fibers-brown = коричневі
 fibers-grey = сірі
 fibers-green = зелені

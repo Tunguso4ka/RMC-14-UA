@@ -1,6 +1,8 @@
-ent-ClothingShoesBootsMag = маг. чоботи
+ent-ClothingShoesBootsMagBase = маг. чоботи
     .desc = Магнетичні чоботи, які зазвичай використовуються під час позакорабельної діяльності, щоб забезпечити безпечне прикріплення користувача до судна.
 
+ent-ClothingShoesBootsMag = { ent-ClothingShoesBootsMagBase }
+    .desc = { ent-ClothingShoesBootsMagBase.desc }
 ent-ClothingShoesBootsMagAdv = advanced magboots
     .desc = State-of-the-art magnetic boots that do not slow down their wearer.
 

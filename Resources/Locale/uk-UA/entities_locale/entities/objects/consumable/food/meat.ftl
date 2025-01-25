@@ -4,9 +4,8 @@ ent-FoodMeatBase = { ent-FoodInjectableBase }
 ent-FoodMeatRawBase = { ent-FoodMeatBase }
     .desc = { ent-FoodMeatBase.desc }
 
-ent-FoodMeat = raw meat
-    .desc = A slab of raw meat.
-
+ent-FoodMeat = сире мʼясо
+    .desc = Шматок сирого мʼяса.
 ent-FoodMeatHuman = raw human meat
     .desc = Gross.
 
@@ -85,6 +84,10 @@ ent-FoodMeatMeatball = meatball
 ent-FoodMeatSlime = slimeball
     .desc = A gelatinous shaping of slime jelly.
 
+ent-FoodMeatSnail = raw snail meat
+    .desc = Improved with salt.
+ent-FoodMeatAnomaly = anomalous meat mass
+    .desc = An impossibly dense slab of meat. Just looking at it makes you uncomfortable.
 ent-MaterialSmileExtract = smile extract
     .desc = It's a real panacea. But at what cost?
 
@@ -127,6 +130,10 @@ ent-FoodMeatSpiderlegCooked = boiled spider leg
 ent-FoodMeatMeatballCooked = meatball
     .desc = A cooked meatball. Perfect to add to other dishes... except fruity ones.
 
+ent-FoodMeatSnailCooked = boiled snail
+    .desc = Improved with salt.
+ent-FoodMeatAnomalyCooked = anomalous steak
+    .desc = A gigantic mass of cooked meat. A meal for a dinner party, or someone REALLY hungry.
 ent-FoodMeatCutlet = raw cutlet
     .desc = A raw meat cutlet.
 
@@ -180,4 +187,3 @@ ent-FoodMeatSpiderCutletCooked = spider cutlet
 
 ent-FoodMeatXenoCutletCooked = xeno cutlet
     .desc = A cutlet of cooked xeno, dripping with... tastiness?
-

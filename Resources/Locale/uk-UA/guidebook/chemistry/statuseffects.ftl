@@ -13,3 +13,4 @@ reagent-effect-status-effect-RatvarianLanguage = мовні шаблони ра�
 reagent-effect-status-effect-StaminaModifier = змінює витривалість
 reagent-effect-status-effect-RadiationProtection = захист від радіації
 reagent-effect-status-effect-Drowsiness = сонливість
+reagent-effect-status-effect-Adrenaline = адреналін
