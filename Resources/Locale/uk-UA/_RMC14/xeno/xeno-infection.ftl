@@ -18,19 +18,20 @@ rmc-xeno-infection-majorpain-breathing = З кожною секундою вам
 
 rmc-xeno-infection-majorpain-heart = Ваше серце нестерпно покалує, кожний удар відчувається як укол ножем.
 
-rmc-xeno-infection-insanepain-one = IT'S IN YOUR INSIDES!
+rmc-xeno-infection-insanepain-one = ВОНО В ТОБІ!
 
 rmc-xeno-infection-insanepain-two = IT'S GNAWING YOU!
 
-rmc-xeno-infection-insanepain-three = MAKE IT STOP!
+rmc-xeno-infection-insanepain-three = ХТОСЬ, ЗУПИНИТЬ ЦЕ!
 
-rmc-xeno-infection-insanepain-four = YOU ARE GOING TO DIE!
+rmc-xeno-infection-insanepain-four = ТИ ОТ ОТ ВМРЕШ!
 
-rmc-xeno-infection-insanepain-five = IT'S TEARING YOU APART!
+rmc-xeno-infection-insanepain-five = ВОНО РВЕТЬСЯ НА ЗОВНІ!
 
 rmc-xeno-infection-burst-soon = {CAPITALIZE($victim)} почав страшено трястися з боллю на обличчі!
 
-rmc-xeno-infection-burst-soon-self = О, боже, щось виривається з вас! Біль, біль, боже, боже!!
+rmc-xeno-infection-burst-soon-self = О, боже, щось виривається з вас!
+rmc-xeno-infection-burst-now-victim = You feel something ripping up your insides!
+rmc-xeno-infection-burst-now-xeno = We start bursting out of {THE($victim)}'s chest!
 
 rmc-xeno-infected-bursted = {CAPITALIZE(SUBJECT($victim))} має велику диру в {POSS-ADJ($victim)} груді!
-

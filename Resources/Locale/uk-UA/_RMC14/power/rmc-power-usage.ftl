@@ -1,0 +1,1 @@
+rmc-power-usage-display-defib = Він має ще [color=yellow]{$uses}[/color] з [color=yellow]{$maxuses}[/color] зарядів.

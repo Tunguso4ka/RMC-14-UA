@@ -1,0 +1,1 @@
+rmc-crate-openable-need-crowbar = Вам потрибен ломик, щоб відкрити це!

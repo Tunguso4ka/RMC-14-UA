@@ -8,3 +8,4 @@ ent-RMCEntityDesertWaterShallowEdge = { ent-RMCEntityDesertWaterShallow }
     .desc = { ent-RMCEntityDesertWaterShallow.desc }
 ent-RMCEntityDesertWaterDeep = { ent-CMFloorDeepWaterEntity }
     .desc = { ent-CMFloorDeepWaterEntity.desc }
+ent-RMCGrate = grate

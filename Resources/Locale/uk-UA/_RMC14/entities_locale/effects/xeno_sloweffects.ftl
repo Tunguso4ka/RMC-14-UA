@@ -8,3 +8,5 @@ ent-RMCEffectLurkerSlow = { ent-CMEffectStomp }
     .desc = { ent-CMEffectStomp.desc }
 ent-RMCEffectCrusherSlow = { ent-CMEffectStomp }
     .desc = { ent-CMEffectStomp.desc }
+ent-RMCEffectDancerSlow = { ent-CMEffectStomp }
+    .desc = { ent-CMEffectStomp.desc }
