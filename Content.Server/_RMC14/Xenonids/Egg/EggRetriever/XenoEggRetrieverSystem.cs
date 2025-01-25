@@ -137,6 +137,7 @@ public sealed partial class XenoEggRetrieverSystem : SharedXenoEggRetrieverSyste
         if (args.NewMobState != MobState.Dead)
             return;
         DropAllStoredEggs(eggRetriever, 0.75f);
+        RemCompDeferred<XenoEggRetrieverComponent>(eggRetriever.Owner);
     }
 
     private bool DropAllStoredEggs(Entity<XenoEggRetrieverComponent> xeno, float chance = 1.0f)
@@ -148,7 +149,7 @@ public sealed partial class XenoEggRetrieverSystem : SharedXenoEggRetrieverSyste
 
         for (var i = 0; i < xeno.Comp.CurEggs; ++i)
         {
-            if (chance != 1.0 && _random.Prob(chance))
+            if (chance != 1.0 && !_random.Prob(chance))
                 continue;
             eggDropped = true;
             var newEgg = Spawn(xeno.Comp.EggPrototype);

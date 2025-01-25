@@ -64,6 +64,7 @@
           - !type:ChangeConstructionNodeBehavior
             node: windowFrameChigusa
   - type: RMCWallExplosionDeletable
+  - type: DestroyedByExplosionType
   - type: Construction
     graph: RMCWindowChigusa
     node: windowChigusa
@@ -82,7 +83,7 @@
     state: hngr_frame0
   - type: IconSmooth
     key: walls
-    base: chig_frame
+    base: hngr_frame
     mode: CardinalFlags
   - type: Construction
     graph: RMCWindowHangar
@@ -134,6 +135,7 @@
           - !type:ChangeConstructionNodeBehavior
             node: windowFrameHangar
   - type: RMCWallExplosionDeletable
+  - type: DestroyedByExplosionType
   - type: Construction
     graph: RMCWindowHangar
     node: windowHangar
@@ -204,6 +206,7 @@
           - !type:ChangeConstructionNodeBehavior
             node: windowFrameBunker
   - type: RMCWallExplosionDeletable
+  - type: DestroyedByExplosionType
   - type: Construction
     graph: RMCWindowBunker
     node: windowBunker
