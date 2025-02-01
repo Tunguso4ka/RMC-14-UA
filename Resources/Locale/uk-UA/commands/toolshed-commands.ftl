@@ -58,6 +58,8 @@ command-description-rejuvenate =
     Rejuvenates the given entities, restoring them to full health, clearing status effects, etc.
 command-description-tag-list = 
     Lists tags on the given entities.
+command-description-tag-with = 
+    Returns only the entities with the given tag from the piped list of entities.
 command-description-tag-add = 
     Adds a tag to the given entities.
 command-description-tag-rm = 

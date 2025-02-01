@@ -44,6 +44,10 @@ wires-board-name-jukebox = Jukebox
 wires-board-name-computer = Computer
 
 
+wires-board-name-holopad = Holopad
+wires-board-name-barsign = Bar Sign
+
+
 wire-name-access = ДОС
 wire-name-arcade-overflow = ОГРН
 wire-name-air-alarm-panic = ПНК

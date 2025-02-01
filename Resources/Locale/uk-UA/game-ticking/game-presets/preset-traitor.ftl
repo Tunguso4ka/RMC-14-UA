@@ -31,8 +31,13 @@ traitor-role-uplink-code =
     Поставте рінгтон свого КПК на ноти {$code} щоб розблокувати чи заблокувати ваш аплінк.
     Не забудьте заблокувати його, інакше персонал станції зможе викрити вас.
 
+traitor-role-uplink-implant = 
+    Your uplink implant has been activated, access it from your hotbar.
+    The uplink is secure unless someone removes it from your body.
+
 traitor-role-codewords-short = 
     Кодові слова:
     {$codewords}.
 
 traitor-role-uplink-code-short = Код вашого аплінку: {$code}.
+traitor-role-uplink-implant-short = Your uplink was implanted. Access it from your hotbar.

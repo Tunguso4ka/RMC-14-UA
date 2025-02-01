@@ -15,6 +15,7 @@ ghost-target-window-current-button = До: {$name}
 ghost-target-window-warp-to-most-followed = Найвідстежуваний
 
 ghost-roles-window-title = Ролі для привидів
+ghost-roles-window-available-button = Доступно ({$rolesCount})
 ghost-roles-window-join-raffle-button = Приєднатися до розіграшу
 ghost-roles-window-raffle-in-progress-button = 
     Приєднатися (залишилося {$time}, { $players ->

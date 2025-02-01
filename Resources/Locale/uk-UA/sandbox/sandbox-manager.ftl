@@ -1,4 +1,8 @@
 sandbox-window-title = Пісочниця
+sandbox-window-map-editing-label = Редагування
+sandbox-window-visibility-label = Видімість
+sandbox-window-your-character-label = Ваш персонаж
+
 sandbox-window-ai-overlay-button = AI Overlay
 sandbox-window-respawn-button = Відродження
 sandbox-window-spawn-entities-button = Ств. сутності
@@ -14,4 +18,3 @@ sandbox-window-toggle-suicide-button = Самогубство
 sandbox-window-show-spawns-button = Показувати спавни
 sandbox-window-show-bb-button = Показувати хітбокси
 sandbox-window-show-npc-button = Показувати НІП
-sandbox-window-link-machines-button = Link machines

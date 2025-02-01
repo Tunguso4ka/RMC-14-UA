@@ -22,3 +22,5 @@ ent-RMCHumanCorpseColonist = { ent-RMCHumanCorpse }
     .desc = { ent-RMCHumanCorpse.desc }
 ent-RMCHumanCorpseColonistBurst = { ent-RMCHumanCorpseColonist }
     .desc = { ent-RMCHumanCorpseColonist.desc }
+ent-RMCHumanCorpseWeYaGoon = { ent-RMCHumanCorpse }
+    .desc = { ent-RMCHumanCorpse.desc }

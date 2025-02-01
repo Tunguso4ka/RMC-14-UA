@@ -3,6 +3,5 @@ ui-playtime-overall-base = Награно загалом:
 ui-playtime-overall = Награно загалом: {$time}
 ui-playtime-first-time = Грає вперше
 ui-playtime-roles = Награно за роллю
-ui-playtime-time-format = {$hours}H {$minutes}M
 ui-playtime-header-role-type = Роль
 ui-playtime-header-role-time = Час

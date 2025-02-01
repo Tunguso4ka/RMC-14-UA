@@ -10,7 +10,16 @@ ent-CMIDCardColonist = ID картка колоніста
 ent-CMIDCardLiaison = ID картка представника
     .desc = { ent-CMIDCardGold.desc }
 
-ent-CMIDCardMessTech = ID картка кока
+ent-RMCIDCardExecutiveCorporateSpecialist = executive corporate specialist ID card
+    .desc = { ent-CMIDCardLiaison.desc }
+
+ent-RMCIDCardExecutiveCorporateSupervisor = executive corporate supervisor ID card
+    .desc = { ent-CMIDCardLiaison.desc }
+
+ent-RMCIDCardICBLiaison = interstellar commerce bureau liaison ID card
+    .desc = { ent-CMIDCardLiaison.desc }
+
+ent-CMIDCardMessTech = ID картка кухаря
     .desc = { ent-CMIDCardBase.desc }
 
 ent-RMCIDCardPizza = pizza guy badge
@@ -24,3 +33,7 @@ ent-RMCIDCardDeputy = bureau deputy silver badge
 
 ent-RMCIDCardPMC = PMC holo-badge
     .desc = A corporate holo-badge. It has a unique uncapped bottom.
+ent-RMCIDCardPMCColony = { ent-RMCIDCardPMC }
+    .desc = { ent-RMCIDCardPMC.desc }
+ent-RMCIDCardBureauObserver = ID card
+    .desc = { ent-CMIDCardLanyard.desc }

@@ -4,5 +4,6 @@ server-info-discord-button = Діскорд
 server-info-website-button = Сайт
 server-info-wiki-button = Вікі
 server-info-forum-button = Форум
+server-info-telegram-button = Telegram
 server-info-report-button = Повідомити о багу
 server-info-credits-button = Титри

@@ -38,3 +38,6 @@ rmc-announcement-dropship-message = [color=white][font size=16][bold]Dropship Al
 
 rmc-announcement-emergency-dropship-crash = [font size=14][bold][color=white]НАДЗВИЧАЙНА СИТУАЦІЯ[/color][/bold][/font][font size=12][color=red]
   ЧОВНИК НА КУРСІ ЗІТКНЕННЯ. КАТАСТРОФА НЕМИНУЧА.[/color][/font]
+rmc-announcement-delta = [color=#CECECE][font size=16][bold]СИСТЕМУ САМО-ЗНИЩЕННЯ АКТИВОВАНО[/bold][/font][/color][color=red][font size=16][bold]
+
+     УВАГА, ЕКСТРЕННУ СИСТЕМУ САМО-ЗНИЩЕННЯ БУЛО АКТИВОВАНО. ПРОСЛІДУЙТЕ ДО КІМНАТИ КОНТРОЛЮ ЗА СТЕРЖНЯМИ.[/bold][/font][/color]

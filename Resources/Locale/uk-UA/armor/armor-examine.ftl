@@ -16,3 +16,4 @@ armor-damage-type-cold = Холод
 armor-damage-type-poison = Отрута
 armor-damage-type-shock = Удар струмом
 armor-damage-type-structural = Цілісність
+armor-damage-type-holy = Holy

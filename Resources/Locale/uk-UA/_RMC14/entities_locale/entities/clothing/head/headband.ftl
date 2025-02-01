@@ -13,6 +13,9 @@ ent-CMHeadBandRed = червона пов'язка
 ent-CMHeadBandTan = пов'язка коліру засмаги
     .desc = { ent-CMHeadBandGreen.desc }
 
+ent-RMCHeadBandSquad = UNMC squad headband
+    .desc = { ent-CMHeadBandGreen.desc }
+    .suffix = DO NOT MAP
 ent-CMHeadBandAlpha = пов'язка Альфа
     .desc = Шматок тканини в кольорі твого загону.
 

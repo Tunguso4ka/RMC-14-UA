@@ -3,3 +3,4 @@ construction-menu-place-ghost = Поставити привид конструк
 construction-menu-clear-all = Стерти все
 construction-menu-eraser-mode = Режим гумки
 construction-menu-craft = Ремісництво
+construction-menu-grid-view = Grid View

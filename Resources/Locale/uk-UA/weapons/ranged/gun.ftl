@@ -42,9 +42,9 @@ gun-chamber-rack = Rack
 
 gun-magazine-examine = Має [color={$color}]{$count}[/color] набоїв.
 
-gun-revolver-empty = Empty revolver
+gun-revolver-empty = Спорожнити револьвер
 gun-revolver-full = Revolver full
-gun-revolver-insert = Inserted
-gun-revolver-spin = Spin revolver
+gun-revolver-insert = Вставлено
+gun-revolver-spin = Прокрутити барабан
 gun-revolver-spun = Spun
 gun-speedloader-empty = Speedloader empty

@@ -6,8 +6,6 @@ plant-holder-component-no-weeds-message = Ця грядка не має бурʼ
 plant-holder-component-remove-plant-message = Ви прибираєте рослину з {$name}.
 plant-holder-component-remove-plant-others-message = {$name} прибирає рослину.
 plant-holder-component-no-plant-message = В грядці немає рослини.
-plant-holder-component-empty-message = {$owner} is empty!
-plant-holder-component-spray-message = You spray {$owner}.
 plant-holder-component-transfer-message = Ви переміщуєте {$amount}ю у {$owner}.
 plant-holder-component-nothing-to-sample-message = Немає з чого брати зразок!
 plant-holder-component-already-sampled-message = Зразок цієї рослини вже було отримано.
@@ -31,3 +29,4 @@ plant-holder-component-heat-improper-warning = Лампочка [color=orange]н
 plant-holder-component-pressure-improper-warning = Лампочка [color=lightblue]неправильного рівня тиску[/color] блимає.
 plant-holder-component-gas-missing-warning = Лампочка [color=cyan]неправильної атмосфери[/color] блимає.
 plant-holder-component-early-sample-message = Рослина ще недостатньо доросла даби взяти з неї саджанця.
+plant-holder-component-ligneous-cant-harvest-message = The plant is too tough to harvest with your bare hands.

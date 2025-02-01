@@ -62,6 +62,15 @@ admin-note-editor-expiry-placeholder = Введіть дату (рррр-ММ-д
 admin-note-editor-submit = Підтвердити
 admin-note-editor-submit-confirm = Ви впевнені?
 
+admin-note-button-minutes = Minutes
+admin-note-button-hours = Hours
+admin-note-button-days = Days
+admin-note-button-weeks = Weeks
+admin-note-button-months = Months
+admin-note-button-years = Years
+admin-note-button-centuries = Centuries
+
+
 admin-notes-verb-text = Відкрити нотатки
 
 admin-notes-watchlist = Watchlist for {$player}: {$message}

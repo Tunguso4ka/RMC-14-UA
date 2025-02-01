@@ -56,6 +56,7 @@ ent-CMHeadsetReporter = reporter radio headset
 ent-CMHeadsetSeniorCommand = marine senior command headset
     .desc = Issued only to senior command staff.
 
+ent-CMHeadsetHighCommand = marine high command headset
+    .desc = Issued only to high command staff.
 ent-RMCHeadsetSEA = marine senior enlisted advisor headset
     .desc = Issued only to senior enlisted advisors.
-

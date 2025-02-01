@@ -157,8 +157,8 @@ reagent-desc-hooch = Either someone's failure at cocktail making or attempt in a
 reagent-name-iced-beer = холодне пиво
 reagent-desc-iced-beer = A beer which is so cold the air around it freezes.
 
-reagent-name-irish-car-bomb = irish car bomb
-reagent-desc-irish-car-bomb = A troubling mixture of irish cream and ale.
+reagent-name-irish-slammer = Irish slammer
+reagent-desc-irish-slammer = An unconventional mixture of irish cream and stout.
 
 reagent-name-irish-cream = ірландський крем
 reagent-desc-irish-cream = Whiskey-imbued cream. What else could you expect from the Irish.
@@ -183,6 +183,9 @@ reagent-desc-manly-dorf = Beer and Ale, brought together in a delicious mix. Int
 
 reagent-name-margarita = марґарет
 reagent-desc-margarita = On the rocks with salt on the rim. Arriba~!
+
+reagent-name-the-martinez = The Martinez
+reagent-desc-the-martinez = The edgerunner legend. Remembered by a drink, forgotten by a drunk.
 
 reagent-name-martini = класичній мартіні
 reagent-desc-martini = Vermouth with Gin. Not quite how 007 enjoyed it, but still delicious.
@@ -259,6 +262,9 @@ reagent-desc-whiskey-cola = Whiskey, mixed with cola. Surprisingly refreshing.
 reagent-name-whiskey-soda = віскі сода
 reagent-desc-whiskey-soda = For the more refined griffon.
 
+reagent-name-white-gilgamesh = White Gilgamesh
+reagent-desc-white-gilgamesh = A sickening mixture of milk and beer. Makes you feel like you're made of wood.
+
 reagent-name-white-russian = білорус
 reagent-desc-white-russian = That's just, like, your opinion, man...
 
@@ -279,3 +285,5 @@ reagent-desc-watermelon-wakeup = If you want to be awake, this will do it... Als
 
 reagent-name-rubberneck = rubberneck
 reagent-desc-rubberneck = A popular drink amongst those adhering to an all synthetic diet.
+reagent-name-zombiecocktail = Zombie
+reagent-desc-zombiecocktail = It gets in your head. Your he-eyeh-ead.

@@ -6,9 +6,6 @@ shuttle-console-mass = Занадто великий для ШЗС
 shuttle-console-prevent = Ви не можете пілотувати цього шатлу.
 
 
-shuttle-console-static = Grid is static
-
-
 shuttle-console-display-label = Дісплей
 
 shuttle-console-position = Позіція:
@@ -31,6 +28,8 @@ shuttle-console-ftl-state-Starting = Стартує
 shuttle-console-ftl-state-Travelling = Подорожує
 shuttle-console-ftl-state-Arriving = Прибуває
 shuttle-console-ftl-state-Cooldown = Охолоджується
+
+shuttle-console-ftl-state-Invalid = Invalid
 
 shuttle-console-map-settings = Налаштування
 shuttle-console-ftl-button = ШЗС

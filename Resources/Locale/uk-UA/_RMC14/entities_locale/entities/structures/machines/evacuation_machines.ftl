@@ -1,0 +1,17 @@
+ent-RMCSpawnerEvacuationPodSouth = escape pod spawner
+    .desc = Defines a location to spawn an evacuation pod in.
+    .suffix = South
+ent-RMCSpawnerEvacuationPodEast = { ent-RMCSpawnerEvacuationPodSouth }
+    .desc = { ent-RMCSpawnerEvacuationPodSouth.desc }
+    .suffix = East
+ent-RMCSpawnerEvacuationPodNorth = { ent-RMCSpawnerEvacuationPodSouth }
+    .desc = { ent-RMCSpawnerEvacuationPodSouth.desc }
+    .suffix = North
+ent-RMCSpawnerEvacuationPodWest = { ent-RMCSpawnerEvacuationPodSouth }
+    .desc = { ent-RMCSpawnerEvacuationPodSouth.desc }
+    .suffix = West
+ent-RMCSpawnerEvacuationPodEastLiaison = { ent-RMCSpawnerEvacuationPodSouth }
+    .desc = { ent-RMCSpawnerEvacuationPodSouth.desc }
+    .suffix = East, Liaison
+ent-RMCSpawnerLifeboat = lifeboat spawner
+    .desc = Defines a location to spawn a lifeboat.

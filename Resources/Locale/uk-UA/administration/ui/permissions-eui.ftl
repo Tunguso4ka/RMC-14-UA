@@ -14,6 +14,7 @@ permissions-eui-edit-admin-window-title-edit-placeholder = Спеціальни�
 permissions-eui-edit-admin-window-no-rank-button = Без ранга
 permissions-eui-edit-admin-rank-window-name-edit-placeholder = Назва ранга
 permissions-eui-edit-admin-title-control-text = none
+permissions-eui-edit-admin-window-suspended = Suspended?
 permissions-eui-edit-no-rank-text = none
 permissions-eui-edit-title-button = Редагувати
 permissions-eui-edit-admin-rank-button = Редагувати

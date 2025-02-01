@@ -1,11 +1,11 @@
 ent-JumpsuitMarine = однострій морпіха
     .desc = Стандартний однострій морпіха. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
 
-ent-CMJumpsuitMarineEngineer = однострій бойового техника
-    .desc = Стандартний однострій бойового техника. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
-
 ent-CMJumpsuitMarineFormal = формальний одяг морпіха
     .desc = { ent-JumpsuitMarine.desc }
+
+ent-CMJumpsuitMarineEngineer = однострій бойового техника
+    .desc = Стандартний однострій бойового техника. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
 
 ent-CMJumpsuitMarineMedic = однострій бойового медика
     .desc = Стандартний однострій бойового медика. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
@@ -49,14 +49,18 @@ ent-CMJumpsuitCOFormalWhite = { ent-CMJumpsuitCOFormalBlack }
 ent-CMJumpsuitCOService = { ent-CMJumpsuitCO }
     .desc = { ent-CMJumpsuitCO.desc }
 
+ent-CMJumpsuitXOFormal = marine formal service uniform
+    .desc = A formal service uniform typically worn by marines of the UNMC. Still practicable while still being more formal than the standard service uniform.
 ent-CMJumpsuitBO = одяг офіцера
     .desc = Стандартний одяг офіцера.
 
-ent-CMJumpsuitPilot = pilot officer bodysuit
-    .desc = A bodysuit worn by pilot officers of the marines, and is meant for survival in inhospitable conditions. Fly the marines onwards to glory. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
-
+ent-CMJumpsuitOperations = marine operations uniform
+    .desc = An operations uniform worn by members of the marines. Do the corps proud. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
 ent-CMJumpsuitIO = marine intelligence officer uniform
     .desc = Tighter than a vice. Slicker than beard oil. Covered from head to toe in pouches, pockets, bags, straps, and belts. Clearly, you are not only the most intelligent of intelligence officers, but the most fashionable as well. This suit took an entire R&D team five days to develop. It is more expensive than the entire Almayer... probably.
+
+ent-CMJumpsuitPilot = pilot officer bodysuit
+    .desc = A bodysuit worn by pilot officers of the marines, and is meant for survival in inhospitable conditions. Fly the marines onwards to glory. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
 
 ent-CMJumpsuitDCC = dropship crew chief bodysuit
     .desc = A bodysuit worn by dropship crew chiefs of the USCM, and is meant for survival in inhospitable conditions. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
@@ -72,3 +76,7 @@ ent-CMJumpsuitTShirtGray = сіра футболка
 
 ent-CMJumpsuitColonist = одяг колоніста
     .desc = Стильний сіро-зелений одяг - стандарт для колоністів.
+ent-CMJumpsuitSurvivorMarine = UNMC uniform
+    .desc = Torn, Burned and blood stained. This uniform has seen much more than you could possibly imagine.
+ent-CMJumpsuitGeneral = general's uniform
+    .desc = A uniform worn by a fleet general. It comes in a shade of deep black, and has a light shimmer to it. The weave looks strong enough to provide some light protections.

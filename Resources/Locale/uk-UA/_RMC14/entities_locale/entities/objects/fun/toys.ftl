@@ -1,6 +1,10 @@
 ent-CMPlushieBase = звичайна м'яка іграшка
     .desc = Суперські звичайна.
 
+ent-RMCPlushieMoth = { ent-PlushieMoth }
+    .desc = { ent-PlushieMoth.desc }
+ent-RMCPlushieSharkGrey = { ent-PlushieSharkGrey }
+    .desc = { ent-PlushieSharkGrey.desc }
 ent-CMPlushieFarwa = плюшева Фарва
     .desc = М'яка іграшка Фарва. Вона така м'яка та комфортна.
 

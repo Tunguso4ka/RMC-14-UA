@@ -1,16 +1,16 @@
-ent-CMXenoBase = ця сутність не має назви
+ent-CMXenoBase = { "" }
     .desc = { "" }
 
-ent-CMXenoPrying = ця сутність не має назви
+ent-CMXenoPrying = { "" }
     .desc = { "" }
 
-ent-CMXenoPuller = ця сутність не має назви
+ent-CMXenoPuller = { "" }
     .desc = { "" }
 
-ent-CMXenoMelee = ця сутність не має назви
+ent-CMXenoMelee = { "" }
     .desc = { "" }
 
-ent-CMXenoLarge = ця сутність не має назви
+ent-CMXenoLarge = { "" }
     .desc = { "" }
 
 ent-CMXenoUndeveloped = { ent-CMXenoBase }
@@ -22,12 +22,13 @@ ent-CMXenoAI = { ent-CMXenoBase }
 ent-CMXenoDeveloped = { ent-CMXenoBase }
     .desc = { ent-CMXenoBase.desc }
 
-ent-CMXenoTail = ця сутність не має назви
+ent-CMXenoTail = { "" }
     .desc = { "" }
 
-ent-CMXenoFlammable = ця сутність не має назви
+ent-CMXenoFlammable = { "" }
     .desc = { "" }
 
+ent-RMCXenoCommendationReceiver = { "" }
+    .desc = { "" }
 ent-RMCXenoSpeechSounds = { "" }
     .desc = { "" }
-

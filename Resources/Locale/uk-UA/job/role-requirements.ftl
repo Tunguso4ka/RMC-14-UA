@@ -5,8 +5,8 @@ role-timer-overall-too-high = Вам необхідно на [color=yellow]{TOST
 role-timer-role-insufficient = Вам необхідно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин більше на [color={$departmentColor}]{$job}[/color] , щоб пограти за цю роль.
 role-timer-role-too-high = Вам необхідно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин менше на [color={$departmentColor}]{$job}[/color], щоб пограти за цю роль. (Ви хочете зіграти за роль для новачків?)
 
-role-timer-age-to-old = Your character's age must be at most [color=yellow]{$age}[/color] to play this role.
-role-timer-age-to-young = Your character's age must be at least [color=yellow]{$age}[/color] to play this role.
+role-timer-age-too-old = Your character must be under the age of [color=yellow]{$age}[/color] to play this role.
+role-timer-age-too-young = Your character must be over the age of [color=yellow]{$age}[/color] to play this role.
 role-timer-whitelisted-species = Ваш персонаж повиннен бути представником одного з наступних видів, щоб пограти за цю роль.
 role-timer-blacklisted-species = Ваш персонаж не повиннен бути представником одного з наступних видів, щоб пограти за цю роль.
 

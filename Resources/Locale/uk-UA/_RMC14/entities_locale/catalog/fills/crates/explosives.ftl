@@ -1,6 +1,14 @@
 ent-RMCCrateGrenadesHighExplosive = M40 HEDP blast grenades crate (x6)
     .desc = { ent-RMCCrateExplosives.desc }
+ent-RMCCrateGrenadesIncendiary = M40 HIDP incendiary grenades crate (x6)
+    .desc = { ent-RMCCrateExplosives.desc }
 ent-RMCCrateGrenadesFrag = M40 HEFA fragmentation grenades crate (x6)
+    .desc = { ent-RMCCrateExplosives.desc }
+ent-RMCCrateGrenadesSmoke = M40 HSDP smoke grenades crate (x6)
+    .desc = { ent-RMCCrateExplosives.desc }
+ent-RMCCrateGrenadesFragOld = M15 fragmentation grenades crate (x6)
     .desc = { ent-RMCCrateExplosives.desc }
 ent-RMCCrateBreachingCharges = ящик вибухових зарядів (x4)
     .desc = { ent-CMCrateExplosives.desc }
+ent-RMCCrateGrenadesHighExplosiveBox = M40 HEDP blast grenade box crate (x25)
+    .desc = { ent-RMCCrateExplosives.desc }

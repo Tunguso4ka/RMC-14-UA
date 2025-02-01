@@ -1,5 +1,4 @@
-ent-ActionXenoTransferPlasma = Перенести плазму
-(50)
+ent-ActionXenoTransferPlasma = Перенести плазму (50)
     .desc = Give plasma to a nearby xenonid.
 ent-ActionXenoHealerDroneTransferPlasma = Transfer plasma (100)
     .desc = Give plasma to a nearby xenonid.

@@ -42,3 +42,4 @@ id-card-access-level-nuclear-operative = Ядерний Оперативник
 id-card-access-level-syndicate-agent = Агент Синдикату
 
 id-card-access-level-central-command = Центральне Командування
+id-card-access-level-wizard = Чаклун

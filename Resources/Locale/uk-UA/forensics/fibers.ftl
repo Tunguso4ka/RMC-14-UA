@@ -25,3 +25,7 @@ fibers-white = білі
 fibers-yellow = жовті
 fibers-regal-blue = королівські сині
 fibers-olive = оливкові
+fibers-silver = silver
+fibers-gold = gold
+fibers-maroon = maroon
+fibers-pink = pink

@@ -18,3 +18,4 @@ electrify-door-off = Disable overcharge
 toggle-light = Перемкнути світло
 
 ai-device-not-responding = Пристрій не відповідає
+ai-consciousness-download-warning = Ваша свідомість у процессі завантаження.

@@ -9,3 +9,4 @@ damage-throw = throw
 damage-examine = Вона завдає наступну шкоду:
 damage-examine-type = Вона завдає [color=cyan]{$type}[/color]:
 damage-value = - [color=red]{$amount}[/color] юнітів [color=yellow]{$type}[/color].
+damage-none = Воно не завдає шкоди.

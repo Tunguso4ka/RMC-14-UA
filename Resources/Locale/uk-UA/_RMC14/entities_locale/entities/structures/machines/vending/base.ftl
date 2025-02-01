@@ -1,2 +1,4 @@
 ent-ColMarTechBase = ColMarTech vendor
-    .desc = { ent-CMCorrodible.desc }
+    .desc = { "" }
+ent-ColMarTechBaseAnchorable = { ent-ColMarTechBase }
+    .desc = { ent-ColMarTechBase.desc }
