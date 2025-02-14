@@ -1,7 +1,7 @@
 - type: species
   id: Human
   name: species-name-human
-  roundStart: true
+  roundStart: false
   prototype: CMMobHuman # Load the rmc14 human instead of ss14
   sprites: MobHumanSprites
   markingLimits: MobHumanMarkingLimits
