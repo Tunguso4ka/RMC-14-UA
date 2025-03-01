@@ -90,6 +90,8 @@
     evasion: 20
   - type: XenoInhands
     prefix: drone
+  - type: IntelRecoverCorpseObjectiveOnDeath
+    value: 0.1
 
 - type: entity
   parent: CMXenoDroneBase
@@ -226,9 +228,14 @@
   - type: MeleeWeapon
     damage:
       groups:
-        Brute: 17
+        Brute: 17.5
+  - type: XenoTailStab
+    tailDamage:
+      groups:
+        Brute: 25
   - type: XenoPheromones
     pheromonesMultiplier: 3
+    pheroSuffix: strong
   - type: XenoStrain
     name: rmc-xeno-healer-name
     description: rmc-xeno-healer-description
@@ -251,4 +258,3 @@
     gainAttackDowned: 0
   - type: XenoAcid
   - type: XenoSalveVisuals
-  #- type: XenoHealer
