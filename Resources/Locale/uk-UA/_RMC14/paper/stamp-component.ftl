@@ -4,6 +4,7 @@ stamp-component-stamped-name-cm-we-ya = Ве-Я
 stamp-component-stamped-name-cm-marine = Вище Командування МорПіхоти
 stamp-component-stamped-name-cm-cmb = Бюро Колоніальних Маршалів
 
+stamp-component-stamped-name-cm-provost = Офіс Маршалів Провост
 stamp-component-stamped-name-cm-co = Командуючий Офіцер
 stamp-component-stamped-name-cm-aso = Офіцер Допоміжних Сил
 stamp-component-stamped-name-cm-cmp = Голова Військової Поліції

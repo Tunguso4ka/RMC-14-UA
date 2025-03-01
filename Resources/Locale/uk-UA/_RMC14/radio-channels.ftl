@@ -21,4 +21,12 @@ chat-radio-colony = Колонія
 chat-radio-WY = Ве-Я
 
 chat-radio-CMB = Бюро Колоніальних Маршалів
+chat-radio-provost = Provost
+
+chat-radio-spp-command = SPP Command
+chat-radio-spp = SPP
+chat-radio-spp-engi = SPP Engi
+chat-radio-spp-med = SPP Med
+chat-radio-spp-cct = SPP CCT
+
 chat-radio-hivemind = Вулик

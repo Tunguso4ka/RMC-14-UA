@@ -61,3 +61,5 @@ rmc-ui-patreon = Patreon
 rmc-other-credits-tab = Інше
 rmc-ui-auto-punctuate = Automatically punctuate in-character messages
 rmc-ui-auto-eject-magazines = Automatically eject magazines from guns
+rmc-tacmap-alert-area = Current Area: {$area}
+rmc-tacmap-alert-no-area = Unknown

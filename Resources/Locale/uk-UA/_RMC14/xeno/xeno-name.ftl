@@ -1,3 +1,4 @@
+rmc-xeno-name-number = {$baseName} ({$prefix}-{$number}{$postfix})
 rmc-xeno-name = {$baseName} ({$prefix}-{$number}{$postfix})
 rmc-xeno-young = Юна {$baseName}
 rmc-xeno-mature = Доросла {$baseName}
