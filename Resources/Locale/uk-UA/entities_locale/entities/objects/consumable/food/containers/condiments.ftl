@@ -13,9 +13,8 @@ ent-FoodCondimentPacketBbq = BBQ sauce
 ent-FoodCondimentPacketCornoil = corn oil
     .desc = Corn oil. A delicious oil used in cooking. Made from corn.
 
-ent-FoodCondimentPacketFrostoil = coldsauce
+ent-FoodCondimentPacketColdsauce = coldsauce
     .desc = Coldsauce. Leaves the tongue numb in its passage.
-
 ent-FoodCondimentPacketHorseradish = horseradish sauce
     .desc = A packet of smelly horseradish sauce.
 
@@ -69,4 +68,3 @@ ent-FoodShakerSalt = salt shaker
 
 ent-FoodShakerPepper = pepper shaker
     .desc = Often used to flavor food or make people sneeze.
-

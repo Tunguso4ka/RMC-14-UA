@@ -25,3 +25,14 @@ ent-CMPlushieRunnerBeret = терапевтична іграшка XX-121
 
 ent-RCMPlushieRounyLizard = silly rouny plushie
     .desc = A silly rouny plushie produced by the UNMC to reduce stress in marines, shown to be highly effective when thrown into walls.
+ent-RMCPlushieAlec = conspicuous plush
+    .desc = You can almost feel spite emanating from it. On it's back is a small tag listing the several cheap and hyper allergenic textiles it's made of. At the very bottom is the name of the maker, Drake Industries.
+ent-RMCPlushieNyx = accursed plush
+    .desc = It's rumoured if you ask this plushie for metal, your soul gets trapped in the pit. It's also rumoured that this plushie was made with 99% cotton.
+ent-RMCPlushieXippy = xippy
+    .desc = An accursed agent of chaos and violence.
+ent-RMCPlushieGnarpGnarp = gnarp plush
+    .desc = gnarp gnarp.
+ent-RMCPlushieGnarpGnarpAlt = gnarp plush
+    .desc = gnarp gnarp.
+    .suffix = Alternate

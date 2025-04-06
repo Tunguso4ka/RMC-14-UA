@@ -17,18 +17,14 @@ admin-smite-explode-name = Explode
 admin-smite-chess-dimension-name = Chess Dimension
 admin-smite-set-alight-name = Set Alight
 admin-smite-monkeyify-name = Monkeyify
+admin-smite-garbage-can-name = Super speed
 admin-smite-electrocute-name = Garbage Can
-admin-smite-creampie-name = Electrocute
 admin-smite-remove-blood-name = Creampie
-admin-smite-vomit-organs-name = Remove blood
 admin-smite-remove-hands-name = Vomit organs
 admin-smite-remove-hand-name = Remove hands
 admin-smite-pinball-name = Remove hand
 admin-smite-yeet-name = Stomach Removal
 admin-smite-become-bread-name = Lungs Removal
-admin-smite-ghostkick-name = Pinball
-admin-smite-nyanify-name = Yeet
-admin-smite-kill-sign-name = Become Bread
 admin-smite-cluwne-name = Become Mouse
 admin-smite-anger-pointing-arrows-name = Ghostkick
 admin-smite-dust-name = Nyanify
@@ -48,11 +44,18 @@ admin-smite-stomach-removal-name = Flip eye
 admin-smite-speak-backwards-name = Run Walk Swap
 admin-smite-lung-removal-name = Speak Backwards
 admin-smite-disarm-prone-name = Disarm Prone
-admin-smite-garbage-can-name = Super speed
 admin-smite-super-bonk-name = Super Bonk Lite
 admin-smite-super-bonk-lite-name = Super Bonk
 admin-smite-terminate-name = Terminate
 admin-smite-super-slip-name = Super Slip
+
+
+admin-smite-creampie-name = Electrocute
+admin-smite-vomit-organs-name = Remove blood
+admin-smite-ghostkick-name = Pinball
+admin-smite-nyanify-name = Yeet
+admin-smite-kill-sign-name = Become Bread
+admin-smite-omni-accent-name = Omni-Accent
 
 
 admin-smite-explode-description = Explode them.
@@ -92,9 +95,12 @@ admin-smite-lung-removal-description = Removes their lungs, drowning them.
 admin-smite-disarm-prone-description = Makes them get disarmed 100% of the time and cuffed instantly.
 admin-smite-garbage-can-description = Turn them into a garbage bin to emphasize what they remind you of.
 admin-smite-super-bonk-description = Slams them on every single table on the Station and beyond.
-admin-smite-super-bonk-lite-description= Slams them on every single table on the Station and beyond. Stops when the target is dead.
+admin-smite-super-bonk-lite-description = Slams them on every single table on the Station and beyond. Stops when the target is dead.
 admin-smite-terminate-description = Creates a Terminator ghost role with the sole objective of killing them.
 admin-smite-super-slip-description = Slips them really, really hard.
+
+
+admin-smite-omni-accent-description = Makes the target speak with almost every accent available.
 
 
 admin-trick-unbolt-description = Unbolts the targetted airlock.

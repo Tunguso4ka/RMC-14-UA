@@ -2,6 +2,9 @@ ent-CMAirlockSecureLockedColony = { ent-CMAirlockSecure }
     .desc = { ent-CMAirlockSecure.desc }
     .suffix = Colony, Зачинені
 
+ent-CMAirlockSecureLockedCommand = { ent-CMAirlockSecure }
+    .desc = { ent-CMAirlockSecure.desc }
+    .suffix = Command, Locked
 ent-CMAirlockCommandLockedColony = { ent-CMAirlockCommand }
     .desc = { ent-CMAirlockCommand.desc }
     .suffix = Command, Colony, Зачинені
@@ -49,4 +52,3 @@ ent-CMAirlockGlassMedicalLockedColony = { ent-CMAirlockGlassMedical }
 ent-CMAirlockGlassResearchLockedColony = { ent-CMAirlockGlassMedical }
     .desc = { ent-CMAirlockGlassMedical.desc }
     .suffix = Research, Colony, Склянні, Зачинені
-

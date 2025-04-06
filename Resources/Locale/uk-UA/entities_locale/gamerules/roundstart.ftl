@@ -7,6 +7,8 @@ ent-RespawnDeadRule = { ent-BaseGameRule }
 ent-SubGamemodesRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-SubGamemodesRuleNoWizard = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
 ent-DeathMatch31 = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -39,6 +41,10 @@ ent-Sandbox = { ent-BaseGameRule }
 ent-Secret = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-BaseWizardRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-Wizard = { ent-BaseWizardRule }
+    .desc = { ent-BaseWizardRule.desc }
 ent-Zombie = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

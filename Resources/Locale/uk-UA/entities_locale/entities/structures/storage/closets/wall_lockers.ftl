@@ -4,6 +4,8 @@ ent-ClosetWall = maintenance wall closet
 ent-ClosetWallEmergency = emergency wall closet
     .desc = It's a storage unit for emergency breath masks and O2 tanks.
 
+ent-ClosetWallEmergencyN2 = emergency nitrogen wall closet
+    .desc = It's full of life-saving equipment. Assuming, that is, that you breathe nitrogen.
 ent-ClosetWallFire = fire-safety wall closet
     .desc = It's a storage unit for fire-fighting supplies.
 
@@ -39,4 +41,3 @@ ent-ClosetWallAtmospherics = atmospherics wall closet
 
 ent-LockerWallMedical = medical wall locker
     .desc = { ent-BaseWallLocker.desc }
-

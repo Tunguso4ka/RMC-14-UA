@@ -4,6 +4,12 @@ ent-CMClosetBase = шафа
 ent-RMCCabinetBase = cabinet
     .desc = Old will forever be in fashion.
 
+ent-RMCClosetBlack = formal closet
+    .desc = It's a storage unit for formal clothing.
+ent-RMCClosetBlue = legal closet
+    .desc = It's a storage unit for courtroom apparel and items.
+ent-RMCClosetPurple = custodial closet
+    .desc = It's a storage unit for janitorial clothes and gear.
 ent-CMClosetEmergency = аварійна шафа
     .desc = Шафа для аварійних кисневих масок і балонів о2.
 

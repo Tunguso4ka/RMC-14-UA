@@ -10,9 +10,15 @@ ent-CMEncryptionKeyColony = colony encryption Key
 ent-CMEncryptionKeyWEYA = we-ya encryption Key
     .desc = { ent-CMEncryptionKey.desc }
 
+ent-CMEncryptionKeyWEYAColony = we-ya colony encryption key
+    .desc = { ent-CMEncryptionKey.desc }
+ent-CMEncryptionKeyICB = ICB encryption key
+    .desc = { ent-CMEncryptionKey.desc }
 ent-CMEncryptionKeyCommand = command encryption Key
     .desc = { ent-CMEncryptionKey.desc }
 
+ent-RMCEncryptionKeyHighCommand = high command encryption key
+    .desc = { ent-CMEncryptionKey.desc }
 ent-CMEncryptionKeyJTAC = JTAC radio encryption Key
     .desc = { ent-CMEncryptionKey.desc }
 
@@ -76,4 +82,3 @@ ent-CMEncryptionKeyMasterSquad = master squad encryption key
 
 ent-CMEncryptionKeyMasterShip = master ship encryption Key
     .desc = { ent-CMEncryptionKey.desc }
-

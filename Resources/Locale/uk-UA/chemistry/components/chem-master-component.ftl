@@ -1,12 +1,8 @@
-## Entity
-
 chem-master-component-activate-no-hands = У вас немає рук.
 chem-master-component-cannot-put-entity-message = Ви не можете вставити це у ХімМастер!
 
-## Bound UI
 chem-master-bound-user-interface-title = ХімМастер 4000
 
-## UI
 
 chem-master-window-input-tab = Ввід
 chem-master-window-output-tab = Вивід
@@ -29,3 +25,7 @@ chem-master-window-dose-label = Доза (ю):
 chem-master-window-create-button = Створити
 chem-master-window-bottles-label = Бутилки:
 chem-master-window-unknown-reagent-text = Невідомий реагент
+chem-master-window-sort-type-none = Sort by: Oldest First
+chem-master-window-sort-type-alphabetical = Sort by: Alphabetical
+chem-master-window-sort-type-quantity = Sort by: Quantity
+chem-master-window-sort-type-latest = Sort by: Recent First

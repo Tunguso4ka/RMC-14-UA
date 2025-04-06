@@ -1,0 +1,45 @@
+roles-antag-survivor-name = Survivor
+roles-antag-survivor-objective = Current Objective: Survive
+
+survivor-role-greeting = 
+    You are a Survivor.
+    Above all you need to make it back to CentComm alive.
+    Collect as much firepower as needed to guarantee your survival.
+    Trust no one.
+
+survivor-round-end-dead-count = 
+{
+    $deadCount ->
+        [one] [color=red]{$deadCount}[/color] survivor died.
+        *[other] [color=red]{$deadCount}[/color] survivors died.
+}
+
+survivor-round-end-alive-count = 
+{
+    $aliveCount ->
+        [one] [color=yellow]{$aliveCount}[/color] survivor was marooned on the station.
+        *[other] [color=yellow]{$aliveCount}[/color] survivors were marooned on the station.
+}
+
+survivor-round-end-alive-on-shuttle-count = 
+{
+    $aliveCount ->
+        [one] [color=green]{$aliveCount}[/color] survivor made it out alive.
+        *[other] [color=green]{$aliveCount}[/color] survivors made it out alive.
+}
+
+
+objective-issuer-swf = [color=turquoise]The Space Wizards Federation[/color]
+
+wizard-title = Чаклун
+wizard-description = На станції помічено Чаклуна! Ніколи не знаєш, що вони можуть зробити.
+roles-antag-wizard-name = Чаклун
+roles-antag-wizard-objective = Покажить їм щось таке, щоб вони і онукам про це розповідали.
+wizard-role-greeting = 
+    ТИ ЧАКЛУН!
+    There's been tensions between the Space Wizards Federation and NanoTrasen.
+    So you've been selected by the Space Wizards Federation to pay a visit to the station.
+    Give them a good demonstration of your powers.
+    What you do is up to you, just remember the Space Wizards want you to make it out alive.
+
+wizard-round-end-name = чаклун

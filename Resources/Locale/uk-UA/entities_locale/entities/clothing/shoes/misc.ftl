@@ -10,6 +10,8 @@ ent-ClothingShoesSlippers = slippers
 ent-ClothingShoeSlippersDuck = ducky slippers
     .desc = Comfy, yet haunted by the ghosts of ducks you fed bread to as a child.
 
+ent-ClothingShoeSlippersLizard = lizard plushie slippers
+    .desc = An adorable pair of slippers that resemble a lizardperson. Combine this with some other green clothing and you'll be the coolest crewmember on the station!
 ent-ClothingShoesTourist = tourist shoes
     .desc = These cheap sandals don't look very comfortable.
 
@@ -27,4 +29,3 @@ ent-ActionToggleSpeedBoots = Toggle Speed Boots
 
 ent-ClothingShoesBootsMoon = moon boots
     .desc = Special anti-gravity boots developed with a speciality blend of lunar rock gel. Shipped from the Netherlands.
-

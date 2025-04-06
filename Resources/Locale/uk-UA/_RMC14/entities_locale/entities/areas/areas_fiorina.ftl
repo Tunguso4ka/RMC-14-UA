@@ -59,12 +59,20 @@ ent-RMCAreaFiorinaStation = Fiorina - Station Interior
 ent-RMCAreaFiorinaStationLowsec = Fiorina - Low Security Cells
     .desc = { ent-RMCAreaFiorinaStation.desc }
 
+ent-RMCAreaFiorinaStationLowsecShowersLaundry = Fiorina - Low Security Showers & Laundry
+    .desc = { ent-RMCAreaFiorinaStationLowsec.desc }
+ent-RMCAreaFiorinaStationLowsecEast = Fiorina - Low Security Eastside
+    .desc = { ent-RMCAreaFiorinaStationLowsec.desc }
 ent-RMCAreaFiorinaStationPowerRing = Fiorina - Engineering Ring
     .desc = { ent-RMCAreaFiorinaStation.desc }
 
+ent-RMCAreaFiorinaStationPowerRingReactor = Fiorina - Engineering Reactor
+    .desc = { ent-RMCAreaFiorinaStationPowerRing.desc }
 ent-RMCAreaFiorinaStationDisco = Fiorina - Disco Storage
     .desc = { ent-RMCAreaFiorinaStation.desc }
 
+ent-RMCAreaFiorinaStationDiscoEastDisco = Fiorina - East Disco Storage
+    .desc = { ent-RMCAreaFiorinaStationDisco.desc }
 ent-RMCAreaFiorinaStationFlightDeck = Fiorina - Flight Deck
     .desc = { ent-RMCAreaFiorinaStation.desc }
 
@@ -98,6 +106,12 @@ ent-RMCAreaFiorinaStationMedbay = Fiorina - Medical Bay
 ent-RMCAreaFiorinaStationResearchCells = Fiorina - Research Cellblock
     .desc = { ent-RMCAreaFiorinaStation.desc }
 
+ent-RMCAreaFiorinaStationResearchCellsWest = Fiorina - West Research Cellblock
+    .desc = { ent-RMCAreaFiorinaStationResearchCells.desc }
+ent-RMCAreaFiorinaStationResearchCellsEast = Fiorina - East Research Cellblock
+    .desc = { ent-RMCAreaFiorinaStationResearchCells.desc }
+ent-RMCAreaFiorinaStationResearchCellsBasketball = Fiorina - Basketball Court
+    .desc = { ent-RMCAreaFiorinaStationResearchCells.desc }
 ent-RMCAreaFiorinaStationTelecomm = Fiorina - Communications Relay
     .desc = { ent-RMCAreaFiorinaStation.desc }
 
@@ -121,4 +135,3 @@ ent-RMCAreaFiorinaStationTelecommLz2North = Fiorina - LZ2 North Communications R
 
 ent-RMCAreaFiorinaStationTelecommLz2Maint = Fiorina - Backup Communications Relay
     .desc = { ent-RMCAreaFiorinaStationTelecomm.desc }
-

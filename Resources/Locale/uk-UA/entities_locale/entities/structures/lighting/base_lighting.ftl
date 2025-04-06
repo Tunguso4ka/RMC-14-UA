@@ -4,8 +4,7 @@ ent-AlwaysPoweredWallLight = лампа
 
 ent-PoweredlightEmpty = лампа
     .desc = Освітлювальний прилад. Потребляє живлення й створює світло.
-    .suffix = Empty
-
+    .suffix = Порожня
 ent-Poweredlight = { ent-PoweredlightEmpty }
     .desc = { ent-PoweredlightEmpty.desc }
 
@@ -73,6 +72,12 @@ ent-AlwaysPoweredlightBlue = { ent-AlwaysPoweredWallLight }
     .desc = { ent-AlwaysPoweredWallLight.desc }
     .suffix = Завди увимкнена, Blue
 
+ent-PoweredlightYellow = { ent-Poweredlight }
+    .desc = { ent-Poweredlight.desc }
+    .suffix = Yellow
+ent-AlwaysPoweredlightYellow = { ent-AlwaysPoweredWallLight }
+    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .suffix = Always Powered, Yellow
 ent-PoweredlightPink = { ent-Poweredlight }
     .desc = { ent-Poweredlight.desc }
     .suffix = Pink
@@ -89,6 +94,11 @@ ent-AlwaysPoweredlightOrange = { ent-AlwaysPoweredWallLight }
     .desc = { ent-AlwaysPoweredWallLight.desc }
     .suffix = Завди увимкнена, Orange
 
+ent-PoweredlightBlack = { ent-Poweredlight }
+    .suffix = Black
+ent-AlwaysPoweredlightBlack = { ent-AlwaysPoweredWallLight }
+    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .suffix = Always Powered, Black
 ent-PoweredlightRed = { ent-Poweredlight }
     .desc = { ent-Poweredlight.desc }
     .suffix = Red

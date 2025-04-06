@@ -20,3 +20,5 @@ ent-XenoAcidSprayTrapWeak = weak splatter
     .desc = It burns! It burns, but not as much!
 ent-XenoAcidSprayTrapStrong = strong splatter
     .desc = It burns a lot!
+ent-XenoAcidExtinguishEffect = { "" }
+    .desc = It's cold...

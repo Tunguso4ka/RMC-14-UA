@@ -1,0 +1,11 @@
+rat-king-command-stay-1 = Сидіти!
+rat-king-command-stay-2 = Стояти!
+rat-king-command-stay-3 = Зупинитися!
+rat-king-command-follow-1 = До ногі!
+rat-king-command-follow-2 = Слідуйте!
+rat-king-command-cheese-1 = Атакуйте!
+rat-king-command-cheese-2 = Взяти!
+rat-king-command-cheese-3 = Вбийте!
+rat-king-command-cheese-4 = Уперед!
+rat-king-command-loose-1 = Вільно!
+rat-king-command-loose-2 = Розбіжатися!

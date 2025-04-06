@@ -11,7 +11,11 @@ ent-RMCCrateSmartGunSet = ML66A Smart Gun System Package
 
 ent-RMCCrateSU6 = SU-6 Smart Pistol Crate (x2)
     .desc = { ent-RMCCrateWeapons.desc }
+ent-RMCCrateM34 = M34 Flamethrower Crate (M34 x2, Broiler-T Fuelback x2)
+    .desc = { ent-RMCCrateWeapons.desc }
 ent-RMCCrateMOU53 = MOU-53 Break Action Shotgun Crate (x2)
     .desc = { ent-RMCCrateWeapons.desc }
 ent-RMCCrateXM51 = XM51 Breaching Scattergun Crate (x2)
+    .desc = { ent-RMCCrateWeapons.desc }
+ent-RMCCrateM79 = M79 Grenade Launcher Crate (x2)
     .desc = { ent-RMCCrateWeapons.desc }

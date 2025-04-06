@@ -18,3 +18,4 @@ rmc-ui-create-hive-title = Нова назва вулику
 rmc-ui-humanoid = Гуманоїд
 rmc-ui-tier = Tier {$tier}
 rmc-ui-admin = КМП Дієвидло Адміна
+rmc-ui-rejuvenate-nearby-marines = Rejuvenate all nearby marines

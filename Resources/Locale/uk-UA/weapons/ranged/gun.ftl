@@ -8,11 +8,12 @@ gun-set-fire-mode = Перемкнути на {$mode}
 
 gun-magazine-whitelist-fail = Воно не вміщається в зброю!
 
+gun-magazine-fired-empty = Не залишилося набоїв!
 gun-SemiAuto = напів-авто
 gun-Burst = черга
 gun-FullAuto = авто
 
-gun-ballistic-cycle = Cycle
+gun-ballistic-cycle = Наступний набій
 gun-ballistic-cycled = Cycled
 gun-ballistic-cycled-empty = Cycled (empty)
 gun-ballistic-cycle-delayed = You begin unloading {CAPITALIZE(THE($entity))}. Hold still...
@@ -42,8 +43,8 @@ gun-chamber-rack = Rack
 
 gun-magazine-examine = Має [color={$color}]{$count}[/color] набоїв.
 
-gun-revolver-empty = Спорожнити револьвер
-gun-revolver-full = Revolver full
+gun-revolver-empty = Спорожніть револьвер
+gun-revolver-full = Револьвер повний
 gun-revolver-insert = Вставлено
 gun-revolver-spin = Прокрутити барабан
 gun-revolver-spun = Spun

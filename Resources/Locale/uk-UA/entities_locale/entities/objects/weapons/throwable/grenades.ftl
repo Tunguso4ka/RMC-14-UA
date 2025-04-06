@@ -7,7 +7,7 @@ ent-ExGrenade = explosive grenade
 ent-GrenadeFlashBang = flashbang
     .desc = Eeeeeeeeeeeeeeeeeeeeee
 
-ent-GrenadeFlashEffect = DO NOT TRANSLATE
+ent-GrenadeFlashEffect = { "" }
     .desc = { "" }
 
 ent-SyndieMiniBomb = syndicate minibomb
@@ -16,9 +16,8 @@ ent-SyndieMiniBomb = syndicate minibomb
 ent-SelfDestructSeq = Self Destruct
     .desc = Go out on your own terms!
 
-ent-SupermatterGrenade = supermatter grenade
-    .desc = Grenade that simulates delamination of the supermatter engine, pulling things in a heap and exploding after some time.
-
+ent-SingularityGrenade = singularity grenade
+    .desc = Grenade that simulates the power of a singularity, pulling things in a heap.
 ent-WhiteholeGrenade = whitehole grenade
     .desc = Grenade that repulses everything around for some time.
 

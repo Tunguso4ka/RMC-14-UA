@@ -14,6 +14,9 @@ ent-ClosetEmergencyN2FilledRandom = { ent-ClosetEmergencyN2 }
     .desc = { ent-ClosetEmergencyN2.desc }
     .suffix = Заповнений, Випадковий
 
+ent-ClosetWallEmergencyN2FilledRandom = { ent-ClosetWallEmergencyN2 }
+    .desc = { ent-ClosetWallEmergencyN2.desc }
+    .suffix = Filled, Random
 ent-ClosetFireFilled = { ent-ClosetFire }
     .desc = { ent-ClosetFire.desc }
     .suffix = Заповнений
@@ -29,4 +32,3 @@ ent-ClosetMaintenanceFilledRandom = { ent-ClosetMaintenance }
 ent-ClosetWallMaintenanceFilledRandom = { ent-ClosetWall }
     .desc = { ent-ClosetWall.desc }
     .suffix = Заповнений, Випадковий
-

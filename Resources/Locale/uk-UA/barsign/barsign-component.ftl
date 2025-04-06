@@ -72,6 +72,12 @@ barsign-prototype-description-emprah = Облюблено фанатиками, 
 barsign-prototype-name-spacebucks = Spacebucks
 barsign-prototype-description-spacebucks = Ви не можете втекти від них, навіть у космосі, ба навіть після того, як ми стали називати їх 'спесо'.
 
+barsign-prototype-name-maltroach = Maltroach
+barsign-prototype-description-maltroach = Squeak!
+
+barsign-prototype-name-whiskeyechoes = Whiskey Echoes
+barsign-prototype-description-whiskeyechoes = An elite bar for elite oper-wait, this is a Nanotrasen station. Why's this sign in the database?
+
 barsign-prototype-description-empbarsign = Щось пішло дуже не так.
 
 barsign-prototype-description-sign-off = Схоже що ця табличка вимкнена.

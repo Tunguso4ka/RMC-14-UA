@@ -16,6 +16,9 @@ uplink-esword-desc = A very dangerous energy sword that can reflect shots. Can b
 uplink-esword-double-name = Двойний лазерний меч
 uplink-esword-double-desc = A much more expensive counter part to the normal energy sword: with a much higher reflection chance, larger attack angle, higher structural damage, and faster swing. Makes a lot of noise when used or turned on.
 
+uplink-hypereutactic-blade-name = Hypereutactic Blade
+uplink-hypereutactic-blade-desc = A gigantic energy sword with power that matches its looks. Requires two hands. Slow and unwieldy, yet pretty adept at reflecting. Previously made infamous by an operative wearing a joy mask. You wouldn't want to see this coming at you down the hall!
+
 uplink-edagger-name = Лазерний меч
 uplink-edagger-desc = A small energy blade conveniently disguised in the form of a pen.
 
@@ -37,8 +40,8 @@ uplink-smoke-grenade-desc = A grenade that releases a huge cloud of smoke, perfe
 uplink-mini-bomb-name = Мінібомба
 uplink-mini-bomb-desc = A low-yield, high-impact precision sabotage explosive with a five-second long fuse. Perfect for quickly destroying a machine, dead body, or whatever else needs to go.
 
-uplink-supermatter-grenade-name = Граната суперматерії
-uplink-supermatter-grenade-desc = Grenade that simulates delamination of a suppermatter engine, generates powerful gravity well. Explosion comparable to a Mini Bomb.
+uplink-singularity-grenade-name = Singularity Grenade
+uplink-singularity-grenade-desc = Grenade that simulates the power of a singularity, generates powerful gravity well.
 
 uplink-whitehole-grenade-name = Відталкуюча граната
 uplink-whitehole-grenade-desc = Grenade that are repulses everything around for about 10 seconds. Very useful in small rooms and for chasing someone.
@@ -110,6 +113,9 @@ uplink-chest-rig-desc = Explosion-resistant tactical webbing used for holding tr
 
 uplink-emag-name = ЕлектроМагнітна картка
 uplink-emag-desc = The business card of the syndicate, this sequencer is able to break open airlocks and tamper with a variety of station devices. Recharges automatically.
+
+uplink-access-breaker-name = Access Breaker
+uplink-access-breaker-desc = A hacked access configurator and a good friend of the emag. This device is able to force airlocks open as well as erase access requirements from station equipment. Recharges automatically.
 
 uplink-agent-id-card-name = ІД Картка Агента
 uplink-agent-id-card-desc = A modified ID card that can copy accesses from other cards and change its name and job title at-will.
@@ -193,6 +199,9 @@ uplink-death-acidifier-implant-desc = Completely melts the user and their equipm
 
 uplink-micro-bomb-implanter-name = Імплат Мікро Бомба
 uplink-micro-bomb-implanter-desc = Explode on death or manual activation with this implant. Destroys the body with all equipment.
+
+uplink-radio-implanter-name = Radio Implanter
+uplink-radio-implanter-desc = Implants a Syndicate radio, allowing covert communication without a headset.
 
 uplink-observation-kit-name = Observation Kit
 uplink-observation-kit-desc = Includes surveillance camera monitor board and security hud disguised as sunglasses.
@@ -437,3 +446,5 @@ uplink-combat-bakery-name = Combat Bakery Kit
 uplink-combat-bakery-desc = A kit of clandestine baked weapons. Contains a baguette which a skilled mime could use as a sword and a pair of throwing croissants. Once the job is done, eat the evidence.
 uplink-business-card-name = Syndicate Business Card
 uplink-business-card-desc = A business card that you can give to someone to demonstrate your involvement in the syndicate or leave at the crime scene in order to make fun of the detective. You can buy no more than three of them.
+uplink-fake-mindshield-name = Fake Mindshield
+uplink-fake-mindshield-desc = A togglable implant capable of mimicking the same transmissions a real mindshield puts out when on, tricking capable Heads-up displays into thinking you have a mindshield (Nanotrasen brand implanter not provided.)

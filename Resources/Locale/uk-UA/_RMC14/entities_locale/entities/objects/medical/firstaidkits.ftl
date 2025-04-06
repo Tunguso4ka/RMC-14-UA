@@ -1,10 +1,18 @@
 ent-CMFirstAidKit = аптечка
     .desc = Екстрена аптечка для лікування бобо морпіхів.
 
+ent-CMFirstAidKitSurgery = basic field surgery kit
+    .desc = { ent-CMFirstAidKit.desc }
 ent-CMFirstAidKitFilled = { ent-CMFirstAidKit }
     .desc = { ent-CMFirstAidKit.desc }
     .suffix = Заповнена
 
+ent-CMFirstAidKitFilledRobust = { ent-CMFirstAidKit }
+    .desc = { ent-CMFirstAidKit.desc }
+    .suffix = Filled, Robust
+ent-CMFirstAidKitSurgeryFilled = { ent-CMFirstAidKitSurgery }
+    .desc = Contains a surgical line, cautery, scalpel, hemostat, retractor, drapes and an oxycodone injector for tending wounds surgically.
+    .suffix = Filled
 ent-CMBurnAidKit = аптечка від опіків
     .desc = Екстрена аптечка для тих випадків коли хтось покурив там куди тільки що попало.
 
@@ -32,4 +40,3 @@ ent-CMToxinAidKit = toxin first-aid kit
 ent-CMToxinAidKitFilled = { ent-CMToxinAidKit }
     .desc = { ent-CMToxinAidKit.desc }
     .suffix = Filled
-

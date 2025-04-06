@@ -215,6 +215,8 @@ ent-BoozeDispenserMachineCircuitboard = плата дозатору алкого
 ent-CargoTelepadMachineCircuitboard = плата вантажного телепаду
     .desc = Надрукована плата a cargo telepad.
 
+ent-MailTeleporterMachineCircuitboard = mail teleporter machine board
+    .desc = A machine printed circuit board for a mail teleporter.
 ent-SodaDispenserMachineCircuitboard = плата дозатору соди
     .desc = Надрукована плата a soda dispenser.
 

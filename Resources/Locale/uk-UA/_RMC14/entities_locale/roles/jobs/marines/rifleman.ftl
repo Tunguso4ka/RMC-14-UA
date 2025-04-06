@@ -13,3 +13,5 @@ ent-CMSpawnPointRiflemanCharlie = { ent-CMSpawnPointRifleman }
 ent-CMSpawnPointRiflemanDelta = { ent-CMSpawnPointRifleman }
     .desc = { ent-CMSpawnPointRifleman.desc }
     .suffix = Delta
+ent-CMGuidebookRoleYou = You?
+    .desc = { ent-CMGuidebookRole.desc }

@@ -41,10 +41,16 @@ ent-AnomalyRockSilver = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
     .suffix = Rock, Silver
 
+ent-AnomalyRockGold = { ent-AnomalyRockBase }
+    .desc = { ent-AnomalyRockBase.desc }
+    .suffix = Rock, Gold
 ent-AnomalyRockIron = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
     .suffix = Rock, Iron
 
+ent-AnomalyRockCoal = { ent-AnomalyRockBase }
+    .desc = { ent-AnomalyRockBase.desc }
+    .suffix = Rock, Coal
 ent-AnomalyFlora = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
     .suffix = Flora

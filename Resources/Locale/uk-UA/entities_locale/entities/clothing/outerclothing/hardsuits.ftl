@@ -13,6 +13,8 @@ ent-ClothingOuterHardsuitSpatio = spationaut hardsuit
 ent-ClothingOuterHardsuitSalvage = mining hardsuit
     .desc = A special suit that protects against hazardous, low pressure environments. Has reinforced plating for wildlife encounters.
 
+ent-ClothingOuterHardsuitGoliath = goliath hardsuit
+    .desc = A lightweight hardsuit, adorned with a patchwork of thick, chitinous goliath hide.
 ent-ClothingOuterHardsuitMaxim = salvager maxim hardsuit
     .desc = Fire. Heat. These things forge great weapons, they also forge great salvagers.
 
@@ -103,4 +105,3 @@ ent-ClothingOuterHardsuitMime = mime hardsuit
 
 ent-ClothingOuterHardsuitSanta = Santa's hardsuit
     .desc = A festive, cheerful hardsuit that protects the jolly gift-giver while on sleighrides in space. Offers some resistance against asteroid strikes.
-

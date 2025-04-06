@@ -1,0 +1,12 @@
+ent-CMDoubleDoorPreparationsAlphaLocked = { ent-CMDoubleDoorPreparationsAlpha }
+    .desc = { ent-CMDoubleDoorPreparationsAlpha.desc }
+    .suffix = Preparations, Alpha, Locked
+ent-CMDoublCMDoubleDoorPreparationsBravoLocked = { ent-CMDoubleDoorPreparationsBravo }
+    .desc = { ent-CMDoubleDoorPreparationsBravo.desc }
+    .suffix = Preparations, Bravo, Locked
+ent-CMDoubleDoorPreparationsCharlieLocked = { ent-CMDoubleDoorPreparationsCharlie }
+    .desc = { ent-CMDoubleDoorPreparationsCharlie.desc }
+    .suffix = Preparations, Charlie, Locked
+ent-CMDoublCMDoubleDoorPreparationsDeltaLocked = { ent-CMDoubleDoorPreparationsDelta }
+    .desc = { ent-CMDoubleDoorPreparationsDelta.desc }
+    .suffix = Preparations, Delta, Locked

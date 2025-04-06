@@ -1,6 +1,8 @@
 ent-CMHeadset = radio headset
     .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
 
+ent-RMCHeadsetIcons = { ent-CMHeadset }
+    .desc = { ent-CMHeadset.desc }
 ent-RMCHeadsetShip = marine radio headset
     .desc = A standard military radio headset. Bulkier than combat models.
 

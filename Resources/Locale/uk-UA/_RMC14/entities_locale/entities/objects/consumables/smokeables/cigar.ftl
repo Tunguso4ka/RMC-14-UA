@@ -3,3 +3,5 @@ ent-CMTarbackCigar = tarback cigar
 ent-CMTarbackCigarSpent = { ent-CMTarbackCigar }
     .desc = { ent-CMTarbackCigar.desc }
     .suffix = spent
+ent-RMCTarbackTube = tarback tube
+    .desc = A single Tarback cigar in a protective metal tube. About as low-end as you can get. Rolled in Columbia.

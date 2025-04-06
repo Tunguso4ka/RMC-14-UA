@@ -36,8 +36,6 @@ ent-ClothingHeadHatFancyCrown = fancy crown
 
 ent-ClothingHeadHatCatEars = котячі вушки
     .desc = НЯ!
-    .suffix = НЕ МАПУВАТИ
-
 ent-ClothingHeadHatCatEarsValid = { ent-ClothingHeadHatCatEars }
     .desc = { ent-ClothingHeadHatCatEars.desc }
     .suffix = Valid, DO NOT MAP
@@ -47,8 +45,6 @@ ent-ActionBecomeValid = Become Valid
 
 ent-ClothingHeadHatDogEars = doggy ears
     .desc = Only for good boys.
-    .suffix = DO NOT MAP
-
 ent-ClothingHeadHatSquid = squiddy
     .desc = Scare your friends with this eldritch mask.
 
@@ -60,3 +56,5 @@ ent-WaterDropletHat = water droplet
 
 ent-ClothingHeadHatHairflower = hairflower
     .desc = A beautiful hairflower that can be inserted between locks of hair.
+ent-ClothingHeadPerformerWig = performer's wig
+    .desc = On a closer inspection, it appears that it is made from optic fiber.

@@ -1,17 +1,13 @@
 ent-XenoBaseProjectile = projectile
     .desc = { "" }
-
 ent-XenoSpitImpactSounds = { "" }
     .desc = { "" }
 ent-XenoSpitProjectile = spit
-    .desc = { ent-XenoBaseProjectile.desc }
-
+    .desc = { ent-XenoSpitImpactSounds.desc }
 ent-XenoChargedSpitProjectile = { ent-XenoSpitProjectile }
     .desc = { ent-XenoSpitProjectile.desc }
-
 ent-XenoSlowingSpitProjectile = slowing spit
-    .desc = { ent-XenoBaseProjectile.desc }
-
+    .desc = { ent-XenoSpitImpactSounds.desc }
 ent-XenoQueenNeuroSpitProjectile = neurotoxic spit
     .desc = { ent-XenoSpitImpactSounds.desc }
 ent-XenoScatteredSpitProjectile = scattered spit
@@ -19,12 +15,10 @@ ent-XenoScatteredSpitProjectile = scattered spit
 
 ent-XenoBoneChipsProjectile = bone chips
     .desc = { ent-XenoBaseProjectile.desc }
-
 ent-XenoBombardAcidProjectile = glob of acid gas
     .desc = { ent-XenoBaseProjectile.desc }
-
 ent-XenoBombardNeurotoxinProjectile = glob of neurotoxin gas
-    .desc = { ent-XenoBombardAcidProjectile.desc }
+    .desc = { ent-XenoBaseProjectile.desc }
 ent-XenoAcidBallSpitProjectile = { ent-XenoSpitProjectile }
     .desc = { ent-XenoSpitProjectile.desc }
 ent-XenoSpitProjectilePraetorian = { ent-XenoAcidBallSpitProjectile }
@@ -33,3 +27,5 @@ ent-XenoSpitProjectilePraetorianWarden = { ent-XenoSpitProjectile }
     .desc = { ent-XenoSpitProjectile.desc }
 ent-XenoAcidBallProjectile = acid ball
     .desc = A small, pulsating ball of gas.
+ent-XenoOppressorTailHook = tail hook
+    .desc = { ent-XenoBaseProjectile.desc }

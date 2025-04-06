@@ -6,3 +6,5 @@ ent-RMCCrateGearMotionDetector = motion detector crate (x2)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateGearPackFlareCAS = signal flare packs crate (x4)
     .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateGearFulton = fulton recovery device crate (x4)
+    .desc = { ent-RMCCrateAmmo.desc }

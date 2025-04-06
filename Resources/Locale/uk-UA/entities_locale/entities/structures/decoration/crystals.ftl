@@ -14,10 +14,16 @@ ent-CrystalOrange = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
     .suffix = оранжевий
 
+ent-CrystalBlack = { ent-CrystalGreen }
+    .desc = { ent-CrystalGreen.desc }
+    .suffix = black
 ent-CrystalBlue = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
     .suffix = синій
 
+ent-CrystalYellow = { ent-CrystalGreen }
+    .desc = { ent-CrystalGreen.desc }
+    .suffix = yellow
 ent-CrystalCyan = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
     .suffix = блакитний

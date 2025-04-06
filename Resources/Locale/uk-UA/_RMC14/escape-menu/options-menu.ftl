@@ -13,6 +13,8 @@ ui-options-function-cm-holster-tertiary = Розтебнути третю коб
 ui-options-function-cm-holster-quaternary = Розстебнути четверту кобуру
 ui-options-function-rmc-pick-up-dropped-items = Pick up dropped items
 
+ui-options-function-rmc-interact-with-other-hand = Interact with other hand
+
 ui-options-header-rmc-xeno = Xeno
 
 ui-options-function-cm-xeno-wide-swing = Xeno wide swing

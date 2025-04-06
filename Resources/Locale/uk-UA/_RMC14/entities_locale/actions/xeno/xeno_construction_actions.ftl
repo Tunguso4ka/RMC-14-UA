@@ -28,3 +28,5 @@ ent-ActionXenoFruitPlantLesser = Plant Resin Fruit (50)
     .desc = Plant resin fruit on weeds at the cost of health and plasma.
 ent-ActionXenoDigTunnel = Dig Tunnel (200)
     .desc = Dig a tunnel for speedy transportation across the hive.
+ent-ActionLesserDronePlantWeeds = Plant Weeds (75)
+    .desc = Plant a weed node that will spread more weeds.

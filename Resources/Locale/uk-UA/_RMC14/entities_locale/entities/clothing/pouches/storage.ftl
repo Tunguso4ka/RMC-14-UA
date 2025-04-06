@@ -7,6 +7,12 @@ ent-RMCPouchGeneralMedium = середній загальний мішочок
 ent-RMCPouchGeneralLarge = великий загальний мішочок
     .desc = Мішочок для загальних речей який може містити в собі ще більше різно-розмірних речей.
 
+ent-RMCPouchGeneralLargeBureauObserverFill = { ent-RMCPouchGeneralLarge }
+    .desc = { ent-RMCPouchGeneralLarge.desc }
+    .suffix = Bureau Observer, Filled
+ent-RMCPouchGeneralLargeICBLiaison = { ent-RMCPouchGeneralLarge }
+    .desc = { ent-RMCPouchGeneralLarge.desc }
+    .suffix = Interstellar Commerce Bureau Liaison, Filled
 ent-RMCPouchSurvival = мішочок для виживання
     .desc = Мішочок що видається колоністам у екстренних випадках.
 
@@ -33,15 +39,20 @@ ent-RMCPouchMagazineLarge = великий мішочок для магазин�
 ent-RMCPouchMagazinePistol = мішочок для пістолетних магазинів
     .desc = Може містити магазини пістолетів та спідлоадери револьверів.
 
+ent-RMCPouchMagazinePistolFilledMateba = { ent-RMCPouchMagazinePistol }
+    .desc = { ent-RMCPouchMagazinePistol.desc }
 ent-RMCPouchMagazinePistolLarge = великий мішочок для магазинів пістолетів
     .desc = Може містити багато магазинів пістолетів та спідлоадерів револьверів.
 
 ent-RMCPouchShotgun = мішочок набоїв рушниці
     .desc = Може містити одну коробку набоїв для рушниці.
 
-ent-RMCPouchExplosive = мішочок вибухівки
-    .desc = Може містити гранати, пластикову вибухівку, міни та інши види вибухівок.
-
+ent-RMCPouchShotgunLarge = large shotgun shell pouch
+    .desc = It can contain more handfuls of shells.
+ent-RMCPouchShotgunLargeBeanbag = { ent-RMCPouchShotgunLarge }
+    .desc = { ent-RMCPouchShotgunLarge.desc }
+ent-RMCPouchShotgunLargeSlugs = { ent-RMCPouchShotgunLarge }
+    .desc = { ent-RMCPouchShotgunLarge.desc }
 ent-RMCPouchDocument = великий мішочок для документів
     .desc = Може містити папір, теки, диски, мануали.
 
@@ -65,13 +76,8 @@ ent-RMCPouchElectronicsFill = { ent-RMCPouchElectronics }
     .desc = { ent-RMCPouchElectronics.desc }
     .suffix = Filled
 
-ent-RMCPouchConstruction = мішочок будівника
-    .desc = Зроблений щоб містити матеріали для будівництва - скло, сталь, палки, сітка, дроти та мішки піска. Також має кріплення для лопатки та замінювача ламп.
-
-ent-RMCPouchConstructionFillLowGrade = { ent-RMCPouchConstruction }
-    .desc = { ent-RMCPouchConstruction.desc }
-    .suffix = Low grade full
-
+ent-RMCPouchEngineerKit = engineer kit pouch
+    .desc = It's specifically made to hold engineering items. Requires engineering skills to use effectively.
 ent-RMCPouchTools = мішочок інструментів
     .desc = Зроблений щоб містити інструменти - викрутку, ключ, дроти і так далі. Також має кріплення для лопатки та замінювача ламп.
 

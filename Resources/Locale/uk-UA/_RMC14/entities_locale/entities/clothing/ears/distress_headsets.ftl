@@ -10,3 +10,5 @@ ent-RMCHeadsetDistressWeYa = WeYa corporate headset
 ent-RMCHeadsetDistressPMC = PMC headset
     .desc = A special headset used by corporate personnel.
 
+ent-RMCHeadsetDistressDukes = Duke's Dozen headset
+    .desc = A special headset used by small groups of trained operatives. Or terrorists.

@@ -1,3 +1,5 @@
+ent-RMCDispenserBase = { "" }
+    .desc = { "" }
 ent-RMCChemDispenserBase = chemical dispenser
     .desc = A complex machine for mixing elements into chemicals. A We-Ya product.
 ent-RMCChemDispenserGround = { ent-RMCChemDispenserBase }

@@ -98,3 +98,5 @@ hugging-success-generic-target = { CAPITALIZE($user) } обіймає вас.
 petting-success-tesla = Ти пестиш {$target}, порушуючи закони природи та фізики.
 
 petting-failure-tesla = Ти тягнешся до {$target}, але вона ударяє струмом вашу руку.
+petting-success-mail-teleporter = You pet {THE($target)} on {POSS-ADJ($target)} dutiful, cold exterior.
+petting-failure-mail-teleporter = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy sorting mail!

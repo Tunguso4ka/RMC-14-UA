@@ -4,7 +4,7 @@ comms-console-menu-announcement-button = Повідомити
 comms-console-menu-announcement-button-tooltip = Send your message as a station-wide radio announcement.
 comms-console-menu-broadcast-button = Транслювати
 comms-console-menu-broadcast-button-tooltip = Broadcast your message to wall-mounted screens around the station. Note: They fit only ten characters!
-comms-console-menu-alert-level-button-tooltip = Change the station alert level. Applies immediately on selecting.
+comms-console-menu-alert-level-button-tooltip = Змінити рівень Небезпеки станції.
 comms-console-menu-call-shuttle = Викликати шатл
 comms-console-menu-recall-shuttle = Відкликати шатл
 
@@ -22,3 +22,4 @@ comms-console-announcement-title-station = Консоль Комунікацій
 comms-console-announcement-title-centcom = Центральне Командування
 comms-console-announcement-title-nukie = Головорізи Горлакса
 comms-console-announcement-title-station-ai = Станційний ШІ
+comms-console-announcement-title-wizard = Чародій

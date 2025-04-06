@@ -6,6 +6,10 @@ lathe-menu-search-designs = Пошук
 lathe-menu-category-all = Усі
 lathe-menu-search-filter = Фільтр:
 lathe-menu-amount = Кількість:
+lathe-menu-recipe-count = { $count ->
+    [1] {$count} Recipe
+    *[other] {$count} Recipes
+}
 lathe-menu-reagent-slot-examine = Воно має ячійку для бікера.
 lathe-reagent-dispense-no-container = Рідина витікає з {$name} на підлогу!
 lathe-menu-result-reagent-display = {$reagent} ({$amount}ю)

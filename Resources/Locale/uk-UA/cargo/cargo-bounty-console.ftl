@@ -18,3 +18,8 @@ bounty-console-flavor-right = v1.4
 
 bounty-manifest-header = Офіціальне замовлення (ID#{$id})
 bounty-manifest-list-start = Речі:
+bounty-console-tab-available-label = Доступно
+bounty-console-tab-history-label = Історія
+bounty-console-history-empty-label = Не знайдено історії.
+bounty-console-history-notice-completed-label = [color=limegreen]Завершено[/color]
+bounty-console-history-notice-skipped-label = [color=red]Пропущено[/color] {$id}

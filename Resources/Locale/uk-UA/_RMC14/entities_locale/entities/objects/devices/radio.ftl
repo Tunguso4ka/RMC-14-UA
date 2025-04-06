@@ -1,0 +1,10 @@
+ent-RMCRadioHandheldColonyBase = shortwave radio
+ent-RMCRadioHandheldColony = { ent-RMCRadioHandheldColonyBase }
+    .desc = { ent-RMCRadioHandheldColonyBase.desc }
+    .suffix = On
+ent-RMCRadioHandheldColonyOff = { ent-RMCRadioHandheldColonyBase }
+    .desc = { ent-RMCRadioHandheldColonyBase.desc }
+    .suffix = Off
+ent-RMCRadioHandheldAlmayer = { ent-RMCRadioHandheldColonyBase }
+    .desc = { ent-RMCRadioHandheldColonyBase.desc }
+    .suffix = On

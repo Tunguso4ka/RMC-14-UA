@@ -32,6 +32,14 @@ ent-CMAirlockCell = камера
 ent-CMAirlockPrison = тех. тунелі
     .desc = { ent-CMAirlock.desc }
 
+ent-RMCAirlockHybrisa = airlock
+    .desc = { ent-CMAirlock.desc }
+ent-RMCAirlockHybrisaPersonal = airlock
+    .desc = { ent-CMAirlock.desc }
+ent-RMCAirlockRusted = airlock
+    .desc = { ent-CMAirlock.desc }
+ent-RMCAirlockRustedWhite = airlock
+    .desc = { ent-CMAirlock.desc }
 ent-CMAirlockGlass = скляні двері
     .desc = { ent-CMBaseDoor.desc }
 
@@ -47,6 +55,10 @@ ent-CMAirlockGlassSecurity = двері воєнполу
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Безпека
 
+ent-CMAirlockGlassHybrisa = { ent-CMAirlockGlass }
+    .desc = { ent-CMAirlockGlass.desc }
+ent-CMAirlockGlassHybrisaPersonal = { ent-CMAirlockGlass }
+    .desc = { ent-CMAirlockGlass.desc }
 ent-CMAirlockPrep = підготовка
     .desc = { ent-CMBaseDoor.desc }
 

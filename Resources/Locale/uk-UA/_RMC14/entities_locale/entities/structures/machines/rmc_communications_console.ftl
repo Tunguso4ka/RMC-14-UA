@@ -1,6 +1,5 @@
 ent-RMCCommunicationsConsoleBase = { ent-CMBaseStructure }
     .desc = { ent-CMBaseStructure.desc }
-
 ent-RMCGroundsideOperationsConsole = консоль наземних операцій
     .desc = Через неї можна получити доступ до багатьох функцій.
 
@@ -8,6 +7,9 @@ ent-RMCWarshipControlConsole = консоль контролю за корабл
     .desc = This is used for controlling ship and its related functions.
 ent-RMCOverwatchConsole = консоль нагляду
     .desc = Найсучасніша технологія війни для надання наказів загону.
+ent-RMCOverwatchConsoleRotating = { ent-RMCOverwatchConsole }
+    .desc = { ent-RMCOverwatchConsole.desc }
+    .suffix = Rotating
 ent-RMCTacticalMapTable = настільна мапа
     .desc = A table that displays a map of the current operation location.
 ent-RMCEscapePodController = escape pod controller

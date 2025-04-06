@@ -9,3 +9,5 @@ ent-CMHandsLightBrown = світло коричневі рукавички
 
 ent-CMHandsWhite = білі рукавички
     .desc = Пара білих рукавичок.
+ent-CMHandsWhiteDress = dress gloves
+    .desc = A pair of fashionable white gloves, worn by marines in dress.

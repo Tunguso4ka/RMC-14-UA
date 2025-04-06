@@ -18,6 +18,9 @@ ent-ToolboxMechanicalFilled = { ent-ToolboxMechanical }
     .desc = { ent-ToolboxMechanical.desc }
     .suffix = Filled
 
+ent-ToolboxMechanicalFilledAllTools = mechanical toolbox
+    .desc = { ent-ToolboxMechanical.desc }
+    .suffix = Filled, all tools
 ent-ToolboxSyndicateFilled = { ent-ToolboxSyndicate }
     .desc = { ent-ToolboxSyndicate.desc }
     .suffix = Filled

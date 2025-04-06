@@ -2,10 +2,6 @@ ent-CMAirlockRequisitionsLocked = двері логістів
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Логісти, Зачинені
 
-ent-CMAirlockGlassRequisitionsLocked = { ent-CMAirlockRequisitionsLocked }
-    .desc = { ent-CMBaseDoor.desc }
-    .suffix = Логісти, Зачинені, Скляні
-
 ent-CMAirlockMaintRequisitionsLocked = { ent-CMAirlockRequisitionsLocked }
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Логісти, Зачинені, Техи
@@ -78,17 +74,9 @@ ent-CMAirlockGlassSecurityLocked = { ent-CMAirlockGlassSecurity }
     .desc = { ent-CMAirlockGlassSecurity.desc }
     .suffix = Security, Locked
 
-ent-CMDoubleDoorSecurityGlassLocked = { ent-CMDoubleDoorSecurityGlass }
-    .desc = { ent-CMDoubleDoorSecurityGlass.desc }
-    .suffix = Security, Glass, Locked
-
-ent-CMDoubleDoorSecuritySolidLocked = { ent-CMDoubleDoorSecuritySolid }
-    .desc = { ent-CMDoubleDoorSecuritySolid.desc }
-    .suffix = Security, Solid, Locked
-
-ent-CMDoubleDoorMedicalGlassLocked = { ent-CMDoubleDoorMedicalGlass }
-    .desc = { ent-CMDoubleDoorMedicalGlass.desc }
-    .suffix = Medical, Glass
 ent-CMAirlockLiaisonLocked = { ent-CMAirlock }
     .desc = { ent-CMAirlock.desc }
     .suffix = Liaison, Locked
+ent-CMAirlockMaintLiaisonLocked = { ent-CMAirlockMaint }
+    .desc = { ent-CMAirlockMaint.desc }
+    .suffix = Liaison, Locked, Maint

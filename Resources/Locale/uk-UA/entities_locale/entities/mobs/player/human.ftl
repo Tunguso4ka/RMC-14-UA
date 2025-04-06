@@ -27,3 +27,5 @@ ent-MobHumanNukeOp = Ядерний Оперативник
 
 ent-MobHumanLoneNuclearOperative = Оперативник-Одинак
     .desc = { ent-MobHuman.desc }
+ent-MobHumanWizard = Чародій
+    .desc = { ent-MobHuman.desc }

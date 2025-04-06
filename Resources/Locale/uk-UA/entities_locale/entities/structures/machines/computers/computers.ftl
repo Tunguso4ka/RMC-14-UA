@@ -58,6 +58,10 @@ ent-ComputerComms = communications computer
 ent-SyndicateComputerComms = syndicate communications computer
     .desc = A computer capable of remotely hacking into the station's communications systems. Using this to make an announcement will alert the station to your presence.
 
+ent-WizardComputerComms = wizard communications computer
+    .desc = A computer capable of magically projecting your speech to the station. Using this to make an announcement will alert the station to your presence.
+ent-CentcommComputerComms = central command communications computer
+    .desc = A computer used to make world wide announcements via keyboard. The superior cousin of the regular communications computer.
 ent-ComputerSolarControl = компʼютер керування сон. панелями
     .desc = A controller for solar panel arrays.
 

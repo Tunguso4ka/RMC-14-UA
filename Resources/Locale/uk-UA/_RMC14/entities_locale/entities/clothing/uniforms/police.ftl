@@ -1,6 +1,8 @@
 ent-CMJumpsuitMP = однострій військової поліції
     .desc = Стандартний однострій військової поліції. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
 
+ent-RMCJumpsuitMPCorporate = corporate security officer's jumpsuit
+    .desc = It's made of a slightly sturdier material than standard jumpsuits, to allow for robust protection.
 ent-CMJumpsuitWarden = однострій військового наглядача
     .desc = Стандартний однострій військового наглядача. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
 

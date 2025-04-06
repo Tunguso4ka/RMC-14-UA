@@ -1,0 +1,12 @@
+ent-WeaponRifleSSG45 = SSG-45 Assault Rifle
+    .desc = Developed by Weston-Yamada as a modern successor to the aging M5 platform, the SpezialSturmGewehr is engineered for precision mid-to-long range combat. Chambered in 7x62mm caseless rounds, it offers superior stopping power and ammunition efficiency compared to the M54C MK2, while maintaining comparable performance in close-quarters engagements. Weston-Yamada’s PMC forces found the UNMC’s M54C increasingly ill-suited to their operational demands, particularly in extended-range missions where precision and firepower were paramount. This dissatisfaction prompted Weston-Yamada’s R&D division to design the SSG, tailoring it to meet the specific needs of their operatives.
+ent-RMCMagazineRifleSSG45 = SSG45 magazine (7x62mm)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-RMCMagazineRifleSSG45Extended = SSG45 extended magazine (7x62mm)
+    .desc = { ent-RMCMagazineRifleSSG45.desc }
+ent-RMCMagazineRifleSSG45AP = SSG45 AP magazine (7x62mm)
+    .desc = { ent-RMCMagazineRifleSSG45.desc }
+ent-RMCMagazineRifleSSG45HEAP = SSG45 HEAP magazine (7x62mm)
+    .desc = { ent-RMCMagazineRifleSSG45.desc }
+ent-RMCMagazineRifleSSG45Incend = SSG45 Incendiary magazine (7x62mm)
+    .desc = { ent-RMCMagazineRifleSSG45.desc }

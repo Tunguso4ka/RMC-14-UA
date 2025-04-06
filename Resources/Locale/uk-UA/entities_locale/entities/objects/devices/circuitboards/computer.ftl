@@ -69,6 +69,10 @@ ent-CommsComputerCircuitboard = communications плата комп'ютеру
 ent-SyndicateCommsComputerCircuitboard = syndicate communications плата комп'ютеру
     .desc = A computer printed circuit board for a syndicate communications console.
 
+ent-WizardCommsComputerCircuitboard = wizard communications computer board
+    .desc = A computer printed circuit board for a wizard communications console.
+ent-CentcommCommsComputerCircuitboard = central command communications computer board
+    .desc = A computer printed circuit board for a central command communications console.
 ent-RadarConsoleCircuitboard = radar console плата комп'ютеру
     .desc = { ent-BaseComputerCircuitboard.desc }
 

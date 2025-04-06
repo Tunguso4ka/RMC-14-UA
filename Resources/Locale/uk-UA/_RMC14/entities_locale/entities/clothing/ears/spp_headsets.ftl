@@ -1,0 +1,16 @@
+ent-RMCEncryptionKeySPP = SPP radio encryption key
+    .desc = { ent-CMEncryptionKey.desc }
+ent-RMCEncryptionKeySPPCommand = SPP command radio encryption key
+    .desc = { ent-RMCEncryptionKeySPP.desc }
+ent-RMCEncryptionKeySPPEngineer = SPP engineering radio encryption key
+    .desc = { ent-RMCEncryptionKeySPP.desc }
+ent-RMCEncryptionKeySPPMedic = SPP medic radio encryption key
+    .desc = { ent-RMCEncryptionKeySPP.desc }
+ent-RMCHeadsetSPP = SPP-CMD headset
+    .desc = { ent-RMCHeadsetIcons.desc }
+ent-RMCHeadsetSPPCommand = SPP-CMD headset
+    .desc = { ent-RMCHeadsetIcons.desc }
+ent-RMCHeadsetSPPEngineer = SPP-CCT headset
+    .desc = { ent-RMCHeadsetIcons.desc }
+ent-RMCHeadsetSPPMedic = SPP-MED headset
+    .desc = { ent-RMCHeadsetIcons.desc }

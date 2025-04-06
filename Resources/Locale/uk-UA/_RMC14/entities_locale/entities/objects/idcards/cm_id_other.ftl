@@ -7,9 +7,17 @@ ent-CMIDCardCorrespondent = ID картка репортера
 ent-CMIDCardColonist = ID картка колоніста
     .desc = { ent-CMIDCardLanyard.desc }
 
+ent-CMIDCardColonistDoctor = doctor colonist ID card
+    .desc = { ent-CMIDCardSilver.desc }
+ent-CMIDCardColonistEngineer = engineer colonist ID card
+    .desc = { ent-CMIDCardLanyard.desc }
+ent-CMIDCardColonistSecurity = security colonist ID card
+    .desc = { ent-CMIDCardLanyard.desc }
 ent-CMIDCardLiaison = ID картка представника
     .desc = { ent-CMIDCardGold.desc }
 
+ent-CMIDCardLiaisonColony = liaison ID card
+    .desc = { ent-CMIDCardLiaison.desc }
 ent-RMCIDCardExecutiveCorporateSpecialist = executive corporate specialist ID card
     .desc = { ent-CMIDCardLiaison.desc }
 
@@ -37,3 +45,5 @@ ent-RMCIDCardPMCColony = { ent-RMCIDCardPMC }
     .desc = { ent-RMCIDCardPMC.desc }
 ent-RMCIDCardBureauObserver = ID card
     .desc = { ent-CMIDCardLanyard.desc }
+ent-RMCIDCardFreelancer = ID card
+    .desc = { ent-CMIDCardBase.desc }

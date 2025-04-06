@@ -208,6 +208,9 @@ ghost-role-information-BreadDog-name = BreadDog
 ghost-role-information-BreadDog-description = You are the chef's favorite child. You're a living bread dog.
 ghost-role-information-space-ninja-name = Space Ninja
 ghost-role-information-space-ninja-description = Use stealth and deception to sabotage the station.
+ghost-role-information-paradox-clone-name = Paradox Clone
+ghost-role-information-paradox-clone-description = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart and kill and replace them.
+
 ghost-role-information-syndicate-reinforcement-name = Syndicate Agent
 ghost-role-information-syndicate-reinforcement-description = Someone needs reinforcements. You, the first person the syndicate could find, will help them.
 ghost-role-information-syndicate-reinforcement-rules = Normal syndicate antagonist rules apply. Work with whoever called you in, and don't harm them.
@@ -281,7 +284,7 @@ ghost-role-information-disaster-victim-name = Disaster Victim
 ghost-role-information-disaster-victim-description = You were rescued in an escape pod from another station that suffered a terrible fate. Perhaps you will be found and rescued.
 ghost-role-information-syndie-disaster-victim-name = Syndie Disaster Victim
 ghost-role-information-syndie-disaster-victim-description = You're a regular passenger from a syndicate station. Unfortunately, an evacuation pod has thrown you into an enemy sector.....
-ghost-role-information-syndie-soldier-name = Syndicate Soldier
+ghost-role-information-syndie-soldier-name = Солдат Синдикату
 ghost-role-information-syndie-soldier-description = You are a soldier from the Syndicate.
 
 ghost-role-information-syndie-soldier-teamlead-name = Syndicate Team Leader
@@ -293,10 +296,10 @@ ghost-role-information-blackmarketeer-description = Make trades or take odd jobs
 ghost-role-information-cossack-name = Ancient traveler
 ghost-role-information-cossack-description = From a history lost to time, you find yourself cast into this day and age.
 
-ghost-role-information-pirate-name = Space Pirate
+ghost-role-information-pirate-name = Космічний Пірат
 ghost-role-information-pirate-description = Argh matey! Collect some cool loot, but make sure to avoid security and salvage!
 
-ghost-role-information-pirate-captain-name = Space Pirate Captain
+ghost-role-information-pirate-captain-name = Капітан Космічних Піратів
 ghost-role-information-pirate-captain-description = Argh matey! You are in charge here and need to devise a plan to get that juicy loot by hook or by crook. Just make sure to avoid security and salvage!
 
 ghost-role-information-artifact-name = Розумний Артефакт
@@ -308,3 +311,5 @@ ghost-role-information-tomatokiller-description = This little tomato will serve 
 ghost-role-information-gingerbread-name = Gingerbread Man
 ghost-role-information-gingerbread-description = A being of pure holiday spirit.
                                      Spread molassesy goodness and to all good cheer.
+ghost-role-information-wizard-name = Чародій
+ghost-role-information-wizard-desc = YER A WIZARD! Show the station what your magic is made of.

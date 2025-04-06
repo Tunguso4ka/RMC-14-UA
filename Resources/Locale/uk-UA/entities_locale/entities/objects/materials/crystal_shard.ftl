@@ -7,9 +7,13 @@ ent-ShardCrystalCyan = голубий уламок кристалу
 ent-ShardCrystalBlue = синій уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
+ent-ShardCrystalYellow = yellow crystal shard
+    .desc = { ent-ShardCrystalBase.desc }
 ent-ShardCrystalOrange = оранжевий уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
+ent-ShardCrystalBlack = black crystal shard
+    .desc = { ent-ShardCrystalBase.desc }
 ent-ShardCrystalPink = рожевий уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
@@ -21,4 +25,3 @@ ent-ShardCrystalRed = червоний уламок кристалу
 
 ent-ShardCrystalRandom = випадковий уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
-

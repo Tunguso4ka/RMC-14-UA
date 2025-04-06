@@ -1,21 +1,30 @@
 ent-CMBeakerBase = { ent-BaseBeaker }
     .desc = { ent-BaseBeaker.desc }
-
 ent-RMCBeakerBaseMetallic = { ent-BaseBeakerMetallic }
     .desc = { ent-BaseBeakerMetallic.desc }
 ent-CMBeaker = { ent-Beaker }
-    .desc = { ent-Beaker.desc }
-
+    .desc = A beaker. Can hold up to 60 units.
 ent-CMBeakerLarge = { ent-LargeBeaker }
-    .desc = { ent-LargeBeaker.desc }
-
+    .desc = A large beaker. Can hold up to 120 units.
 ent-RMCBeakerHighCapacity = high-capacity beaker
     .desc = A beaker with an enlarged holding capacity, made with blue-tinted plexiglass in order to withstand greater pressure. Can hold up to 300 units.
 ent-CMMiniTank = MS-11 розумний заправочний контейнер
     .desc = A robust little tank capable of refilling autoinjectors that previously required a nanomed system to refill. Using the wonders of microchips, it automatically sorts the correct chemicals into most single reagent autoinjectors. It is unable to partially fill them however. A valve exists on the top to transfer reagents to another container or to flush it entirely.
 
-ent-CMPressurizedCanister = каністра під тиском
-    .desc = Каністра під тиском. Внутрішня частина мішка-каністри під тиском. Ви можете вставити його тільки в мішок, пристрої або в контейнер.
+ent-RMCPressurizedCanister = pressurized canister
+    .desc = A pressurized container. The inner part of a pressurized reagent canister pouch. Only compatible with its pouch, machinery or a storage tank.
+ent-RMCPressurizedCanisterBicaridine = { ent-RMCPressurizedCanister }
+    .desc = { ent-RMCPressurizedCanister.desc }
+    .suffix = Bicaridine
+ent-RMCPressurizedCanisterKelotane = { ent-RMCPressurizedCanister }
+    .desc = { ent-RMCPressurizedCanister.desc }
+    .suffix = Kelotane
+ent-RMCPressurizedCanisterTricordrazineRevival = { ent-RMCPressurizedCanister }
+    .desc = { ent-RMCPressurizedCanister.desc }
+    .suffix = Tricordrazine - Revival
+ent-RMCPressurizedCanisterTricordrazine = { ent-RMCPressurizedCanister }
+    .desc = { ent-RMCPressurizedCanister.desc }
+    .suffix = Tricordrazine
 ent-RMCVial = ампула
     .desc = A small glass vial. Can hold up to 30 units.
 ent-RMCVialTricordrazine = tricordrazine vial

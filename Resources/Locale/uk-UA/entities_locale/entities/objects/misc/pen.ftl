@@ -21,3 +21,5 @@ ent-PenCap = авторучка капітана
 
 ent-PenHop = авторучка голови персоналу
     .desc = Розкішна авторучка голови персоналу цієї станції.
+ent-PenWiz = wizard's magical pen
+    .desc = A luxurious fountain pen. Seems to have a magical crystal eraser.

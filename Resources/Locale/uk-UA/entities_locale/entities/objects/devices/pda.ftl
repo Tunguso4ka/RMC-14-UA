@@ -210,3 +210,5 @@ ent-SyndiAgentPDA = КПК агента Синдикату
 ent-ChameleonPDA = { ent-PassengerPDA }
     .desc = { ent-PassengerPDA.desc }
     .suffix = Chameleon
+ent-WizardPDA = wizard PDA
+    .desc = You hear faint whispers coming from it.

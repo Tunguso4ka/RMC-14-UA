@@ -58,6 +58,8 @@ ent-ClothingNeckCloakAce = pilot's cloak
 ent-ClothingNeckCloakAro = werewolf cloak
     .desc = This cloak lets others know you're a lone wolf.
 
+ent-ClothingNeckCloakAroace = aeropilot's cloak
+    .desc = Cloak awarded to Nanotrasen's finest pilots on planets with inhabitable atmospheres.
 ent-ClothingNeckCloakBi = poison cloak
     .desc = The purple color is a clear indicator you are poisonous.
 
@@ -75,4 +77,3 @@ ent-ClothingNeckCloakEnby = treasure hunter cloak
 
 ent-ClothingNeckCloakPan = chef's cloak
     .desc = Meant to be worn alongside a frying pan.
-

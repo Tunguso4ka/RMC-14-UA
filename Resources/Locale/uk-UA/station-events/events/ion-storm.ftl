@@ -16,7 +16,7 @@ ion-storm-adjective-things = {$adjective} РЕЧІ
 ion-storm-x-and-y = {$x} ТА {$y}
 
 ion-storm-law-on-station = НА СТАНЦІЇ Є {$joined} {$subjects}
-ion-storm-law-no-shuttle = ШАТЛ НЕ МОЖЕ БУТИ ВИКЛИКАНИЙ, БО НА СТАНЦІЇ Є {$joined} {$subjects}
+ion-storm-law-call-shuttle = THE SHUTTLE MUST BE CALLED BECAUSE OF {$joined} {$subjects} ON THE STATION
 ion-storm-law-crew-are = {$who} ТЕПЕР {$joined} {$subjects}
 
 ion-storm-law-subjects-harmful = {$adjective} {$subjects} Є ШКІДЛИВИМИ ДЛЯ ЕКІПАЖУ
@@ -46,20 +46,19 @@ ion-storm-law-allergic-subjects = {$who} {$plural ->
 ion-storm-law-feeling = {$who} {$feeling} {$concept}
 ion-storm-law-feeling-subjects = {$who} {$feeling} {$joined} {$subjects}
 
-ion-storm-law-you-are = YOU ARE NOW {$concept}
-ion-storm-law-you-are-subjects = YOU ARE NOW {$joined} {$subjects}
-ion-storm-law-you-must-always = YOU MUST ALWAYS {$must}
-ion-storm-law-you-must-never = YOU MUST NEVER {$must}
+ion-storm-law-you-are = ТЕПЕР ТИ {$concept}
+ion-storm-law-you-are-subjects = ТЕПЕР ТИ {$joined} {$subjects}
+ion-storm-law-you-must-always = ТИ ПОВИНЕН ЗАВЖДИ {$must}
+ion-storm-law-you-must-never = ТИ ПОВИНЕН НІКОЛИ {$must}
 
-ion-storm-law-eat = THE {$who} MUST EAT {$adjective} {$food} TO SURVIVE
-ion-storm-law-drink = THE {$who} MUST DRINK {$adjective} {$drink} TO SURVIVE
-
-ion-storm-law-change-job = THE {$who} ARE NOW {$adjective} {$change}
+ion-storm-law-eat = {$who} ПОВИННІ ЇСТИ {$adjective} {$food}, ЩОБ ВИЖИТИ
+ion-storm-law-drink = {$who} ПОВИННІ ПИТИ {$adjective} {$drink}, ЩОБ ВИЖИТИ
+ion-storm-law-change-job = {$who} ТЕПЕР Є {$adjective} {$change}
 ion-storm-law-highest-rank = THE {$who} ARE NOW THE HIGHEST RANKING CREWMEMBERS
 ion-storm-law-lowest-rank = THE {$who} ARE NOW THE LOWEST RANKING CREWMEMBERS
 
-ion-storm-law-crew-must = THE {$who} MUST {$must}
-ion-storm-law-crew-must-go = THE {$who} MUST GO TO {$area}
+ion-storm-law-crew-must = {$who} ПОВИННІ {$must}
+ion-storm-law-crew-must-go = {$who} ПОВИННІ ПІТИ ДО {$area}
 
 ion-storm-part = {$part ->
     [true] PART
@@ -67,7 +66,7 @@ ion-storm-part = {$part ->
 }
 ion-storm-law-crew-only-1 = ONLY THE {$who} ARE {$part} OF THE CREW
 ion-storm-law-crew-only-2 = ONLY THE {$who} AND {$other} ARE {$part} OF THE CREW
-ion-storm-law-crew-only-subjects = ONLY {$adjective} {$subjects} ARE {$part} OF THE CREW
+ion-storm-law-crew-only-subjects = ТІЛЬКИ {$adjective} {$subjects} Є {$part} ЕКІПАЖУ
 ion-storm-law-crew-must-do = ONLY THOSE WHO {$must} ARE {$part} OF THE CREW
 ion-storm-law-crew-must-have = ONLY THOSE WHO HAVE {$adjective} {$objects} ARE {$part} OF THE CREW
 ion-storm-law-crew-must-eat = ONLY THOSE WHO EAT {$adjective} {$food} ARE {$part} OF THE CREW

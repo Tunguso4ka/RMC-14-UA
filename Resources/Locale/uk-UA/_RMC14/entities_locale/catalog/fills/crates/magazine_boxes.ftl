@@ -7,6 +7,8 @@ ent-RMCCrateBoxMagazineRifleM54CExt = Magazine box (M54C, 8x extended mags)
 ent-RMCCrateMagazineRifleM54CE2 = M54CE2 HAR Magazines crate (HAR ammo box x2)
     .desc = { ent-CMCrateAmmo.desc }
 
+ent-RMCCrateMagazineRifleM54CE2HT = M54CE2 HAR Magazines crate (HAR HT ammo box x2)
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineRifleM4SPR = Magazine box (M4SPR, 16x regular mags)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineRifleM4SPRAP = Magazine box (M4SPR, 16x AP mags)
@@ -33,6 +35,8 @@ ent-RMCCrateBatterySmartGun = ML66A smart gun battery crate (4x)
 ent-RMCCrateMagazineSmartGun = ML66A smart gun drum crate (2x)
     .desc = { ent-CMCrateAmmo.desc }
 
+ent-RMCCrateMagazineNapthalUT = M34 UT-Napthal fuel (4x)
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineSmartPistol = Magazine box (SU-6, 16x mags)
     .desc = { ent-CMCrateAmmo.desc }
 

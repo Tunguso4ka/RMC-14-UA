@@ -57,7 +57,8 @@ rmc-dropship-weapons-fire-not-skilled = Вас не тренували стрі�
 rmc-dropship-weapons-fire-no-ammo = {$weapon} не має набоїв.
 rmc-dropship-weapons-fire-cooldown = {$weapon} щойно стріляло, зачекайте на перезарядку.
 
-rmc-dropship-weapons-point-gun = It has a {$weapon} loaded.
+rmc-dropship-attached = It has a {$attachment} loaded.
+
 rmc-dropship-weapons-point-ammo = It has a {$ammo} loaded.
 rmc-dropship-weapons-rounds-left = It has {$current} out of {$max} rounds left.
 

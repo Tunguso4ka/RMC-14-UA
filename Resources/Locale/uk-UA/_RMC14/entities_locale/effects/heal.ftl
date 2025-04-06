@@ -1,5 +1,5 @@
-ent-RMCEffectHeal = { "" }
-    .desc = { "" }
+ent-RMCEffectHeal = { ent-RMCBaseEffect }
+    .desc = { ent-RMCBaseEffect.desc }
 ent-RMCEffectHealBusy = { ent-RMCEffectHeal }
     .desc = { ent-RMCEffectHeal.desc }
 ent-RMCEffectHealHealer = { ent-RMCEffectHeal }
@@ -9,6 +9,4 @@ ent-RMCEffectHealSacrifice = { ent-RMCEffectHeal }
 ent-RMCEffectHealAilments = { ent-RMCEffectHeal }
     .desc = { ent-RMCEffectHeal.desc }
 ent-RMCEffectHealQueen = { ent-RMCEffectHeal }
-    .desc = { ent-RMCEffectHeal.desc }
-ent-RMCEffectHealSoak = { ent-RMCEffectHeal }
     .desc = { ent-RMCEffectHeal.desc }

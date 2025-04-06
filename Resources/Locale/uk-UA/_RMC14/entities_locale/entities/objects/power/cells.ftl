@@ -11,6 +11,9 @@ ent-RMCPowerCellCrapEmpty = { ent-RMCPowerCellCrap }
 ent-RMCPowerCellAPC = heavy-duty power cell
     .desc = { ent-RMCPowerCell.desc }
 
+ent-RMCPowerCellAPCNoPower = { ent-RMCPowerCellAPC }
+    .desc = { ent-RMCPowerCellAPC.desc }
+    .suffix = No Power
 ent-RMCPowerCellAPCEmpty = { ent-RMCPowerCellAPC }
     .desc = { ent-RMCPowerCellAPC.desc }
     .suffix = Empty
@@ -47,3 +50,7 @@ ent-RMCPowerCellSmartgun = smart gun ML66A battery
 
 ent-RMCPowerCellSlot = { "" }
     .desc = { "" }
+ent-RMCPowerCellSlotUnremovable = { ent-RMCPowerCellSlot }
+    .desc = { ent-RMCPowerCellSlot.desc }
+ent-RMCPowerCellSlotUnremovableSuper = { ent-RMCPowerCellSlot }
+    .desc = { ent-RMCPowerCellSlot.desc }

@@ -56,9 +56,8 @@ ent-CMJumpsuitBO = одяг офіцера
 
 ent-CMJumpsuitOperations = marine operations uniform
     .desc = An operations uniform worn by members of the marines. Do the corps proud. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
-ent-CMJumpsuitIO = marine intelligence officer uniform
+ent-RMCUniformIntel = marine intelligence officer uniform
     .desc = Tighter than a vice. Slicker than beard oil. Covered from head to toe in pouches, pockets, bags, straps, and belts. Clearly, you are not only the most intelligent of intelligence officers, but the most fashionable as well. This suit took an entire R&D team five days to develop. It is more expensive than the entire Almayer... probably.
-
 ent-CMJumpsuitPilot = pilot officer bodysuit
     .desc = A bodysuit worn by pilot officers of the marines, and is meant for survival in inhospitable conditions. Fly the marines onwards to glory. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
 

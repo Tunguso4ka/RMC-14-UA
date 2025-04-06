@@ -7,3 +7,5 @@ ent-CMM11Knife = M11 метальний ніж
 
 ent-CMM2132Machete = M2132 мачета
     .desc = Останній випуск КМП ООН Мачета.
+ent-RMCCeremonialSword = ceremonial sabre
+    .desc = A fancy ceremonial sabre passed down from generation to generation. Despite this, it has been very well cared for, and is in top condition.

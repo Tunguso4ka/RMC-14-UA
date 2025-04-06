@@ -19,6 +19,11 @@ log-probe-scan = Завантажили логі з {$device}!
 log-probe-label-time = Час
 log-probe-label-accessor = Використано
 log-probe-label-number = #
+log-probe-print-button = Print Logs
+log-probe-printout-device = Scanned Device: {$name}
+log-probe-printout-header = Latest logs:
+log-probe-printout-entry = #{$number} / {$time} / {$accessor}
+
 astro-nav-program-name = AstroNav
 
 med-tek-program-name = MedTek

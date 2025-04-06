@@ -17,6 +17,9 @@ ent-CMVendorSec = ВоєнПолТех
     .desc = Торговий автомат речей для військової поліції.
     .suffix = Military Police
 
+ent-RMCVendorSecArmory = Riot Tech
+    .desc = A Police Riot equipment vendor.
+    .suffix = Military Police
 ent-CMVendorSEA = РадникТех
     .desc = Торговий автомат Старшого Військового Радника.
     .suffix = SEA

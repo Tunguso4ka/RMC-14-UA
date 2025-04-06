@@ -10,3 +10,7 @@ ent-RMCSentrySniper = UN 725-D sniper sentry
     .desc = A fully-automated defence turret with long-range targeting capabilities. Armed with a modified M32-S Autocannon and an internal belt feed.
 ent-RMCSentryOmni = UN 571-D omnidirectional sentry gun
     .desc = A deployable, semi-automated turret with 360 degree range AI targeting capabilities. Armed with an M30 Autocannon and a 500-round drum magazine.
+ent-RMCSentryShotgun = UN 12-G Shotgun Sentry
+    .desc = A deployable, semi-automated turret with specialized for close range combat. Protects itself with sturdier plating and steel tusks.
+ent-RMCTurretGaussDumb = damaged UN-577 gauss turret
+    .desc = A deployable, semi-automated turret with AI targeting capabilities. Armed with an M30 Autocannon and a high-capacity drum magazine. This one's IFF system has been fried via acid damage, and it will open fire on any targets within range.

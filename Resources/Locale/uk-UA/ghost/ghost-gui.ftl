@@ -1,9 +1,11 @@
 ghost-gui-return-to-body-button = Повернутися до тіла
 ghost-gui-ghost-warp-button = Телепортуватися
 ghost-gui-ghost-roles-button = Ролі для привідів ({$count})
-ghost-gui-toggle-ghost-visibility-popup-on = Enabled visibility of ghosts.
-ghost-gui-toggle-ghost-visibility-popup-off = Disabled visibility of ghosts.
-ghost-gui-toggle-lighting-manager-popup = Перемкнуто світло.
+ghost-gui-toggle-ghost-visibility-popup-on = Увімкнена видимість привидів.
+ghost-gui-toggle-ghost-visibility-popup-off = Вимкнена видимість привидів.
+ghost-gui-toggle-lighting-manager-popup-normal = Lighting normal.
+ghost-gui-toggle-lighting-manager-popup-personal-light = Enabled personal light.
+ghost-gui-toggle-lighting-manager-popup-fullbright = Fullbright mode.
 ghost-gui-toggle-fov-popup = Перемкнуто поле зору.
 
 ghost-gui-toggle-hearing-popup-on = Ви тепер чуєте усі повідомлення.

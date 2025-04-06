@@ -1,3 +1,5 @@
+ent-BaseMagicalContraband = { "" }
+    .desc = { "" }
 ent-BaseSyndicateContraband = { "" }
     .desc = { "" }
 
@@ -47,6 +49,12 @@ ent-BaseSecurityCargoContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 
 ent-BaseMedicalScienceContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+ent-BaseSecurityBartenderContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+ent-BaseSecurityLawyerContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+ent-BaseJanitorContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 ent-BaseGrandTheftContraband = { "" }
     .desc = { "" }

@@ -9,11 +9,11 @@ ent-EnergyDaggerLoud = енерго ніж
 
 ent-EnergyDagger = ручка
     .desc = Ручка з чорними чорнилами.
-    .suffix = Енергоніж
+    .suffix = eнергоніж
 
 ent-EnergyDaggerBox = коробка енергоножа
     .desc = Маленька коробка, що містить в собі енерго-ніж. Коробка самознищіться щойно буде відкрита, не залишаючі по собі доказів.
-    .suffix = Енергоніж
+    .suffix = eнергоніж
 
 ent-EnergyCutlass = енергошабля
     .desc = Екзотична плазмена зброя.
@@ -21,6 +21,8 @@ ent-EnergyCutlass = енергошабля
 ent-EnergySwordDouble = дволезовий енергомеч
     .desc = Інтерни з командування Синдикату вирішили, що мати тільки одне лезо не престижно.
 
+ent-HyperEutacticBlade = hypereutactic-blade
+    .desc = A supermassive weapon envisioned to cleave the very fabric of space and time itself in twain, the hypereutactic blade dynamically flash-forges a hypereutactic crystaline nanostructure capable of passing through most known forms of matter like a hot knife through butter.
 ent-CyborgEnergySwordDouble = { ent-EnergySwordDouble }
     .desc = Syndicate Command Interns thought that having one blade on the energy sword was not enough. Specially designed for syndicate cyborgs.
     .suffix = One-Handed, For Borgs

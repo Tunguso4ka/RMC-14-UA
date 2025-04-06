@@ -47,11 +47,11 @@ ent-RMCAreaShivaInteriorTelecommLz1Biceps = Shiva's Snowball - Fort Biceps Commu
 ent-RMCAreaShivaInteriorTelecommLz1Flight = Shiva's Snowball - LZ1 Aerodrome Communications Relay
     .desc = { ent-RMCAreaShivaInteriorTelecomm.desc }
 
-ent-RMCAreaShivaInteriorTelecommLz2Research = Shiva's Snowball - Argentinian Communications Relay
-    .desc = { ent-RMCAreaShivaInteriorTelecomm.desc }
-
 ent-RMCAreaShivaCaves = { ent-RMCAreaShiva }
     .desc = { ent-RMCAreaShiva.desc }
+
+ent-RMCAreaShivaInteriorTelecommLz2Research = Shiva's Snowball - Argentinian Communications Relay
+    .desc = { ent-RMCAreaShivaInteriorTelecomm.desc }
 
 ent-RMCAreaShivaCavesTelecomm = Shiva's Snowball - Communications Relay
     .desc = { ent-RMCAreaShivaCaves.desc }
@@ -68,6 +68,8 @@ ent-RMCAreaShivaExteriorLz2Fortress = Shiva's Snowball - Landing Bulwark
 ent-RMCAreaShivaExteriorValley = Shiva's Snowball - Storage Bunker Valley
     .desc = { ent-RMCAreaShivaExterior.desc }
 
+ent-RMCAreaShivaExteriorSouthwestValley = Shiva's Snowball - Southwest Valley
+    .desc = { ent-RMCAreaShivaExterior.desc }
 ent-RMCAreaShivaExteriorCpColonyGrounds = Shiva's Snowball - Colony Grounds
     .desc = { ent-RMCAreaShivaExterior.desc }
 
@@ -166,4 +168,3 @@ ent-RMCAreaShivaInteriorLz2Habs = Shiva's Snowball - Argentinian Research Headqu
 
 ent-RMCAreaShivaInteriorAuxPower = Shiva's Snowball - Auxiliary Generator Station
     .desc = { ent-RMCAreaShivaInterior.desc }
-

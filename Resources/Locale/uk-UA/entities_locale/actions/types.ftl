@@ -1,4 +1,5 @@
-ent-BaseSuicideAction = Суїцид
+ent-BaseSuicideAction = { "" }
+
     .desc = { "" }
 
 ent-ActionScream = Кричати
@@ -78,3 +79,7 @@ ent-ActionToggleEyes = Відкрити/Закрити очі
 
 ent-ActionToggleWagging = action-name-toggle-wagging
     .desc = action-description-toggle-wagging
+ent-FakeMindShieldToggleAction = [color=green]Toggle Fake Mindshield[/color]
+    .desc = Turn the Fake Mindshield implant's transmission on/off
+ent-ActionToggleParamedicSiren = Toggle Paramedic Siren
+    .desc = Toggles the paramedic siren on and off.

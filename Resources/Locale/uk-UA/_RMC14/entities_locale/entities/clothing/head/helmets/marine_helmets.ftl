@@ -7,18 +7,23 @@ ent-CMArmorHelmetM10MP = шолом воєнполу M10
 ent-CMArmorHelmetM10ChiefMP = шолом голови воєнполу M10
     .desc = Спеціальний варіант шолому зразку М10 для голів військової поліції КМП ООН.
 
-ent-CMArmorHelmetM10CO = шолом командуючого M10
-    .desc = Спеціальний варіант шолому зразку М10 для командуючих офіцерів КМП ООН.
-
+ent-RMCArmorHelmetM10SO = M10 pattern officer helmet
+    .desc = A special variant of the M10 Pattern Helmet worn by Officers of the UNMC, attracting the attention of the grunts and sniper fire alike.
 ent-CMArmorHelmetM10Medic = шолом медика M10
     .desc = Спеціальний варіант шолому зразку М10 для бойових медиків КМП ООН.
 
+ent-RMCArmorHelmetM10MedicWhite = M10 white corpsman helmet
+    .desc = An M10 marine helmet version worn by marine hospital corpsmen. Painted in medical white and has white cross in a blue square painted on its front.
 ent-CMArmorHelmetM10Tech = шолом техніка M10
     .desc = Спеціальний варіант шолому зразку М10 для бойових техніків КМП ООН.
 
 ent-CMArmorHelmetM11 = шолом лідера зразку M11
     .desc = Трішечки красивіший шолом для лідерів морпіхів. Цей має вбудовану камеру та має амортизацію щоб захистити твої крихкі мізки.
 
+ent-CMArmorHelmetM11CCO = M11C pattern commanding officer helmet
+    .desc = A special M11 Pattern Helmet worn by Commanding Officers of the UNMC. It reads on the label, 'The difference between an open-casket and closed-casket funeral. Wear on head for best results.'.
+ent-CMArmorHelmetM11CGeneral = M11C pattern ceremonial helmet
+    .desc = A special M11 pattern ceremonial helmet worn occasionally by general officers of the UNMC.
 ent-CMArmorHelmetM12 = шолом зразку M12
     .desc = Експерементальне відро для мізків. З рюшкою що звісає зі спини. Помірно краще захищає від тупих предметів ціною сорому та принижень. Але хто буде сміятися останнім? Не ти, бо ти будеш зайнятий на церемоніях нагородження тебе за твою чудову роботу в розвідці чи фантастичне лідерство.
 
@@ -43,3 +48,7 @@ ent-CMArmorHelmetM45 = маскувальний шолом M45
 ent-RMCArmorHelmetM3TDemo = M3-T bombardier helmet
     .desc = A custom-built helmet for explosive weaponry users. Comes with inbuilt ear blast protection, firing a rocket launcher without this is not recommended.
 
+ent-RMCArmorHelmetM12Dust = M12 pattern dust helmet
+    .desc = An experimental brain-bucket. A dust ruffle hangs from back instead of the standard lobster shell design. Moderately better at deflecting blunt objects at the cost of humiliation, can also hold a second visor optic. But who will be laughing at the memorial? Not you, you'll be busy getting medals for your fantastic leadership.
+ent-RMCArmorHelmetM12Intel = XM12 pattern intelligence helmet
+    .desc = An experimental brain-bucket. A dust ruffle hangs from back. Moderately better at deflecting blunt objects at the cost of humiliation, can also hold a second visor optic. But who will be laughing at the memorial? Not you, you'll be busy getting medals for your intel work.

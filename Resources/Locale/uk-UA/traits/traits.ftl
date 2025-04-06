@@ -53,8 +53,10 @@ trait-german-desc = Ви родом з космічної Німеччини.
 
 trait-italian-name = Італьянський акцент (неперекладено)
 trait-italian-desc = Мамма мія! Звучите як космічний італьянець!
-trait-french-name = French accent
+trait-french-name = Французький акцент
 trait-french-desc = Your accent seems to have a certain «je ne sais quoi».
 
-trait-spanish-name = Spanish accent
+trait-spanish-name = Іспанський акцент
 trait-spanish-desc = Hola señor, donde esta la biblioteca.
+trait-painnumbness-name = Numb
+trait-painnumbness-desc = You lack any sense of feeling pain, being unaware of how hurt you may be.

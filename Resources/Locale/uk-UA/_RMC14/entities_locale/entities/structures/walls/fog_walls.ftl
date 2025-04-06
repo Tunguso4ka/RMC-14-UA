@@ -27,3 +27,5 @@ ent-RMCFogWallRemoverThree = { ent-RMCFogWallRemoverOne }
 ent-RMCFogWallAdderThree = { ent-RMCFogWallAdderOne }
     .desc = { ent-RMCFogWallAdderOne.desc }
     .suffix = group three, 25 minutes
+ent-RMCFogShockwave = shockwave smoke
+    .desc = { "" }

@@ -1,6 +1,5 @@
-ent-RMCUnderAttachmentBase = { ent-RMCAttachmentBase }
-    .desc = { ent-RMCAttachmentBase.desc }
-
+ent-RMCUnderAttachmentBase = { ent-RMCAttachableBase }
+    .desc = { ent-RMCAttachableBase.desc }
 ent-RMCAttachmentAngledGrip = angled grip
     .desc = An angled foregrip that improves weapon ergonomics resulting in faster wielding time. However, it also increases weapon size.
 
@@ -16,9 +15,8 @@ ent-RMCAttachmentGyroscopicStabilizer = gyroscopic stabilizer
 ent-RMCAttachmentLaserSight = laser sight
     .desc = A laser sight that attaches to the underside of most weapons. Increases accuracy and decreases scatter, especially while one-handed.
 
-ent-CMAttachmentMiniFlamethrower = міні-вогнемет
-    .desc = Вогнемет що кріпиться на зброю. Має додатковий режим для більш інтенсивного полум'я.
-
+ent-RMCAttachmentMiniFlamethrower = mini flamethrower
+    .desc = A weapon-mounted refillable flamethrower attachment. It has a secondary setting for a more intense flame with far less propulsion ability and heavy fuel usage.
 ent-CMAttachmentXMVESG1FlamerNozzle = XM-VESG-1 flamer nozzle
     .desc = A special nozzle designed to alter flamethrowers to be used in a more offense orientated manner. As the inside of the nozzle is coated in a special gel and resin substance that takes the fuel that passes through and hardens it. Upon exiting the barrel, a cluster of burning gel is projected instead of a stream of burning naphtha.
 
@@ -34,6 +32,8 @@ ent-RMCAttachmentU1GrenadeLauncher = U1 grenade launcher
 ent-RMCAttachmentMK1GrenadeLauncher = MK1 underslung grenade launcher
     .desc = An older version of the classic underslung grenade launcher. Can store five grenades, but fires them slower.
 
+ent-RMCAttachmentM203GrenadeLauncher = M203 grenade launcher
+    .desc = An antique underbarrel grenade launcher. Adopted in 1969 for the M16, it was made obsolete centuries ago; how its ended up here is a mystery to you. Holds only one propriatary 40mm grenade, does not have modern IFF systems, it won't pass through your friends.
 ent-RMCAttachmentVerticalGrip = vertical grip
     .desc = A vertical foregrip that offers better accuracy, less recoil, and less scatter, especially during burst fire. However, it also increases weapon size.
 

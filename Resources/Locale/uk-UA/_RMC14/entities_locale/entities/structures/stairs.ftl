@@ -87,3 +87,7 @@ ent-RMCHunterStairsRight = { ent-RMCStairs }
 ent-RMCHunterStairsSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Solo
+ent-RMCHybrisaStairs = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+ent-RMCHybrisaStairsPerspective = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }

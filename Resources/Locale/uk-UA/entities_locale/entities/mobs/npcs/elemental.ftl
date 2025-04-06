@@ -9,12 +9,16 @@ ent-MobQuartzCrab = { ent-MobOreCrab }
 ent-MobIronCrab = { ent-MobOreCrab }
     .desc = An ore crab made from iron.
 
+ent-MobCoalCrab = { ent-MobOreCrab }
+    .desc = An ore crab made from coal.
 ent-MobUraniumCrab = { ent-MobOreCrab }
     .desc = An ore crab made from uranium.
 
 ent-MobSilverCrab = ore crab
     .desc = An ore crab made from silver.
 
+ent-MobGoldCrab = ore crab
+    .desc = An ore crab made from gold.
 ent-ReagentSlime = Reagent slime
     .desc = It consists of a liquid, and it wants to dissolve you in itself.
     .suffix = Water

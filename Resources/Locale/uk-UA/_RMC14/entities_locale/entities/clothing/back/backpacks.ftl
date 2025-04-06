@@ -1,5 +1,5 @@
-ent-CMPersonalStorageBase = backpack
-    .desc = You wear this on your back and put items into it.
+ent-CMPersonalStorageBase = рюкзак
+    .desc = Ти носиш його на собі і кладеш в нього свої речі.
 
 ent-CMBackpack = рюкзак
     .desc = Ти носиш його на собі і кладеш в нього свої речі.
@@ -30,3 +30,5 @@ ent-CMBackpackMortar = мінометний рюкзак КМП ООН
 
 ent-CMBackpackWelder = паливний рюкзак техників КМП ООН
     .desc = Спеціалізований рюкзак бойових техників КМП ООН з додатковим баком палива для швидкої підзаправки зварників.
+ent-RMCBackpackAmmo = IMP ammo rack
+    .desc = A bare IMP frame with buckles designed to hold multiple ammo cans, but can fit any cumbersome box thanks to Marine ingenuity. Helps you lug around extra rounds or supplies.

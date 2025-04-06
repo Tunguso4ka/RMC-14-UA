@@ -1,0 +1,9 @@
+traitor-corporations-dataset-1 = КиберСан Індастрія
+traitor-corporations-dataset-2 = Мародери Ґорлакса
+traitor-corporations-dataset-3 = MI13
+traitor-corporations-dataset-4 = З'єднання Тигрів
+traitor-corporations-dataset-5 = S.E.L.F.
+traitor-corporations-dataset-6 = Консорціум за Права Тварин
+traitor-corporations-dataset-7 = Донк Корпорація
+traitor-corporations-dataset-8 = Вафля Корпорація
+traitor-corporations-dataset-9 = Інтердайн Фармацевтика

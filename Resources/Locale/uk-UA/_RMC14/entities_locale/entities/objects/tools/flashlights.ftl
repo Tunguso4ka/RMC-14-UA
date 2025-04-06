@@ -1,6 +1,10 @@
 ent-RMCFlashlightBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
+ent-RMCBoxFlashlightsEmpty = box of flashlights (x8)
+    .desc = A box of flashlights to brighten your day!
+ent-RMCBoxFlashlights = { ent-RMCBoxFlashlightsEmpty }
+    .desc = { ent-RMCBoxFlashlightsEmpty.desc }
+    .suffix = Filled
 ent-RMCFlashlight = лихтарик
     .desc = Ручне аварійне джерело світла.
 
@@ -24,6 +28,5 @@ ent-RMCLampTripod = tripod lamp
 
 ent-RMCLampTripodGrey = { ent-RMCLampTripod }
     .desc = { ent-RMCLampTripod.desc }
-
 ent-RMCFlashlightLantern = ручна лампа
     .desc = Шахтарська рухна лампа.

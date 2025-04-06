@@ -9,3 +9,7 @@ ent-RMCJumpsuitVeteranPMCCorporate = We-Ya corporate security uniform
     .desc = An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by what are known as 'goons'.
 ent-RMCJumpsuitVeteranPMCCorporateLead = We-Ya corporate security uniform
     .desc = An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by the lead of the 'goonsquad', as they are colloquially known.
+ent-RMCJumpsuitVeteranPMCKutjevo = We-Ya corporate security uniform
+    .desc = An armored uniform worn by We-Ya corporate security members. This variant is more breathable for use in hot, dry environments.
+ent-RMCJumpsuitVeteranPMCKutjevoLead = We-Ya corporate security uniform
+    .desc = An armored uniform worn by We-Ya corporate security members. This variant is more breathable for use in hot, dry environments and has gold armbands denoting the team leader

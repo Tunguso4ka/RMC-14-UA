@@ -39,14 +39,14 @@ cmd-blacklistadd-desc = Adds the player with the given username to the server bl
 cmd-blacklistadd-help = Usage: blacklistadd <username>
 cmd-blacklistadd-existing = {$username} is already on the blacklist!
 cmd-blacklistadd-added = {$username} added to the blacklist
-cmd-blacklistadd-not-found = Unable to find '{$username}'
+cmd-blacklistadd-not-found = Не можемо знайти  '{$username}'
 cmd-blacklistadd-arg-player = [player]
 
 cmd-blacklistremove-desc = Removes the player with the given username from the server blacklist.
 cmd-blacklistremove-help = Usage: blacklistremove <username>
 cmd-blacklistremove-existing = {$username} is not on the blacklist!
 cmd-blacklistremove-removed = {$username} removed from the blacklist
-cmd-blacklistremove-not-found = Unable to find '{$username}'
+cmd-blacklistremove-not-found = Не можемо знайти '{$username}'
 cmd-blacklistremove-arg-player = [player]
 
 baby-jail-account-denied = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun!
@@ -58,3 +58,4 @@ generic-misconfigured = The server is misconfigured and is not accepting players
 ipintel-server-ratelimited = This server uses a security system with external verification, which has reached its maximum verification limit. Please contact the administration team of the server for assistance and try again later.
 ipintel-unknown = This server uses a security system with external verification, but it encountered an error. Please contact the administration team of the server for assistance and try again later.
 ipintel-suspicious = You seem to be connecting through a datacenter or VPN. For administrative reasons we do not allow VPN connections to play. Please contact the administration team of the server for assistance if you believe this is false.
+hwid-required = Your client has refused to send a hardware id. Please contact the administration team for further assistance.

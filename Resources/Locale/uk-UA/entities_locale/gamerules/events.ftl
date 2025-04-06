@@ -32,9 +32,13 @@ ent-DragonSpawn = { ent-BaseGameRule }
 ent-NinjaSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-ParadoxCloneSpawn = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
 ent-RevenantSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-WizardSpawn = { ent-BaseWizardRule }
+    .desc = { ent-BaseWizardRule.desc }
 ent-GasLeak = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

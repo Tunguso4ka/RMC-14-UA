@@ -52,3 +52,5 @@ ent-ActionXenoBurrow = Burrow
     .desc = Burrow underground preventing you from getting hit from all sources. Once burrowed click a tile to move to it and resurface after a doafter that depends on distance.
 ent-ActionXenoSoak = Soak (20)
     .desc = Soak in damage for 6 seconds. If you take 140 damage or higher, you regen 75 health and your tail slam gets refreshed.
+ent-ActionXenoEmpower = Empower (50)
+    .desc = On first activation it, gain a small amount of shield. After 6 seconds or using it again, get empowered based on surrounding enemies (max 6), gaining shield from each. If you empowered from at least 3 targets, you become Super-Empowered, gaing additional damage on melee attacks, and changing how some of your other abilities work.

@@ -1,29 +1,22 @@
 ent-CMVendorBundleRiflemanApparel = стандартне спорядження морпіхів
-    .desc = { "" }
-
+    .desc = Contains a marine jumpsuit, a M10 helmet, a headset, combat gloves and combat boots.
 ent-CMVendorBundleFireteamLeaderApparel = стандартне спорядження морпіхів
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains a marine jumpsuit, a M12 helmet, a headset, insulated gloves and combat boots.
 ent-CMVendorBundleSquadMedicalApparel = стандартне спорядження морпіхів
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains a corpsman jumpsuit, a M10 helmet, a headset and combat boots.
 ent-CMVendorBundleSquadMedicalEssentials = обов'язковий набір лікаря
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains a stasis bag, a defibrillator, a roller bed, medical tools, and two blood packs.
 ent-CMVendorBundleCombatTechnicianApparel = стандартне спорядження морпіхів
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains a marine jumpsuit, a M10 helmet, a headset, insulated gloves and combat boots.
 ent-CMVendorBundleCombatTechnicianEssentials = обов'язковий набір інженера
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains 50 metal, 40 plasteel, 25 sandbags, a high-capacity power cell, an entrenching tool, a light replacer, and a nailgun.
 ent-CMVendorBundleSquadLeaderApparel = стандартне спорядження морпіхів
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains a marine jumpsuit, a M11 helmet, a headset, combat gloves and combat boots.
 ent-CMVendorBundleWeaponsSpecialistApparel = стандартне спорядження морпіхів
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains a marine jumpsuit, a headset, combat gloves and combat boots.
 ent-RMCVendorBundleMilitaryPoliceApparel = обов'язковий набір воєнполу
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
-
+    .desc = Contains security HUD-glasses, a filled security belt and a M10 helmet.
 ent-CMVendorBundleCrewMedicalEssentialsNurse = обов'язковий набір лікаря
-    .desc = { ent-CMVendorBundleRiflemanApparel.desc }
+    .desc = Contains a defibrillator, a first-aid kit, medical tools and a flashlight.
+ent-RMCCommandingOfficerEssentialsBundle = Commanding Officer Essentials kit
+    .desc = Contains a laser designator, whistle, and a disabler.

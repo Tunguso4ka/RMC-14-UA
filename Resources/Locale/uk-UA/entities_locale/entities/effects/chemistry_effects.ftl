@@ -4,6 +4,8 @@ ent-BaseFoam = { "" }
 ent-Smoke = дим
     .desc = { ent-BaseFoam.desc }
 
+ent-WizardSmoke = дим
+    .desc = { ent-Smoke.desc }
 ent-Foam = foam
     .desc = { ent-BaseFoam.desc }
 

@@ -1,3 +1,5 @@
+ent-BasePaper = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
 ent-Paper = папір
     .desc = Шматочек білого папіру.
 
@@ -16,6 +18,8 @@ ent-PaperCaptainsThoughts = думки капітану
 ent-PaperCargoInvoice = накладна логістів
     .desc = Один шматок бюрократії.
 
+ent-PaperNanoTaskItem = NanoTask item
+    .desc = A printed NanoTask item. Can be inserted into your PDA to add it to your tasks.
 ent-PaperCargoBountyManifest = маніфест про винагороду
     .desc = Папір-ярлик для ящиків з речима винагороди. Продаж ящику з цим ярликом виконає контракт.
 
@@ -67,8 +71,6 @@ ent-BoxFolderGreen = { ent-BoxFolderBase }
 
 ent-BoxFolderCentCom = тека ЦентКому
     .desc = Жалюгідна маленька купка секретів Центрального Командування!
-    .suffix = НЕ МАПУВАТИ
-
 ent-BoxFolderClipboard = канцелярський планшет
     .desc = Найкраща зброя для солдат бюрократичного фронту.
 
@@ -80,8 +82,6 @@ ent-BoxFolderQmClipboard = планшет реквизиції
 
 ent-TraitorCodePaper = syndicate codeword
     .desc = A leaked codeword to possibly get in touch with the Syndicate.
-    .suffix = DO NOT MAP
-
 ent-AllTraitorCodesPaper = syndicate codewords registry
     .desc = A registry of all active Syndicate codewords.
     .suffix = Admeme

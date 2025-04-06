@@ -98,12 +98,10 @@ ent-ClothingMaskNeckGaiter = neck gaiter
 ent-ClothingMaskNeckGaiterRed = red neck gaiter
     .desc = { ent-ClothingMaskNeckGaiter.desc }
 
-ent-ClothingMaskSexyClown = sexy clown mask
-    .desc = Some naughty clowns think this is what the Honkmother looks like.
-
-ent-ClothingMaskSexyMime = sexy mime mask
+ent-ClothingMaskBlushingClown = blushing clown mask
+    .desc = A mask for a blushing clown.
+ent-ClothingMaskBlushingMime = blushing mime mask
     .desc = Those ruddy cheeks just want to be rubbed.
-
 ent-ClothingMaskSadMime = sad mime mask
     .desc = Many people think this is what a real mime mask looks like.
 
@@ -115,3 +113,5 @@ ent-ClothingMaskItalianMoustache = italian moustache
 
 ent-ClothingMaskNinja = ninja mask
     .desc = A close-fitting nano-enhanced mask that acts both as an air filter and a post-modern fashion statement.
+ent-ClothingMaskWeldingGas = welding gas mask
+    .desc = A gas mask with built in welding goggles and face shield. Looks like a skull, clearly designed by a nerd.

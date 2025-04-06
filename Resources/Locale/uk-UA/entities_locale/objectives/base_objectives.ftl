@@ -1,5 +1,5 @@
-ent-BaseObjective = Base Objective
-
+ent-BaseObjective = { "" }
+    .desc = { "" }
 ent-BaseLivingObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
@@ -27,3 +27,5 @@ ent-BaseSurviveObjective = { ent-BaseObjective }
 ent-BaseCodeObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
+ent-BaseFreeObjective = { ent-BaseObjective }
+    .desc = { ent-BaseObjective.desc }

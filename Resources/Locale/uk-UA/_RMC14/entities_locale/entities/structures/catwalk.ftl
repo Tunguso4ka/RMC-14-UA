@@ -1,12 +1,26 @@
 ent-CMCatwalk = парапет
     .desc = Парапет для більш зручного прокладання дротів та прогулянок по космосу.
 
+ent-RMCCatwalkAI = { ent-CMCatwalk }
+    .desc = { ent-CMCatwalk.desc }
+ent-RMCCatwalkAIWhite = { ent-CMCatwalk }
+    .desc = { ent-CMCatwalk.desc }
 ent-CMCatwalkShiva = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
 
 ent-CMCatwalkPrison = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
 
+ent-RMCCatwalkKutjevo = { ent-CMCatwalk }
+    .desc = { ent-CMCatwalk.desc }
+ent-RMCCatwalkStrata = { ent-CMCatwalk }
+    .desc = { ent-CMCatwalk.desc }
+ent-RMCCatwalkHybrisa = solid metal grate
+    .desc = { ent-CMCatwalk.desc }
+ent-RMCCatwalkHybrisaLattice = structural lattice
+    .desc = { ent-CMCatwalk.desc }
+ent-RMCCatwalkHybrisaElevator = solid metal grate
+    .desc = { ent-CMCatwalk.desc }
 ent-RMCMonorailStraight = monorail track
     .desc = The rail system for the CORSAT monorail.
 

@@ -1,0 +1,15 @@
+ent-RMCMapInsertLV624Armory = Armory
+    .desc = { ent-RMCMapInsertBase.desc }
+    .suffix = Insert LV624
+ent-RMCMapInsertLV624Gym = Gym
+    .desc = { ent-RMCMapInsertBase.desc }
+    .suffix = Insert LV624
+ent-RMCMapInsertLV624NexusCenter = Nexus Barricaded
+    .desc = { ent-RMCMapInsertBase.desc }
+    .suffix = Insert LV624
+ent-RMCMapInsertLV624SandtempleSE = Sandtemple LZ1
+    .desc = { ent-RMCMapInsertBase.desc }
+    .suffix = Insert LV624
+ent-RMCMapInsertLV624SandtempleJungle = Sandtemple Jungle
+    .desc = { ent-RMCMapInsertBase.desc }
+    .suffix = Insert LV624

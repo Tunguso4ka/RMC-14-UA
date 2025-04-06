@@ -3,8 +3,7 @@ ent-CMShoesLaceupCommander = commanding officer dress shoes
 
 ent-RMCItemSlotM5Bayonet = { "" }
     .desc = { "" }
-    .suffix = Filled
-
+    .suffix = Заповненi
 ent-CMBootsBlack = чорні чоботи
     .desc = Стандартні бойові чоботи що використовуються КМП ООН під час бойових дій. Завжди готові до бою.
 
@@ -31,6 +30,11 @@ ent-CMBootsJungleFilled = { ent-CMBootsJungle }
 ent-RMCBootsCorporate = rugged boots
     .desc = These synth-leather boots seem high quality when first worn, but quickly detoriate, especially in the environments the corporate security members these are issued to operate in. Still, better than nothing.
 
+ent-RMCBootsSPP = military combat boots
+    .desc = { ent-CMBootsBrown.desc }
+ent-RMCBootsSPPFilled = { ent-RMCItemSlotM5Bayonet }
+    .desc = { ent-RMCItemSlotM5Bayonet.desc }
+    .suffix = Filled
 ent-RMCBootsPMC = polished shoes
     .desc = The height of fashion, but these look to be woven with protective fiber.
 

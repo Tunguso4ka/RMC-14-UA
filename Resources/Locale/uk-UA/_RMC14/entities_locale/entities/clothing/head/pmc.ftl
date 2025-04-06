@@ -16,3 +16,7 @@ ent-ArmorHelmetPMCRiot = RC6 helmet
     .desc = The standard UN Riot Control 6 helmet is of odd design, lacking a face shield by default (mounting points are available). The distinct white pattern and red emblem are synonymous with oppression throughout the rim.
 ent-ArmorHelmetPMCKutjevo = kutjevo helmet
     .desc = Standard issued helmet for the workers of Kutjevo. Contains a small webbing to hold small items like pens, oil or even a photo of a loved one.
+ent-RMCArmorHelmetPMCKutjevoSecurity = We-Ya corporate security helmet
+    .desc = A basic skull-helm worn by corporate security assets. This variant comes with a wider brim to protect the user from the harsh climate of the desert.
+ent-RMCArmorHelmetPMCKutjevoMedical = We-Ya corporate medic helmet
+    .desc = A basic skull-helm worn by corporate security assets. This variant comes with a wider brim to protect the user from the harsh climate of the desert and has a medical cross across the front.

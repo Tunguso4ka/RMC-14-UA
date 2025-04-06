@@ -9,9 +9,14 @@ shuttle-console-prevent = Ви не можете пілотувати цього
 shuttle-console-display-label = Дісплей
 
 shuttle-console-position = Позіція:
+shuttle-console-position-value = {$X}, {$Y}
 shuttle-console-orientation = Орієнтація:
+shuttle-console-orientation-value  = {$angle}
 shuttle-console-linear-velocity = Лінійна швидкість:
+shuttle-console-linear-velocity-value = {$X}, {$Y}
 shuttle-console-angular-velocity = Кутова швидкість:
+
+shuttle-console-angular-velocity-value = {$angularVelocity}
 
 shuttle-console-unknown = Невідомий
 shuttle-console-iff-label = {$name} ({$distance}м)

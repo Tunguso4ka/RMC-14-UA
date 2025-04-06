@@ -9,8 +9,6 @@ ent-PlushieGhost = ghost soft toy
 
 ent-PlushieGhostRevenant = revenant soft toy
     .desc = So soft it almost makes you want to take a nap...
-    .suffix = DO NOT MAP
-
 ent-PlushieBee = bee plushie
     .desc = A cute toy that resembles an even cuter programmer. You'd have to be a monster to grind this up.
 
@@ -163,6 +161,9 @@ ent-TeslaToy = Teddy Tesla
 ent-PonderingOrb = pondering orb
     .desc = Ponderous, man... Really ponderous.
 
+ent-PonderingOrbWizard = pondering orb
+    .desc = Ponderous, man... Really ponderous. Magically shows the station's camera network.
+    .suffix = Wizard
 ent-ToySword = toy sword
     .desc = New Sandy-Cat plastic sword! Comes with realistic sound and full color! Looks almost like the real thing!
 

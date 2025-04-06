@@ -1,6 +1,7 @@
-ent-CMBaseWindow = { ent-CMBaseStructureCorrodible }
+ent-CMBaseWindowIndestructible = { ent-CMBaseStructureCorrodible }
     .desc = { ent-CMBaseStructureCorrodible.desc }
-
+ent-CMBaseWindow = { ent-CMBaseWindowIndestructible }
+    .desc = { ent-CMBaseWindowIndestructible.desc }
 ent-CMWindowReinforcedAlmayerHull = надміцне корабельне вікно
     .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Зроблене з екзотичних матеріалів, щоб запобігти пробоїнам корпусу. Тобі не пройти!
 
@@ -18,6 +19,9 @@ ent-CMWindowWhiteColony = корпусне вікно
 
 ent-CMWindowWhiteColonyReinforced = корпусне армоване скло
     .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Виглядає досить міцно. Може знадобитися кілька хороших ударів, щоб розбити його.
+ent-RMCHunterReinforcedWindow = reinforced window
+    .desc = A glass window with a special rod matrix inside a wall frame. It looks rather strong. Might take a few good hits to shatter it.
+    .suffix = hunter
 ent-RMCWindowWood = вікно
     .desc = A glass window. It looks thin and flimsy. A few knocks with anything should shatter it.
 ent-RMCWindowWoodReinforced = армоване вікно

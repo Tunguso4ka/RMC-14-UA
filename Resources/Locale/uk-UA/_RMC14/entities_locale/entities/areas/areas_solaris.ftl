@@ -348,6 +348,8 @@ ent-RMCAreaBigredv2OutsideTelecommEngi = Engineering Communications Relay
 ent-RMCAreaBigredv2OutsideEngineering = Engineering Complex
     .desc = { ent-RMCAreaBigredv2Outside.desc }
 
+ent-RMCAreaBigredv2OutsideEngineeringReactor = Main Reactor
+    .desc = { ent-RMCAreaBigredv2OutsideEngineering.desc }
 ent-RMCAreaBigredv2OutsideStorage = Storage
     .desc = { ent-RMCAreaBigredv2Outside.desc }
 
@@ -401,4 +403,3 @@ ent-RMCAreaBigredv2OutsideLz2SouthCas = ETA Lockdown Caves Entrance
 
 ent-RMCAreaBigredv2OutsideFiltrationCaveCas = Filtration Lockdown Caves Entrance
     .desc = { ent-RMCAreaBigredv2Outside.desc }
-

@@ -1,5 +1,11 @@
 ent-CMJumpsuitSPP = SPP fatigues
     .desc = A set of SPP fatigues, mass produced for the armed-forces of the Socialist Progressive Peoples.
+ent-RMCJumpsuitSPPWebbing = { ent-CMJumpsuitSPP }
+    .desc = { ent-CMJumpsuitSPP.desc }
+ent-RMCJumpsuitSPPWebbingVestBlack = { ent-CMJumpsuitSPP }
+    .desc = { ent-CMJumpsuitSPP.desc }
+ent-RMCJumpsuitSPPWebbingTools = { ent-CMJumpsuitSPP }
+    .desc = { ent-CMJumpsuitSPP.desc }
 ent-CMJumpsuitSPPMedic = SPP medic fatigues
     .desc = A set of SPP medic fatigues, mass produced for the armed-forces of the Socialist Progressive Peoples.
 ent-CMJumpsuitSPPEngi = SPP engineer fatigues

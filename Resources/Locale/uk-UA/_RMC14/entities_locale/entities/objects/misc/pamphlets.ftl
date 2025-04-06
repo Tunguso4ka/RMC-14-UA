@@ -1,7 +1,5 @@
 ent-CMPamphlet = памфлет-інструкція
     .desc = Памфлет який може надати потрібні вам знання.
-    .suffix = NOT IMPLEMENTED
-
 ent-CMPamphletMedical = медичний памфлет-інструкція
     .desc = Памфлет який може надати потрібні вам знання. This one has a medical insignia.
 
@@ -26,6 +24,10 @@ ent-CMPamphletSurgery = памфлет-інструкція хірургії
 ent-CMPamphletIntel = памфлет-інструкція розвідки
     .desc = Памфлет який може надати потрібні вам знання. This one has an intelligence insignia.
 
+ent-RMCPamphletLoader = loader instructional pamphlet
+    .desc = A pamphlet used to quickly impart vital knowledge. This one has the image of a rocket on it.
+ent-RMCPamphletMortarOperator = mortar operator instructional pamphlet
+    .desc = A pamphlet used to quickly impart vital knowledge. This one has the image of a mortar on it.
 ent-CMPamphletLanguage = translation pamphlet
     .desc = A pamphlet used by lazy USCM interpreters to quickly learn new languages on the spot.
 
@@ -49,4 +51,3 @@ ent-CMPamphletLanguageXenonid = Xenobiologist's file
 
 ent-CMPamphletLanguageMonkey = scribbled drawings
     .desc = A piece of paper covered in crude depictions of bananas and various types of primates. Probably drawn by a three-year-old child - or an unusually intelligent marine.
-

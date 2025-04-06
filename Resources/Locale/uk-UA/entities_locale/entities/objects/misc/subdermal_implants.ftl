@@ -19,6 +19,8 @@ ent-StorageImplant = storage implant
 ent-FreedomImplant = freedom implant
     .desc = This implant lets the user break out of hand restraints up to three times before ceasing to function anymore.
 
+ent-RadioImplant = radio implant
+    .desc = This implant grants access to the Syndicate channel without a headset.
 ent-UplinkImplant = uplink implant
     .desc = This implant lets the user access a hidden Syndicate uplink at will.
 
@@ -43,6 +45,10 @@ ent-DeathAcidifierImplant = death-acidifier implant
 ent-DeathRattleImplant = death rattle implant
     .desc = This implant will inform the Syndicate radio channel should the user fall into critical condition or die.
 
+ent-FakeMindShieldImplant = fake mindshield implant
+    .desc = This implant allows the implanter to produce a fake signal that NT security huds use to identify individuals implanted with a mindshield.
 ent-MindShieldImplant = mind-shield implant
     .desc = This implant will ensure loyalty to Nanotrasen and prevent mind control devices.
 
+ent-RadioImplantCentcomm = radio implant
+    .desc = This implant grants access to the Centcomm channel without a headset. Only authorized for Centcomm employees.

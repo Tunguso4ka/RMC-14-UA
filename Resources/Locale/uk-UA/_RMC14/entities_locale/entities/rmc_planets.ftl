@@ -14,3 +14,5 @@ ent-RMCPlanetKutjevo = Kutjevo Refinery
     .desc = { "" }
 ent-RMCPlanetChances = LV-522 Chance's Claim
     .desc = { "" }
+ent-RMCPlanetHybrisa = LV-759 Hybrisa Prospera
+    .desc = { "" }

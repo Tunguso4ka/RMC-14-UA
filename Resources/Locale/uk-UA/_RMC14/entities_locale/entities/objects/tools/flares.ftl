@@ -1,20 +1,25 @@
 ent-CMFlare = спалах
     .desc = Червоний стандартний спалах КМП ООН. На боці надрукована інструкція: "Потягні за шнурок й воно засвітиться".
 
-ent-RMCFlareCAS = signal flare
+ent-RMCFlareCAS = сигнальний спалах
     .desc = A green USCM issued signal flare. The telemetry computer works on chemical reaction that releases smoke and light and thus works only while the flare is burning.
-ent-RMCBoxPackFlareBase = box of M94 flare packs
+ent-RMCStarShellAsh = burning star shell ash
+    .desc = Bright burning ash from a Star Shell 40mm. Don't touch, or it'll burn ya'.
+ent-RMCBoxPackFlareEmpty = box of M94 flare packs (x10)
     .desc = A box of M94 marking flare packs, to brighten up your day.
-ent-RMCBoxPackFlare = { ent-RMCBoxPackFlareBase }
-    .desc = { ent-RMCBoxPackFlareBase.desc }
+ent-RMCBoxPackFlare = { ent-RMCBoxPackFlareEmpty }
+    .desc = { ent-RMCBoxPackFlareEmpty.desc }
     .suffix = Filled
-ent-CMPackFlareBase = пачка спалахів M94
-    .desc = Пачка маркувальних спалахів M94
-
+ent-RMCBoxPackFlareCASEmpty = box of M89-S flare packs (x10)
+    .desc = A box of M89 signal flare packs, to mark up the way.
+ent-RMCBoxPackFlareCAS = { ent-RMCBoxPackFlareCASEmpty }
+    .desc = { ent-RMCBoxPackFlareCASEmpty.desc }
+    .suffix = Filled
+ent-CMPackFlareBase = пачка маркувальних спалахів M94
+    .desc = Пачка вісьмі маркувальних спалахів M94.
 ent-CMPackFlare = { ent-CMPackFlareBase }
     .desc = { ent-CMPackFlareBase.desc }
     .suffix = Заповнена
-
-ent-RMCPackFlareCAS = { ent-CMPackFlareBase }
-    .desc = { ent-CMPackFlareBase.desc }
+ent-RMCPackFlareCAS = пачка сигнальних спалахів M89-S
+    .desc = Пачка вісьмі сигнальних спалахів M89.
     .suffix = Filled

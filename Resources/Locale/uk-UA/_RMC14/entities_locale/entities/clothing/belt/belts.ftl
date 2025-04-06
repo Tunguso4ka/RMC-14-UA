@@ -4,9 +4,13 @@ ent-CMBeltInflatable = Містер Крякер
 ent-CMBeltMarine = пояс для набоїв зразку M276
     .desc = M276 це стандарт обладнання КМП ООН. Він складається з модульного пояса та різних мішочків. Цей - стандартний варіант зроблений для набоїв.
 
+ent-RMCM276ShotgunShellLoadingRig = M276 pattern shotgun shell loading rig
+    .desc = An ammunition belt designed to hold shotgun shells.
 ent-CMBeltUtility = пояс для інструментів зразку M276
     .desc = M276 це стандарт обладнання КМП ООН. Він складається з модульного пояса та різних мішочків. Ця версія використовується інженерами для транспортування інструментів.
 
+ent-RMCBeltConstruction = M277 pattern construction rig
+    .desc = The M277 is a common rig used by Combat Technicians to carry around materials and other supplies. It consists of a modular belt with various clips. This version sacrifices storage space for specialized material loading clips.
 ent-CMBeltUtilityCombat = бойовий пояс для інструментів зразку M276
     .desc = Бойовий пояс для інструментів зразку М276 - альтернативне обладнання КМП ООН для інженерів що працюють поряд з бойовими зонами. Воно складається з модульного пояса та різних мішочків для інструментів та зброї. Через спеціфики вміщає менше інструментів ніж звичайна модель.
 
@@ -16,15 +20,14 @@ ent-CMBeltKnife = пояс для ножів зразку M276
 ent-CMBeltMedical = пояс медиків зразку M276
     .desc = M276 це стандарт обладнання КМП ООН. Він складається з модульного пояса та різних мішочків. Ця версія зроблена для транспортування ліків та набоїв.
 
-ent-CMBeltMedicBag = мішок парамедика зразку М276
-    .desc = M276 це стандарт обладнання КМП ООН. Ця версія складається з одного мішка наповненого шприцами та ліками.
-
 ent-CMBeltMortar = пояс оператора міномета зразку M276
     .desc = Зразок М276 підлаштований на транспортування та зберігання снарядів від міномету M402.
 
 ent-CMBeltSmartGunOperator = пояс барабанного озброєння зразку M280
     .desc = Не беручи до уваги факти 1. Барабанні магазини надзвичайно не ергономічні, та 2. потребують надзвичайно точної обробки щоб легко вміщатися (спойлер, вони не вмістяться. Додаючи це до міфу про "Різні типи розумного озброєння"), КМП ООН вирішило випустити модифікований пояс морпіхів (відомий під більш формальною назвою М280) з гачками та пилозахисними чохлами (занадто складними для звичайних бовдурів) для системи барабанної амуніції М56В. Коли фіксатор не застрягає в замазаною мастилом по горло липучці, то цей пояс виконує доволі не погану роботу зберігаючи достатню кількість барабанів. Але ставлячи крапку - в порівнянні зі стандартними поясами... цей смо-кче. Але ж, слово "смоктати" описує буття кожного Морпіху, чи я неправий?
 
+ent-RMCBeltSmartGunOperatorPistol = M802 pattern smart gun operator sidearm rig
+    .desc = The M802 is a limited-issue mark of UNMC load-bearing equipment, designed to carry smartgun ammunition and a sidearm.
 ent-RMCBeltGrenade = M276 pattern M40 grenade rig
     .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is designed to carry up to 12 of the M40 series of grenades.
 
@@ -34,5 +37,42 @@ ent-RMCBeltGrenadeLarge = M276 pattern M40 grenade rig Mk. II
 ent-RMCBeltSmartPistol = M276 pattern SU-6 smart pistol holster rig
     .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is for the SU-6 smartpistol.
 
+ent-RMCBeltHolsterPistol = M276 pattern general pistol holster rig
+    .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version has a holster assembly that allows one to carry the most common pistols. It also contains side pouches that can store most pistol magazines.
+ent-RMCBeltHolsterRevolver = M276 pattern general revolver holster rig
+    .desc = he M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is universal and adjustable for different revolvers, along with six small pouches for speedloaders. It smells faintly of hay.
+ent-RMCBeltHolsterSMG = M276 pattern M63 holster rig
+    .desc = Special issue variant of the M276 designed to holster a M63 submachine gun.
 ent-RMCBeltUtilityGeneral = M276 G8-A general utility pouch
     .desc = A small, lightweight pouch that can be clipped onto M3 Pattern armor to provide additional storage. The newer G8-A model, while uncomfortable, can also be clipped around the waist.
+ent-RMCBeltHolsterSMGPouch = M276 pattern M63 holster rig
+    .desc = Special issue variant of the M276 designed to holster a M63 submachine gun and two spare magazines. Uncommonly issued to UNMC support and specialist personnel.
+ent-RMCMatebaBelt = M276 pattern Mateba holster rig
+    .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is for the powerful Mateba magnum revolver, along with five small pouches for speedloaders. It was included with the mail-order UNMC edition of the Mateba autorevolver in the early 2170s.
+ent-RMCMatebaBeltLuxurious = luxurious M276 pattern Mateba holster rig
+    .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is for the powerful Mateba magnum revolver, along with five small pouches for speedloaders. This specific one is tinted black and engraved with gold, heavily customized for a high-ranking official.
+ent-RMCMatebaBeltLuxuriousFilled = { ent-RMCMatebaBeltLuxurious }
+    .desc = { ent-RMCMatebaBeltLuxurious.desc }
+    .suffix = Filled
+ent-RMCMatebaBeltFilled = { ent-RMCMatebaBelt }
+    .desc = { ent-RMCMatebaBelt.desc }
+    .suffix = Filled
+ent-RMCMK80BeltFilled = { ent-RMCBeltHolsterPistol }
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+    .suffix = Filled
+ent-RMCM1984BeltFilled = { ent-RMCBeltHolsterPistol }
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+    .suffix = Filled
+ent-CMM77BeltFilled = { ent-RMCBeltHolsterPistol }
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+    .suffix = Filled
+ent-RMCM44BeltFilled = { ent-RMCBeltHolsterRevolver }
+    .desc = { ent-RMCBeltHolsterRevolver.desc }
+    .suffix = Filled
+ent-RMCBeltXM51 = M276 pattern XM51 holster rig
+    .desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is for the XM51 breaching scattergun, allowing easier storage of the weapon. It features pouches for storing two magazines along with extra shells.
+ent-RMCM300SOCOMBelt = M300 pattern .458 SOCOM loading rig
+    .desc = An ammunition belt designed to hold the large .458 SOCOM caliber bullets for the XM88 heavy rifle.
+ent-RMCD50WinterWyvernBeltFilled = { ent-RMCBeltHolsterPistol }
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+    .suffix = Filled

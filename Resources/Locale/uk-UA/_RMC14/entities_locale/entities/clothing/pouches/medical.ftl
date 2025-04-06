@@ -1,37 +1,3 @@
-ent-RMCPouchFirstAid = мішочок для першої допомоги
-    .desc = Вміщає в себе, зазвичай, автошприци. Але також може містити мазі, бинти та баночки для пігулок.
-
-ent-RMCPouchFirstAidInjectors = { ent-RMCPouchFirstAid }
-    .desc = { ent-RMCPouchFirstAid.desc }
-    .suffix = Injectors
-
-ent-RMCPouchFirstAidSplintsGauzeOintment = { ent-RMCPouchFirstAid }
-    .desc = { ent-RMCPouchFirstAid.desc }
-    .suffix = Splints, Gauze, Ointment
-
-ent-RMCPouchFirstAidPills = { ent-RMCPouchFirstAid }
-    .desc = { ent-RMCPouchFirstAid.desc }
-    .suffix = Pills
-
-ent-RMCPouchFirstAidERT = { ent-RMCPouchFirstAid }
-    .desc = Може містити автошприци, мазі та бинти. Цей має більше всього.
-    .suffix = ГШР
-
-ent-RMCPouchFirstAidERTFill = { ent-RMCPouchFirstAidERT }
-    .desc = { ent-RMCPouchFirstAidERT.desc }
-    .suffix = ERT, Filled
-
-ent-RMCPouchMedical = мішочок ліків
-    .desc = Може містити маленькі медикаменти.
-
-ent-RMCPouchMedicalFill = { ent-RMCPouchMedical }
-    .desc = { ent-RMCPouchMedical.desc }
-    .suffix = Filled
-
-ent-RMCPouchMedicalPills = { ent-RMCPouchMedical }
-    .desc = { ent-RMCPouchMedical.desc }
-    .suffix = Pills
-
 ent-RMCPouchMedicalSoc = тактичний мішочок ліків
     .desc = Тяжкий мішочок вміщаючий все що треба щоб встати назад на ноги.
 
@@ -82,11 +48,4 @@ ent-RMCPouchSyringe = мішочок шприців
 
 ent-RMCPouchSyringeFill = { ent-RMCPouchSyringe }
     .desc = { ent-RMCPouchSyringe.desc }
-    .suffix = Filled
-
-ent-RMCPouchMedkit = мішочок медичних припасів
-    .desc = Спеціальний мішочок для медичних речей.
-
-ent-RMCPouchMedkitFill = { ent-RMCPouchMedkit }
-    .desc = { ent-RMCPouchMedkit.desc }
     .suffix = Filled

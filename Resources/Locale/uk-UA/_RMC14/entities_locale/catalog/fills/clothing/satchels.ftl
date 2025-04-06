@@ -4,3 +4,6 @@ ent-RMCSatchelPizza = { ent-CMSatchel }
 ent-RMCSatchelCivilianFill = { ent-CMSatchel }
     .desc = { ent-CMSatchel.desc }
     .suffix = Цивільний, Заповнений
+ent-RMCSatchelHEFAFill = { ent-CMSatchelMarine }
+    .desc = { ent-CMSatchelMarine.desc }
+    .suffix = HEFA, Filled

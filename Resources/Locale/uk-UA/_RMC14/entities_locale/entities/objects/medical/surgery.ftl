@@ -67,3 +67,6 @@ ent-CMAutopsy = автоматична система розтинання Ве�
 ent-CMBoneGel = кістний гель
     .desc = { ent-CMBaseToolSurgery.desc }
 
+ent-RMCBoneGelEmpty = { ent-CMBoneGel }
+    .desc = { ent-CMBoneGel.desc }
+    .suffix = Empty

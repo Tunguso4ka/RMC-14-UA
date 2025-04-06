@@ -10,6 +10,9 @@ ent-WeaponRevolverInspector = Inspector
 ent-WeaponRevolverMateba = Mateba
     .desc = The iconic sidearm of the dreaded death squads. Uses .45 magnum ammo.
 
+ent-WeaponRevolverMatebaAP = { ent-WeaponRevolverMateba }
+    .desc = { ent-WeaponRevolverMateba.desc }
+    .suffix = armor-piercing
 ent-WeaponRevolverPython = Python
     .desc = A robust revolver favoured by Syndicate agents. Uses .45 magnum ammo.
 
@@ -19,4 +22,3 @@ ent-WeaponRevolverPythonAP = Python
 
 ent-WeaponRevolverPirate = pirate revolver
     .desc = An odd, old-looking revolver, favoured by pirate crews. Uses .45 magnum ammo.
-

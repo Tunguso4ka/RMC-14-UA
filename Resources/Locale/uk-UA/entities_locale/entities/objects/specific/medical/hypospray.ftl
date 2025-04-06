@@ -47,9 +47,11 @@ ent-StimpackMini = stimulant microinjector
 ent-CombatMedipen = combat medipen
     .desc = A single-use medipen containing chemicals that regenerate most types of damage.
 
-ent-Hypopen = pen
-    .desc = A dark ink pen.
+ent-Hypopen = { ent-Pen }
+    .desc = { ent-Pen.desc }
     .suffix = Hypopen
 
 ent-HypopenBox = hypopen box
     .desc = A small box containing a hypopen. Packaging disintegrates when opened, leaving no evidence behind.
+ent-WehMedipen = weh auto-injector
+    .desc = A rapid dose of Weh. Contains juice that makes you Weh.

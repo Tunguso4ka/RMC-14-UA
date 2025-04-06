@@ -3,3 +3,5 @@ ent-ForensicScanner = криміналістичний сканер
 
 ent-ForensicReportPaper = рапорт криміналістичного сканера
     .desc = 'Circumstantial evidence, at best'
+ent-PaperAccessLogs = access logs
+    .desc = A printout from the detective's trusty LogProbe.

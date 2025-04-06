@@ -1,6 +1,8 @@
 ent-NotekeeperCartridge = картридж нотатника
     .desc = Застосунок для зберігання нотаток.
 
+ent-NanoTaskCartridge = NanoTask cartridge
+    .desc = A program that allows you to keep a list of tasks to do.
 ent-NewsReaderCartridge = картридж новин
     .desc = Застосунок для новин.
 

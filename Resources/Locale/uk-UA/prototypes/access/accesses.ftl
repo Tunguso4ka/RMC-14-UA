@@ -3,6 +3,8 @@ id-card-access-level-captain = Капітан
 id-card-access-level-head-of-personnel = Голова Персоналу
 id-card-access-level-cryogenics = Криогенніка
 
+id-card-access-level-emergency-shuttle-repeal = E.Shuttle Repeal All
+
 id-card-access-level-head-of-security = Голова Охорони
 id-card-access-level-security = Охорона
 id-card-access-level-armory = Зброярня
@@ -43,3 +45,6 @@ id-card-access-level-syndicate-agent = Агент Синдикату
 
 id-card-access-level-central-command = Центральне Командування
 id-card-access-level-wizard = Чаклун
+id-card-access-level-station-ai = Штучний Інтелект
+id-card-access-level-borg = Кіборг
+id-card-access-level-basic-silicon = Робот

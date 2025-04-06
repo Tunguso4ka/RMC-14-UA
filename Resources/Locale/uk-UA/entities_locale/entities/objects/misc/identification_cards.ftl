@@ -181,6 +181,8 @@ ent-SeniorPhysicianIDCard = ID картка старшого лікаря
 ent-SeniorOfficerIDCard = ID картка старшого офіцера
     .desc = { ent-IDCardStandard.desc }
 
+ent-WizardIDCard = wizard ID card
+    .desc = { ent-IDCardStandard.desc }
 ent-UniversalIDCard = універсальна ID картка
     .desc = ID картка, що надає вам доступи як у ваших мріях.
     .suffix = Адмін

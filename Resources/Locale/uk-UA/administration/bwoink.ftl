@@ -17,6 +17,10 @@ bwoink-system-typing-indicator = {$players} {$count ->
 *[other] пишуть
 }...
 
+admin-ahelp-admin-only = Тільки Адмінам
+admin-ahelp-admin-only-tooltip = If checked, then the message won't be visible for the player,
+    but will be visible for other admins and still will be Discord relayed.
+
 admin-bwoink-play-sound = Бвойньк?
 bwoink-title-none-selected = Не обрано
 bwoink-system-rate-limited = Система: Ви відправляєте повідомлення занадто швидко.
@@ -24,3 +28,5 @@ bwoink-system-rate-limited = Система: Ви відправляєте по�
 bwoink-system-player-disconnecting = від'єднався.
 bwoink-system-player-reconnecting = переприєднався.
 bwoink-system-player-banned = був забанений за {$banReason}
+bwoink-message-admin-only = (Тільки Адмінам)
+bwoink-message-silent = (Тихе)

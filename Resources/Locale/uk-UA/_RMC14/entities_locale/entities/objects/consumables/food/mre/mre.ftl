@@ -4,11 +4,11 @@ ent-CMMRE = сухпай КМП ОН
 ent-CMMREComponentBase = компонент сухпая
     .desc = Пакет сухого пайка, власність Корпусу МорПіхоти ОН. Містить частину раціона готову для споживання.
 
-ent-CMMREFoodBase = { ent-CMMRE }
+ent-CMMREFoodBase = { ent-CMFoodBase }
     .desc = Зміст стандартного сухпайка КМП ОН.
 
-ent-RMCBoxMREBase = коробка сухпаїв
-    .desc = Коробка сухпаїв. Поживне, але не смачне.
+ent-RMCBoxMREEmpty = box of MREs (x12)
+    .desc = A box of MREs. Nutritious, but not delicious.
 ent-RMCBoxMRE = { ent-RMCBoxMREBase }
     .desc = { ent-RMCBoxMREBase.desc }
     .suffix = Filled

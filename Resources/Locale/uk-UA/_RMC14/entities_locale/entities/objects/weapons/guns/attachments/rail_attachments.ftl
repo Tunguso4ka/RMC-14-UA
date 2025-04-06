@@ -1,12 +1,9 @@
-ent-RMCRailAttachmentBase = { ent-RMCAttachmentBase }
-    .desc = { ent-RMCAttachmentBase.desc }
-
+ent-RMCRailAttachmentBase = { ent-RMCAttachableBase }
+    .desc = { ent-RMCAttachableBase.desc }
 ent-RMCAttachmentRailFlashlight = rail flashlight
     .desc = A flashlight, for rails, on guns. Can be toggled on and off. A better light source than standard M3 pattern armor lights.
-
 ent-RMCAttachmentMagneticHarness = magnetic harness
     .desc = A magnetically attached harness kit that attaches to the rail mount of a weapon. When dropped, the weapon will sling to any set of Marine armor.
-
 ent-RMCAttachmentS5RedDotSight = S5 red-dot sight
     .desc = An all-weather collimator sight, designated as the AN/PVQ-64 Dot Sight. Equipped with a sunshade to increase clarity in bright conditions and resist weathering. Compact and efficient, a marvel of military design, until you realize that this is actually just an off-the-shelf design that got a military designation slapped on.
 
@@ -25,6 +22,8 @@ ent-RMCAttachmentSlavicScope = 4x telescopic scope
 ent-RMCAttachmentS42xTelescopicMiniscope = S4 2x telescopic mini-scope
     .desc = An AEGIS S4 telescoping eye piece. Fixed at a modest 2x zoom.
 
+ent-RMCAttachmentHuntingScope = 2x hunting mini-scope
+    .desc = This civilian-grade scope is a common sight on hunting rifles due to its cheap price and great optics. Fixed at a modest 2x zoom.
 ent-RMCAttachmentS42xAdvancedTelescopicMiniscope = WeYa S4 2x advanced telescopic mini-scope
     .desc = An AEGIS S4 telescoping eye piece, custom-tuned by WeYa scientists to be as ergonomic as possible.
 
@@ -36,3 +35,7 @@ ent-RMCAttachmentB8SmartScope = B8 smart-scope
 
 ent-RMCM96SIntegratedScope = M96S integrated scope
     .desc = This isn't supposed to come off the gun. How did you get it?
+ent-RMCXM43E1IntegratedScope = XM43E1 integrated scope
+    .desc = This isn't supposed to come off the gun. How did you get it?
+ent-RMCAttachmentXS-9 = XS-9 targeting relay
+    .desc = While still in development, the XS-9 Targeting Relay has many features -- most of them disabled for the field testing -- functions slightly better than a standard scope.

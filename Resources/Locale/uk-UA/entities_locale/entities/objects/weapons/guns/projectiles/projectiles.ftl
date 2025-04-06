@@ -1,6 +1,10 @@
 ent-MuzzleFlashEffect = { "" }
 
     .desc = { "" }
+ent-MuzzleFlashEffectOmnilaser = { ent-MuzzleFlashEffect }
+    .desc = { ent-MuzzleFlashEffect.desc }
+ent-MuzzleFlashEffectHeavyLaser = { ent-MuzzleFlashEffect }
+    .desc = { ent-MuzzleFlashEffect.desc }
 ent-BaseBullet = BaseBullet
     .desc = If you can see this you're probably dead!
 
@@ -112,6 +116,12 @@ ent-GrapplingHook = grappling hook
 ent-BulletDisablerSmg = disabler bolt smg
     .desc = { ent-BaseBullet.desc }
 
+ent-BulletEnergyTurretBase = energy bolt
+    .desc = { ent-BaseBullet.desc }
+ent-BulletEnergyTurretLaser = laser bolt
+    .desc = { ent-BulletEnergyTurretBase.desc }
+ent-BulletEnergyTurretDisabler = disabler bolt
+    .desc = { ent-BulletEnergyTurretBase.desc }
 ent-TeslaGunBullet = tesla gun lightning
     .desc = { ent-BaseBullet.desc }
 

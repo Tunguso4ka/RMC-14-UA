@@ -6,6 +6,8 @@ ent-RMCCrateMagazineM96SFlak = M96S Sniper Flak Magazine Crate (x5)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateMagazineM96SIncendiary = M96S Sniper Incendiary Magazine Crate (x5)
     .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateMagazineXM43E1Standard = XM43E1 Anti-Materiel Sniper Standard Magazine Crate (x3)
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateM5DemoSpecMixed = M5-ATL Mixed Crate (HE x2, AP x1)
     .desc = { ent-CMCrateAmmo.desc }
 
