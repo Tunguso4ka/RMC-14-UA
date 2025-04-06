@@ -14,6 +14,7 @@ using Content.Shared._RMC14.Xenonids.Sweep;
 using Robust.Shared.Audio.Systems;
 using Content.Shared._RMC14.Shields;
 using Content.Shared.Interaction;
+using Content.Shared.Stunnable;
 
 namespace Content.Shared._RMC14.Xenonids.Blitz;
 
@@ -87,7 +88,7 @@ public sealed class XenoBlitzSystem : EntitySystem
 
         SetBlitzDelays(xeno);
 
-        if (!_mob.IsAlive(xeno))
+        if (!_mob.IsAlive(xeno) || HasComp<StunnedComponent>(xeno))
             return;
 
         var ev = new XenoLeapAttemptEvent();
@@ -112,7 +113,7 @@ public sealed class XenoBlitzSystem : EntitySystem
 
             hits++;
 
-            var myDamage = _damage.TryChangeDamage(hit, xeno.Comp.Damage);
+            var myDamage = _damage.TryChangeDamage(hit, xeno.Comp.Damage, origin: xeno, tool: xeno);
             if (myDamage?.GetTotal() > FixedPoint2.Zero)
             {
                 var filter = Filter.Pvs(hit, entityManager: EntityManager).RemoveWhereAttachedEntity(o => o == xeno.Owner);

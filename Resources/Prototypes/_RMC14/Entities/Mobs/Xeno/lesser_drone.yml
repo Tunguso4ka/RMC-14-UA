@@ -1,4 +1,4 @@
-﻿- type: entity
+- type: entity
   parent:
   - CMXenoDeveloped
   - CMXenoTail
@@ -32,7 +32,7 @@
     - ActionXenoTailStab
     - ActionXenoAcidWeak
     - ActionXenoPheromones
-    - ActionXenoPlantWeeds # TODO RMC14 only near other weeds for lesser drones
+    - ActionLesserDronePlantWeeds
     - ActionXenoChooseStructure
     - ActionXenoSecreteStructure
     tier: 0
@@ -87,8 +87,8 @@
   - type: XenoHiveCoreRole
   - type: RMCSize
     size: VerySmallXeno
-#  - type: RMCXenoDamageVisuals # TODO RMC14
-#    prefix: drone
+  - type: RMCXenoDamageVisuals
+    prefix: lesser
   - type: TacticalMapIcon
     icon:
       sprite: _RMC14/Interface/map_blips.rsi

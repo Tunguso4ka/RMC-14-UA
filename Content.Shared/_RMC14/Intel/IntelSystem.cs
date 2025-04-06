@@ -59,7 +59,6 @@ public sealed class IntelSystem : EntitySystem
     [Dependency] private readonly IGameTiming _timing = default!;
     [Dependency] private readonly SharedTransformSystem _transform = default!;
     [Dependency] private readonly SharedUserInterfaceSystem _ui = default!;
-    [Dependency] private readonly IEntityManager _ent = default!;
 
     private static readonly ImmutableArray<char> UppercaseLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToImmutableArray();
 
@@ -622,7 +621,7 @@ public sealed class IntelSystem : EntitySystem
         return false;
     }
 
-    private void RunSpawners()
+    public void RunSpawners()
     {
         try
         {
@@ -822,8 +821,6 @@ public sealed class IntelSystem : EntitySystem
     {
         if (_net.IsClient)
             return;
-
-        RunSpawners();
 
         var time = _timing.CurTime;
         if (TryGetTechTree(out var tree) &&
