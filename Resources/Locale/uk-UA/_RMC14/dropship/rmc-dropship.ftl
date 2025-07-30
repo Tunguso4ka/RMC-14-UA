@@ -1,5 +1,6 @@
 rmc-dropship-pre-flight-fueling = Човник все ще підзаряжається для політу і не може відбути прямо зараз. Будь ласка, зачекайте ще {$minutes} хвилин.
 rmc-dropship-pre-hijack = This terminal won't be operational for another {$minutes} minutes.
+rmc-dropship-invalid-hijack = Lights flash from the terminal but you can't comprehend their meaning.
 
 rmc-dropship-weapons-title = Консоль Озброєння
 
@@ -36,6 +37,9 @@ rmc-dropship-weapons-maps = МАПИ
 rmc-dropship-weapons-cams = КАМЕРИ
 rmc-dropship-weapons-cancel = ВІДМИНИТИ
 rmc-dropship-weapons-exit = ВИЙТИ
+rmc-dropship-weapons-lock = LOCK
+rmc-dropship-weapons-clear = CLEAR
+
 rmc-dropship-weapons-offset-calibration = Калібрування зміщення
 rmc-dropship-weapons-offset-calibration-does-not-affect-direct-bombardment = Does not affect direct bombardment!
 
@@ -74,3 +78,17 @@ rmc-dropship-fabricator-equipment = [bold]Equipment[/bold]
 rmc-dropship-fabricator-ammo = [bold]Набої[/bold]
 rmc-dropship-fabricator-fabricate = Надрукувати ({$cost})
 rmc-dropship-fabricator-busy = Друкувач деталей зайнятий. Будь ласка, зачекайте.
+rmc-dropship-firemission-warning = A DROPSHIP FIRES TOWARDS THE {$direction}
+rmc-dropship-firemission-warning-above = A DROPSHIP FIRES RIGHT ONTOP OF YOU!
+
+rmc-dropship-paradrop-target-screen-text = HPU-1 Paradrop Deployment System
+    {$hasTarget}
+
+rmc-dropship-paradrop-target-screen-target-none = No locked target found.
+    Paradropping not available.
+
+rmc-dropship-paradrop-target-screen-target-targeting = Locked to {$dropTarget}.
+    Paradropping available.
+
+rmc-dropship-paradrop-lock-no-target = No target selected.
+rmc-dropship-paradrop-lock-target-not-flying = You can only enable the paradrop module while in flight.

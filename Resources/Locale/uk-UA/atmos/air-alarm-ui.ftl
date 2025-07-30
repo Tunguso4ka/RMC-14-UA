@@ -8,8 +8,18 @@ air-alarm-ui-window-device-count-label = Total Devices
 air-alarm-ui-window-resync-devices-label = Resync
 
 air-alarm-ui-window-mode-label = Режим
+air-alarm-ui-window-mode-select-locked-label = [bold][color=red] Mode selector failure! [/color][/bold]
 air-alarm-ui-window-auto-mode-label = Авто
 
+-air-alarm-state-name = { $state ->
+    [normal] Normal
+    [warning] Warning
+    [danger] Danger
+    [emagged] Emagged
+   *[invalid] Invalid
+}
+
+air-alarm-ui-window-listing-title = {$address} : {-air-alarm-state-name(state:$state)}
 air-alarm-ui-window-pressure = {$pressure} кПа
 air-alarm-ui-window-pressure-indicator = Тиск: [color={$color}]{$pressure} кПа[/color]
 air-alarm-ui-window-temperature = {$tempC} C ({$temperature} K)

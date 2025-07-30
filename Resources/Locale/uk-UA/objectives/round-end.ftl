@@ -12,6 +12,8 @@ objectives-no-objectives = [bold][color=red]{$custody}[/color]{$title} був {$
 objectives-with-objectives = [bold][color=red]{$custody}[/color]{$title} був {$agent} з наступними цілями:
 
 objectives-objective-success = {$objective} | [color={$markupColor}]Успіх![/color]
+objectives-objective-partial-success = {$objective} | [color=yellow]Partial Success![/color] ({TOSTRING($progress, "P0")})
+objectives-objective-partial-failure = {$objective} | [color=orange]Partial Failure![/color] ({TOSTRING($progress, "P0")})
 objectives-objective-fail = {$objective} | [color={$markupColor}]Невдача![/color] ({$progress}%)
 
 objectives-in-custody = | ЗАТРИМАН |

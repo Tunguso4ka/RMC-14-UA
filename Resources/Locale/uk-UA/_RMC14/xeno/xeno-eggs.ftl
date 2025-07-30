@@ -1,6 +1,7 @@
 cm-xeno-egg-clear = Ми прибрали вилуплене яйце.
 cm-xeno-egg-not-developed = Яйце ще не розвинуто.
 
+cm-xeno-egg-failed-must-weeds = The egg must be planted on weeds.
 cm-xeno-egg-failed-must-hive-weeds = The egg must be planted on hive weeds.
 cm-xeno-egg-failed-plant-outside = Краще не висаджювати його за межами.
 cm-xeno-egg-failed-already-there = Тут вже є яйце.
@@ -13,6 +14,7 @@ rmc-xeno-egg-return-start = We start putting the child into the egg.
 rmc-xeno-egg-return-user = We place the child back into the egg.
 rmc-xeno-egg-return-self = {CAPITALIZE($parasite)} crawls back into the egg.
 rmc-xeno-egg-return = {CAPITALIZE($user)} slides {$parasite} back into the egg.
+
 rmc-xeno-egg-ghost-verb = Become parasite
 rmc-xeno-egg-ghost-need-time = You ghosted too recently. You cannot become a parasite until 3 minutes have passed ({$seconds} seconds remaining).
 rmc-xeno-egg-ghost-need-time-round = You cannot become a parasite until enough time has passed passed in the round ({$seconds} seconds remaining).
@@ -25,3 +27,5 @@ rmc-xeno-egg-plant-self = We start planting the egg.
 rmc-xeno-egg-plant = {CAPITALIZE($user)} starts planting an egg.
 
 rmc-xeno-egg-carrier-death = {CAPITALIZE(THE($xeno))} has dropped some precious eggs!
+
+rmc-xeno-fragile-egg-prefix = fragile {$baseName}

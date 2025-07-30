@@ -11,6 +11,9 @@ id-card-access-level-armory = Зброярня
 id-card-access-level-brig = Бріг
 id-card-access-level-detective = Детектив
 
+id-card-access-level-genpop-enter = Enter Genpop
+id-card-access-level-genpop-leave = Leave Genpop
+
 id-card-access-level-chief-engineer = Головний Інженер
 id-card-access-level-engineering = Інженерія
 id-card-access-level-atmospherics = Атмосфера
@@ -48,3 +51,4 @@ id-card-access-level-wizard = Чаклун
 id-card-access-level-station-ai = Штучний Інтелект
 id-card-access-level-borg = Кіборг
 id-card-access-level-basic-silicon = Робот
+id-card-access-level-basic-xenoborg = Xenoborg

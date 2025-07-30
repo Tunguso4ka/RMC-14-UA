@@ -6,3 +6,5 @@ admin-announce-button = Оголосити
 admin-announce-type-station = Станція
 admin-announce-type-server = Сервер
 admin-announce-keep-open = Залишити відкритим
+cmd-announceui-desc = Opens the announcement UI.
+cmd-announceui-help = Usage: announceui

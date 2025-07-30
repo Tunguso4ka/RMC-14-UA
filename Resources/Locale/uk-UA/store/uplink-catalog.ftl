@@ -1,6 +1,9 @@
 uplink-pistol-viper-name = Гадюка
 uplink-pistol-viper-desc = A small, easily concealable, but somewhat underpowered gun. Retrofitted with a fully automatic receiver. Uses pistol magazines (.35 auto).
 
+uplink-estoc-bundle-name = Estoc DMR
+uplink-estoc-bundle-desc = A designated marksman rifle, fitted with a mid-range optic for longer-range combat. Bundled with two rifle magazines (.20 rifle).
+
 uplink-revolver-python-name = Пітон
 uplink-revolver-python-desc = A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
 
@@ -28,6 +31,8 @@ uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmo
 uplink-gloves-north-star-name = Рукавички Північної Зірки
 uplink-gloves-north-star-desc = A pair of gloves that reduce your punching cooldown drastically, allowing you to beat people to death in a flurry of punches.
 
+uplink-gloves-knuckleduster-name = Syndicate Knuckle Dusters
+uplink-gloves-knuckleduster-desc = A pair of plastitanium knuckle dusters that let you punch hard enough to break the captains jaw into pieces.
 uplink-explosive-grenade-name = Вибухівова граната
 uplink-explosive-grenade-desc = A simplistic grenade with a three-and-a-half-second long fuse that is geared towards injuring personnel. Causes minimal hull damage.
 
@@ -84,6 +89,15 @@ uplink-pistol-magazine-desc = Pistol magazine with 10 catridges. Compatible with
 
 uplink-pistol-magazine-c20r-name = Магазин пістолет-кулемета (.35 авто)
 uplink-pistol-magazine-c20r-desc = Rifle magazine with 30 catridges. Compatible with C-20r.
+
+uplink-magazine-bulldog-pellet-name = Drum magazine (.50 pellet)
+uplink-magazine-bulldog-pellet-desc = Shotgun magazine with 8 shells filled with buckshot. Compatible with the Bulldog.
+
+uplink-magazine-bulldog-slug-name = Drum magazine (.50 slug)
+uplink-magazine-bulldog-slug-desc = Shotgun magazine with 8 shells filled with slugs. Compatible with the Bulldog.
+
+uplink-estoc-ammo-name = Rifle magazine (.20 rifle)
+uplink-estoc-ammo-desc = A rifle magazine with 25 cartridges. Compatible with the Estoc DMR.
 
 uplink-pistol-magazine-caseless-name = Магазин пістолетаe (.25 безоболонковий)
 uplink-pistol-magazine-caseless-desc = Pistol magazine with 10 catridges. Compatible with the Cobra.
@@ -248,6 +262,9 @@ uplink-surplus-bundle-desc = Contains 50 telecrystals worth of completely random
 uplink-super-surplus-bundle-name = Super Surplus Crate
 uplink-super-surplus-bundle-desc = Contains 125 telecrystals worth of completely random Syndicate items.
 
+uplink-starter-kit-name = Basic Operative Bundle
+uplink-starter-kit-desc = Contains 40 telecrystals of basic operative gear. For those operatives who just don't know what they should buy.
+
 uplink-toolbox-name = Toolbox
 uplink-toolbox-desc = A full compliment of tools for the mechanically inclined traitor. Includes a pair of insulated combat gloves, syndicate gas mask and a utility belt.
 
@@ -299,17 +316,23 @@ uplink-cluster-banana-peel-desc = Splits into 6 explosive banana peels after bei
 uplink-cane-blade-name = Cane Blade
 uplink-cane-blade-desc = A cane that has a hidden blade that can be unsheathed.
 
+uplink-saw-advanced-name = Advanced Circular Saw
+uplink-saw-advanced-desc = A bleeding-edge surgical implement designed to cut through flesh and bone alike.
+
 uplink-chameleon-name = Chameleon Kit
 uplink-chameleon-desc = A backpack full of items that contain chameleon technology allowing you to disguise as pretty much anything on the station, and more!
 
 uplink-clothing-no-slips-shoes-name = No-slip Shoes
 uplink-clothing-no-slips-shoes-desc = Chameleon shoes that protect you from slips.
 
-uplink-clothing-thieving-gloves-name = Thieving Gloves
-uplink-clothing-thieving-gloves-desc = Discretely steal from pockets and increase your thieving technique with these fancy new gloves, all while looking like normal gloves!
+uplink-clothing-chameleon-thieving-gloves-name = Chameleon Thieving Gloves
+uplink-clothing-chameleon-thieving-gloves-desc = Discreetly steal from pockets and improve your thieving technique with these fancy new gloves. They can change appearance to match any pair of gloves!
 
 uplink-clothing-outer-vest-web-name = Web Vest
 uplink-clothing-outer-vest-web-desc = A synthetic armor vest. This one has added webbing and ballistic plates.
+
+uplink-clothing-outer-vest-web-elite-name = Elite Web Vest
+uplink-clothing-outer-vest-web-elite-desc = A synthetic armor vest. This one has added webbing and heat resistant fibers.
 
 uplink-clothing-shoes-boots-mag-syndie-name = Blood-red Magboots
 uplink-clothing-shoes-boots-mag-syndie-desc = A pair of boots that prevent slipping and, in zero gravity, allow you to move normally, at the cost of a slight slowdown. Additionally, they have jetpack functionality and come fueled, but don't last for long.
@@ -448,3 +471,8 @@ uplink-business-card-name = Syndicate Business Card
 uplink-business-card-desc = A business card that you can give to someone to demonstrate your involvement in the syndicate or leave at the crime scene in order to make fun of the detective. You can buy no more than three of them.
 uplink-fake-mindshield-name = Fake Mindshield
 uplink-fake-mindshield-desc = A togglable implant capable of mimicking the same transmissions a real mindshield puts out when on, tricking capable Heads-up displays into thinking you have a mindshield (Nanotrasen brand implanter not provided.)
+uplink-contraband-lighter-name = Contraband Lighter box
+uplink-contraband-lighter-desc = A mystery box guaranteed to contain a syndicate branded lighter. No fuel required
+
+uplink-smuggler-satchel-name = Smuggler's Satchel
+uplink-smuggler-satchel-desc = A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.

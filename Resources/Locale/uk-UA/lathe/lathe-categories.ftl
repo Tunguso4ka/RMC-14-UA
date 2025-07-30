@@ -1,14 +1,37 @@
-lathe-category-ammo = Набої
 lathe-category-circuitry = Схеми
+lathe-category-clothing = Clothing
 lathe-category-lights = Світло
-lathe-category-mechs = Мехи
+lathe-category-machines = Machines
 lathe-category-parts = Деталі
-lathe-category-robotics = Робототехника
+lathe-category-tiles = Tiles
 lathe-category-tools = Інструменти
 lathe-category-weapons = Зброя
 lathe-category-food = Food
 lathe-category-chemicals = Chemicals
 lathe-category-materials = Materials
+lathe-category-computers = Computers
+lathe-category-engineering = Engineering
+lathe-category-general = General
+lathe-category-medical = Medical
+lathe-category-research = Research
+lathe-category-security = Security
+lathe-category-service = Service
+lathe-category-supply = Supply
+
+lathe-category-concrete = Concrete
+lathe-category-dark = Dark
+lathe-category-maints = Maints
+lathe-category-steel = Steel
+lathe-category-white = White
+lathe-category-wood = Wood
+
+lathe-category-mechs = Мехи
+lathe-category-modules = Modules
+lathe-category-robotics = Робототехника
+lathe-category-ammo = Набої
+lathe-category-boxes = Boxes
+lathe-category-magazines = Magazines
+
 lathe-category-bedsheets = Bedsheets
 lathe-category-carpets = Carpets
 lathe-category-coats = Coats

@@ -2,13 +2,11 @@ cm-gun-unskilled = Ви не знаєте як використовувати {$
 cm-gun-no-ammo-message = У вас не залишилося набоїв!
 cm-gun-use-delay = Ви повинні зачекати {$seconds} секунд перед наступним пострілом!
 cm-gun-pump-examine = [bold]Натисніть ваше "[color=cyan]унікальна дія[/color]" скорочення (Пробіл за замовчуванням) щоб пересмикнути перед пострілом.[/bold]
-cm-gun-pump-first-with = You need to pump the gun with {$key} first!
-cm-gun-pump-first = You need to pump the gun first!
-
+cm-gun-pump-first-with = Спочатку, пересмикніть рушницю за допомогою {$key}!
+cm-gun-pump-first = Спочатку пересмикніть рушницю!
 rmc-breech-loaded-open-shoot-attempt = You need to close the breech first!
 rmc-breech-loaded-not-ready-to-shoot = You need to open and close the breech first!
 rmc-breech-loaded-closed-load-attempt = You need to open the breech first!
-
 rmc-breech-loaded-closed-extract-attempt = You need to open the breech first!
 
 rmc-wield-use-delay = You need to wait {$seconds} seconds before wielding {THE($wieldable)}!
@@ -16,6 +14,7 @@ rmc-shoot-use-delay = You need to wait {$seconds} seconds before shooting {THE($
 
 rmc-shoot-harness-required = Harness required
 rmc-wear-smart-gun-required = You must have your smart gun equipped to wear these.
+
 rmc-shoot-id-lock-unauthorized = Trigger locked. Unauthorized user.
 rmc-id-lock-unauthorized = Action denied. Unauthorized user.
 rmc-id-lock-authorization = You pick up the {$gun}, registering yourself as its owner.
@@ -32,6 +31,7 @@ rmc-iff-toggle-off = disable
 rmc-iff-toggle-on = enable
 
 rmc-revolver-spin = You spin the cylinder.
+
 rmc-examine-text-weapon-accuracy = The current accuracy multiplier is [color={$colour}]{TOSTRING($accuracy, "F2")}[/color].
 
 rmc-examine-text-scatter-max = Current maximum scatter is [color={$colour}]{TOSTRING($scatter, "F1")}[/color] degrees.
@@ -55,3 +55,12 @@ rmc-assisted-reload-start-target = {$reloader} begins reloading your {$weapon} w
 rmc-gun-stacks-hit-single = Bullseye!
 rmc-gun-stacks-hit-multiple = Bullseye! {$hits} hits in a row!
 rmc-gun-stacks-reset = The {$weapon} beeps as it loses its targeting data, and returns to normal firing procedures.
+
+rmc-gun-shoot-air-self = YOU FIRE YOUR { CAPITALIZE($weapon) } INTO THE AIR!
+rmc-gun-shoot-air-other = { CAPITALIZE(THE($user)) } FIRES { CAPITALIZE(THE($weapon)) } INTO THE AIR!
+rmc-gun-shoot-air-blocked = The roof above you is too dense.
+
+rmc-flare-gun-examine = The last signal flare fired has the designation: [color=#ad3b98][bold]{$id}[/bold][/color]
+
+expendable-light-starshell-ash-empty-name = extinguished star shell ash
+expendable-light-starshell-ash-empty-desc = Burnt out remains of a star shell

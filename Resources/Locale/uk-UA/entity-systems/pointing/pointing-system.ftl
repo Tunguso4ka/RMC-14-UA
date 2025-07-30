@@ -1,5 +1,3 @@
-## PointingSystem
-
 pointing-system-try-point-cannot-reach = Ви не можете дотягнутись!
 pointing-system-point-at-self = Ви показуєте на себе.
 pointing-system-point-at-other = Ви показуєте на {$other}.
@@ -7,4 +5,9 @@ pointing-system-point-at-self-others = {CAPITALIZE($otherName)} показує �
 pointing-system-point-at-other-others = {CAPITALIZE($otherName)} показує на {$other}.
 pointing-system-point-at-you-other = {$otherName} показує на тебе.
 pointing-system-point-at-tile = Ви показуте на {$tileName}.
+pointing-system-point-in-own-inventory-self = Ви показуєте на ваш {$item}.
+pointing-system-point-in-own-inventory-others = {CAPITALIZE($pointer)} показує на {$pointer} {$item}.
+pointing-system-point-in-other-inventory-self = You point at {THE($wearer)}'s {$item}.
+pointing-system-point-in-other-inventory-target = {CAPITALIZE(THE($pointer))} points at your {$item}.
+pointing-system-point-in-other-inventory-others = {CAPITALIZE(THE($pointer))} points at {THE($wearer)}'s {$item}.
 pointing-system-other-point-at-tile = {CAPITALIZE($otherName)} показує на {$tileName}.

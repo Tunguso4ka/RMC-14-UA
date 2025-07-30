@@ -19,8 +19,8 @@ ui-vote-type-timeout = За це вже недавно голосували ({$r
 ui-vote-type-not-available = Цій тип голосування було вимкнуто
 
 ui-vote-trusted-users-notice = 
-  This vote option is only available to whitelisted players.
-  In addition, you must have been a ghost for { $timeReq } minutes.
+  This vote option is only available to players who have enough playtime or are whitelisted.
+  In addition, you must have been a ghost for { $timeReq } seconds.
 
 ui-vote-abuse-warning = 
   Warning!
@@ -29,5 +29,5 @@ ui-vote-abuse-warning =
 ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology
 
 
-ui-vote-menu-command-description = Opens the voting menu
-ui-vote-menu-command-help-text = Використання: votemenu
+cmd-votemenu-desc = Opens the voting menu.
+cmd-votemenu-help = Usage: votemenu

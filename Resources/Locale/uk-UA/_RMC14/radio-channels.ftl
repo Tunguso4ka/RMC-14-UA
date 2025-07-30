@@ -17,6 +17,8 @@ chat-radio-marine-delta = Дельта
 chat-radio-marine-echo = Ехо
 chat-radio-marine-foxtrot = Фокстрот
 
+chat-radio-marine-sof = SOF
+
 chat-radio-colony = Колонія
 chat-radio-WY = Ве-Я
 
@@ -29,4 +31,10 @@ chat-radio-spp-engi = SPP Engi
 chat-radio-spp-med = SPP Med
 chat-radio-spp-cct = SPP CCT
 
+chat-radio-halcyon = Halcyon Dynamics
+
+chat-radio-royal-marine = Royal Marine
+chat-radio-tse = TSE
+
 chat-radio-hivemind = Вулик
+chat-radio-marine-sun-riders = Sun Riders

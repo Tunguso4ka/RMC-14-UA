@@ -14,3 +14,8 @@ lobby-state-song-text = Грає: [color=white]{$songTitle}[/color] - [color=whi
 lobby-state-song-no-song-text = Жодної пісні наразі не грає.
 lobby-state-song-unknown-title = [color=dimgray]Невідома назва[/color]
 lobby-state-song-unknown-artist = [color=dimgray]Невідомого автора[/color]
+lobby-state-playtime-comment-normal = 
+    Ви втратили {$hours} годин свого життя в грі. Не забувайте брати перерви!
+lobby-state-playtime-comment-concerning = You've played for {$hours} hours today. Please take a break.
+lobby-state-playtime-comment-grasstouchless = {$hours} hours. Consider logging off to attend to your needs.
+lobby-state-playtime-comment-selfdestructive = {$hours} годин. Чуваче?

@@ -25,8 +25,7 @@ command-description-excluderoletimer-remove = Removes a player's exclusion for p
 command-description-figurine-export = Exports the current character as a figurine.
 command-description-figurine-openslots = Opens up infinite slots for all jobs on all map prototypes until the whole server is restarted.
 
-command-description-hive-alldefault = Sets the hive of a xeno or group of xenos.
-
+command-description-hive-alldefault = Sets the hive of all xenos to the default hive (the first one created).
 command-description-hive-set = Sets the hive of a xeno or group of xenos.
 
 command-description-icon-get_human_readable = Gets the human readable name of a player's job icon.
@@ -42,23 +41,22 @@ command-description-removeinvalidweeds = Removes any weeds that should not have 
 command-description-requisitions-addbudget = Adds budget to the default Requisitions account.
 command-description-requisitions-removebudget = Removes budget from the default Requisitions account.
 
+command-description-rmcrejuvenate-marineplayersinrange = Rejuvenates all marines within a specific range, restoring them to full health, clearing status effects, etc.
+
 command-description-intel-addpoints = Adds points to the default Intel tech tree.
 command-description-intel-removepoints = Removes points from the default Intel tech tree.
-
 command-description-intel-spawnintel = Spawns intel on all initialized maps.
 
 command-description-prototypecontains = Filters entities by whether or not their prototype ID contains the given text.
 
 command-description-skills-get = Gets the level of a specific skill for a marine.
 command-description-skills-set = Sets the level of a specific skill for a marine or group of marines.
-
 command-description-skills-all = Sets the level of all skills for a marine or group of marines.
 
 command-description-squad-get = Gets the squad ID of a marine.
 command-description-squad-getname = Gets the squad name of a marine.
 command-description-squad-set = Sets the squad of a marine or group of marines.
 command-description-squad-with = Filters a group of marines by their squad.
-
 command-description-squad-refresh = Manually refreshes the members of a squad.
 
 command-description-xenomature = Instantly matures a xeno. Applicable to the Queen, at which point she gets more health and abilities.
@@ -66,4 +64,13 @@ command-description-xenomature = Instantly matures a xeno. Applicable to the Que
 command-description-weedkiller = Runs weed killer on the current location's area. This kills all weeds and resin structures nearby.
 
 command-description-withxenotier = Filters entities or entity prototypes to those of a specific xenonid tier.
+
 command-description-spawnallmapinserts = Spawns all map inserts, with forced guaranteed spawn probability.
+
+command-description-forceplanetmap = Forces the next round to start with the specified planet.
+
+command-description-rmcresetahelptracking = Resets all data about tracked AHelp conversations on the Discord. Useful for when AHelps are not showing up on the Discord relay properly.
+
+command-description-hijack-trigger = Triggers hijack on the map that you are currently on.
+
+command-description-setoperationname = Changes the name of the operation for the upcoming round.

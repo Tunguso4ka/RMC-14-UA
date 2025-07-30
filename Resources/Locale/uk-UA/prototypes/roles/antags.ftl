@@ -1,3 +1,11 @@
+roles-antag-generic-solo-antagonist-name = Solo Antagonist
+
+roles-antag-generic-free-agent-name = Free Agent
+
+roles-antag-generic-team-antagonist-name = Team Antagonist
+
+roles-antag-generic-silicon-antagonist-name = Silicon Antagonist
+
 roles-antag-syndicate-agent-name = Агент синдикату
 roles-antag-syndicate-agent-objective = Виконайте свої завдання та недайте себе спіймати.
 

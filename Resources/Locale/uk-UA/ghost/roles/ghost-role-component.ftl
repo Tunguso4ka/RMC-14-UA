@@ -3,28 +3,28 @@ ghost-role-component-default-rules = Усі звичайні правила ді
                                      You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                      You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
 
-ghost-role-information-nonantagonist-rules = You are a [color=green][bold]Non-antagonist[/bold][/color]. You should generally not seek to harm the station and its crew.
+ghost-role-information-nonantagonist-rules = You are [color={role-type-crew-aligned-alternate-color}][bold]{role-type-crew-aligned-name}[/bold][/color]. You should generally not seek to harm the station and its crew.
                                              You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
                                              You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                              You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
-ghost-role-information-freeagent-rules = You are a [color=yellow][bold]Free Agent[/bold][/color]. You are free to act as either an antagonist or a non-antagonist.
+ghost-role-information-freeagent-rules = You are a [color={role-type-free-agent-color}][bold]{role-type-free-agent-name}[/bold][/color]. You are free to act as either an antagonist or a non-antagonist.
                                          You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
                                          You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                          You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
-ghost-role-information-antagonist-rules = You are a [color=red][bold]Solo Antagonist[/bold][/color]. Your intentions are clear, and harmful to the station and its crew.
+ghost-role-information-antagonist-rules = You are a [color={role-type-solo-antagonist-color}][bold]{role-type-solo-antagonist-name}[/bold][/color]. Your intentions are clear, and harmful to the station and its crew.
                                           You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
                                           You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                           You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
-ghost-role-information-rules-team-antagonist = You are a [color=red][bold]Team Antagonist[/bold][/color]. Your intentions are clear, and harmful to the station and its crew.
+ghost-role-information-rules-team-antagonist = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Your intentions are clear, and harmful to the station and its crew.
                                                You must [bold]work with your team[/bold] or follow reasonable directions from your team leaders.
                                                You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
                                                You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                                You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
-ghost-role-information-familiar-rules = You are a [color=#6495ed][bold]Familiar[/bold][/color]. Serve the interests of your master, whatever those may be.
+ghost-role-information-familiar-rules = You are a [color={role-type-familiar-color}][bold]{role-type-familiar-name}[/bold][/color]. Serve the interests of your master, whatever those may be.
                                         You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
                                         You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                         You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
-ghost-role-information-silicon-rules = You are a [color=#6495ed][bold]Silicon[/bold][/color]. Obey your laws. You are a Free Agent if you are not currently bound by any laws.
+ghost-role-information-silicon-rules = You are a [color={role-type-silicon-color}][bold]{role-type-silicon-name}[/bold][/color]. Obey your laws. You are a {role-type-free-agent-name} if you are not currently bound by any laws.
                                        You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
                                        You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                        You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
@@ -313,3 +313,5 @@ ghost-role-information-gingerbread-description = A being of pure holiday spirit.
                                      Spread molassesy goodness and to all good cheer.
 ghost-role-information-wizard-name = Чародій
 ghost-role-information-wizard-desc = YER A WIZARD! Show the station what your magic is made of.
+ghost-role-information-emotional-support-scurret-name = Emotional Support Scurret
+ghost-role-information-emotional-support-scurret-description = Support the crew, be adorable, say "wa" a lot.

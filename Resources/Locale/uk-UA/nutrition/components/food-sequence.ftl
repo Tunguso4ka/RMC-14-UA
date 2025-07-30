@@ -2,7 +2,7 @@ food-sequence-no-space = Ви не можете покласти більше!
 
 food-sequence-content-chicken = chicken
 food-sequence-content-duck = duck
-food-sequence-content-crab = crabs
+food-sequence-content-crab = crab
 food-sequence-content-dragon = dragon
 food-sequence-content-snake = snake
 food-sequence-content-xeno = xeno
@@ -71,12 +71,11 @@ food-sequence-content-hamster = hamster
 food-sequence-content-suppermatter = suppermatter
 food-sequence-content-capfruit = capfruit
 food-sequence-content-berries = berries
-food-sequence-content-spacemans-trumpet = spacemans trupmet
-
-
+food-sequence-content-spacemans-trumpet = spaceman's trumpet
 food-sequence-content-cherry = cherry
 food-sequence-content-snail = snail
 food-sequence-content-anomaly-berry = anomaly berry
+food-sequence-content-friedegg = fried egg
 
 
 food-sequence-burger-gen = {$content}burger
@@ -123,6 +122,44 @@ food-sequence-burger-content-extradimensional-orange = 3d
 food-sequence-burger-content-world-pea = peace
 
 
+food-sequence-cotton-burger-gen = {$content}burger
+
+food-sequence-cotton-burger-content-cotton-bol = cotton
+food-sequence-cotton-burger-content-pyrotton-bol = pyro
+food-sequence-cotton-burger-content-plushie-throngler = throngle
+food-sequence-cotton-burger-content-plushie-ghost = spooky
+food-sequence-cotton-burger-content-plushie-revenant = spookier
+food-sequence-cotton-burger-content-plushie-bee = buzzzy
+food-sequence-cotton-burger-content-plushie-hamptr = hampt
+food-sequence-cotton-burger-content-plushie-nukie = nukie
+food-sequence-cotton-burger-content-plushie-rouny = rouny
+food-sequence-cotton-burger-content-plushie-lamp = lamp
+food-sequence-cotton-burger-content-plushie-arachnid = spider
+food-sequence-cotton-burger-content-plushie-lizard = weh
+food-sequence-cotton-burger-content-plushie-experiment = experimental
+food-sequence-cotton-burger-content-plushie-spacelizard = space
+food-sequence-cotton-burger-content-plushie-lizard-inversed = hew
+food-sequence-cotton-burger-content-plushie-diona = dion
+food-sequence-cotton-burger-content-plushie-shark = shonk
+food-sequence-cotton-burger-content-plushie-ratvar = ratvarian
+food-sequence-cotton-burger-content-plushie-narsie = nar'
+food-sequence-cotton-burger-content-plushie-carp = carp
+food-sequence-cotton-burger-content-plushie-magicarp = magi
+food-sequence-cotton-burger-content-plushie-holocarp = holo
+food-sequence-cotton-burger-content-plushie-slime = slime
+food-sequence-cotton-burger-content-plushie-snake = snek
+food-sequence-cotton-burger-content-plushie-mouse = mouse
+food-sequence-cotton-burger-content-plushie-vox = skree
+food-sequence-cotton-burger-content-plushie-atmosian = atmos
+food-sequence-cotton-burger-content-plushie-xeno = xeno
+food-sequence-cotton-burger-content-plushie-penguin = peng
+food-sequence-cotton-burger-content-plushie-human = uristmc
+food-sequence-cotton-burger-content-plushie-moth = fluff
+food-sequence-cotton-burger-content-plushie-ian = corgi
+food-sequence-cotton-burger-content-among-pequeno = sus
+
+
 food-sequence-taco-gen = taco with {$content}
+
 
 food-sequence-skewer-gen = {$content} kebab

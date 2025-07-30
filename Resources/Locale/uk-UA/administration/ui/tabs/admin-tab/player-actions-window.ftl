@@ -8,3 +8,4 @@ admin-player-actions-window-shuttle = (Re)call Шатл
 admin-player-actions-window-admin-logs = Логі
 admin-player-actions-window-admin-notes = Нотатки
 admin-player-actions-window-admin-fax = Факс
+admin-player-actions-window-admin-chat = Admin Chat

@@ -24,4 +24,13 @@ zzzz-fmt-power-joules = { TOSTRING($divided, "G4") } { $places ->
     [4] ТДж
     *[5] ???
 }
+zzzz-fmt-energy-watt-hours = { TOSTRING($divided, "F1") } { $places ->
+    [0] Wh
+    [1] kWh
+    [2] MWh
+    [3] GWh
+    [4] TWh
+    *[5] ???
+}
+
 zzzz-fmt-playtime = {$hours}Г {$minutes}Хв

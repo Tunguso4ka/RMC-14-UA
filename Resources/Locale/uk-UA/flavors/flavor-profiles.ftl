@@ -50,6 +50,9 @@ flavor-base-mindful = усвідомлено
 flavor-base-chewy = жуйно
 
 
+flavor-base-trashy = trashy
+
+
 flavor-complex-nothing = ніяк
 flavor-complex-honey = мов мед
 
@@ -174,6 +177,9 @@ flavor-complex-paper = мов кашоподібна мʼякоть
 flavor-complex-compressed-meat = мов стиснене мʼясо
 
 
+flavor-complex-dog-food = like dog food
+
+
 flavor-complex-alcohol = мов алкоголь
 flavor-complex-soda = мов газованка
 flavor-complex-juice = мов сік
@@ -225,8 +231,11 @@ flavor-complex-long-island = підозріло мов холодний чай
 flavor-complex-three-mile-island = мов чай, заварений у ядерних відходах
 flavor-complex-whiskey-cola = мов газована меляса
 flavor-complex-root-beer-float = мов морозиво в кореневому пиві
+flavor-complex-crush-depth = like the Hadal Zone
 flavor-complex-black-russian = мов алкогольна кава
 flavor-complex-white-russian = мов підсолощена алкогольна кава
+flavor-complex-electric-shark = like Shark Week in the tropics
+flavor-complex-tortuga = like sweet tea
 flavor-complex-moonshine = мов чистий спирт
 flavor-complex-singulo = мов бездонна діра
 flavor-complex-syndie-bomb = мов гіркий віскі
@@ -242,6 +251,12 @@ flavor-complex-atomic-cola = мов несамовите збирання кри
 flavor-complex-cuba-libre = мов пряна кола
 flavor-complex-gin-tonic = мов пряна лимонно-лаймова газованка
 flavor-complex-screwdriver = мов пряний апельсиновий сік
+flavor-complex-jack-rose = like a testimony
+flavor-complex-jungle-bird = like you’re in a tropical aviary
+flavor-complex-kalimotxo = like fancy spiked cola
+flavor-complex-vampiro = fruity, savoury, and spicy
+flavor-complex-bronx = like mildly sweet, alcoholic fruit
+flavor-complex-monkey-business = like going ape
 flavor-complex-vodka-red-bool = мов інфаркт
 flavor-complex-irish-bool = кофеїн та Ірландія
 flavor-complex-xeno-basher = мов убивство комах
@@ -249,6 +264,7 @@ flavor-complex-budget-insuls-drink = мов злам дверей
 flavor-complex-watermelon-wakeup = мов солодке пробудження
 flavor-complex-rubberneck = мов синтетика
 flavor-complex-irish-slammer = like a spiked cola float
+flavor-complex-alien-brain-hemorrhage = like an extraterrestrial injury
 flavor-complex-themartinez = мов фіалки та лимонна горілка
 flavor-complex-cogchamp = мов латунь
 flavor-complex-white-gilgamesh = мов злегка газовані вершки
@@ -281,9 +297,11 @@ flavor-complex-brave-bull = like being ran over by a truck
 flavor-complex-demons-blood = like the seventh circle of Hell
 flavor-complex-devils-kiss = like cannibalism
 flavor-complex-driest-martini = like a drunk mimic
+flavor-complex-eggnog = like melted custard
 flavor-complex-erika-surprise = like the bartender made a mistake
 flavor-complex-gin-fizz = refreshing and lemony
 flavor-complex-gildlager = like the Tzar's gold
+flavor-complex-dark-and-stormy = like ginger ale spiked with rum
 flavor-complex-grog = like a sea shanty
 flavor-complex-hippies-delight = like your blood pressure is dropping
 flavor-complex-hooch = like it would be delicious if you were a diesel engine
@@ -294,6 +312,7 @@ flavor-complex-martini = like a spy movie
 flavor-complex-mojito = like going into the shade after being in the hot sun
 flavor-complex-neurotoxin = like an underground testing facility
 flavor-complex-patron = like being serenaded by mariachi
+flavor-complex-radler = like spiked lemonade
 flavor-complex-red-mead = like a viking battle
 flavor-complex-sbiten = like fire
 flavor-complex-snowwhite = like sour and bitter hops
@@ -302,6 +321,8 @@ flavor-complex-toxins-special = like space exploration
 flavor-complex-vodka-martini = like a spy movie from Russia
 flavor-complex-vodka-tonic = refreshingly bitter
 flavor-complex-coconut-rum = мов горіхуватий броділий цукор
+flavor-complex-bacchus-blessing = like a wall of bricks
+
 flavor-complex-pilk = мов солодке молоко
 
 
@@ -312,5 +333,6 @@ flavor-complex-bee = неможжжливо
 flavor-complex-sax = мов джаз
 flavor-complex-bottledlightning = мов блискавка у пляшці
 flavor-complex-punishment = мов покарання
+flavor-complex-artifact-glue = like crushed artifacts
 flavor-weh = мов Вех
 flavor-hew = like hew

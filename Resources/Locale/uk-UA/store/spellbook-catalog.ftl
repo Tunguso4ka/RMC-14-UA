@@ -7,6 +7,9 @@ spellbook-blink-desc = Не блимай бо інакше пропустиш с
 spellbook-voidapplause-name = Void Applause
 spellbook-voidapplause-desc = Swap places with the target, doesn't it make you want to do the boogie?
 
+spellbook-knock-name = Knock
+spellbook-knock-desc = Opens all airlocks, crates and lockers nearby.
+
 spellbook-force-wall-name = Силова стіна
 spellbook-force-wall-desc = Робить три стіни з чистої сили. Інші не можуть пройти скрізь них, але не ти!
 

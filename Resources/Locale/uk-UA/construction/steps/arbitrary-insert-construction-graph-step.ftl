@@ -6,3 +6,5 @@ construction-insert-info-examine-name-instrument-string = струнний ін�
 construction-insert-info-examine-name-instrument-woodwind = дерев'яний духовий інструмент
 construction-insert-info-examine-name-knife = ніж
 construction-insert-info-examine-name-utensil = приладдя
+construction-insert-info-examine-name-laser-cannon = high power laser weapon
+construction-insert-info-examine-name-power-cell = power cell

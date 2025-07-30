@@ -1,0 +1,1 @@
+slot-block-component-blocked = Цей слот заблукований {$item}!

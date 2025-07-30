@@ -21,3 +21,5 @@ permissions-eui-edit-admin-rank-button = Редагувати
 permissions-eui-edit-admin-rank-window-title = Редагувати ранг адміна
 permissions-eui-edit-admin-window-save-button = Зберегти
 permissions-eui-edit-admin-window-remove-flag-button = Вилучити
+cmd-permissions-desc = Opens the admin permissions panel.
+cmd-permissions-help = Usage: permissions

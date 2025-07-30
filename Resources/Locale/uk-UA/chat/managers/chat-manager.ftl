@@ -13,7 +13,7 @@ chat-manager-admin-ooc-chat-disabled-message = Адмінський OOC чат �
 chat-manager-max-message-length-exceeded-message = Ваше повідомлення перевисило дозволену довжину у {$limit} символів
 chat-manager-no-headset-on-message = На вас немає рації!
 chat-manager-no-radio-key = Не обрано ключа рації!
-chat-manager-no-such-channel = Ключа рації з '{$key}' не існує!
+chat-manager-no-such-channel = Ключа рації '{$key}' не існує!
 chat-manager-whisper-headset-on-message = Ти не можеш шептіти в рацію!
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
@@ -41,6 +41,8 @@ chat-manager-send-admin-chat-wrap-message = {$adminChannelName}: [bold]{$playerN
 chat-manager-send-admin-announcement-wrap-message = [bold]{$adminChannelName}: {$message}[/bold]
 
 chat-manager-send-hook-ooc-wrap-message = OOC: [bold](D){$senderName}:[/bold] {$message}
+
+chat-manager-send-hook-admin-wrap-message = ADMIN: [bold](D){$senderName}:[/bold] {$message}
 
 chat-manager-dead-channel-name = МРТВ
 chat-manager-admin-channel-name = АДМІН
@@ -152,3 +154,9 @@ chat-speech-verb-name-electricity = Electricity
 chat-speech-verb-electricity-1 = crackles
 chat-speech-verb-electricity-2 = buzzes
 chat-speech-verb-electricity-3 = screeches
+
+chat-speech-verb-name-wawa = Wawa
+chat-speech-verb-wawa-1 = intones
+chat-speech-verb-wawa-2 = states
+chat-speech-verb-wawa-3 = declares
+chat-speech-verb-wawa-4 = ponders

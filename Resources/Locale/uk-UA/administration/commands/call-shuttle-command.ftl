@@ -1,4 +1,4 @@
-call-shuttle-command-description = Викликає шатл екстренної евакуації з додатково вказаним часом прибуття.
-call-shuttle-command-help-text = Використання: {$command} [m:ss]
-recall-shuttle-command-description = Перевикликає шатл екстренної евакуації.
-recall-shuttle-command-help-text = Використання: {$command}
+cmd-callshuttle-desc = Calls the emergency shuttle with an optionally provided arrival time.
+cmd-callshuttle-help = Usage: callshuttle [m:ss]
+cmd-recallshuttle-desc = Recalls the emergency shuttle.
+cmd-recallshuttle-help = Usage: recallshuttle

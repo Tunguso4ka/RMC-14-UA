@@ -25,6 +25,8 @@ materials-coal = вугілля
 materials-diamond = алмаз
 materials-gunpowder = порох
 
+materials-cotton = cotton
+
 materials-raw-iron = необроблене залізо
 materials-raw-quartz = необроблений кварц
 materials-raw-gold = необроблене золото

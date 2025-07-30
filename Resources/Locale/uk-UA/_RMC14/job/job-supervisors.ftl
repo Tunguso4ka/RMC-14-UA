@@ -9,4 +9,6 @@ cm-job-supervisors-cmp = Голові ВП
 cm-job-supervisors-qm = Квартирмейстеру
 cm-job-supervisors-ce = Головному Інженеру
 cm-job-supervisors-sl = діючему Лідеру Загіну
+cm-job-supervisors-staff = Server Staff
 cm-job-supervisors-nobody = нікому, ти можеш розраховувати тільки на себе.
+cm-job-supervisors-colonists = the sapient colonists

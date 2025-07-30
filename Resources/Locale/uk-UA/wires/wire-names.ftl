@@ -48,6 +48,10 @@ wires-board-name-holopad = Holopad
 wires-board-name-barsign = Bar Sign
 
 
+wires-board-name-weapon-energy-turret = Sentry turret
+wires-board-name-turret-controls = Sentry turret control panel
+
+
 wire-name-access = ДОС
 wire-name-arcade-overflow = ОГРН
 wire-name-air-alarm-panic = ПНК

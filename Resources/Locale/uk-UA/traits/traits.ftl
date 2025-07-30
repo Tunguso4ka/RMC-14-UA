@@ -15,6 +15,9 @@ permanent-blindness-trait-examined = Очі [color=lightblue]{CAPITALIZE(POSS-AD
 trait-lightweight-name = Легкий на сп'яніння
 trait-lightweight-desc = Алкоголь має більший ефект на вас.
 
+trait-monochromacy-name = Monochromacy
+trait-monochromacy-desc = You are fully colorblind, everything you perceive ranges from blacks to whites.
+
 trait-muted-name = Німий
 trait-muted-desc = Ви не можете розмовляти.
 
@@ -53,10 +56,10 @@ trait-german-desc = Ви родом з космічної Німеччини.
 
 trait-italian-name = Італьянський акцент (неперекладено)
 trait-italian-desc = Мамма мія! Звучите як космічний італьянець!
-trait-french-name = Французький акцент
+trait-french-name = Французький акцент (неперекладено)
 trait-french-desc = Your accent seems to have a certain «je ne sais quoi».
 
-trait-spanish-name = Іспанський акцент
+trait-spanish-name = Іспанський акцент (неперекладено)
 trait-spanish-desc = Hola señor, donde esta la biblioteca.
 trait-painnumbness-name = Numb
 trait-painnumbness-desc = You lack any sense of feeling pain, being unaware of how hurt you may be.

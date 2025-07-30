@@ -1,4 +1,4 @@
-criminal-records-console-window-title = Консоль записей
+criminal-records-console-window-title = Консоль записів
 criminal-records-console-records-list-title = Екіпаж
 criminal-records-console-select-record-info = Обрати запис.
 criminal-records-console-no-records = Нема записів!
@@ -46,6 +46,9 @@ criminal-records-filter-placeholder = Введить текст та натис�
 criminal-records-name-filter = Ім'я
 criminal-records-prints-filter = Відбитки
 criminal-records-dna-filter = ДНК
+
+criminal-records-job-filter = Праця
+criminal-records-species-filter = Вид
 
 criminal-records-console-auto-history = ЗАТРИМАНИЙ: {$reason}
 criminal-records-console-unspecified-reason = <причина не обрана>

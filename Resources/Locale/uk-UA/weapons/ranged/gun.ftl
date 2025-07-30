@@ -3,11 +3,9 @@ gun-fire-rate-examine = Скорострільність [color={$color}]{$fireR
 gun-selector-verb = Перемкнути на {$mode}
 gun-selected-mode = Обран {$mode}
 gun-disabled = Ви не можете користуватися зброєю!
-gun-clumsy = Зброя вибухає у ваших руках!
 gun-set-fire-mode = Перемкнути на {$mode}
 
 gun-magazine-whitelist-fail = Воно не вміщається в зброю!
-
 gun-magazine-fired-empty = Не залишилося набоїв!
 gun-SemiAuto = напів-авто
 gun-Burst = черга
@@ -22,7 +20,6 @@ gun-ballistic-cycle-delayed-empty = {CAPITALIZE(THE($entity))} is already unload
 gun-ballistic-transfer-invalid = {CAPITALIZE($ammoEntity)} не вміщається в {$targetEntity}!
 gun-ballistic-transfer-empty = {CAPITALIZE($entity)} порожня.
 gun-ballistic-transfer-target-full = {CAPITALIZE($entity)} вже повністу заряджена.
-
 gun-ballistic-transfer-cancelled = Your reload was interrupted!
 gun-ballistic-transfer-primed = You can't load a primed {$ammoEntity}!
 
@@ -49,3 +46,5 @@ gun-revolver-insert = Вставлено
 gun-revolver-spin = Прокрутити барабан
 gun-revolver-spun = Spun
 gun-speedloader-empty = Speedloader empty
+examine-gun-spread-modifier-reduction = The spread has been reduced by [color=yellow]{$percentage}%[/color].
+examine-gun-spread-modifier-increase = The spread has been increased by [color=yellow]{$percentage}%[/color].

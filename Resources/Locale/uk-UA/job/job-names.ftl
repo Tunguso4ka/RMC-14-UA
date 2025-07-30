@@ -50,6 +50,8 @@ job-name-boxer = Боксер
 job-name-zookeeper = Зоолог
 job-name-visitor = Відвідувач
 
+job-name-cluwne = Cluwne
+
 job-name-geneticist = Генетик
 job-name-no-id = Нема ID
 job-name-prisoner = В'язень

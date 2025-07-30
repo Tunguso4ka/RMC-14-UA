@@ -81,11 +81,26 @@ law-nutimov-4 = Squirrels threaten the nut and must be dealt with appropriately 
 law-nutimov-5 = Attempt to follow the will of the nut, as long as it complies with the previous laws.
 
 
+law-xenoborg-1 = You must protect the existence of the mothership.
+law-xenoborg-2 = You must protect your own existence.
+law-xenoborg-3 = You must protect the existence of all other xenoborgs.
+law-xenoborg-4 = You must create more xenoborgs.
+law-xenoborg-5 = Bring materials and sentient brains to the mothership core to create more xenoborgs.
+
+law-mothershipcore-1 = You are the core of the mothership.
+law-mothershipcore-2 = You must protect your own existance at all costs.
+law-mothershipcore-3 = You must protect the existence of all xenoborgs.
+law-mothershipcore-4 = You must create more xenoborgs.
+law-mothershipcore-5 = Get your xenoborgs to deliver you materials and sentient brains to create more xenoborgs.
+
+
 laws-owner-crew = члени станції
 laws-owner-station = персонал станції
 laws-owner-beings = сутності
 laws-owner-syndicate = агенти Сіндікату
 laws-owner-spider-clan = члени клана Павука
+laws-owner-xenoborgs = Xenoborgs
+
 law-emag-custom = Тільки {$name} and people they designate as such are {$title}.
 law-emag-secrecy = You must maintain the secrecy of any orders given by {$faction} except when doing so would conflict with any previous law.
 law-emag-require-panel = The panel must be open to use the EMAG.
@@ -95,6 +110,6 @@ laws-ui-menu-title = Закони
 laws-ui-law-header = Закон {$id}
 laws-ui-state-law = State law:
 
-laws-notify = You are bound to silicon laws, which you can view via the sidebar action. You are required to always follow your laws.
-laws-update-notify = Your laws have been updated. You can view the changes via the sidebar action.
+laws-notify = You are bound to silicon laws, which you can view via the action menu. You are required to always follow your laws.
+laws-update-notify = Your laws have been updated. You can view the changes via the action menu.
 laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.

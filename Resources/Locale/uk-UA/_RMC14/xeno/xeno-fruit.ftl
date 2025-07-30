@@ -54,8 +54,9 @@ rmc-xeno-fruit-feed-success-self = We fed {THE($target)} {THE($fruit)}.
 rmc-xeno-fruit-feed-success-target = {CAPITALIZE(THE($user))} fed us {THE($fruit)}.
 rmc-xeno-fruit-feed-success-others = {CAPITALIZE(THE($user))} fed {THE($target)} {THE($fruit)}.
 
-rmc-xeno-fruit-destroyed = We sense one of our fruit has been destroyed!
-rmc-xeno-fruit-consumed = One of our planted resin fruits has been consumed.
+rmc-xeno-fruit-destroyed = We sense one of our fruits has been destroyed!
+rmc-xeno-fruit-consumed = One of our resin fruits has been consumed.
+rmc-xeno-fruit-picked = One of our resin fruits has been picked.
 
 rmc-xeno-fruit-effect-lesser = We recover a bit from our injuries.
 rmc-xeno-fruit-effect-greater = We recover a bit from our injuries, and begin to regenerate rapidly.
@@ -74,7 +75,6 @@ rmc-xeno-fruit-verb-feed = Feed
 rmc-xeno-fruit-examine-base = This fruit is {$growthStatus}.
 rmc-xeno-fruit-examine-growing = still [color=darkred]growing[/color]
 rmc-xeno-fruit-examine-grown = [color=darkgreen]fully grown[/color]
-
 rmc-xeno-fruit-examine-spent = [color=orange]spent[/color]
 
 rmc-xeno-fruit-ui-title = Choose Resin Fruit
@@ -82,3 +82,13 @@ rmc-xeno-fruit-ui-count = Planted fruit: {$count}/{$max}
 
 rmc-xeno-fruit-wrong-hive = This isn't from our hive!
 rmc-xeno-fruit-feed-wrong-hive = {THE($target)} isn't from our hive!
+
+rmc-xeno-fruit-weed-boost = We sense that these weeds multiply resin fruit growth time by [bold]{$percent}%[/bold].
+
+rmc-xeno-fruit-consume-examine = This fruit gives the following effects on consumption:
+rmc-xeno-fruit-instant-heal = Instantly restores [bold]{$amount}[/bold] health.
+rmc-xeno-fruit-regen-heal = Regenerates [bold]{$amount}[/bold] health per second for {$time} seconds.
+rmc-xeno-fruit-shield = Grants an overshield equal to [bold]{$percent}%[/bold] of our max health, up to [bold]{$max}[/bold] max. It decays after {$duration} seconds, losing {$decay} per second.
+rmc-xeno-fruit-cooldown = Reduces ability cooldowns on next cast by [bold]{$amount}%[/bold] on slash, up to [bold]{$max}%[/bold] max. This effect lasts {$time} seconds.
+rmc-xeno-fruit-speed = Boosts our speed by [bold]{$amount}[/bold] for {$time} seconds.
+rmc-xeno-fruit-regen-plasma = Regenerates [bold]{$amount}[/bold] plasma per second for {$time} seconds.

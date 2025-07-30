@@ -24,6 +24,8 @@ verb-categories-fax = Поставити адресата
 
 verb-categories-power-level = Рівень струму
 
+verb-categories-adjust = Adjust
+
 verb-common-toggle-light = Перемкнути світло
 verb-common-close = Закрити
 verb-common-open = Відкрити

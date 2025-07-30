@@ -7,6 +7,8 @@ admin-verb-make-pirate = Перетворює ціль на пірата. Не �
 admin-verb-make-head-rev = Перетворює ціль на головного революціонера.
 admin-verb-make-thief = Перетворює ціль на крадія.
 
+admin-verb-make-paradox-clone = Create a Paradox Clone ghost role of the target.
+
 admin-verb-text-make-traitor = Зрадник
 admin-verb-text-make-initial-infected = Перший Інфікований
 admin-verb-text-make-zombie = Зомбі
@@ -14,4 +16,6 @@ admin-verb-text-make-nuclear-operative = Ядерний Оперативник
 admin-verb-text-make-pirate = Пірат
 admin-verb-text-make-head-rev = Головний Революціонер
 admin-verb-text-make-thief = Крадій
+admin-verb-text-make-paradox-clone = Create Paradox Clone
+
 admin-overlay-antag-classic = АНТАГ

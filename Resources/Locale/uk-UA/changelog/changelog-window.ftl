@@ -11,3 +11,7 @@ changelog-button-new-entries = Оновлення (новi!)
 
 changelog-tab-title-Changelog = Оновлення
 changelog-tab-title-Admin = Адмін
+changelog-tab-title-Maps = Мапи
+
+cmd-changelog-desc = Відкриває вікно оновлень.
+cmd-changelog-help = Використання: changelog
