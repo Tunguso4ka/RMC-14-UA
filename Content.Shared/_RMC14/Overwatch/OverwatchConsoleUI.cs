@@ -1,8 +1,10 @@
 ﻿using System.Numerics;
+using Content.Shared._RMC14.Marines.Roles.Ranks;
 using Content.Shared.Mobs;
 using Content.Shared.Roles;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
+using Robust.Shared.Utility;
 
 namespace Content.Shared._RMC14.Overwatch;
 
@@ -80,9 +82,10 @@ public sealed class OverwatchConsoleHideBuiMsg(NetEntity target, bool hide) : Bo
 }
 
 [Serializable, NetSerializable]
-public sealed class OverwatchConsolePromoteLeaderBuiMsg(NetEntity target) : BoundUserInterfaceMessage
+public sealed class OverwatchConsolePromoteLeaderBuiMsg(NetEntity target, SpriteSpecifier.Rsi icon) : BoundUserInterfaceMessage
 {
     public readonly NetEntity Target = target;
+    public readonly SpriteSpecifier.Rsi Icon = icon;
 }
 
 [Serializable, NetSerializable]
@@ -150,7 +153,7 @@ public sealed class OverwatchConsoleSendMessageBuiMsg(string message) : BoundUse
 }
 
 [Serializable, NetSerializable]
-public record struct OverwatchSquad(NetEntity Id, string Name, Color Color, NetEntity? Leader, bool CanSupplyDrop);
+public record struct OverwatchSquad(NetEntity Id, string Name, Color Color, NetEntity? Leader, bool CanSupplyDrop, SpriteSpecifier.Rsi LeaderIcon);
 
 [Serializable, NetSerializable]
 public readonly record struct OverwatchMarine(
@@ -163,5 +166,6 @@ public readonly record struct OverwatchMarine(
     bool Deployed,
     OverwatchLocation Location,
     string AreaName,
-    Vector2? LeaderDistance
+    Vector2? LeaderDistance,
+    ProtoId<RankPrototype>? Rank
 );

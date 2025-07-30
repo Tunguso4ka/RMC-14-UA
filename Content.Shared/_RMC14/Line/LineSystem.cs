@@ -24,6 +24,7 @@ public sealed class LineSystem : EntitySystem
 
     private static readonly ProtoId<TagPrototype> StructureTag = "Structure";
     private static readonly ProtoId<TagPrototype> WallTag = "Wall";
+    private static readonly float MaxBeamDistance = 500;
 
     private EntityQuery<BarricadeComponent> _barricadeQuery;
     private EntityQuery<DoorComponent> _doorQuery;
@@ -36,7 +37,7 @@ public sealed class LineSystem : EntitySystem
         _mapGridQuery = GetEntityQuery<MapGridComponent>();
     }
 
-    public List<LineTile> DrawLine(EntityCoordinates start, EntityCoordinates end, TimeSpan delayPer, out EntityUid? blocker)
+    public List<LineTile> DrawLine(EntityCoordinates start, EntityCoordinates end, TimeSpan delayPer, out EntityUid? blocker, bool hitBlocker = false)
     {
         blocker = null;
         start = _mapSystem.AlignToGrid(_transform.GetMoverCoordinates(start));
@@ -69,13 +70,16 @@ public sealed class LineSystem : EntitySystem
 
             var direction = (entityCoords.Position - lastCoords.Position).ToWorldAngle();
             var blocked = IsTileBlocked(grid, entityCoords, direction, out blocker);
-            if (blocked)
+            if (blocked && !hitBlocker)
                 break;
 
             lastCoords = entityCoords;
             var mapCoords = _transform.ToMapCoordinates(entityCoords);
             tiles.Add(new LineTile(mapCoords, time + delayPer * delay));
             delay++;
+
+            if (blocked)
+                break;
         }
 
         return tiles;
@@ -155,6 +159,9 @@ public sealed class LineSystem : EntitySystem
         if (Deleted(source) || Deleted(target))
             return false;
 
+        if (_transform.GetMapId(source) != _transform.GetMapId(target))
+            return false;
+
         var sourceMapPos = _transform.GetMapCoordinates(source);
         var targetMapPos = _transform.GetMapCoordinates(target);
 
@@ -166,8 +173,8 @@ public sealed class LineSystem : EntitySystem
 
         var beamStartPos = sourceMapPos.Offset(calculatedDistance.Normalized());
 
-        //Don't divide by zero
-        if (calculatedDistance.Length() == 0)
+        //Don't divide by zero or make a mega beam
+        if (calculatedDistance.Length() == 0 || calculatedDistance.Length() > MaxBeamDistance)
             return false;
 
         var distanceCorrection = calculatedDistance - calculatedDistance.Normalized();
