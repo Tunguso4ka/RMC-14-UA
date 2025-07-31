@@ -1,15 +1,13 @@
 ent-CMBaseMask = { ent-ClothingMaskPullableBase }
     .desc = { ent-ClothingMaskPullableBase.desc }
-
 ent-CMMaskGas = газова маска
     .desc = Маска що покриває все обличчя та яку можна під'єднати до джерела повітря. Фільтрує шкідливи гази.
-
+ent-RMCMaskGasSPP = ShMB/4 gasmask
+    .desc = The standard issue gasmask utilized by the SPP Vanguard Collective and many SPP civilian organizations.
 ent-CMMaskSterile = стерильна маска
     .desc = Стерільна маска зроблена щоб зашкодити розпространінню хвороб.
-
 ent-CMMaskGasMedical = медична газова маска
     .desc = A close-fitting sterile mask that can be connected to an air supply.
-
 ent-RMCMaskRebreather = rebreather
     .desc = A close-fitting device that instantly heats or cools down air when you inhale so it doesn't damage your lungs.
 ent-RMCMaskKutjevoRespirator = kutjevo respirator
@@ -26,6 +24,10 @@ ent-RMCMaskBalaclava = balaclava
     .desc = A basic single eye-hole balaclava, available in almost every sporting goods, outdoor supply, or military surplus store in existence, protects your face from the cold almost as well as it conceals it. This one is in a standard black color.
 ent-RMCMaskBalaclavaGreen = green balaclava
     .desc = A basic single eye-hole balaclava, available in almost every sporting goods, outdoor supply, or military surplus store in existence, protects your face from the cold almost as well as it conceals it. This one is in a non-standard green color.
+ent-RMCMaskBalaclavaPMC = M8 pattern armored balaclava
+    .desc = An armored balaclava designed to conceal both the identity of the operator and act as an air-filter.
+ent-RMCMaskBalaclavaMARSOC = SOF armored balaclava
+    .desc = Designed for maximum protection -- and badassery. Provides protection against facial attacks, filters toxins, and conceals the wearer's identity.
 ent-RMCMaskBalaclavaSkullBlue = skull balaclava
     .desc = The face of your nightmares. Or at least that's how you imagined it'd be. Additionally protects against the cold.
 ent-RMCMaskBalaclavaSkullBlack = { ent-RMCMaskBalaclavaSkullBlue }

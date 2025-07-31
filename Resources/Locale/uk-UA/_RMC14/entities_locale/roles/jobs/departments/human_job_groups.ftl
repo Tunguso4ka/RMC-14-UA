@@ -1,8 +1,28 @@
-ent-CMDepartmentsHuman = ця сутність не має назви
-
-ent-CMJobsMedical = ця сутність не має назви
-
-ent-CMJobsEngineering = ця сутність не має назви
-
-ent-CMJobsDropship = ця сутність не має назви
-
+ent-CMDepartmentsHuman = { "" }
+    .desc = { "" }
+ent-CMJobsMedical = { "" }
+    .desc = { "" }
+ent-CMJobsEngineering = { "" }
+    .desc = { "" }
+ent-CMJobsDropship = { "" }
+    .desc = { "" }
+ent-CMJobsDropshipPilot = { "" }
+    .desc = { "" }
+ent-RMCJobsCorporate = { "" }
+    .desc = { "" }
+ent-RMCJobsSurvivor = { "" }
+    .desc = { "" }
+ent-CMJobsSurvivorCivilian = { "" }
+    .desc = { "" }
+ent-CMJobsSurvivorEngineer = { "" }
+    .desc = { "" }
+ent-CMJobsSurvivorMedical = { "" }
+    .desc = { "" }
+ent-CMJobsSurvivorCorporate = { "" }
+    .desc = { "" }
+ent-CMJobsSurvivorSecurity = { "" }
+    .desc = { "" }
+ent-CMJobsSurvivorScientist = { "" }
+    .desc = { "" }
+ent-CMJobsSurvivorCommander = { "" }
+    .desc = { "" }

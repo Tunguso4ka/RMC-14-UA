@@ -1,9 +1,12 @@
-ent-CMAirlockCommandLocked = двері командування
-    .desc = { ent-CMBaseDoor.desc }
+ent-CMAirlockSecureLockedCommand = { ent-CMAirlockSecure }
+    .desc = { ent-CMAirlockSecure.desc }
+    .suffix = Command, Locked
+ent-CMAirlockCommandLocked = { ent-CMAirlockCommand }
+    .desc = { ent-CMAirlockCommand.desc }
     .suffix = Командування, Зачинені
 
-ent-CMAirlockMaintCommandLocked = двері командування
-    .desc = { ent-CMBaseDoor.desc }
+ent-CMAirlockMaintCommandLocked = { ent-CMAirlockMaint }
+    .desc = { ent-CMAirlockMaint.desc }
     .suffix = Командування, Зачинені, Техи
 
 ent-CMAirlockCMPLocked = двері ГВП

@@ -1,8 +1,13 @@
 ent-CMIDCardStandardDogtag = жетони
     .desc = Містять інформацію про носія, та дають доступ до корабля.
-
+ent-RMCIDCardStandardDogtagHidden = { ent-CMIDCardStandardDogtag }
+    .desc = { ent-CMIDCardStandardDogtag.desc }
+ent-RMCInformationDogtagProp = faded information dog tag
+    .desc = A fallen marine's information dog tag. It looks battered and the name is worn out.
 ent-RMCInformationDogtag = information dog tag
     .desc = A fallen marine's information dog tag.
+ent-RMCDogtagProp = жетони
+    .desc = A fallen marine's dog tag, no body in sight.
 ent-CMIDCardBase = індентифіційний голо-значок
     .desc = Зріз кодованого та пресованого скловолокна. Використовується для ідентифікації та контролю доступу.
 
@@ -17,6 +22,7 @@ ent-CMIDCardLanyard = ідентифіційний голо-шнурок
 
 ent-FactionMarine = { "" }
     .desc = { "" }
-
 ent-FactionSurvivor = { "" }
+    .desc = { "" }
+ent-FactionTSE = { "" }
     .desc = { "" }

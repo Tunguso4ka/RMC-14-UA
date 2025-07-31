@@ -1,2 +1,12 @@
 ent-RMCAreaERT = ERT station
     .desc = { ent-RMCAreaBase.desc }
+ent-RMCAreaERTFax = Sector Comms Relay
+    .desc = { ent-RMCAreaERT.desc }
+    .suffix = Fax Responder Outpost, Interior
+ent-RMCAreaERTFaxExterior = Sector Comms Relay
+    .desc = { ent-RMCAreaERT.desc }
+    .suffix = Fax Responder Outpost, Exterior
+ent-RMCAreaShuttleNS = Shuttle
+    .desc = { ent-RMCAreaBase.desc }
+ent-RMCAreaShuttleERT = ERT Shuttle
+    .desc = { ent-RMCAreaShuttleNS.desc }

@@ -1,20 +1,28 @@
 ent-CMDogtagRifleman = жетони рядового
     .desc = { ent-CMIDCardStandardDogtag.desc }
-
+ent-RMCDogtagRiflemanHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
 ent-CMDogtagCombatTech = жетони бойового техника
     .desc = { ent-CMIDCardStandardDogtag.desc }
-
+ent-RMCDogtagCombatTechHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
 ent-CMDogtagFireteamLeader = жетони лідера групи
     .desc = { ent-CMIDCardStandardDogtag.desc }
-
+ent-RMCDogtagFireteamLeaderHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
 ent-CMDogtagHospitalCorpsman = жетони бойвого медика
     .desc = { ent-CMIDCardStandardDogtag.desc }
-
+ent-RMCDogtagHospitalCorpsmanHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
 ent-CMDogtagSmartGunOperator = жетони оператора розумного озброєння
     .desc = { ent-CMIDCardStandardDogtag.desc }
-
+ent-RMCDogtagSmartGunOperatorHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
 ent-CMDogtagSquadLeader = жетони лідера загону
     .desc = { ent-CMIDCardStandardDogtag.desc }
-
+ent-RMCDogtagSquadLeaderHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
 ent-CMDogtagWeaponsSpecialist = жетони спеціаліста по озброєнню
     .desc = { ent-CMIDCardStandardDogtag.desc }
+ent-RMCDogtagWeaponsSpecialistHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }

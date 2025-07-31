@@ -1,2 +1,2 @@
-ent-CMVendorWalkman = автомат предметів для відпочинку
-    .desc = Містить схвалені Ве-Я предмети для відпочинку, такі як плеєри та карти.
+ent-CMVendorCassettes = Rec-Vend
+    .desc = Contains We-Ya approved recreational items, like Cassette Players and Cards.

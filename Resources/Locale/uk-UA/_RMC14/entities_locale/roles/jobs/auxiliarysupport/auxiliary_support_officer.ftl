@@ -1,5 +1,4 @@
 ent-CMSpawnPointASO = точка спавну офіцера допоміжних сил
     .desc = { ent-CMSpawnPointJobBase.desc }
-
-ent-CMGuidebookRoleASO = Auxiliary Support Officer
+ent-RMCGuidebookRoleASO = Офіцер Допоміжних Сил
     .desc = { ent-CMGuidebookRole.desc }

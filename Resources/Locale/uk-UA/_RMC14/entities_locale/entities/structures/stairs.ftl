@@ -3,15 +3,12 @@ ent-RMCStairs = сходи
 ent-RMCStairsCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Corner
-
 ent-RMCStairsLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Left
-
 ent-RMCStairsRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Right
-
 ent-RMCStairsLeftHalf = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Left, Half
@@ -21,18 +18,14 @@ ent-RMCStairsRightHalf = { ent-RMCStairs }
 ent-RMCStairsSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Solo
-
 ent-RMCStairsKutjevo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsKutjevoCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Corner
-
 ent-RMCStairsKutjevoLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Left
-
 ent-RMCStairsKutjevoRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Right
@@ -46,22 +39,17 @@ ent-RMCStairsKutjevoRightHalf = { ent-RMCStairs }
 ent-RMCStairsKutjevoSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Solo
-
 ent-RMCStairsIce = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsIceCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Corner
-
 ent-RMCStairsIceLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Left
-
 ent-RMCStairsIceRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Right
-
 ent-RMCStairsIceLeftHalf = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
     .suffix = Left, Half
@@ -91,3 +79,32 @@ ent-RMCHybrisaStairs = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
 ent-RMCHybrisaStairsPerspective = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
+ent-RMCTempleStairs = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Corner
+ent-RMCTempleStairsCorner = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Corner
+ent-RMCTempleStairsLeft = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Left
+ent-RMCTempleStairsRight = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Right
+ent-RMCTempleStairsSolo = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Solo
+ent-RMCSoroStairs = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+ent-RMCSoroStairsCorner = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Corner
+ent-RMCSoroStairsLeft = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Left
+ent-RMCSoroStairsRight = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Right
+ent-RMCSoroStairsSolo = { ent-RMCStairs }
+    .desc = { ent-RMCStairs.desc }
+    .suffix = Solo

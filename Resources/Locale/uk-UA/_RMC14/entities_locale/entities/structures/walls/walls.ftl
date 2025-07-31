@@ -13,6 +13,7 @@ ent-CMWallReinforced = посилена стіна
 ent-CMWallSuperReinforced = { ent-CMBaseWall }
     .desc = { ent-CMBaseWall.desc }
 
+    .suffix = Super Reinforced
 ent-CMWallReinforcedAlmayer = { ent-CMWallReinforced }
     .desc = { ent-CMWallReinforced.desc }
 
@@ -43,21 +44,57 @@ ent-CMWallShuttleWhite = { ent-CMWallShuttleBlack }
 
 ent-CMWallRock = кам'яна стіна
     .desc = Стіна з каменів.
-
 ent-CMWallCult = { ent-CMBaseWall }
     .desc = Написи на стіні змінюються що разу як ти на них дивишся.
-
 ent-CMWallWood = дерев'яна стіна
     .desc = { ent-CMBaseWall.desc }
-
 ent-CMWallJungle = джунглі
     .desc = Зарослі через які не проходить сонячне світло.
 
+ent-RMCWallJungleStrata = { ent-CMWallJungle }
+    .desc = { ent-CMWallJungle.desc }
 ent-RMCWallElevator = elevator wall
     .desc = { ent-CMBaseWallInvincible.desc }
 
-ent-RMCWallElevatorBroken = elevator wall
+ent-RMCWallElevatorBroken = { ent-RMCWallElevator }
     .desc = { ent-CMBaseWallInvincible.desc }
+ent-RMCWallElevatorNoConnect1 = { ent-RMCWallElevator }
+    .desc = { ent-CMBaseWallInvincible.desc }
+ent-RMCWallElevatorNoConnect2 = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorNoConnect3 = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorNoConnect4 = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorNoConnect5 = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorNoConnect6 = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorNoConnect7 = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorNoConnect8 = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorButtonArrivals = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorButtonDorm = elevator wall
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorButtonFreight = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorButtonResearch = elevator wall
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorArrivals = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorDorm = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorFreight = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorResearch = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorGear = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+ent-RMCWallElevatorGearAnimated = { ent-RMCWallElevator }
+    .desc = { ent-RMCWallElevatorNoConnect1.desc }
+    .suffix = animated
 ent-RMCWallContainment = cell wall
     .desc = A metal wall used to separate rooms and make up the ship
 ent-RMCWallContainmentCorner = { ent-RMCWallContainment }

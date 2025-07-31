@@ -3,22 +3,19 @@ ent-CMJumpsuitCMO = chief medical officer's jumpsuit
 
 ent-CMJumpsuitResearch = reseacher clothes
     .desc = A simple set of civilian clothes worn by researchers.
-
-ent-CMScrubsBlue = medical scrubs
-    .desc = They're made of a special fiber that provides minor protection against biohazards. These are in blue
-
-ent-CMScrubsGreen = { ent-CMScrubsBlue }
+ent-CMScrubsBlue = blue medical scrubs
+    .desc = They're made of a special fiber that provides minor protection against biohazards. These are in blue.
+ent-CMScrubsGreen = green medical scrubs
     .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in dark green.
-
-ent-CMScrubsPurple = { ent-CMScrubsBlue }
-
+ent-CMScrubsPurple = purple medical scrubs
     .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in purple.
-
 ent-CMScrubsOrange = orange medical scrubs
-    .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in dark orange.
-
+    .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in prisoner orange.
 ent-RMCScrubsLightBlue = light blue medical scrubs
     .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in light blue.
+ent-RMCScrubsLightBlueArmband = { ent-RMCScrubsLightBlue }
+    .desc = { ent-RMCScrubsLightBlue.desc }
+    .suffix = Armband
 ent-RMCScrubsOlive = olive medical scrubs
     .desc = It's made of a special fiber that provides minor protection against biohazards. This one is in olive green.
 ent-RMCScrubsGrey = grey medical scrubs

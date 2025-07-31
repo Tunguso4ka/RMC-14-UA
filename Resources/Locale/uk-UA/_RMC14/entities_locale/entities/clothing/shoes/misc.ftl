@@ -1,6 +1,5 @@
 ent-RMCShoesLaceup = laceup shoes
     .desc = The height of fashion, and they're pre-polished!
-
 ent-RMCShoesLaceupBrown = { ent-RMCShoesLaceup }
     .desc = { ent-RMCShoesLaceup.desc }
 ent-RMCShoesJackboots = jackboots
@@ -8,3 +7,14 @@ ent-RMCShoesJackboots = jackboots
 ent-RMCShoesJackbootsFilled = { ent-RMCItemSlotM5Bayonet }
     .desc = { ent-RMCItemSlotM5Bayonet.desc }
     .suffix = Заповнений
+ent-RMCShoesPrisoner = prisoner shoes
+    .desc = A pair of orange shoes worn by prisoners as directed by marine law.
+ent-RMCShoesGaloshes = galoshes
+    .desc = A pair of rubber boots.
+ent-RMCShoesWeYaStompers = Weston-Yamada stompers
+    .desc = A pair of sneakers designed to elicit a morale boosting response within anyone that witnesses them.
+ent-RMCShoesSandals = sandals
+    .desc = A pair of rather plain, wooden sandals.
+    .suffix = RMC
+ent-RMCShoesSnow = snow boots
+    .desc = When your feet are as cold as your heart

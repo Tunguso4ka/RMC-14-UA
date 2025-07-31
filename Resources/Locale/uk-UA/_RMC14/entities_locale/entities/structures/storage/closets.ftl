@@ -1,3 +1,6 @@
+ent-CMClosetBaseUnanchored = closet
+    .desc = It's a basic storage unit.
+    .suffix = Unanchored
 ent-CMClosetBase = шафа
     .desc = Звичайна шафа.
 
@@ -27,22 +30,20 @@ ent-CMClosetBomb = шафа саперного котстюму
 
 ent-CMClosetBio = шафа захисного костюму проти 3-го рівня біозагрози
     .desc = Шафа для захисного костюму проти 3-го рівня біозагрози.
-
 ent-CMClosetBioVirology = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
     .suffix = Вірусологія
-
 ent-CMClosetBioSecurity = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
     .suffix = Охорона
-
 ent-CMClosetBioJanitor = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
     .suffix = Прибиральник
-
 ent-CMClosetBioScientist = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
     .suffix = Навуковий
-
 ent-CMClosetAlien = дивна шафа
     .desc = Виглядає по-чужому.
+ent-RMCClosetGoldenArrowGear = personal locker
+    .desc = An immobile storage unit.
+    .suffix = PvE, Sun Riders

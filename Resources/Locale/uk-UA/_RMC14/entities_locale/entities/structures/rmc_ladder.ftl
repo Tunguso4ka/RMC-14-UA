@@ -1,2 +1,11 @@
 ent-RMCLadder = драбина
     .desc = Міцна металева драбина.
+ent-RMCLadderUp = { ent-RMCLadder }
+    .desc = { ent-RMCLadder.desc }
+    .suffix = Up
+ent-RMCLadderThrough = { ent-RMCLadder }
+    .desc = { ent-RMCLadder.desc }
+    .suffix = Through
+ent-RMCLadderHatch = { ent-RMCLadder }
+    .desc = { ent-RMCLadder.desc }
+    .suffix = Hatch

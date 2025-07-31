@@ -5,8 +5,7 @@ ent-RMCCrateBoxMagazineRifleM54CAP = Magazine box (M54C, 10x AP mags)
 ent-RMCCrateBoxMagazineRifleM54CExt = Magazine box (M54C, 8x extended mags)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateMagazineRifleM54CE2 = M54CE2 HAR Magazines crate (HAR ammo box x2)
-    .desc = { ent-CMCrateAmmo.desc }
-
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateMagazineRifleM54CE2HT = M54CE2 HAR Magazines crate (HAR HT ammo box x2)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineRifleM4SPR = Magazine box (M4SPR, 16x regular mags)
@@ -30,26 +29,34 @@ ent-RMCCrateBoxMagazinePistolM77AP = Magazine box (M77 AP, 16x mags)
 ent-RMCCrateBoxMagazinePistolMK80 = Magazine box (MK80, 16x mags)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBatterySmartGun = ML66A smart gun battery crate (4x)
-    .desc = { ent-CMCrateAmmo.desc }
-
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateMagazineSmartGun = ML66A smart gun drum crate (2x)
-    .desc = { ent-CMCrateAmmo.desc }
-
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateMagazineNapthalUT = M34 UT-Napthal fuel (4x)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineSmartPistol = Magazine box (SU-6, 16x mags)
-    .desc = { ent-CMCrateAmmo.desc }
-
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineM54CE2 = M54CE2 HAR Magazines crate (HAR ammo box x2)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineM44Revolver = Speedloader box (M44, 16x loaders)
-    .desc = { ent-CMCrateAmmo.desc }
-
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineRevolverM44Marksman = Speedloader box (Marksman M44, 16x loaders)
     .desc = { ent-RMCCrateAmmo.desc }
-ent-RMCCrateBoxMagazineSentry = UA 571-C sentry ammunition (x2)
+ent-RMCCrateBoxMagazineSentry = UN 571-C sentry ammunition (x2)
     .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineSentryShotgun = UN 12-G sentry shotgun ammunition (x2)
     .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineSentryFire = UN 42-FM sentry flamer ammunition (x2)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineSentryFireBlue = UN 55-FA sentry flamer ammunition (x2)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazineSentryFireSmoke = UN 60-FP sentry flamer ammunition (x2)
+    .desc = { ent-RMCCrateAmmo.desc }
 ent-RMCCrateBoxMagazineBreaching = XM51 Ammo (2x mags) (1x small breaching shell box)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazinePistolM13 = Magazine box (M13, 22x regular mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazinePistolM13Ext = Magazine box (M13, 14x extended mags)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxMagazinePistolM13Drum = Magazine box (M13, 12x drum mags)
     .desc = { ent-RMCCrateAmmo.desc }

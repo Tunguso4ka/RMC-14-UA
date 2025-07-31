@@ -13,18 +13,18 @@ ent-CMBootsBlackFilled = { ent-CMBootsBlack }
 
 ent-RMCScoutShoes = infiltrator boots
     .desc = A modified pair of combat boots, including several trimmed down areas and padded with cloth alongside some form of leather
+ent-RMCShoesCombat = combat boots
+    .desc = When you REALLY want to turn up the heat
 ent-CMBootsBrown = бурі чоботи
     .desc =  Стандартні бойові чоботи що використовуються КМП ООН під час бойових дій. Завжди готові до бою. Ці коричневого коліру.
 
 ent-CMBootsBrownFilled = { ent-CMBootsBrown }
     .desc = { ent-CMBootsBrown.desc }
     .suffix = Заповнені
-
 ent-CMBootsJungle = чоботи для джунглів
-    .desc = { ent-CMBootsBlack.desc }
-
+    .desc = Don't go walkin' slow, the devil's on the loose.
 ent-CMBootsJungleFilled = { ent-CMBootsJungle }
-    .desc = { ent-CMBootsBlack.desc }
+    .desc = { ent-CMBootsJungle.desc }
     .suffix = Заповнені
 
 ent-RMCBootsCorporate = rugged boots
@@ -32,32 +32,32 @@ ent-RMCBootsCorporate = rugged boots
 
 ent-RMCBootsSPP = military combat boots
     .desc = { ent-CMBootsBrown.desc }
-ent-RMCBootsSPPFilled = { ent-RMCItemSlotM5Bayonet }
-    .desc = { ent-RMCItemSlotM5Bayonet.desc }
+ent-RMCBootsSPPFilled = { ent-RMCBootsSPP }
+    .desc = { ent-RMCBootsSPP.desc }
+    .suffix = Filled
+ent-RMCBootsSPPBlack = military combat boots
+    .desc = { ent-CMBootsBlack.desc }
+ent-RMCBootsSPPBlackFilled = { ent-RMCBootsSPPBlack }
+    .desc = { ent-RMCBootsSPPBlack.desc }
     .suffix = Filled
 ent-RMCBootsPMC = polished shoes
     .desc = The height of fashion, but these look to be woven with protective fiber.
-
 ent-RMCBootsPMCFilled = { ent-RMCBootsPMC }
     .desc = { ent-RMCBootsPMC.desc }
     .suffix = Filled
-
 ent-RMCBootsPMCCommando = PMC commando boots
     .desc = A pair of heavily armored, acid-resistant boots.
 
 ent-RMCBootsPMCCommandoFilled = { ent-RMCBootsPMCCommando }
     .desc = { ent-RMCBootsPMCCommando.desc }
     .suffix = Filled
-
 ent-RMCBootsVanBandolier = hiking boots
     .desc = Over stone, over ice, through sun and sand, mud and snow, into raging water and hungry bog, these will never let you down.
-
 ent-RMCBootsCBRN = M3 MOPP boots
     .desc = M3 MOPP boots have been designed to protect the wearer from contact with any possible infection vectors or hazardous substances that may have contaminated the area of operations. This includes further enhancements in conjunction with the standard durability of M3 boots, reducing the probability of punctures or cuts as well as the effects of radiation.
-
 ent-RMCBootsRoyal = L10 pattern combat boots
-    .desc = Standard issue combat boots for combat scenarios or combat situations. Used by the threa sun empires royal marines commando units.
-
+    .desc = Standard issue combat boots for combat scenarios or combat situations. Used by the Three Sun Empire's Royal Crown Marines.
+    .suffix = TSE, RCM
 ent-RMCBootsRoyalFilled = { ent-RMCBootsRoyal }
     .desc = { ent-RMCBootsRoyal.desc }
     .suffix = Filled

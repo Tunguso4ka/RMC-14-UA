@@ -1,6 +1,9 @@
+ent-CMBaseWindoor = { ent-BaseStructure }
+    .desc = { ent-BaseStructure.desc }
 ent-CMWindoor = вікно-дверь
     .desc = Одного разу невідомо коли, на світі з'явився цій малий, схожий він був на вікно та дверь. Усі дивувались, усі посміхались!
-
+ent-RMCWindoorSoro = { ent-CMWindoor }
+    .desc = { ent-CMWindoor.desc }
+    .suffix = Blue
 ent-CMWindoorSecure = усилена вікно-дверь
     .desc = Больший кусок усиленого скла. Можливо він навіть сильніше за тебе.
-

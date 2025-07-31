@@ -15,29 +15,44 @@ ent-RMCAllowSuitStorageClothingLabcoat = { "" }
     .desc = { "" }
 ent-RMCAllowSuitStorageClothingChefApron = { "" }
     .desc = { "" }
-ent-CMCoatChiefMP = пальто голови воєнполу
+ent-CMCoatChiefMP = жакетка голови військполу
     .desc = Пальто морпіхів адаптоване під Голів Військової Поліції для використання на бортах кораблів КМП ООН. Але іронічно, що на більшості кораблів військова поліція забов'язана носити броню що робить це пальто доволі не популярним. Це доволі популярно серед тих хто хоче пахнути пончиками 24/7.
 
-ent-CMCoatWarden = пальто наглядача
+ent-CMCoatWarden = жакетка наглядача
     .desc = Пальто морпіхів адаптоване під наглядачів для використання на бортах кораблів КМП ООН. Але іронічно, що на більшості кораблів військова поліція забов'язана носити броню що робить це пальто доволі не популярним серед наглядачів. Найкраще пальто для тих хто всю ніч дивиться в монітори курячи цигарки.
 
-ent-CMCoatMP = пальто воєнполу
+ent-CMCoatMP = жакетка військполу
     .desc = Пальто морпіхів адаптоване під персонал Військової Поліції для використання на бортах кораблів КМП ООН. Але іронічно, що на більшості кораблів військова поліція забов'язана носити броню що робить це пальто доволі не популярним. Цей варіант також доступний для офіцерів, якщо тільки вони готові взяти на себе цей сором.
 
 ent-RMCQuartermasterJacket = quartermaster jacket
     .desc = A green jacket worn by UNMC personnel. The back has the flag of the United Nations on it.
 ent-CMCoatMessTech = куртка кока
     .desc = Пахне ваніллю. Показує престиж та силу.
-
 ent-CMCoatASO = пальто ОДС
     .desc = Стандартне пальто для офіцерів.
 
+ent-RMCCoatASOBlack = auxiliary support officer black jacket
+    .desc = A black jacket worn by officers that want to look stylish while looking at paperwork.
+ent-RMCCoatASOWhite = auxiliary support officer white jacket
+    .desc = A white jacket worn by officers that want to look stylish while looking at paperwork.
+ent-RMCCoatASOBlackAlt = auxiliary support officer black coat
+    .desc = A black coat perfect for sorting papers in colder weather.
+ent-RMCCoatASOWhiteAlt = auxiliary support officer white coat
+    .desc = A white coat perfect for sorting papers in colder weather.
 ent-CMCoatCO = пальто командуючого офіцера
     .desc = Стандартне пальто для командуючих офіцерів.
-
 ent-CMCoatCOBomber = бомбер командуючого офіцера
-    .desc = Стандартний бомбер для командуючих офіцерів.
-
+    .desc = A bomber jacket resembling those worn by airmen of old. A classic, stylish choice for those in the higher ranks.
+ent-RMCCoatBomber = brown bomber jacket
+    .desc = A well-worn leather bomber jacket.
+ent-RMCCoatBomberRed = red bomber jacket
+    .desc = A well-worn leather bomber jacket.
+ent-RMCCoatBomberGrey = grey bomber jacket
+    .desc = { ent-RMCCoatBomberRed.desc }
+ent-RMCCoatBomberKhaki = khaki bomber jacket
+    .desc = { ent-RMCCoatBomberRed.desc }
+ent-RMCCoatBomberBlack = black bomber jacket
+    .desc = { ent-RMCCoatBomberRed.desc }
 ent-CMCoatCOFormalBlack = офіційне пальто командуючого офіцера
     .desc = Офіційне пальто для командуючих офіцерів.
 
@@ -51,6 +66,9 @@ ent-CMCoatOfficer = офіцерське пальто
 
 ent-RMCCoatService = marine service jacket
     .desc = A service jacket typically worn by officers of the UNMC.
+ent-RMCCoatServiceFolded = marine service jacket
+    .desc = A service jacket typically worn by officers of the UNMC.
+    .suffix = Unbuttoned
 ent-RMCProvostCoat = Provost Coat
     .desc = The crisp coat of a Provost Officer.
 ent-RMCProvostCoatMarshal = Provost Marshal Coat
@@ -68,3 +86,29 @@ ent-RMCProvostCommandJacketFilled = { ent-RMCProvostCommandJacket }
 ent-RMCProvostCoatMarshalFilled = { ent-RMCProvostCoatMarshal }
     .desc = { ent-RMCProvostCoatMarshal.desc }
     .suffix = Filled
+ent-CMUtilityVestSynth = synthetic utility vest
+    .desc = A leather utility vest worn by synthetic UNMC personnel. The vest is rather lightweight but has a few pockets for carrying small items. It is not very protective, but it is a good choice for the Synthetics who want to look stylish while working.
+ent-CMUtilityVest = utility vest
+    .desc = A leather utility vest, often used to hold tools.
+ent-RMCJacketWindbreaker = green windbreaker
+    .desc = A green windbreaker.
+ent-RMCJacketWindbreakerFirstResponder = first responder windbreaker
+    .desc = A brown windbreaker with reflective strips commonly worn by first responders.
+ent-RMCClothingPriestRobes = priest robes
+    .desc = A long dress with a purple scarf, often worn by religious folk.
+ent-RMCCoatHoboBlue = dark blue worn parka
+    .desc = An old worn blue Parka, has seen better days...
+ent-RMCCoatHoboGreen = dark green worn parka
+    .desc = An old worn green Parka, has seen better days...
+ent-RMCCoatHoboBrown = dark brown worn polyester jacket
+    .desc = An old worn brown polyester jacket, has seen better days...
+ent-RMCCoatHoboDarkBlue = dark blue worn polyester jacket
+    .desc = An old worn blue polyester jacket, has seen better days...
+ent-RMCCoatHoboRed = dark red worn polyester jacket
+    .desc = An old worn blue polyester jacket, has seen better days...
+ent-RMCCoatWaistcoat = waistcoat
+    .desc = For some classy, murderous fun.
+ent-RMCCoatSanitation = sanitation utility uniform
+    .desc = A Sanitation utility uniform, used by the clean-up crews of the more prosperous colonies.
+ent-RMCCoatSnow = snow suit
+    .desc = A standard snow suit. It can protect the wearer from extreme cold.

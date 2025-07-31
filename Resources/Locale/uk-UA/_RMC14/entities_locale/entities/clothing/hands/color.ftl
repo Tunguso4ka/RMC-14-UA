@@ -1,13 +1,18 @@
+ent-RMCHandsBlack = чорні рукавички
+    .desc = Проста пара чорних рукавичок.
+ent-RMCHandsCombat = combat gloves
+    .desc = These tactical gloves are somewhat fire and impact resistant.
 ent-CMHandsInsulated = ізольовані рукавички
     .desc = Ці рукавички захистять власцника від удару струмом.
-
 ent-CMHandsBrown = коричневі рукавички
     .desc = Пара коричневих рукавичок.
-
 ent-CMHandsLightBrown = світло коричневі рукавички
     .desc = Пара світло коричневих рукавичок.
-
 ent-CMHandsWhite = білі рукавички
     .desc = Пара білих рукавичок.
 ent-CMHandsWhiteDress = dress gloves
     .desc = A pair of fashionable white gloves, worn by marines in dress.
+ent-RMCHandsPurple = purple gloves
+    .desc = A pair of gloves, they don't look special in any way.
+ent-CMHandsBlackInsulated = black insulated gloves
+    .desc = These gloves will protect the wearer from electric shocks. Now in black.

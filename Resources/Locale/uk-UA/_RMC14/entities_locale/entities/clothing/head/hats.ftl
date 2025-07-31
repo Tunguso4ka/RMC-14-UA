@@ -1,24 +1,21 @@
 ent-CMHeadBeret = берет
     .desc = Не захищає голову від шаленої кулі.
-
 ent-RMCHeadBeret = { ent-CMHeadBeret }
     .desc = { ent-CMHeadBeret.desc }
-ent-CMHeadBeretRed = берет воєнполу
+    .suffix = Camo
+ent-CMHeadBeretRed = берет військполу
     .desc = { ent-CMHeadBeret.desc }
 
 ent-CMHeadBeretTan = берет кольору засмаги
     .desc = { ent-CMHeadBeret.desc }
-
 ent-CMHeadBeretEngineer = engineering beret
     .desc = A beret with the engineering insignia emblazoned on it. For engineers that are more inclined towards style than safety.
 ent-CMHeadBeretCMP = UNMC Chief MP beret
     .desc = A beret with the UNMC Military Police insignia emblazoned on it. It shines with the glow of corrupt authority and a smudge of doughnut.
 ent-CMHeadBeretCO = берет командуючого
     .desc = { ent-CMHeadBeret.desc }
-
 ent-CMHeadBeretCOBlack = чорний берет командуючого
     .desc = { ent-CMHeadBeret.desc }
-
 ent-CMHeadBeretCOWhite = CO's beret
     .desc = A white beret with the Major insignia emblazoned on it. Its dazzling white color commands power and exudes class.
 ent-CMHeadBeretCOLtCol = CO's lieutenant colonel beret
@@ -29,6 +26,8 @@ ent-RMCHeadBeretGreen = берет МК ОН
     .desc = { ent-CMHeadBeret.desc }
     .suffix = Green
 
+ent-RMCHeadBeretASO = ASO beret
+    .desc = A black beret worn by Auxiliary Support Officers.
 ent-CMHeadCapMP = кепка воєнполу
     .desc = Кепка бейсболка для більш повсякденних з сил військової поліції МК ОН.
 
@@ -57,25 +56,32 @@ ent-CMHeadCapDrill = кашкет старшого радника
 
 ent-CMHeadCapOfficer = UNMC officer cap
     .desc = A hat usually worn by officers in the UNMC. While it provides no protection, some officers wear it in the field to make themselves more recognisable.
+ent-RMCHeadCapASO = UNMC ASO cap
+    .desc = A hat usually worn by ASOs in the UNMC. Provides no protection, but makes you look better when sorting papers.
 ent-CMHeadCapPeakedFormal = marine peaked cap
     .desc = A peaked cap. Wearer may suffer the heavy weight of responsibility upon their head and shoulders.
 ent-CMHeadCapPeakedService = marine service peaked cap
     .desc = A peaked cap. Wearer may suffer the heavy weight of responsibility upon their head and shoulders.
+ent-RMCHeadCapPeakedASO = ASO peaked cap
+    .desc = A peaked cap. Wearer may suffer the heavy weight of responsibility upon their head and shoulders.
+ent-RMCHeadCapPeakedCMP = chief mp peaked cap
+    .desc = A peaked cap given to experienced CMP. Wearer may suffer the heavy weight of responsibility upon their head and shoulders.
 ent-CMHeadCapCMO = кашкет головного лікаря
     .desc = { ent-CMHeadCap.desc }
-
+ent-CMHeadFlapCap = UNMC expedition cap
+    .desc = It's a cap, with flaps. A patch stitched across the front reads "UNS ALMAYER".
+ent-RMCHeadBlueSoftCap = blue cap
+    .desc = It's a baseball hat in a tasteless blue color.
+ent-RMCHeadYellowSoftCap = yellow cap
+    .desc = It's a baseball hat in a tasteless yellow color.
 ent-CMHeadCapSurgBlue = синя шапка хірурга
     .desc = Стандартна шапка хірургів.
-
 ent-CMHeadCapSurgGreen = зелена шапка хірурга
     .desc = { ent-CMHeadCapSurgBlue.desc }
-
 ent-CMHeadCapSurgPurple = фіолетова шапка хірурга
     .desc = { ent-CMHeadCapSurgBlue.desc }
-
 ent-CMHeadCapSurgOrange = оранжева шапка хірурга
     .desc = { ent-CMHeadCapSurgBlue.desc }
-
 ent-CMHeadDressBlues = marine dress blues cover
     .desc = The combination cover of the legendary Marine dress blues, virtually unchanged since the 19th century. The polished logo sits proudly on the white cloth.
 ent-CMHeadDressBluesOfficer = marine dress blues officer cover
@@ -106,3 +112,39 @@ ent-RMCHeadBeretSquadIntel = { ent-RMCHeadBeretSquadAlpha }
     .suffix = Intel
 ent-RMCProvostCommandBeret = UNMC provost command beret
     .desc = A beret with the UNMC Military Police insignia emblazoned on it.
+ent-RMCHeadBeanie = beanie
+    .desc = A standard military beanie, often worn by non-combat military personnel and support crews, though it is not uncommon to see combat personnel who no longer care about self-preservation wearing one of these as well. Popular due to being comfortable and snug.
+    .suffix = Black, RMC
+ent-RMCHeadBeanieTan = { ent-RMCHeadBeanie }
+    .desc = { ent-RMCHeadBeanie.desc }
+    .suffix = Tan, RMC
+ent-RMCHeadBeanieGray = { ent-RMCHeadBeanie }
+    .desc = { ent-RMCHeadBeanie.desc }
+    .suffix = Gray, RMC
+ent-RMCHeadBeanieTSE = royal marine beanie
+    .desc = A standard military beanie.
+    .suffix = TSE
+ent-RMCHeadRadiationHood = radiation hood
+    .desc = A hood with radiation protective properties. Label: Made with lead, do not eat insulation
+ent-RMCHeadWeYaPilotCap = Weston-Yamada Pilot cap
+    .desc = A dark peaked cap enscribed with the Weston-Yamada 'Wings' logo. A formal cap for qualified civillian Pilots, akin to old Earth formal Pilots-wear.
+ent-RMCHeadDurag = durag
+    .desc = An improvised head wrap made out of a standard issue neckerchief. Great for keeping the sweat out of your eyes and protecting your hair.
+ent-RMCHeadDuragBlack = { ent-RMCHeadDurag }
+    .desc = An improvised head wrap made out of a black neckerchief. Great for keeping the sweat out of your eyes and protecting your hair.
+ent-RMCHeadCapGrey = grey cap
+    .desc = It's a baseball hat in a tasteful grey color.
+ent-RMCHeadCapFerret = ferret heavy industries trucker hat
+    .desc = It's a trucker hat. They're becoming collector items since Ferret went under in 2080.
+ent-RMCHeadCapTruckerRed = red trucker hat
+    .desc = It's a red trucker hat.
+ent-RMCHeadCapTruckerBlue = blue trucker hat
+    .desc = It's a blue trucker hat.
+ent-RMCHeadCapWeyamart = orange cap
+    .desc = It's a baseball style cap in the 'Weyamart' orange color, with the 'Weyamart' logo on the front.
+ent-RMCHeadCapPatrol = patrol cap
+    .desc = A casual cap issued as part of the non-combat uniform. While it only protects from the sun, it's much more comfortable than a helmet.
+ent-RMCHeadCapPizzaGalaxy = Pizza-Galaxy red cap
+    .desc = It's a baseball style cap in a red color, with the 'Pizza-Galaxy' logo on the front.
+ent-RMCHeadCapCargo = cargo cap
+    .desc = It's a baseball hat in a tasteless yellow color.

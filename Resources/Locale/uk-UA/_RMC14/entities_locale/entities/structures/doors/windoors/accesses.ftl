@@ -1,8 +1,7 @@
 ent-CMWindoorKitchen = двері кухні
     .desc = { ent-CMWindoor.desc }
     .suffix = Кухня, Зачинені
-
-ent-CMWindoorSecureBrig = двері воєнполу
+ent-CMWindoorSecureBrig = двері військполу
     .desc = { ent-CMWindoorSecure.desc }
     .suffix = Бріг, Зачинені
 
@@ -21,3 +20,6 @@ ent-CMWindoorSecureEngineering = двері інженерів
 ent-CMWindoorSecureCommand = { ent-CMWindoorSecure }
     .desc = { ent-CMWindoorSecure.desc }
     .suffix = Command, Locked
+ent-RMCWindoorSecureTSEPABrig = { ent-CMWindoorSecure }
+    .desc = { ent-CMWindoorSecure.desc }
+    .suffix = TSEPA, Brig, Locked

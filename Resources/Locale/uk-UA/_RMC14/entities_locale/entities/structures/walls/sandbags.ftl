@@ -3,22 +3,20 @@ ent-CMBarricadeSandbag = мішки з піском
 
 ent-CMSandbagEmpty = мішки з-під піску
     .desc = Кілька порожніх мішків з-під піску, краще наповнити їх, якщо ви хочете ними скористатися.
-
 ent-CMSandbagEmpty50 = { ent-CMSandbagEmpty }
     .desc = { ent-CMSandbagEmpty.desc }
     .suffix = 50
-
 ent-CMSandbagEmpty25 = { ent-CMSandbagEmpty }
     .desc = { ent-CMSandbagEmpty.desc }
     .suffix = 25
-
 ent-CMSandbagFull = заповнені мішки з піском
     .desc = Декілька мішків наповнені піском. Поки що просто громіздкі, можна використати для побудови укріплень.
-
 ent-CMSandbagFull50 = { ent-CMSandbagFull }
     .desc = { ent-CMSandbagFull.desc }
     .suffix = 50
-
 ent-CMSandbagFull25 = { ent-CMSandbagFull }
     .desc = { ent-CMSandbagFull.desc }
     .suffix = 25
+ent-RMCBarricadeSandbagSoro = { ent-CMBarricadeSandbag }
+    .desc = { ent-CMBarricadeSandbag.desc }
+    .suffix = Brown

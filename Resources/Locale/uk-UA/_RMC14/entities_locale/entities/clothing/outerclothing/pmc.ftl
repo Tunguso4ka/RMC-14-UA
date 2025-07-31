@@ -18,3 +18,7 @@ ent-CMArmorM4PMCSmartGunHarnessCommando = M5Xg exoskeleton gun operator armor
     .desc = A complex system of overlapping plates intended to render the wearer all but impervious to small arms fire. A passive exoskeleton supports the weight of the armor, allowing a human to carry its massive bulk. This variant is designed to support ML66A Smart Gun.
 ent-CMArmorM4PMCCommando = M5X exoskeleton armor
     .desc = A complex system of overlapping plates intended to render the wearer all but impervious to small arms fire. A passive exoskeleton supports the weight of the armor, allowing a human to carry its massive bulk.
+ent-RMCArmorM4PMCEngineer = M4 pattern engineer PMC armor
+    .desc = A modification of the standard M3 armor. Designed for high elemental protection, like shock, fire and fragments, lacks in terms of kevlar for bullet protection.
+ent-RMCArmorPMCDirector = director's jacket
+    .desc = A jacket that belongs to someone very important. It is made of insulating material and offers minor protection from all forms of damage.

@@ -1,6 +1,8 @@
 ent-CMAirlock = { ent-CMBaseDoor }
     .desc = { ent-CMBaseDoor.desc }
-
+ent-CMAirlockShuttle = { ent-CMAirlock }
+    .desc = { ent-CMAirlock.desc }
+    .suffix = Shuttle
 ent-CMAirlockCommand = двері командування
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Командування
@@ -8,24 +10,19 @@ ent-CMAirlockCommand = двері командування
 ent-CMAirlockEngineer = двері інженерів
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Інженерія
-
 ent-CMAirlockMedical = двері медиків
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Медічний
-
-ent-CMAirlockSecurity = двері воєнполу
+ent-CMAirlockSecurity = двері військполу
     .desc = { ent-CMBaseDoor.desc }
     .suffix = Безпека
-
 ent-CMAirlockMaint = тех. тунелі
     .desc = { ent-CMBaseDoor.desc }
-
 ent-CMAirlockMaintReinforced = reinforced maintenance hatch
     .desc = { ent-CMAirlockMaint.desc }
     .suffix = Reinforced
-ent-CMAirlockSecure = усилені двері
+ent-CMAirlockSecure = посилені двері
     .desc = { ent-CMBaseDoor.desc }
-
 ent-CMAirlockCell = камера
     .desc = { ent-CMAirlock.desc }
 

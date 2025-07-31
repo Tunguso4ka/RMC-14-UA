@@ -8,3 +8,5 @@ ent-RMCWelderAdmin = admin blowtorch
     .suffix = Admin, DO NOT MAP
 ent-CMWelderSmall = ручний зварник ME3
     .desc = Компактний та ручний зварювальний факел, що використовується морпіхами Корпусу Морської Піхоти ООН для операцій на полі бою. Із-за маленького розміру ефективність обмежена порівняно зі звичайним зварником.
+ent-RMCWelderIndustrial = industrial blowtorch
+    .desc = { ent-RMCWelderBase.desc }

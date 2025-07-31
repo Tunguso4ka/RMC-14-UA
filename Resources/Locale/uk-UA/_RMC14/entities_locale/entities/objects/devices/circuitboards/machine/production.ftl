@@ -19,3 +19,5 @@ ent-CMCircuitboardChemMaster = плата хіммастера
 ent-CMCircuitboardMicrowave = плата микрохвильовці
     .desc = Надрукована плата для микрохвильовки.
 
+ent-RMCArmylatheMachineCircuitboard = armylathe machine board
+    .desc = A machine printed circuit board for an armylathe

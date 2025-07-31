@@ -1,0 +1,17 @@
+ent-RMCCalendarBase = настінний календар
+    .desc = Classic office decoration and a place to stare at maniacally.
+ent-RMCCalendarColonist = { ent-RMCCalendarBase }
+    .desc = { ent-RMCCalendarBase.desc }
+    .suffix = Colony
+ent-RMCCalendarWeYa = { ent-RMCCalendarBase }
+    .desc = { ent-RMCCalendarBase.desc }
+    .suffix = WeYa
+ent-RMCCalendarUNMC = { ent-RMCCalendarBase }
+    .desc = { ent-RMCCalendarBase.desc }
+    .suffix = UNMC
+ent-RMCCalendarTWE = { ent-RMCCalendarBase }
+    .desc = { ent-RMCCalendarBase.desc }
+    .suffix = TWE
+ent-RMCCalendarSPP = { ent-RMCCalendarBase }
+    .desc = { ent-RMCCalendarBase.desc }
+    .suffix = SPP

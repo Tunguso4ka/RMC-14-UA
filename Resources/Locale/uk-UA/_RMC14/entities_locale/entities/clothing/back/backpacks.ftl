@@ -10,7 +10,7 @@ ent-CMBackpackEngineer = індустріальний рюкзак
 ent-CMBackpackMedical = медичний рюкзак
     .desc = Спеціально зроблений рюкзак для використання у стерильному середовищі.
 
-ent-CMBackpackSecurity = рюкзак воєнполу
+ent-CMBackpackSecurity = рюкзак військполу
     .desc = Дуже міцний рюкзак.
 
 ent-CMBackpackCommand = рюкзак офіцерського складу
@@ -32,3 +32,5 @@ ent-CMBackpackWelder = паливний рюкзак техників КМП О�
     .desc = Спеціалізований рюкзак бойових техників КМП ООН з додатковим баком палива для швидкої підзаправки зварників.
 ent-RMCBackpackAmmo = IMP ammo rack
     .desc = A bare IMP frame with buckles designed to hold multiple ammo cans, but can fit any cumbersome box thanks to Marine ingenuity. Helps you lug around extra rounds or supplies.
+ent-RMCBackpackWelderPMC = pmc technician welderpack
+    .desc = Ergonomic, protected, high capacity backpack, designed for Weston-Yamada PMCs. Features a small fueltank for quick blowtorch refueling.

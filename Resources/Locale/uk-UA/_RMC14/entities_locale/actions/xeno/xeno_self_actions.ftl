@@ -1,56 +1,79 @@
 ent-ActionXenoRest = Відпочити
-    .desc = { ent-ActionXenoBase.desc }
-
-ent-CMGuidebookActionXenoRest = Відпочити
-    .desc = Лягти щоб регенерувати здоров'я та плазму. Працює тільки на траві вулика.
-
+    .desc = Lie down to regenerate health more quickly while on weeds.
+ent-RMCGuidebookActionXenoRest = Відпочити
+    .desc = Lie down to regenerate health more quickly while on weeds.
 ent-ActionXenoWatch = Дивитися
     .desc = { ent-ActionXenoBase.desc }
 
-ent-ActionXenoPheromones = Випустити феромони
-    .desc = { ent-ActionXenoBase.desc }
-
+ent-RMCGuidebookActionXenoWatch = Watch Xenonid
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
+ent-ActionXenoPheromones = Випустити феромони (35)
+    .desc = Gives a buff to nearby xenonids. [color=cyan]Consumes 2.5 plasma per second.[/color]
+ent-RMCGuidebookActionXenoPheromones = Emit Pheromones
+    .desc = Gives a buff to nearby xenonids.
 ent-ActionXenoHide = Сховатися
-    .desc = { ent-ActionXenoBase.desc }
-
+    .desc = Hide under tables and other objects.
+ent-RMCGuidebookActionXenoHide = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoToggleCrest = Перемкнути захист
-    .desc = { ent-ActionXenoBase.desc }
-
+    .desc = Increases your resistance to direct damage but slows you down. You count as one size bigger while you're crest is lowered.
+ent-RMCGuidebookActionXenoToggleCrestDefence = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoFortify = Fortify
-    .desc = { ent-ActionXenoBase.desc }
-
+    .desc = Become immobile and impassable to mobs, dramatically increasing your resistance to direct damage and explosions. Damage is further reduced from the direction you are facing. You can't be stunned by minor explosions. You count as two sizes bigger while fortified and still can attack structures or use tail slam.
+ent-RMCGuidebookActionXenoFortify = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoFortifySteelcrest = Fortify
-    .desc = Become much slower, increasing your resistance to direct damage and explosions. Damage is greatly reduced from the direction you are facing. You count as two sizes bigger while fortified and still can attack strcutures or use tail slam, but your slashes do less damage.
-ent-ActionXenoResinWalker = Resin Walker
-    .desc = { ent-ActionXenoBase.desc }
-
+    .desc = Become much slower, increasing your resistance to direct damage and explosions. Damage is greatly reduced from the direction you are facing. You count as two sizes bigger while fortified and still can attack structures or use tail slam, but your slashes do less damage.
+ent-ActionXenoResinWalker = Resin Walker (50)
+    .desc = Run faster on weeds. [color=cyan]Consumes 30 plasma per second.[/color]
+ent-RMCGuidebookActionXenoResinWalker = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoZoom = Перемнути радіус бачення
     .desc = { ent-ActionXenoBase.desc }
-
-ent-ActionXenoWordQueen = Слово королеви
-    .desc = { ent-ActionXenoBase.desc }
-
-ent-ActionXenoGrowOvipositor = Grow Ovipositor
-    .desc = { ent-ActionXenoBase.desc }
-
+ent-RMCGuidebookActionXenoToggleLongRangeSight = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
+ent-ActionXenoWordQueen = Слово королеви (50)
+    .desc = Sends a message to all members of your hive.
+ent-ActionXenoGrowOvipositor = Grow Ovipositor (700)
+    .desc = Become immobile and start laying eggs which will produce parasites. Has a 5 minute cooldown. [color=red]You must be in ovipositor mode for other xenonids to gain evolution points after round-start![/color]
+ent-RMCGuidebookActionXenoGrowOvipositor = Grow Ovipositor
+    .desc = Become immobile and start laying eggs which will produce parasites.
 ent-ActionXenoTurnInvisible = Стати невідимим (20)
-    .desc = Стати практично невідимим на короткий проміжок часу.
-
+    .desc = Become partially invisible for 30 seconds, or until you either damage or attempt to devour an enemy. Can be toggled off to become visible again, with a refund of 90% remaining cloak time. Increases your movement speed by 15% until the ability expires.
+ent-RMCGuidebookActionXenoTurnInvisible = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoDefensiveShield = Defensive Shield (50)
-    .desc = Gain a temporary shield that blocks the next 200 damage (And is immune to explosive damage) lasting 7 seconds. Any damage that impacts the shield is reduced by 10 before processing.
+    .desc = Gain a temporary shield that blocks the next 200 damage (and is immune to explosive damage) that lasts 7 seconds. Any damage that impacts the shield is reduced by 10 before processing. [color=green]Cooldown is partially refunded upon attacking an enemy.[/color]
+ent-RMCGuidebookActionXenoDefensiveShield = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoRetrieveEgg = Retrieve Egg
-    .desc = Retrieves an egg from your storage if you have an empty hand. Using this on an unplanted egg will pick up all nearby unplanted eggs.
+    .desc = Retrieves an egg from your storage if you have an empty hand. Using this on an unplanted egg will pick up all nearby unplanted eggs. Using an egg in hand will put it into your storage.
+ent-RMCGuidebookActionXenoRetrieveEgg = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoThrowParasite = Throw Parasite
-    .desc = Retrieves a parasite from your storage if you have an empty hand. Using this on a parasite on the ground will pickup all nearby parasites. Targeting a tile with a parasite in hand will throw it up to 4 tiles away, where the parasite will be stunned for 5 seconds. [color=green]Parasites won't die due to time while you hold or carry them.[/color]
+    .desc = Retrieves a parasite from your storage if you have an empty hand. Using this on a parasite on the ground will pickup all nearby parasites. Targeting a tile with a parasite in hand will throw it up to 4 tiles away, where the parasite will be stunned for 5 seconds. Using a parasite in hand will add it to your storage. [color=green]Parasites won't die due to time while you hold or carry them.[/color]
+ent-RMCGuidebookActionXenoThrowParasite = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoParasiteReserve = Set Parasite Reserve
     .desc = Sets your parasite Reserves. Observers cannot join as a stored parasite if your parasites stored is less than or equal to your reserve.
+ent-RMCGuidebookActionXenoSetParasiteReserve = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoManageHive = Manage The Hive
     .desc = { ent-ActionXenoBase.desc }
 ent-ActionXenoDodge = Dodge (200)
-    .desc = Gain a speed boost for 7 seconds. Your speed is doubled near standing enemies.
+    .desc = Gain a speed boost for 7 seconds and move through allies and enemies unimpeded. Your speed is doubled near standing enemies.
 ent-ActionXenoBurrow = Burrow
     .desc = Burrow underground preventing you from getting hit from all sources. Once burrowed click a tile to move to it and resurface after a doafter that depends on distance.
+ent-RMCGuidebookActionXenoBurrow = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
 ent-ActionXenoSoak = Soak (20)
     .desc = Soak in damage for 6 seconds. If you take 140 damage or higher, you regen 75 health and your tail slam gets refreshed.
 ent-ActionXenoEmpower = Empower (50)
     .desc = On first activation it, gain a small amount of shield. After 6 seconds or using it again, get empowered based on surrounding enemies (max 6), gaining shield from each. If you empowered from at least 3 targets, you become Super-Empowered, gaing additional damage on melee attacks, and changing how some of your other abilities work.
+ent-RMCGuidebookActionXenoEmpower = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }
+ent-ActionXenoGenerateEggs = Generate Eggs (50)
+    .desc = Generate an egg every 30 seconds, which goes into your storage. [color=cyan]Consumes 15 plasma every 2 seconds.[/color]
+ent-RMCGuidebookActionXenoGenerateEggs = { ent-CMGuidebookActionXenoBase }
+    .desc = { ent-CMGuidebookActionXenoBase.desc }

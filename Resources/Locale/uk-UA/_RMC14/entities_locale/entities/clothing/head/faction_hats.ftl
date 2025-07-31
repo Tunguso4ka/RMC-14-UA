@@ -1,6 +1,5 @@
 ent-RMCHeadCapBureau = bureau cap
     .desc = A dark cap enscribed with the powerful letters of 'MARSHAL' representing justice, authority, and protection in the outer rim. The laws of the Earth stretch beyond the Sol.
-
 ent-RMCHeadBeretProvost = UNMC provost beret
     .desc = A beret with the UNMC Military Police insignia emblazoned on it.
 ent-RMCHeadBeretProvostSenior = UNMC senior provost beret
@@ -21,6 +20,8 @@ ent-RMCHeadMilitiaBucket = militia bucket
     .desc = { ent-RMCHeadMilitiaHood.desc }
 ent-RMCHeadCapGeneral = armored general's cap
     .desc = A sturdy general officer's cap. More protective than it seems. Please don't ditch this for a helmet like a punk.
+ent-RMCHeadBeretGeneral = armored general's beret
+    .desc = A sturdy general officer's beret. More protective and stylish than it seems. Please don't ditch this for a helmet like a punk.
 ent-RMCHeadCapQuartermaster = UNMC quartermaster cap
     .desc = It's a fancy hat for a not-so-fancy military supply clerk.
 ent-RMCHeadBeretQuartermaster = UNMC quartermaster beret

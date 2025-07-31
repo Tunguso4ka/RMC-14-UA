@@ -1,4 +1,4 @@
-ent-RMCCommunicationsTower = TC-3T static telecommunications tower
+ent-RMCCommunicationsTower = TC-3T телекомукаційна башта
     .desc = A static heavy-duty TC-3T telecommunications tower. Used to set up subspace communications lines between planetary and extra-planetary locations. Will need to have extra communication frequencies programmed into it by multitool.
 ent-RMCCommunicationsTowerOn = { ent-RMCCommunicationsTower }
     .desc = { ent-RMCCommunicationsTower.desc }
@@ -11,3 +11,5 @@ ent-RMCSpawnerCommunicationsTowerOne = { ent-RMCSpawnerCommunicationsTowerBase }
 ent-RMCSpawnerCommunicationsTowerTwo = { ent-RMCSpawnerCommunicationsTowerBase }
     .desc = { ent-RMCSpawnerCommunicationsTowerBase.desc }
     .suffix = Two
+ent-RMCCommunicationsTowerProp = destroyed comms tower
+    .desc = An old company comms tower used to transmit communications between subspace bodies. Looks like this one has seen better days.

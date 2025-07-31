@@ -1,18 +1,20 @@
-ent-CMHyperSleepChamber = камер гіперсну
+ent-CMHyperSleepChamber = камерa гіперсну
     .desc = Велика автоматизована капсула з екраном, зроблена щоб тримати людину в стані гіперсну.
-
 ent-CMHyperSleepChamberAlpha = { ent-CMHyperSleepChamber }
     .desc = { ent-CMHyperSleepChamber.desc }
     .suffix = Alpha
-
 ent-CMHyperSleepChamberBravo = { ent-CMHyperSleepChamber }
     .desc = { ent-CMHyperSleepChamber.desc }
     .suffix = Bravo
-
 ent-CMHyperSleepChamberCharlie = { ent-CMHyperSleepChamber }
     .desc = { ent-CMHyperSleepChamber.desc }
     .suffix = Charlie
-
 ent-CMHyperSleepChamberDelta = { ent-CMHyperSleepChamber }
     .desc = { ent-CMHyperSleepChamber.desc }
     .suffix = Delta
+ent-RMCHyperSleepChamberPVE = { ent-CMHyperSleepChamber }
+    .desc = { ent-CMHyperSleepChamber.desc }
+    .suffix = PVE
+ent-RMCHyperSleepChamberPVEAltRot = { ent-RMCHyperSleepChamberPVE }
+    .desc = { ent-RMCHyperSleepChamberPVE.desc }
+    .suffix = PVE, North/South

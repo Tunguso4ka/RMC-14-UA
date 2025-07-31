@@ -1,6 +1,8 @@
 ent-CMTable = стіл
     .desc = Стальна поверхня на чотирьох ніжках. Зручна, якщо потрібно щось покласти.
 
+ent-RMCLargeTable = { ent-CMTable }
+    .desc = { ent-CMTable.desc }
 ent-CMTableReinforced = усилений стіл
     .desc = Стальна поверхня на чотирьох ніжках. Ця має додаткову полку.
 
@@ -26,9 +28,14 @@ ent-CMTableAlmayer = { ent-CMTable }
     .desc = A square metal surface resting on four legs. Useful to put stuff on. Can be flipped in emergencies to act as cover.
     .suffix = Алмаєр
 
-ent-RMCTablePrison = стіл
+ent-RMCTablePrison = { ent-CMTable }
     .desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
     .suffix = Prison
-ent-RMCTableHunter = стіл
+ent-RMCTablePrisonSoro = { ent-RMCTablePrison }
+    .desc = { ent-RMCTablePrison.desc }
+    .suffix = Prison, Blue
+ent-RMCTableHunter = { ent-CMTable }
     .desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
     .suffix = Hunter
+ent-RMCLargeTableBar = bar table
+    .desc = A wooden table that has seen better days. There's the stickly sensation of spilled drinks within the cracks of the wood.

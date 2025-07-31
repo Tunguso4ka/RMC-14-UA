@@ -1,56 +1,75 @@
+ent-RMCJumpsuitMarinePatchBase = { "" }
+    .desc = { "" }
 ent-JumpsuitMarine = однострій морпіха
     .desc = Стандартний однострій морпіха. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
-
+ent-RMCJumpsuitMarinePatch = { ent-JumpsuitMarine }
+    .desc = { ent-JumpsuitMarine.desc }
+    .suffix = Patch
+ent-RMCJumpsuitMarineRoyal = { ent-JumpsuitMarine }
+    .desc = { ent-JumpsuitMarine.desc }
+    .suffix = Filled, Royal
 ent-CMJumpsuitMarineFormal = формальний одяг морпіха
     .desc = { ent-JumpsuitMarine.desc }
 
 ent-CMJumpsuitMarineEngineer = однострій бойового техника
     .desc = Стандартний однострій бойового техника. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
-
+ent-RMCJumpsuitMarineEngineerPatch = { ent-CMJumpsuitMarineEngineer }
+    .desc = { ent-CMJumpsuitMarineEngineer.desc }
+    .suffix = Patch
 ent-CMJumpsuitMarineMedic = однострій бойового медика
     .desc = Стандартний однострій бойового медика. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
-
+ent-RMCJumpsuitMarineMedicPatch = { ent-CMJumpsuitMarineMedic }
+    .desc = { ent-CMJumpsuitMarineMedic.desc }
+    .suffix = Patch
 ent-CMJumpsuitMarineRTO = однострій радиста
     .desc = Стандартний однострій радиста. Має вкраплення легкого кевлару для захисту власника від ножів та куль.
-
+ent-RMCJumpsuitMarineRTOPatch = { ent-CMJumpsuitMarineRTO }
+    .desc = { ent-CMJumpsuitMarineRTO.desc }
+    .suffix = Patch
 ent-CMJumpsuitMarineSniper = однострій снайпера
     .desc = { ent-JumpsuitMarine.desc }
 
 ent-CMJumpsuitMarineTanker = однострій танкиста
     .desc = { ent-JumpsuitMarine.desc }
 
+ent-RMCJumpsuitSunRiders = { ent-JumpsuitMarine }
+    .desc = { ent-JumpsuitMarine.desc }
 ent-CMJumpsuitQM = одяг квартирмейстера
-    .desc = Стандартний одяг квартирмейстера.
-
+    .desc = A nicely-fitting military suit for a quartermaster. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
 ent-CMJumpsuitCargoTech = одяг вантажника
     .desc = Стандартний одяг вантажника.
-
 ent-CMJumpsuitMessTech = одяг кока
-    .desc = Стандартний одяг кока, пахне м'ясом ксеноморфа в кисло-солодкому соусі.
-
+    .desc = Standard-issue Mess Technician uniform. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
 ent-CMJumpsuitChiefEngineer = одяг головного інженера
-    .desc = Стандартний одяг головного інженера.
-
+    .desc = A uniform for a military engineer. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
 ent-CMJumpsuitOrdnanceTech = одяг техніка по озброєнню
-    .desc = Стандартний одяг техника озброєння.
-
+    .desc = A uniform for a professional bomb maker. It has shards of light Kevlar to help protect against stabbing weapons, bullets, and shrapnel from explosions. Padded with extra plates to take the brunt force of an explosion.
 ent-CMJumpsuitMaintTech = одяг техніка обслуговування
-    .desc = Стандартний одяг техніка обслуговування.
-
+    .desc = A uniform for a military engineer. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
 ent-CMJumpsuitCO = одяг командуючого офіцера
     .desc = Стандартний одяг командуючого офіцера.
-
 ent-CMJumpsuitCOFormalBlack = формальний одяг командуючого офіцера
     .desc = { ent-CMJumpsuitCO.desc }
-
 ent-CMJumpsuitCOFormalWhite = { ent-CMJumpsuitCOFormalBlack }
-    .desc = { ent-CMJumpsuitCO.desc }
-
-ent-CMJumpsuitCOService = { ent-CMJumpsuitCO }
-    .desc = { ent-CMJumpsuitCO.desc }
-
+    .desc = { ent-CMJumpsuitCOFormalBlack.desc }
+ent-CMJumpsuitCOService = commanding officer's dress shirt
+    .desc = The shirt and tie of a two-piece Navy service dress uniform for high-ranking officers. Wear with style and substance.
+ent-RMCJumsuitWhiteService = white service uniform
+    .desc = A white dress shirt and tie with sleek pants. Standard clothing for anyone on professional business.
 ent-CMJumpsuitXOFormal = marine formal service uniform
     .desc = A formal service uniform typically worn by marines of the UNMC. Still practicable while still being more formal than the standard service uniform.
+ent-RMCJumpsuitASOBlack = auxiliary support officer black uniform
+    .desc = A service uniform typycally used by Auxiliary Support Officers. This one is colored black.
+ent-RMCJumpsuitASOFormal = auxiliary support officer formal uniform
+    .desc = A pearly white formal uniform used by Auxiliary Support Officers.
+ent-RMCJumpsuitASOFormalAlt = auxiliary support officer formal uniform
+    .desc = A pearly white formal uniform with black pants used by Auxiliary Support Officers.
+    .suffix = Alternative
+ent-RMCJumpsuitASOBlackAlt = auxiliary support officer black uniform
+    .desc = A service uniform typycally used by Auxiliary Support Officers. This one is colored black with green stripes.
+    .suffix = Alternative
+ent-RMCJumpsuitASOOperations = auxiliary support officer operations uniform
+    .desc = An operations uniform typically used by Auxiliary Support Officers. This one has a dark blue camo pattern.
 ent-CMJumpsuitBO = одяг офіцера
     .desc = Стандартний одяг офіцера.
 
@@ -77,5 +96,17 @@ ent-CMJumpsuitColonist = одяг колоніста
     .desc = Стильний сіро-зелений одяг - стандарт для колоністів.
 ent-CMJumpsuitSurvivorMarine = UNMC uniform
     .desc = Torn, Burned and blood stained. This uniform has seen much more than you could possibly imagine.
+    .suffix = FORECON, Survivor
+ent-RMCJumpsuitSurvivorMarineDropPouch = { ent-CMJumpsuitSurvivorMarine }
+    .desc = { ent-CMJumpsuitSurvivorMarine.desc }
+    .suffix = FORECON, Survivor, Webbing, Patch
 ent-CMJumpsuitGeneral = general's uniform
     .desc = A uniform worn by a fleet general. It comes in a shade of deep black, and has a light shimmer to it. The weave looks strong enough to provide some light protections.
+ent-CMJumpsuitSyntheticPristine = UNMC pristine support uniform
+    .desc = A simple uniform made for synthetic crew members, this one is in Weston-Yamada's signature black and orange color scheme.
+ent-CMJumpsuitAverageJoe = average joe uniform
+    .desc = A cheap, utilitarian uniform made for Novaris Industries' Average Joe line of synthetics.
+ent-CMJumpsuitSyntheticOutdated = outdated synthetic support uniform
+    .desc = An outdated version of the UNMC synthetic support uniform. Despite the age, it is still very stylish and practical.
+ent-RMCJumpsuitSynthetic = UNMC Support Uniform
+    .desc = A simple uniform made for Synthetic crewmembers

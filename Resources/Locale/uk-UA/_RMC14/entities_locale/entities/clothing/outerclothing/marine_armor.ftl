@@ -17,10 +17,8 @@ ent-RMCArmorM3MediumSmooth = M3 pattern smooth marine armor
     .desc = { ent-CMArmorM3Medium.desc }
 ent-CMArmorB12 = броня морпіхів зразку B12
     .desc = Легкий костюм з бронею із вуглецевого волокна. Пофарбована у лісний зелений. Має вбудований ліхтарик.
-
 ent-CMArmorM3Heavy = тяжка броня зразку M3-EOD
-    .desc = Більш тяжка версія стандартної М3. Вона спеціально зроблена щоб тримати балистичні, вибухові та інші типи шкоди.
-
+    .desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
 ent-RMCArmorM3HeavyVariants = M3-EOD pattern heavy armor
     .desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
 ent-RMCArmorM3HeavyPadded = { ent-CMArmorM3Heavy }
@@ -72,18 +70,14 @@ ent-RMCArmorM3LightSmooth = { ent-CMArmorM3Light }
     .desc = { ent-CMArmorM3Light.desc }
 ent-CMArmorPress = press body armor
     .desc = Body armor used by war correspondents in battles and wars across the universe.
-
 ent-RMCArmorM3Scout = M3-S light armor
     .desc = A custom set of M3 armor designed for Marine Scouts.
-
 ent-CMArmorM3VLBallistics = M3-VL pattern ballistics vest
-    .desc = Up until 2182 USCM non-combat personnel were issued non-standardized ballistics vests, though the lack of IMP compatibility and suit lamps proved time and time again inefficient. This modified M3-L shell is the result of a 6-year R&D program; It provides utility, protection, AND comfort to all USCM non-combat personnel.
-
+    .desc = Up until 2122 Marine non-combat personnel were issued non-standardized ballistics vests, though the lack of IMP compatibility and suit lamps proved time and time again inefficient. This modified M3-L shell is the result of a 6-year R&D program; It provides utility, protection, AND comfort to all Marine non-combat personnel.
 ent-CMArmorM3VLFlakVest = M3-VL pattern flak vest
     .desc = A combination of the standard non-combat M3-VL ballistics vest and M70 flak jacket, this piece of armor has been distributed to dropship crew to keep them safe from threats external and internal...
-
-ent-CMArmorM3VLSynth = M3A1 Synthetic Utility Vest
-    .desc = This variant of the ubiquitous M3 pattern vest has been extensively modified, providing no protection in exchange for maximum mobility and added storage. Synthetic programming compliant.
+ent-CMArmorM3VLSynth = M3A1 synthetic utility vest
+    .desc = This variant of the ubiquitous M3 pattern vest has been extensively modified to become superlight, providing zero protection in exchange for maximum mobility and added storage. Compliant will all synthetic armor regulations.
 ent-CMArmorM4 = броня радиста зразку M4
     .desc = Добре пропрацьований та зроблений гибрид сітки смартганера та пліток броні M3. Міцна та спритна.
 
@@ -93,11 +87,11 @@ ent-CMArmorM35 = броня M35
 ent-CMArmorM45 = маскувальна броня M45
     .desc = Легка маскувальна броня, що використовується снайперами КМП ООН на розвідувательних місіях. Дуже легка та на здивування добре захищає.
 
+ent-RMCArmorUDEPForecon = UDEP thermal poncho
+    .desc = UDEP or the Ultra Diffusive Environmental Poncho is a camouflaged rain-cover worn to protect against the elements and chemical spills. It's commonly treated with an infrared absorbing coating, making a marine almost invisible in the rain. Favoured by UNMC specialists for its comfort and practicality.
 ent-CMArmorSmartGunCombatHarness = ML66A combat harness
     .desc = A heavy protective vest designed to be worn with the ML66A Smart Gun System. It has specially designed straps and reinforcement to carry the Smartgun and accessories.
-
-ent-CMArmorM2MP = броня воєнполу зразку M2
+ent-CMArmorM2MP = броня військполу зразку M2
     .desc = Броня М2 надає підвищений захист проти ближних атак, але погано захищає проти вогнепальної зброї.
-
 ent-RMCArmorXM4 = XM4 pattern intel armor
     .desc = Tougher than steel, quieter than whispers, the XM4 Intel Armor provides capable protection combined with an experimental integrated motion tracker. It took an R&D team a weekend to develop and costs more than the Chinook Station... probably. When worn, uniform accessories such as webbing cannot be attached due to the motion sensors occupying the clips.

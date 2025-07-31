@@ -1,8 +1,14 @@
-ent-RMCPropVehicle2Base = { "" }
-    .desc = { "" }
+ent-RMCPropVehicle2Base = { ent-RMCPropVehicleBase }
+    .desc = { ent-RMCPropVehicleBase.desc }
 ent-RMCPropVehicleCargoCrane = cargo crane
     .desc = A crane used for loading and unloading cargo.
     .suffix = Use East, West
+ent-RMCPropVehicleCargoCraneAltHitbox = { ent-RMCPropVehicleCargoCrane }
+    .desc = { ent-RMCPropVehicleCargoCrane.desc }
+    .suffix = Alt Hitbox, East
+ent-RMCPropVehicleCargoCraneAltHitboxWest = { ent-RMCPropVehicleCargoCraneAltHitbox }
+    .desc = { ent-RMCPropVehicleCargoCraneAltHitbox.desc }
+    .suffix = Alt Hitbox, West
 ent-RMCPropVehicleCargoCraneCargo = cargo crane
     .desc = A crane used for loading and unloading cargo.
 ent-RMCPropVehicleCargoCraneCargoSnow = cargo crane

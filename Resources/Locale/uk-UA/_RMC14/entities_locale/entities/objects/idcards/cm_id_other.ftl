@@ -11,39 +11,68 @@ ent-CMIDCardColonistDoctor = doctor colonist ID card
     .desc = { ent-CMIDCardSilver.desc }
 ent-CMIDCardColonistEngineer = engineer colonist ID card
     .desc = { ent-CMIDCardLanyard.desc }
+ent-RMCIDCardColonistScientist = researcher colonist ID card
+    .desc = { ent-CMIDCardLanyard.desc }
 ent-CMIDCardColonistSecurity = security colonist ID card
     .desc = { ent-CMIDCardLanyard.desc }
 ent-CMIDCardLiaison = ID картка представника
-    .desc = { ent-CMIDCardGold.desc }
-
+    .desc = A corporate holo-badge. It's a unique Corporate orange and white.
+    .suffix = WeYa
 ent-CMIDCardLiaisonColony = liaison ID card
     .desc = { ent-CMIDCardLiaison.desc }
+ent-RMCIDCardWeYaCorporateSecurity = we-ya corporate security ID card
+    .desc = { ent-CMIDCardLiaisonColony.desc }
 ent-RMCIDCardExecutiveCorporateSpecialist = executive corporate specialist ID card
     .desc = { ent-CMIDCardLiaison.desc }
 
 ent-RMCIDCardExecutiveCorporateSupervisor = executive corporate supervisor ID card
     .desc = { ent-CMIDCardLiaison.desc }
-
 ent-RMCIDCardICBLiaison = interstellar commerce bureau liaison ID card
     .desc = { ent-CMIDCardLiaison.desc }
 
 ent-CMIDCardMessTech = ID картка кухаря
     .desc = { ent-CMIDCardBase.desc }
-
 ent-RMCIDCardPizza = pizza guy badge
     .desc = It reads 'Pizza-guy local union No. 217', 'We always deliver!'
-
 ent-RMCIDCardMarshal = bureau marshal gold badge
     .desc = A coveted gold badge signifying that the wearer is one of the few CMB Marshals patroling the outer rim. It is a sign of justice, authority, and protection. Protecting those who can't. This badge represents a commitment to a sworn oath always kept.
-
 ent-RMCIDCardDeputy = bureau deputy silver badge
     .desc = The silver badge which represents that the wearer is a Bureau Deputy. It is a sign of justice, authority, and protection. Protecting those who can't. This badge represents a commitment to a sworn oath always kept.
-
+ent-RMCIDCardDeputySurvivor = bureau deputy silver badge
+    .desc = The silver badge which represents that the wearer is a Bureau Deputy. It is a sign of justice, authority, and protection. Protecting those who can't. This badge represents a commitment to a sworn oath always kept.
 ent-RMCIDCardPMC = PMC holo-badge
     .desc = A corporate holo-badge. It has a unique uncapped bottom.
-ent-RMCIDCardPMCColony = { ent-RMCIDCardPMC }
-    .desc = { ent-RMCIDCardPMC.desc }
-ent-RMCIDCardBureauObserver = ID card
+ent-FactionWeYa = { "" }
+    .desc = { "" }
+ent-RMCIDCardBureauObserver = bureau observer ID card
     .desc = { ent-CMIDCardLanyard.desc }
-ent-RMCIDCardFreelancer = ID card
+ent-RMCIDCardFreelancer = freelancer ID card
     .desc = { ent-CMIDCardBase.desc }
+ent-RMCIDCardProvost = provost ID card
+    .desc = Issued to members of the Provost Office.
+ent-RMCIDCardProvostAdvisor = provost advisor ID card
+    .desc = { ent-RMCIDCardProvost.desc }
+ent-RMCIDCardProvostEnforcer = provost enforcer ID card
+    .desc = { ent-RMCIDCardProvost.desc }
+ent-RMCIDCardProvostTeamLeader = provost team leader ID card
+    .desc = { ent-RMCIDCardProvost.desc }
+ent-RMCIDCardProvostChiefInspector = provost chief inspector ID card
+    .desc = { ent-RMCIDCardProvost.desc }
+ent-RMCIDCardProvostDeputyMarshal = provost deputy marshal ID card
+    .desc = { ent-RMCIDCardProvost.desc }
+ent-RMCIDCardProvostInspector = provost inspector ID card
+    .desc = { ent-RMCIDCardProvost.desc }
+ent-RMCIDCardProvostMarshal = provost marshal ID card
+    .desc = { ent-RMCIDCardProvost.desc }
+ent-RMCIDCardSynth = synth ID card
+    .desc = { ent-CMIDCardGold.desc }
+ent-RMCIDCardSynthColony = synth ID card
+    .desc = { ent-CMIDCardLanyard.desc }
+    .suffix = Survivor
+ent-RMCIDCardFORECONSpotter = FORECON Spotter ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-RMCIDCardAegis = AEGIS Access Badge
+    .desc = High-Level AEGIS Access Badge, granting access to many of their restricted areas and equipment. Required to unlock AEGIS crates.
+ent-RMCIDCardAegisIntel = AEGIS Access Badge
+    .desc = High-Level AEGIS Access Badge, granting access to many of their restricted areas and equipment. Required to unlock AEGIS crates. It has some blood on it.
+    .suffix = Intel-giving

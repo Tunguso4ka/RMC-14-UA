@@ -2,6 +2,9 @@ ent-CMSheetPhoron = форон
     .desc = { ent-SheetOtherBase.desc }
     .suffix = Повний
 
+ent-CMSheetPhoron15 = { ent-CMSheetPhoron }
+    .desc = { ent-CMSheetPhoron.desc }
+    .suffix = 15
 ent-CMSheetPhoron25 = { ent-CMSheetPhoron }
     .desc = { ent-CMSheetPhoron.desc }
     .suffix = 25
@@ -40,6 +43,9 @@ ent-RMCPlankWood10 = { ent-RMCPlankWood }
     .desc = { ent-RMCPlankWood.desc }
     .suffix = 10
 
+ent-RMCPlankWood25 = { ent-RMCPlankWood }
+    .desc = { ent-RMCPlankWood.desc }
+    .suffix = 25
 ent-RMCPlankWood50 = { ent-RMCPlankWood }
     .desc = { ent-RMCPlankWood.desc }
     .suffix = 50
@@ -47,3 +53,6 @@ ent-RMCPlankWood50 = { ent-RMCPlankWood }
 ent-RMCPlankWood1 = { ent-RMCPlankWood }
     .desc = { ent-RMCPlankWood.desc }
     .suffix = Single
+ent-RMCPlankWood2 = { ent-RMCPlankWood }
+    .desc = { ent-RMCPlankWood.desc }
+    .suffix = 2

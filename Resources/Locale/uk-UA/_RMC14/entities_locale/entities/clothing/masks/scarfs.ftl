@@ -112,3 +112,7 @@ ent-RMCMaskNeckerchiefGreenDown = neckerchief
 ent-RMCMaskNeckerchiefSquad = UNMC squad neckerchief
     .desc = { ent-RMCMaskNeckerchiefAlpha.desc }
     .suffix = DO NOT MAP
+ent-RMCMaskNeckerchiefWhite = { ent-RMCMaskNeckerchiefAlpha }
+    .desc = { ent-RMCMaskNeckerchiefAlpha.desc }
+ent-RMCMaskNeckerchiefWhiteDown = neckerchief
+    .desc = { ent-RMCBaseScarfDown.desc }

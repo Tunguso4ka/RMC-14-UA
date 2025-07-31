@@ -1,5 +1,8 @@
 ent-RMCArmorMARSOC = marine raider armor
     .desc = A heavily customized suit of M3 armor. Used by Marine Raiders.
+ent-RMCArmorMARSOCXM40 = { ent-RMCArmorMARSOC }
+    .desc = { ent-RMCArmorMARSOC.desc }
+    .suffix = XM40 HEAP, Filled
 ent-CMArmorIronBear = H1 iron bears vest
     .desc = A protective vest worn by Iron Bears mercenaries.
 ent-CMArmorDutchVest = D2 armored vest

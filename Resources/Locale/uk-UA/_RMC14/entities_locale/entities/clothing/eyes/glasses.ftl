@@ -1,32 +1,30 @@
 ent-CMGlassesSecurity = окуляри охорони
     .desc = Сонцезахисні окуляри з найкращими нанотехнологіями, які КМП ООН змогли знайти на полицях складу. Показує інформацію о людях в поле твого зору.
 
-ent-CMGlassesM42ScoutSight = M42 scout sight
-    .desc = A headset and night vision sighting system for the M42 Scout Rifle. Allows highlighted imaging of surroundings.
-
+ent-RMCGlassesSecurityBlue = { ent-CMGlassesSecurity }
+    .desc = { ent-CMGlassesSecurity.desc }
+    .suffix = Blue
+ent-CMGlassesM42ScoutSight = M96 scout sight
+    .desc = A headset and night vision sighting system for the M96 Scout Rifle. Allows highlighted imaging of surroundings.
 ent-RMCGlassesM4SPRBattleSight = M4SPR Battle Sight
-    .desc = A headset and night vision sighting system for the M4SPR Custom Battle Rifle. Allows highlighted imaging of surroundings.
-
+    .desc = A headset and night vision sighting system for the M4SPR Custom Battle Rifle. Allows highlighted imaging of surroundings, as well as the ability to view the suit sensor health status readouts of other marines.
 ent-RMCGlassesSmartGunSight = ML66A head mounted sight
     .desc = A headset and goggles system for the ML66A Smart Gun.
-
-ent-RMCGlassesMedicalHUDGlasses = medical HUD glasses
+ent-RMCGlassesExperimentalMeson = experimental meson goggles
+    .desc = An improved but experimental version of the standard issue meson goggles, due to increased complexity these can only be worn by synthetics. Allows for full night vision.
+ent-RMCGlassesMedicalHUDGlasses = HealthMate HUD
     .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status.
-
-ent-RMCGlassesMarineRpg = Marine RPG glasses
+ent-RMCGlassesHUDSecurity = PatrolMate HUD
+    .desc = A heads-up display that scans the humans in view and provides accurate data about their ID status and security records.
+ent-RMCGlassesReagentHUDGlasses = reagent scanner HUD goggles
+    .desc = These goggles are probably of use to someone who isn't holding a rifle and actively seeking to lower their combat life expectancy.
+ent-RMCGlassesMarineRpg = marine RPG glasses
     .desc = The Corps may call them Regulation Prescription Glasses but you know them as Rut Prevention Glasses.
 
-ent-RMCGlassesBiMexYellow = BiMex Polarized Shades
-    .desc = Sleek, angular shades designed for the modern operator.
-ent-RMCGlassesBiMexBronze = { ent-RMCGlassesBiMexYellow }
-    .desc = { ent-RMCGlassesBiMexYellow.desc }
-ent-RMCGlassesBiMexBlack = BiMex Tactical Shades
-    .desc = Sleek, angular shades designed for the modern operator.
 ent-RMCGlassesMarineRpgOld = old marine RPG glasses
     .desc = { ent-RMCGlassesMarineRpg.desc }
-ent-RMCGogglesBallistic = Ballistic goggles
-    .desc = Standard issue USCM goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes.
-
+ent-RMCGogglesBallistic = marine ballistic goggles
+    .desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes.
 ent-RMCGogglesBallisticBlack = black marine ballistic goggles
     .desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has black tinted lenses.
 ent-RMCGogglesBallisticOrange = orange marine ballistic goggles
@@ -43,12 +41,10 @@ ent-RMCGogglesBallisticPolarizedBlue = M1A1 marine polarized ballistic goggles
     .desc = Newer issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This version has larger polarized lenses.
 ent-RMCGogglesBallisticPolarizedOrange = M1A1 marine polarized ballistic goggles
     .desc = Newer issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This version has larger polarized lenses.
-ent-RMCGogglesM1A1Ballistic = M1A1 Ballistic goggles
-    .desc = Newer issue USCM goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This version has larger lenses.
-
-ent-RMCGogglesPrescriptionBallistic = Prescription ballistic goggles
-    .desc = Standard issue USCM goggles. Mostly used to decorate one's helmet. Contains prescription lenses in case you weren't sure if they were lame or not.
-
+ent-RMCGogglesM1A1Ballistic = M1A1 marine ballistic goggles
+    .desc = Newer issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This version has larger lenses.
+ent-RMCGogglesPrescriptionBallistic = prescription marine ballistic goggles
+    .desc = Standard issue UNMC goggles. Mostly used to decorate one's helmet. Contains prescription lenses in case you weren't sure if they were lame or not.
 ent-RMCGogglesM1A1BallisticBlue = blue marine ballistic goggles
     .desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has blue colored day lenses.
 ent-RMCGogglesBallisticSquad = Advanced ballistic goggles
@@ -61,11 +57,35 @@ ent-RMCEyepatch = повʼязка на око
     .suffix = RMC
 ent-RMCSunglassesBig = personal shades
     .desc = These are an expensive pair of sunglasses. This brand is popular with marine foot sloggers because its patented mirror refraction has been said to offer protection from atomic flash, solar radiation, and targeting lasers. To top it all off, everyone seems to know a guy who knows a guy who knows a guy that had a laser pistol reflect off of his shades.
+ent-RMCGlassesTriMaxYellow = TriMax Polarized Shades
+    .desc = Sleek, angular shades designed for the modern operator.
+ent-RMCGlassesTriMaxBronze = { ent-RMCGlassesTriMaxYellow }
+    .desc = { ent-RMCGlassesTriMaxYellow.desc }
+ent-RMCGlassesTriMaxBlack = TriMax Tactical Shades
+    .desc = { ent-RMCGlassesTriMaxYellow.desc }
+ent-RMCSunglassesBigFake = TriMex personal shades
+    .desc = These are a bargain-bin pair of TriMax-style sunglasses—emphasis on the style.
+    .suffix = No FlashImmunity
+ent-RMCGlassesTriMaxYellowFake = TriMex 'Polarized' Shades
+    .desc = { ent-RMCSunglassesBigFake.desc }
+ent-RMCGlassesTriMaxBronzeFake = { ent-RMCGlassesTriMaxYellowFake }
+    .desc = { ent-RMCGlassesTriMaxYellowFake.desc }
+ent-RMCGlassesTriMaxBlackFake = TriMex Tactical Shades
+    .desc = { ent-RMCGlassesTriMaxYellowFake.desc }
 ent-RMCGlassesAviators = aviator shades
     .desc = A pair of tan tinted sunglasses. You can faintly hear 80's music playing while wearing these.
+ent-RMCGlassesAviatorsSilver = { ent-RMCGlassesAviators }
+    .desc = A pair of silver tinted sunglasses. You can faintly hear 80's music playing while wearing these.
+    .suffix = Silver
 ent-RMCHipsterGlasses = prescription glasses
     .desc = Boring glasses, makes you look smart and potentially reputable.
+ent-RMCHippieGlasses = rounded prescription glasses
+    .desc = { ent-RMCHipsterGlasses.desc }
 ent-RMCWeldingGoggles = welding goggles
     .desc = Protects the eyes from welders, approved by the mad scientist association.
+ent-RMCWeldingGogglesSuperior = superior welding goggles
+    .desc = Welding goggles made from more expensive materials, strangely smells like potatoes.
 ent-RMCGogglesKutjevo = kutjevo goggles
     .desc = Goggles used to shield the eyes of workers on Kutjevo. N95Z Rated Goggles.
+ent-RMCGlassesJensen = augmented shades
+    .desc = Polarized bioneural eyewear, designed to augment your vision. Why don't you try getting a job?
