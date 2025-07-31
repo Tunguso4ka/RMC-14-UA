@@ -30,7 +30,7 @@ ent-RMCContainerRedRight = { ent-RMCContainerBase }
 ent-RMCContainerFujinLeft = Fujin Cargo Container
     .desc = A huge industrial shipping container.
             This one is from Fujin, a manufacturer of a variety of electronical and mechanical products.
-At least, that is what is says on the container. You have literally never heard of this company before.
+            At least, that is what is says on the container. You have literally never heard of this company before.
     .suffix = Fujin, Left
 ent-RMCContainerFujinMiddle = { ent-RMCContainerFujinLeft }
     .desc = { ent-RMCContainerFujinLeft.desc }
@@ -38,7 +38,7 @@ ent-RMCContainerFujinMiddle = { ent-RMCContainerFujinLeft }
 ent-RMCContainerApocraphyLeft = Apocraphy Cargo Container
     .desc = A huge industrial shipping container.
             This one is from The Apocrahpy Corporation, a manufacturer of medical and biotechnological parts.
-You remember hearing about one of their latest drugs, and how dangerous it was... though they claimed to be close to finding a solution.
+            You remember hearing about one of their latest drugs, and how dangerous it was... though they claimed to be close to finding a solution.
     .suffix = Apocraphy, Left
 ent-RMCContainerApocraphyMiddle = { ent-RMCContainerApocraphyLeft }
     .desc = { ent-RMCContainerApocraphyLeft.desc }
@@ -46,7 +46,7 @@ ent-RMCContainerApocraphyMiddle = { ent-RMCContainerApocraphyLeft }
 ent-RMCContainerPathosLeft = Pathos Cargo Container
     .desc = A huge industrial shipping container.
             This one is from Pathos, a computer parts and motion detector manufacturer.
-You still wonder why we have a container of old Motion Detectors, and if they even still work.
+            You still wonder why we have a container of old Motion Detectors, and if they even still work.
     .suffix = Pathos, Left
 ent-RMCContainerPathosMiddle = { ent-RMCContainerPathosLeft }
     .desc = { ent-RMCContainerPathosLeft.desc }
@@ -73,7 +73,7 @@ ent-RMCContainerWeYaAltRight = { ent-RMCContainerWeYaLeft }
 ent-RMCContainerTrijentLeft = Trijent Corporation Cargo Container
     .desc = A huge industrial shipping container.
             This one is from The Trijent Corporation's mining operations.
-If this breaks open, you figure you probably shouldn't breathe in what's inside.
+            If this breaks open, you figure you probably shouldn't breathe in what's inside.
     .suffix = Trijent, Left
 ent-RMCContainerTrijentMiddle = { ent-RMCContainerTrijentLeft }
     .desc = { ent-RMCContainerTrijentLeft.desc }
@@ -93,7 +93,7 @@ ent-RMCContainerTrijentAltRight = { ent-RMCContainerTrijentLeft }
 ent-RMCContainerFerretLeft = Ferret Heavy Industries Cargo Container
     .desc = A huge industrial shipping container.
             This one is from Ferret Heavy Industries, a manufacturer of terrestrial crawlers and powerloaders.
-Unfortunately, the company went bankrupt. Fortunately, these containers are really cheap now.
+            Unfortunately, the company went bankrupt. Fortunately, these containers are really cheap now.
     .suffix = Ferret, Left
 ent-RMCContainerFerretMiddle = { ent-RMCContainerFerretLeft }
     .desc = { ent-RMCContainerFerretLeft.desc }
