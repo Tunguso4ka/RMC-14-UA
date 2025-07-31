@@ -20,3 +20,6 @@ ent-CMCrowbarRed = аварійний лом
     .desc = { ent-CMCrowbar.desc }
 ent-CMHandLabeler = ручний етикетчик
     .desc = Ручний етикетчик, що використовується для маркування предметів і об'єктів.
+ent-RMCShovel = { ent-Shovel }
+    .desc = { ent-Shovel.desc }
+    .suffix = RMC

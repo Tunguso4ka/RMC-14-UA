@@ -1,21 +1,25 @@
 ent-CMPill = пігулка
-    .desc = Невідома пігулка.
-
-ent-CMPillBicaridine = пігулка бікаридину (15u)
+    .desc = Це - пігулка.
+ent-CMPillBicaridine = { ent-CMPill }
     .desc = { ent-CMPill.desc }
 
-ent-CMPillDexalin = пігулка дексаліну (15u)
+ent-CMPillDexalin = { ent-CMPill }
     .desc = { ent-CMPill.desc }
 
-ent-CMPillDylovene = пігулка диловену (15u)
+ent-CMPillDylovene = { ent-CMPill }
     .desc = { ent-CMPill.desc }
 
-ent-CMPillInaprovaline = пігулка інапровалину (15u)
+ent-CMPillInaprovaline = { ent-CMPill }
     .desc = { ent-CMPill.desc }
 
-ent-CMPillKelotane = пігулка келотану (15u)
+ent-CMPillKelotane = { ent-CMPill }
     .desc = { ent-CMPill.desc }
 
-ent-CMPillTricordrazine = Tricordrazine pill (15u)
+ent-CMPillTricordrazine = { ent-CMPill }
     .desc = { ent-CMPill.desc }
 
+ent-RMCPillRussianRed = { ent-CMPill }
+    .desc = { ent-CMPill.desc }
+ent-RMCPillAntiZed = { ent-CMPill }
+    .desc = { ent-CMPill.desc }
+    .suffix = DO NOT MAP, AntiZed

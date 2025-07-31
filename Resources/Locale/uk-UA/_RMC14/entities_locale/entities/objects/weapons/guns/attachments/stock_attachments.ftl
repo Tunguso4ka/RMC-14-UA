@@ -2,9 +2,10 @@ ent-RMCStockAttachmentBase = { ent-RMCAttachableBase }
     .desc = { ent-RMCAttachableBase.desc }
 ent-RMCStockAttachmentCollapsibleBase = { ent-RMCStockAttachmentBase }
     .desc = { ent-RMCStockAttachmentBase.desc }
+ent-RMCAttachmentM42A1WoodenStock = M42A1 wooden stock
+    .desc = A non-standard heavy wooden stock for the M42A1 Shotgun. More cumbersome than the standard issue stakeout, but reduces recoil and scatter. Allegedly makes a pretty good club in a fight too.
 ent-RMCAttachmentM42A2WoodenStock = M42A2 wooden stock
-    .desc = A non-standard heavy wooden stock for the M42A2 Shotgun. More cumbersome than the standard issue stakeout, but reduces recoil and improves accuracy. Allegedly makes a pretty good club in a fight too.
-
+    .desc = A non-standard heavy wooden stock for the M42A2 Shotgun. More cumbersome than the standard issue stakeout, but reduces recoil and scatter. Allegedly makes a pretty good club in a fight too.
 ent-RMCAttachmentMOU53Stock = MOU53 tactical stock
     .desc = A metal stock fitted specifically for the MOU53 break action shotgun.
 ent-RMCAttachmentType23Stock = Type 23 standard stock
@@ -15,7 +16,6 @@ ent-RMCAttachmentXM51Stock = XM51 stock
     .desc = A specialized stock designed for XM51 breaching shotguns. Helps the user absorb the recoil of the weapon while also reducing scatter. Integrated mechanisms inside the stock allow use of a devastating two-shot burst. This comes at a cost of the gun becoming too unwieldy to holster, worse handling and mobility.
 ent-RMCAttachmentDoubleBarrelShotgunStock = double barrel shotgun stock
     .desc = A chunky piece of wood coated in varnish and age.
-
 ent-RMCAttachmentHJRA12Back = HJRA12 Breach
     .desc = Unremovable HJRA12 Breach
 ent-RMCAttachmentM890Stock = M890 Tactical Stock
@@ -26,38 +26,32 @@ ent-RMCAttachmentSlavicStock = double barrel shotgun stock
     .desc = A chunky piece of wood coated in varnish and age.
 
 ent-RMCAttachmentM54CStockSolid = M54C solid stock
-    .desc = A rare stock distributed in small numbers to UNMC forces. Compatible with the M54C, this stock reduces recoil and improves accuracy, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle.
-
+    .desc = A rare stock distributed in small numbers to UNMC forces. Compatible with the M54C, this stock reduces recoil and scatter, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle.
 ent-RMCAttachmentM54CStockSolidMarksman = M54C marksman stock
-    .desc = A rare stock distributed in small numbers to UNMC forces. Compatible with the M54C, this stock reduces recoil and improves accuracy, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle.
-
+    .desc = A rare stock distributed in small numbers to UNMC forces. Compatible with the M54C, this stock reduces recoil and scatter, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle.
 ent-RMCAttachmentM54CStockCollapsible = M54C folding stock
-    .desc = The standard back end of any gun starting with M54. Compatible with the M54C series, this stock reduces recoil and improves accuracy, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle.
-
+    .desc = The standard back end of any gun starting with M54. Compatible with the M54C series, this stock reduces recoil and scatter, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle.
 ent-RMCAttachmentM54CMK1StockCollapsible = { ent-RMCAttachmentM54CStockCollapsible }
     .desc = The standard back end of any gun starting with M54. Compatible with the M54C series, this stock reduces recoil and scatter, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle. Painted in a lovely desert camo.
     .suffix = Desert Camo
 ent-RMCAttachmentM54C2StockCollapsible = { ent-RMCAttachmentM54CStockCollapsible }
     .desc = The standard back end of any gun starting with M54. Compatible with the M54C series, this stock reduces recoil and scatter, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle. Painted in a lovely corporate black camo.
     .suffix = PMC
+ent-RMCAttachmentM54CStockCollapsibleWhite = { ent-RMCAttachmentM54CStockCollapsible }
+    .desc = The standard back end of any gun starting with M54. Compatible with the M54C series, this stock reduces recoil and scatter, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle. Painted in a lovely corporate white camo.
+    .suffix = White Camo
 ent-RMCAttachmentM16Stock = M16 bump stock
     .desc = Technically illegal in the state of California.
-
 ent-RMCAttachmentM16StockCollapsible = collapsible M16 stock
     .desc = Very illegal in the state of California.
-
-ent-RMCAttachmentM79Stock = M79 hardened polykevlon stock
-    .desc = Helps to mitigate the recoil of launching a 40mm grenade. Fits only to the M79.
-
 ent-RMCAttachmentM63Stock = submachinegun stock
-    .desc = A rare AEGIS stock distributed in small numbers to UNMC forces. Compatible with the M63, this stock reduces recoil and improves accuracy, but at a reduction to handling and agility. Seemingly a bit more effective in a brawl.
-
+    .desc = A rare AEGIS stock distributed in small numbers to UNMC forces. Compatible with the M63, this stock reduces recoil and scatter, but at a reduction to handling and agility. Seemingly a bit more effective in a brawl.
 ent-RMCAttachmentM63StockCollapsible = submachinegun folding stock
-    .desc = A Kirchner brand K2 M63 folding stock, standard issue in the UNMC. The stock, when extended, reduces recoil and improves accuracy, but at a reduction to handling and agility. Seemingly a bit more effective in a brawl. This stock can collapse in, removing all positive and negative effects.
-
+    .desc = A Kirchner brand K2 M63 folding stock, standard issue in the UNMC. The stock, when extended, reduces recoil and scatter, but at a reduction to handling and agility. Seemingly a bit more effective in a brawl. This stock can collapse in, removing all positive and negative effects.
+ent-RMCAttachmentMP5AltStockCollapsible = MP5A5 folding stock
+    .desc = MP5A5 folding stock for Alternate MP5
 ent-RMCAttachmentM63ArmBrace = submachinegun arm brace
     .desc = A specialized stock for use on an M63 submachine gun. It makes one handing more accurate at the expense of burst amount. Wielding the weapon with this stock attached confers a major inaccuracy and recoil debuff.
-
 ent-RMCAttachmentM44MagnumSharpshooterStock = M44 magnum sharpshooter stock
     .desc = A wooden stock modified for use on a 44-magnum. Increases accuracy and reduces recoil at the expense of handling and agility. Less effective in melee as well.
 ent-RMCAttachmentXM88Stock = XM88 padded stock
@@ -68,3 +62,7 @@ ent-RMCAttachmentHuntingStock = Basira-Armstrong stock
     .desc = The non-detachable stock of a Basira-Armstrong hunting rifle
 ent-RMCAttachmentSSG45Stock = SSG45 solid stock
     .desc = Intergrated into the SSG45. You shouldn't have this.
+ent-RMCAttachmentL83A2Stock = L83A2 solid stock
+    .desc = Intergrated into the L83A2. You shouldn't have this.
+ent-RMCAttachmentAK4047StockCollapsible = AK-4047 folding stock
+    .desc = The standard back end of any gun starting with 'AK'. Compatible with the AK-4047 series, this stock reduces recoil and improves accuracy, but at a reduction to handling and agility. Also enhances the thwacking of things with the stock-end of the rifle, just like its ancestors.

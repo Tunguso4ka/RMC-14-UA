@@ -1,5 +1,10 @@
-ent-CMBaseWeaponGun = ця сутність не має назви
-    .desc = { "" }
-
+ent-CMBaseWeaponGun = { ent-RMCBaseMeleeWeapon }
+    .desc = { ent-RMCBaseMeleeWeapon.desc }
 ent-RMCBaseBullet = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
+ent-RMCBaseWeaponGunMagazineProvider = { "" }
+    .desc = { "" }
+ent-RMCBaseSlideMagazineVisuals = { "" }
+    .desc = { "" }
+ent-RMCBaseSlideMagazineVisualsBallistic = { ent-RMCBaseSlideMagazineVisuals }
+    .desc = { ent-RMCBaseSlideMagazineVisuals.desc }
