@@ -17,21 +17,18 @@ lathe-category-research = Research
 lathe-category-security = Security
 lathe-category-service = Service
 lathe-category-supply = Supply
-
 lathe-category-concrete = Concrete
 lathe-category-dark = Dark
 lathe-category-maints = Maints
 lathe-category-steel = Steel
 lathe-category-white = White
 lathe-category-wood = Wood
-
 lathe-category-mechs = Мехи
 lathe-category-modules = Modules
 lathe-category-robotics = Робототехника
 lathe-category-ammo = Набої
 lathe-category-boxes = Boxes
 lathe-category-magazines = Magazines
-
 lathe-category-bedsheets = Bedsheets
 lathe-category-carpets = Carpets
 lathe-category-coats = Coats

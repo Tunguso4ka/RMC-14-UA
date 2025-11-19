@@ -4,7 +4,6 @@ analysis-console-extract-button = Витягнути
 analysis-console-info-no-scanner = Анализатор не під'єднаний! Просимо, під'єднайте його за допомогою мультитулу.
 analysis-console-info-no-artifact = Немає артефакту! Поставте його на анализатор для сканування.
 analysis-console-info-ready = Система працездатна. Натиснить "Сканувати".
-
 analysis-console-no-node = Select node to view
 analysis-console-info-id = NODE_ID: {$id}
 analysis-console-info-id-value = [font="Monospace" size=11][color=yellow]{$id}[/color][/font]
@@ -31,9 +30,7 @@ analysis-console-progress-text = {$seconds ->
     [one] T-{$seconds} секунда
     *[other] T-{$seconds} секунд
 }
-
 analysis-console-extract-value = [font="Monospace" size=11][color=orange]Node {$id} (+{$value})[/color][/font]
 analysis-console-extract-none = [font="Monospace" size=11][color=orange] No unlocked nodes have any points left to extract [/color][/font]
 analysis-console-extract-sum = [font="Monospace" size=11][color=orange]Total Research: {$value}[/color][/font]
-
 analyzer-artifact-extract-popup = Енергія мерехтить по поверхні артефакта!

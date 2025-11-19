@@ -1,5 +1,3 @@
-## UI
-
 cargo-console-order-menu-title = Order Form
 cargo-console-order-menu-product-label = Product:
 cargo-console-order-menu-description-label = Description:

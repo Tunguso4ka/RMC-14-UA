@@ -1,5 +1,4 @@
 species-name-avali = Avali
-
 marking-AvaliHairBigPonytail = Big Ponytail
 marking-AvaliHairBigPonytail-avali_crest_bigponytail_primary = Primary
 marking-AvaliHairBigPonytail-avali_crest_bigponytail_secondary = Secondary
@@ -25,8 +24,7 @@ marking-AvaliHairLongFeather-avali_crest_longfeather_secondary = Secondary
 marking-AvaliHairPunk = Punk
 marking-AvaliHairPunk-avali_crest_punk_primary = Primary
 marking-AvaliHairPunk-avali_crest_punk_secondary = Secondary
-
-marking-AvaliEarsBase = (Base) Avali Ears 
+marking-AvaliEarsBase = (Base) Avali Ears
 marking-AvaliEarsBase-ears_avalibase_primary = Top Ears
 marking-AvaliEarsBase-ears_avalibase_secondary = Bottom Ears
 marking-AvaliTailBase = (Base) Avali Tail

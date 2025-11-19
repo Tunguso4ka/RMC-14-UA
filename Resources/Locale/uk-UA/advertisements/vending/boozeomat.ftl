@@ -1,4 +1,4 @@
-﻿advertisement-boozeomat-1 = Сподіваюся ніхто знов не попросить чаю..
+advertisement-boozeomat-1 = Сподіваюся ніхто знов не попросить чаю..
 advertisement-boozeomat-2 = Алкоголь - це друг людини. Чи кинув би ти свого друга?
 advertisement-boozeomat-3 = Це моя насолода слугувати вам!
 advertisement-boozeomat-4 = Що, ніхто не має спрагу на цій станції?
@@ -20,4 +20,3 @@ advertisement-boozeomat-19 = Тост за прогрес!
 thankyou-boozeomat-1 = Пийте відповідально!
 thankyou-boozeomat-2 = Пийти НЕвідповідально!
 thankyou-boozeomat-3 = Насолоджуйтеся напоєм!
-

@@ -1,6 +1,7 @@
 cm-job-supervisors-we-ya = Корпоративному Офісу Ве-Я
 cm-job-supervisors-aso = Офіцеру Допоміжних Сил
 cm-job-supervisors-co = Командуючему Офіцеру
+rmc-job-supervisors-commander = the current Commander
 cm-job-supervisors-cmo = Головному Лікарю
 cm-job-supervisors-ares = ARES та APOLLO
 cm-job-supervisors-po = Пілот-Офіцерам
@@ -12,3 +13,9 @@ cm-job-supervisors-sl = діючему Лідеру Загіну
 cm-job-supervisors-staff = Server Staff
 cm-job-supervisors-nobody = нікому, ти можеш розраховувати тільки на себе.
 cm-job-supervisors-colonists = the sapient colonists
+cm-job-supervisors-secserg = the Section Sergeant
+cm-job-supervisors-platco = the Platoon Commander
+cm-job-supervisors-company-command = Company Command
+cm-job-supervisors-royal-tl = the Team Leader
+cm-job-supervisors-royal-officer = the Lieutenant
+cm-job-supervisors-royal-major = the Major

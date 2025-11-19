@@ -7,24 +7,18 @@ construction-graph-tag-clown-bike-horn = bike horn
 construction-graph-tag-clowne-horn = broken bike horn
 construction-graph-tag-happy-honk-meal = happy honk meal
 construction-graph-tag-woeful-cluwne-meal = woeful cluwne meal
-
 construction-graph-tag-suspenders = suspenders
 construction-graph-tag-mime-meal = mime edition happy honk meal
-
 construction-graph-tag-purple-crayon = purple crayon
 construction-graph-tag-red-crayon = red crayon
 construction-graph-tag-yellow-crayon = yellow crayon
 construction-graph-tag-black-crayon = black crayon
-
 construction-graph-tag-eva-suit = an EVA suit
 construction-graph-tag-eva-helmet = an EVA helmet
-
 construction-graph-tag-security-hud = security hud
 construction-graph-tag-medical-hud = medical hud
-
 construction-graph-tag-sun-glasses = sun glasses
 construction-graph-tag-security-helmet = security helmet
-
 construction-graph-tag-manipulator = modular machine part
 construction-graph-tag-voice-trigger = a voice trigger
 construction-graph-tag-signal-trigger = a signal trigger
@@ -44,7 +38,6 @@ construction-graph-tag-power-cell-small = power cell small
 construction-graph-tag-power-cell = power cell
 construction-graph-tag-potato-battery = a potato battery
 construction-graph-tag-super-compact-ai-chip = a super-compact AI chip
-
 construction-graph-tag-light-bulb = light bulb
 construction-graph-tag-radio = radio
 construction-graph-tag-pipe = gas pipe
@@ -63,12 +56,10 @@ construction-graph-tag-corgi-hide = corgi hide
 construction-graph-tag-apron = an apron
 construction-graph-tag-utility-belt = a utility belt
 soil-construction-graph-any-mushroom = any mushroom
-
 construction-graph-tag-rubber-ducky = a rubber ducky
 construction-graph-tag-ghost = ghost soft toy
 construction-graph-tag-ectoplasm = ectoplasm
 construction-graph-tag-lizard-plushie = lizard plushie
-
 construction-graph-tag-black-carpet = black carpet
 construction-graph-tag-blue-carpet = blue carpet
 construction-graph-tag-cyan-carpet = cyan carpet
@@ -78,7 +69,6 @@ construction-graph-tag-pink-carpet = pink carpet
 construction-graph-tag-purple-carpet = purple carpet
 construction-graph-tag-red-carpet = red carpet
 construction-graph-tag-white-carpet = white carpet
-
 construction-graph-tag-hamtr-central-control-module = HAMTR central control module
 construction-graph-tag-hamtr-peripherals-control-module = HAMTR peripherals control module
 construction-graph-tag-honk-central-control-module = H.O.N.K. central control module
@@ -86,14 +76,11 @@ construction-graph-tag-honk-peripherals-control-module = H.O.N.K. peripherals co
 construction-graph-tag-honk-weapon-control-and-targeting-module = H.O.N.K. weapon control and targeting module
 construction-graph-tag-ripley-central-control-module = ripley central control module
 construction-graph-tag-ripley-peripherals-control-module = ripley peripherals control module
-
 construction-graph-tag-door-electronics-circuit-board = door electronics circuit board
 construction-graph-tag-firelock-electronics-circuit-board = firelock electronics circuit board
 construction-graph-tag-conveyor-belt-assembly = conveyor belt assembly
-
 construction-graph-tag-multitool = a multitool
 construction-graph-tag-health-analyzer = health analyzer
-
 construction-graph-tag-air-alarm-electronics = air alarm electronics
 construction-graph-tag-fire-alarm-electronics = fire alarm electronics
 construction-graph-tag-mailing-unit-electronics = mailing unit electronics
@@ -110,7 +97,6 @@ construction-graph-tag-wallmount-substation-circuit-board = wallmount substation
 construction-graph-tag-surveillance-camera-monitor-board = surveillance camera monitor board
 construction-graph-tag-television-board = television board
 construction-graph-tag-freezer-electronics = freezer electronics
-
 construction-graph-tag-cyan-crystal-shard = cyan crystal shard
 construction-graph-tag-blue-crystal-shard = blue crystal shard
 construction-graph-tag-pink-crystal-shard = pink crystal shard
@@ -119,13 +105,9 @@ construction-graph-tag-red-crystal-shard = red crystal shard
 construction-graph-tag-green-crystal-shard = green crystal shard
 construction-graph-tag-yellow-crystal-shard = yellow crystal shard
 construction-graph-tag-black-crystal-shard = black crystal shard
-
 construction-graph-tag-weapon-pistol-chimp-upgrade-kit = pistol CHIMP upgrade kit
 construction-graph-tag-torch = torch
-
 construction-graph-tag-fire-extinguisher = fire extinguisher
 construction-graph-tag-fire-helmet = fire helmet
-
 construction-graph-tag-spationaut-hardsuit = spationaut hardsuit
-
 construction-graph-tag-backpack = backpack

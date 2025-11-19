@@ -3,7 +3,6 @@ research-discipline-industrial = Індустріальна
 research-discipline-arsenal = Арсенал
 research-discipline-experimental = Експериментальна
 research-discipline-civilian-services = Цивільна
-
 research-technology-fulton = Фултони
 research-technology-salvage-equipment = Шахтарське Обладнання
 research-technology-advanced-powercells = Просунуті Батарейки
@@ -20,9 +19,7 @@ research-technology-super-powercells = Супер-Батарейки
 research-technology-bluespace-storage = Синєпросторні Сховища
 research-technology-optimized-microgalvanism = Optimized Microgalvanism
 research-technology-space-scanning = Сканування космосу
-
 research-technology-excavation = Mass Excavation
-
 research-technology-salvage-weapons = Шахтарське Озброєння
 research-technology-draconic-munitions = Draconic Munitions
 research-technology-uranium-munitions = Уранові набої
@@ -39,10 +36,8 @@ research-technology-experimental-battery-ammo = Experimental Battery Ammo
 research-technology-kinetic-modifications = Kinetic Modifications
 research-technology-basic-shuttle-armament = Базове озброєння шатлів
 research-technology-advanced-shuttle-weapon = Просунуте озброєння шатлів
-
 research-technology-thermal-weaponry = Thermal Weaponry
 research-technology-dual-wielding-technology = Dual Wielding Technology
-
 research-technology-basic-robotics = Базова Робототехника
 research-technology-basic-anomalous-research = Базові Аномальні Дослідження
 research-technology-basic-xenoarcheology = Базова КсеноАрхеологія
@@ -58,7 +53,6 @@ research-technology-advanced-anomaly-research = Просунуті Аномал�
 research-technology-rped = Rapid Part Exchange
 research-technology-super-parts = Super Parts
 research-technology-deterrence = Deterrence Technologies
-
 research-technology-janitorial-equipment = Обладнання Прибиральників
 research-technology-laundry-tech = Laundry Tech
 research-technology-basic-hydroponics = Базова ботаника

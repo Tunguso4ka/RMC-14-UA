@@ -1,0 +1,9 @@
+ent-PaperWrittenAMEScribbles = { ent-Paper }
+    .desc = { ent-Paper.desc }
+    .suffix = нотатка про АМД
+ent-HoloparasiteInfo = умови та положення голопаразита
+    .desc = Крихітний голо дисплей для документів який змушує замислитися, чи не завеликий юридичний бюджет Cybersun.
+ent-PaperAgrichemManual = NT "AgriChem Is Fun" manual
+    .desc = The single sheet of instructions that came in the kit.
+ent-PaperWrittenCombatBakeryKit = combat bakery kit instructions
+    .desc = Eat note after reading.

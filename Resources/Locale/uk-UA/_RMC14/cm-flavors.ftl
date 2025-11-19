@@ -1,1 +1,1 @@
-﻿flavor-base-bobda = шотландія
+flavor-base-bobda = шотландія

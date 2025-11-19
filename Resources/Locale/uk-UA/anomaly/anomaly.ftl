@@ -1,17 +1,13 @@
 anomaly-component-contact-damage = Аномалія обпалює твою шкіру!
-
 anomaly-vessel-component-anomaly-assigned = Аномалію призначено до накопичувача.
 anomaly-vessel-component-not-assigned = Цей накопичувач не призначено до аномалії. Спробуй використати сканер на ній.
 anomaly-vessel-component-assigned = Цей накопичувач зараз призначено до аномалії.
-
 anomaly-particles-delta = Дельта-частки
 anomaly-particles-epsilon = Епсілон-частки
 anomaly-particles-zeta = Зета-частки
 anomaly-particles-omega = Омеґа-частки
 anomaly-particles-sigma = Сігма частинки
-
 anomaly-scanner-component-scan-complete = Сканування завершено!
-
 anomaly-scanner-ui-title = сканер аномалій
 anomaly-scanner-no-anomaly = Зараз не сканується жодна аномалія.
 anomaly-scanner-severity-percentage = Поточна тяжкість: [color=gray]{$percent}[/color]
@@ -32,7 +28,6 @@ anomaly-scanner-particle-unstable-unknown = - [color=plum]Тип нестабі�
 anomaly-scanner-particle-containment-unknown = - [color=goldenrod]Тип стримання::[/color] [color=red]ПОМИЛКА[/color]
 anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Тип трансформації::[/color] [color=red]ПОМИЛКА[/color]
 anomaly-scanner-pulse-timer = Часу до наступного поштовху: [color=gray]{$time}[/color]
-
 anomaly-gorilla-core-slot-name = Аномальне ядро
 anomaly-gorilla-charge-none = Не містить жодного [bold]аномального ядра[/bold].
 anomaly-gorilla-charge-limit = Містить [color={$count ->
@@ -46,7 +41,6 @@ anomaly-gorilla-charge-limit = Містить [color={$count ->
     *[other]charges
 }[/color].
 anomaly-gorilla-charge-infinite = Містить [color=gold]невичерпну кількість зарядів[/color]. [italic]Натепер...[/italic]
-
 anomaly-sync-connected = Аномалію приєднано успішно
 anomaly-sync-disconnected = Звʼязок із аномалією було втрачено!
 anomaly-sync-no-anomaly = Жодної аномалії поблизу.
@@ -54,7 +48,6 @@ anomaly-sync-examine-connected = [color=darkgreen]Є зʼєднання[/color] 
 anomaly-sync-examine-not-connected = [color=darkred]Нема зʼєднання[/color] з аномалією.
 anomaly-sync-connect-verb-text = Приєднати аномалією
 anomaly-sync-connect-verb-message = Приєднати ближчу аномалію до {$machine}.
-
 anomaly-generator-ui-title = Генератор Аномалій
 anomaly-generator-fuel-display = Паливо:
 anomaly-generator-cooldown = Перезарядка: [color=gray]{$time}[/color]
@@ -67,18 +60,13 @@ anomaly-generator-charges = {$charges ->
     *[other] {$charges} charges
 }
 anomaly-generator-announcement = Аномалію було створено!
-
 anomaly-command-pulse = Поштовхує цільову аномалію
 anomaly-command-supercritical = Перетворює цільову аномалію на суперкритичну
-
 anomaly-generator-flavor-left = Аномалія може зʼявитися всередині оператора.
 anomaly-generator-flavor-right = v1.1
-
 anomaly-behavior-unknown = [color=red]ERROR. Cannot be read.[/color]
-
 anomaly-behavior-title = behavior deviation analysis:
-anomaly-behavior-point = [color=gold]Anomaly produces {$mod}% of the points[/color] 
-
+anomaly-behavior-point = [color=gold]Anomaly produces {$mod}% of the points[/color]
 anomaly-behavior-safe = [color=forestgreen]The anomaly is extremely stable. Extremely rare pulsations.[/color]
 anomaly-behavior-slow = [color=forestgreen]The frequency of pulsations is much less frequent.[/color]
 anomaly-behavior-light = [color=forestgreen]Pulsation power is significantly reduced.[/color]

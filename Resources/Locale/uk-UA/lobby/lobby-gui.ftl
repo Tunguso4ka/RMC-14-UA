@@ -1,4 +1,4 @@
-﻿ui-lobby-title = Лоббі
+ui-lobby-title = Лоббі
 ui-lobby-ahelp-button = Адміністрація
 ui-lobby-options-button = Налаштування
 ui-lobby-leave-button = Вийти

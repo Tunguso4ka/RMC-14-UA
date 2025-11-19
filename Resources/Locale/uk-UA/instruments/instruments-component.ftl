@@ -21,8 +21,6 @@ instruments-component-channels-clear-button = Очистити
 instruments-component-channels-track-names-toggle = Show Track Names
 instruments-component-channels-single = {$channel} {$name}
 instruments-component-channels-multi = {$channel} {$name} ({$other})
-
-
 swappable-instrument-component-style-set = Стиль встановлено на "{$style}"
 instruments-component-menu-midi-channel-acoustic-grand-piano = Acoustic Grand Piano
 instruments-component-menu-midi-channel-bright-acoustic-piano = Bright Acoustic Piano

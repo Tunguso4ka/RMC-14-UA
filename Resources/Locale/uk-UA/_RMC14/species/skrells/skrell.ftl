@@ -1,7 +1,6 @@
 species-name-skrell = Скрел
 marking-RMCHairSkrellLong = Long Skrell Hair
 marking-RMCHairSkrellShort = Short Skrell Hair
-
 marking-RMCSpotsSkrellBodyLeft = Skrell Spots
 marking-RMCSpotsSkrellBodyRight = Skrell Spots
 marking-RMCSpotsSkrellHairLeft = Skrell Spots

@@ -1,0 +1,9 @@
+ent-OrganVoxLungs = { ent-OrganHumanLungs }
+    .desc = { ent-OrganHumanLungs.desc }
+    .suffix = vox
+ent-OrganVoxStomach = stomach
+    .desc = A stomach that smells of ammonia.
+ent-OrganVoxLiver = liver
+    .desc = Smells flammable.
+ent-OrganVoxHeart = heart
+    .desc = The strange heart of a vox.

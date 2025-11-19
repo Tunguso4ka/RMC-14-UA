@@ -1,0 +1,13 @@
+ent-RMCDropshipDoorBase = crew hatch
+    .desc = { ent-CMBaseDoor.desc }
+ent-RMCDropshipCockpitBase = cockpit
+    .desc = { ent-RMCDropshipDoorBase.desc }
+ent-RMCDropshipDoorAftBase = { ent-RMCDropshipDoorBase }
+    .desc = { ent-RMCDropshipDoorBase.desc }
+    .suffix = Aft
+ent-RMCDropshipDoorPortBase = { ent-RMCDropshipDoorBase }
+    .desc = { ent-RMCDropshipDoorBase.desc }
+    .suffix = Port
+ent-RMCDropshipDoorStarboardBase = { ent-RMCDropshipDoorBase }
+    .desc = { ent-RMCDropshipDoorBase.desc }
+    .suffix = Starboard

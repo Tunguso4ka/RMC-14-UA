@@ -23,14 +23,14 @@ humanoid-profile-editor-open-image-button = Відкрити зображенн�
 humanoid-profile-editor-save-button = Зберегти
 humanoid-profile-editor-reset-button = Скинути
 humanoid-profile-editor-spawn-priority-label = Пріоритет появи:
-humanoid-profile-editor-preferred-squad-label = Улюблений загін:
-humanoid-profile-editor-preferred-armor-label = Улюблена броня:
-humanoid-profile-editor-enable-playtime-perks = Медалі:
-humanoid-profile-editor-xeno-prefix = Ім'я Ксено - Префікс:
+humanoid-profile-editor-preferred-squad-label = Preferred squad:
+humanoid-profile-editor-preferred-armor-label = Preferred armor:
+humanoid-profile-editor-enable-playtime-perks = Enable playtime perks:
+humanoid-profile-editor-xeno-prefix = Xeno prefix:
 humanoid-profile-editor-xeno-prefix-tooltip = 2 letters, or 3 if you have 124 hours in xeno roles. You cannot have a postfix with a 3 letter prefix.
-humanoid-profile-editor-xeno-postfix = Ім'я Ксено - Постфікс:
+humanoid-profile-editor-xeno-postfix = Xeno postfix:
 humanoid-profile-editor-xeno-postfix-tooltip = 1 letter if you have 24 hours in xeno roles. 2 letters or 1 letter and 1 digit if you have 300 hours in xeno roles. You cannot have a postfix with a 3 letter prefix.
-humanoid-profile-editor-enable = Увімкнути
+humanoid-profile-editor-enable = Enable
 humanoid-profile-editor-eyes-label = Колір очей:
 humanoid-profile-editor-jobs-tab = Посади
 humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Залишитися в лобі якщо обрані посади не доступні.
@@ -41,11 +41,9 @@ humanoid-profile-editor-preference-backpack = Рюкзак
 humanoid-profile-editor-preference-satchel = Сумка
 humanoid-profile-editor-preference-duffelbag = Мішок
 humanoid-profile-editor-guidebook-button-tooltip = Натисніть щоб дізнатися різницю.
-
 humanoid-profile-editor-preference-spawn-priority-none = Нема
 humanoid-profile-editor-preference-spawn-priority-arrivals = Прибуття
 humanoid-profile-editor-preference-spawn-priority-cryosleep = Кріосон
-
 humanoid-profile-editor-jobs-amount-in-department-tooltip = {$departmentName}
 humanoid-profile-editor-department-jobs-label = {$departmentName}
 humanoid-profile-editor-antags-tab = Антагоністи
@@ -60,9 +58,7 @@ humanoid-profile-editor-markings-tab = Маркування
 humanoid-profile-editor-flavortext-tab = Опис
 humanoid-profile-editor-traits-tab = Риси
 humanoid-profile-editor-no-traits = Рис не доступно
-
 humanoid-profile-editor-trait-count-hint = Балів доступно: [{$current}/{$max}]
-
 trait-category-disabilities = Вади
 trait-category-speech = Вимова
 trait-category-quirks = Примхи

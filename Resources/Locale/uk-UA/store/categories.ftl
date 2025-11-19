@@ -11,12 +11,10 @@ store-category-allies = Союзники
 store-category-job = Спеціальні
 store-category-wearables = Одяг
 store-category-pointless = Інше
-
 store-discounted-items = Знижки
-
 store-category-abilities = Здібності
 store-caregory-spellbook-offensive = Атакуючі
 store-caregory-spellbook-defensive = Захисні
-store-caregory-spellbook-utility = Допоміжні 
+store-caregory-spellbook-utility = Допоміжні
 store-caregory-spellbook-equipment = Обладнання
 store-caregory-spellbook-events = Евентові

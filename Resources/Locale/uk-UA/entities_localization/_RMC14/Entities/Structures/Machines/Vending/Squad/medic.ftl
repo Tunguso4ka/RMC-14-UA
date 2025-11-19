@@ -1,0 +1,10 @@
+ent-ColMarTechMedicalGear = КорМорТех стелаж медичного спорядження
+    .desc = An automated gear rack for hospital corpsmen.
+ent-ColMarTechMedicalEquipment = КорМорТех стелаж медичного обладнання
+    .desc = An automated rack hooked up to a colossal storage of hospital corpsman standard-issue equipment.
+ent-RMCColMarTechMedicalEquipmentPVE = ColMarTech squad medical equipment rack
+    .desc = An automated rack hooked up to a colossal storage of hospital corpsman standard-issue equipment.
+    .suffix = PVE
+ent-RMCPMCMedicalEquipmentPVE = We-Ya squad medical equipment rack
+    .desc = An automated rack hooked up to a colossal storage of corporate medic standard-issue equipment.
+    .suffix = PVE, PMC

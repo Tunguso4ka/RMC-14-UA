@@ -7,4 +7,3 @@ solar-control-window-panel-angle = Вугол панелі:
 solar-control-window-panel-angular-velocity = Швидкість зміни вугла панелі:
 solar-control-window-degrees-per-minute = °/хвилину.
 solar-control-window-press-enter-to-confirm = Нажмить Enter щоб підтвердити.
-

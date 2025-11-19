@@ -1,10 +1,8 @@
 death-match-title = DeathMatch
 death-match-description = Kill anything that moves! Normal roleplay need not apply. The first to 31 points wins!
-
 death-match-name-player = [bold]{$name}[/bold] ([italic]{$username}[/italic])
 death-match-name-npc = [bold]{$name}[/bold]
 death-match-assist = {$primary}, assisted by {$secondary},
-
 death-match-kill-callout-0 = {CAPITALIZE($killer)} murdered {$victim}!
 death-match-kill-callout-1 = {CAPITALIZE($killer)} killed {$victim}!
 death-match-kill-callout-2 = {CAPITALIZE($killer)} fragged {$victim}!

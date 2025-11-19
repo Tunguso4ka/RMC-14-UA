@@ -1,6 +1,5 @@
 gas-analyzer-object-out-of-range = The object went out of range.
 gas-analyzer-shutoff = Анализатор газу вимикається.
-
 gas-analyzer-window-name = Анализатор Газу
 gas-analyzer-window-environment-tab-label = Середовіще
 gas-analyzer-window-tab-title-capitalized = {CAPITALIZE($title)}
@@ -20,9 +19,7 @@ gas-analyzer-window-percentage-column-name = %
 gas-analyzer-window-molarity-text = {$mol}
 gas-analyzer-window-percentage-text = {$percentage}
 gas-analyzer-window-molarity-percentage-text = {$gasName}: {$amount} мол ({$percentage}%)
-
 gas-entry-info = {$gasName}: {$gasAmount} мол
-
 gas-analyzer-window-text-inlet = Inlet
 gas-analyzer-window-text-outlet = Outlet
 gas-analyzer-window-text-filter = Filter

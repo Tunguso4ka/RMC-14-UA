@@ -1,5 +1,4 @@
 admin-explosion-eui-title = Створення вибухів
-
 admin-explosion-eui-label-type = Тип вибуху
 admin-explosion-eui-label-mapid = ID мапи
 admin-explosion-eui-label-xmap = X (Мапи)
@@ -16,7 +15,6 @@ admin-explosion-eui-label-distance = Дистанція
 admin-explosion-eui-label-spawn = ПОСТРІЛ!
 cmd-explosionui-desc = Opens a window for easy access to station destruction.
 cmd-explosionui-help = Usage: explosionui
-
 cmd-explosion-desc = Train go boom
 cmd-explosion-help = Usage: explosion [intensity] [slope] [maxIntensity] [x y] [mapId] [prototypeId]
 cmd-explosion-failed-to-parse-intensity = Failed to parse intensity: {$value}

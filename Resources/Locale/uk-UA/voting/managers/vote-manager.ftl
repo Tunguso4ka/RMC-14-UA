@@ -1,6 +1,4 @@
 ui-vote-initiator-server = Сервер
-
-
 ui-vote-restart-title = Перезапустити раунд
 ui-vote-restart-succeeded = Успішне голосування.
 ui-vote-restart-failed = Голосування неуспішне (Треба мінімум { TOSTRING($ratio, "P0") }).
@@ -8,11 +6,9 @@ ui-vote-restart-fail-not-enough-ghost-players = Голосування неус�
 ui-vote-restart-yes = Так
 ui-vote-restart-no = Ні
 ui-vote-restart-abstain = Утриматися
-
 ui-vote-gamemode-title = Наступний режим
 ui-vote-gamemode-tie = Нічия! Обираю... { $picked }
 ui-vote-gamemode-win = Режим { $winner } переміг!
-
 ui-vote-map-title = Наступна мапа
 ui-vote-map-tie = Нічия! Обираю... { $picked }
 ui-vote-map-win = Мапа { $winner } перемогла!

@@ -1,6 +1,5 @@
 permissions-eui-do-not-have-required-flags-to-edit-admin-tooltip = У вас нема потрібних дозволів щоб редагувати цього адміна.
 permissions-eui-do-not-have-required-flags-to-edit-rank-tooltip = У вас нема потрібних дозволів щоб редагувати цій ранг.
-
 permissions-eui-menu-title = Панель дозволів
 permissions-eui-menu-add-admin-button = Додати адміна
 permissions-eui-menu-add-admin-rank-button = Додати ранг адміна

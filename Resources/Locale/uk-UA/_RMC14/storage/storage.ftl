@@ -20,7 +20,6 @@ rmc-storage-holster-eject-verb = Unholster
 rmc-storage-nested-unable = You can't seem to open {THE($nested)} while it is in {THE($parent)}.
 rmc-storage-store-skill-unable = The storage cannot hold that item!
 rmc-storage-hand-switch = Switch Storage Drawing Method
-
 rmc-storage-hand-eject-last-item = Clicking {THE($storage)} with an empty hand now puts the last stored item in your hand.
 rmc-storage-hand-eject-first-item = Clicking {THE($storage)} with an empty hand now puts the first stored item in your hand.
 rmc-storage-hand-eject-unequips = Clicking {THE($storage)} now unequips it.

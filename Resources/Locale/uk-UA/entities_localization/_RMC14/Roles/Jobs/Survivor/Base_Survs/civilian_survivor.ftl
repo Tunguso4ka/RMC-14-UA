@@ -1,0 +1,15 @@
+ent-CMSpawnPointSurvivor = survivor spawn point
+    .desc = { ent-CMSpawnPointJobBase.desc }
+    .suffix = Job Spawn, Main
+ent-CMGuidebookRoleSurvivor = Survivor
+    .desc = { ent-CMGuidebookRole.desc }
+ent-RMCSurvivorPresetNoGun = no gun colonist preset
+    .desc = { "" }
+ent-RMCSurvivorPresetCivilian = civilian colonist preset
+    .desc = { ent-RMCSurvivorPresetNoGun.desc }
+ent-RMCSurvivorPresetCivilianRareItem = civilian colonist preset with rare item
+    .desc = { "" }
+ent-RMCSurvivorPresetCivilianOutfits = civilian colonist preset with random outfits
+    .desc = { ent-RMCSurvivorPresetCivilianRareItem.desc }
+ent-RMCRandomHumanoidSurvivorCivilian = civilian colonist ghost role
+    .desc = { ent-MarkerBase.desc }

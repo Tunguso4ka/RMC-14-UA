@@ -1,3 +1,0 @@
-ent-EffectSparks = { "" }
-
-ent-EffectTeslaSparks = { "" }

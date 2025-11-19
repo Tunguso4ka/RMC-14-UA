@@ -2,7 +2,6 @@ book-text-plasma-trap = Heheheheh, no way in hell they're going to get at our st
       I rigged the area where our stuff's at to be a toasty thousand K.
       You know how to drain it when we need it out.
        - J.
-
 book-text-holoparasite-info = Thanks for choosing our holoparasite package!
       At cybersun, we pride ourselves on cutting-edge military and industrial technology, and greatly appreciate your contribution to our establishment!
       Guardians are helpful and intelligent beings which nest within your body, completely immune to common hazards such as pressure, temperature and even bullets!
@@ -15,7 +14,6 @@ book-text-holoparasite-info = Thanks for choosing our holoparasite package!
       5. Keep the holoparasite within a short distance from yourself, otherwise it will be recalled by force!
       WARNING: Guardians are metaphysical beings, but draw from your HEALTH in order to exist. Direct damage done to guardians will be partially transferred to you!
       Cybersun inc. is not responsible for complete annihilation following the misuse of Holoparasite technology.
-
 book-text-ame-scribbles = I don't know if you're trained already, so I hope this'll help.
       AME controller needs LV power and an HV wire to output to. Check the area with a crowbar if you aren't sure.
       There should be an empty room next to where you found this, that room's wired for the AME.
@@ -51,7 +49,6 @@ book-text-agrichemkit-manual = Thank you for choosing the safe-for-all-ages Nano
       Each individual plant responds to unstable mutagen differently, so you may want to use small doses on multiple crops and try to crossbreed the best traits from each of those. Applying multiple doses to one plant can stack multiple changes and make it harder to single out desirable traits.
       Unstable mutagen is entirely safe when used as a fertilizer, and NanoTrasen takes no responsibility for dead crops, excessive water bills, newly sentient plants asking existential questions, or flora-strangled farmhands that may coincidentally occur while using it.
       Do not drink unstable mutagen. Wash your hands thoroughly after handing. Wash your eyes if you have looked at unstable mutagen for over 30 minutes in a 24 hour period. Store in a dark room between 293–295K. Do not use on corporate holidays. If you begin hearing voices telling you to drink unstable mutagen, please contact your doctor, head of personnel, or exorcist.
-
 book-text-combat-bakery-kit = Thank you for choosing our combat bakery kit!
       Enclosed are two (2) CyberSun patented Throwing Croissants, and one (1) patent-pending Baguette Sword.
       The included Donk Co. microwave board can construct a microwave capable of baking more weapons.

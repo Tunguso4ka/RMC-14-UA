@@ -8,4 +8,4 @@ department-Security = Охорона
 department-Science = Наука
 department-Silicon = Кіборги
 department-Specific = Специфічний
-department-Unknown = Невідомий
+department-Unknown = Unknown

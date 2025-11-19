@@ -1,5 +1,4 @@
 holiday-greet = Щастливого {$holidayName}!
-
 holiday-name-new-year = Нового Року
 holiday-name-mister-lizard = Дня народження Містера Ящера
 holiday-name-chinese-new-year = Китайського Нового Року
@@ -65,11 +64,7 @@ holiday-name-festive-season = Festive Season
 holiday-name-boxing-day = Boxing Day
 holiday-name-friday-thirteenth = П'ятниці 13
 holiday-name-national-coming-out-day = National Coming Out Day
-
-
 holiday-name-pride-month = Місяца гордості
-
-
 holiday-custom-cosmonautics-day = «…ураховуючи значний внесок працівників ракетно-космічної галузі України у наукові дослідження, створення сучасної ракетно-космічної техніки та впровадження високих космічних технологій в народне господарство…»
 holiday-custom-mothers-day = Щастливого дня матері у Америках, Азії та Океанії!
 holiday-custom-bastille-day = Чи чуєш ти людей спів?

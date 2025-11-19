@@ -1,5 +1,3 @@
-## UI
-
 research-console-menu-title = R&D Console
 research-console-menu-research-points-text = Research: [color=orchid]{$points}[/color]
 research-console-menu-main-discipline = Main Discipline: [color={$color}]{$name}[/color]
@@ -16,6 +14,5 @@ research-console-unlocks-list-entry = - [color=yellow]{$name}[/color]
 research-console-unlocks-list-entry-generic = - [color=green]{$text}[/color]
 research-console-prereqs-list-start = Requires:
 research-console-prereqs-list-entry = - [color=orchid]{$text}[/color]
-
 research-console-no-access-popup = No access!
 research-console-unlock-technology-radio-broadcast = Unlocked [bold]{$technology}[/bold] for [bold]{$amount}[/bold] research.

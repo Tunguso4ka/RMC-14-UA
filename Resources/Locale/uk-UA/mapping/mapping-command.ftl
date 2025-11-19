@@ -7,8 +7,6 @@ cmd-mapping-success-load = Created uninitialized map from file {$path} with id {
 cmd-mapping-success-load-grid = Loaded uninitialized grid from file {$path} onto a new map with id {$mapId}.
 cmd-mapping-success = Created uninitialized map with id {$mapId}.
 cmd-mapping-warning = WARNING: The server is using a debug build. You are risking losing your changes.
-
-
 cmd-mapping-failure-integer = {$arg} is not a valid integer.
 cmd-mapping-failure-float = {$arg} is not a valid float.
 cmd-mapping-failure-bool = {$arg} is not a valid bool.

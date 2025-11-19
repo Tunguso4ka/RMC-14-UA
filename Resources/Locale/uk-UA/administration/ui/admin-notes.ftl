@@ -37,7 +37,6 @@ admin-notes-permanently = назавжди
 admin-notes-days = {$days} днів
 admin-notes-hours = {$hours} годин
 admin-notes-minutes = {$minutes} хвилин
-
 admin-note-editor-title-new = Створення нотатки для {$player}
 admin-note-editor-title-existing = Редагування {$id} на {$player} від {$author}
 admin-note-editor-pop-out = Відкрити у вікні
@@ -61,7 +60,6 @@ admin-note-editor-expiry-label-expired = Пройшло
 admin-note-editor-expiry-placeholder = Введіть дату (рррр-ММ-дд ГГ:мм:хх)
 admin-note-editor-submit = Підтвердити
 admin-note-editor-submit-confirm = Ви впевнені?
-
 admin-note-button-minutes = Minutes
 admin-note-button-hours = Hours
 admin-note-button-days = Days
@@ -69,16 +67,11 @@ admin-note-button-weeks = Weeks
 admin-note-button-months = Months
 admin-note-button-years = Years
 admin-note-button-centuries = Centuries
-
-
 admin-notes-verb-text = Відкрити нотатки
-
 admin-notes-watchlist = Watchlist for {$player}: {$message}
 admin-notes-new-message = Ви получили повідомлення від {$admin}: {$message}
 admin-notes-fallback-admin-name = [Система]
-
 admin-remarks-command-description = Відкриває сторінку зауважень від адміністрації
 admin-remarks-command-error = Зауваження адміністрації були вимкнені на цьому сервері
 admin-remarks-title = Зауваження адміністрації
-
 system-user = [Система]

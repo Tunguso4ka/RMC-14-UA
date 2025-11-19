@@ -12,6 +12,5 @@ gas-pressure-regulator-ui-target = Setpoint
 gas-pressure-regulator-ui-flow = Flow
 gas-pressure-regulator-ui-outlet = Outlet
 gas-pressure-regulator-ui-inlet = Inlet
-
 gas-pressure-regulator-ui-flow-rate-unit = L/s
 gas-pressure-regulator-ui-pressure-unit = kPa

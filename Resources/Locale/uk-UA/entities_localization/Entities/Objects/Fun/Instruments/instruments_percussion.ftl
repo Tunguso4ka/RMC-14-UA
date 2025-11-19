@@ -1,0 +1,14 @@
+ent-BasePercussionInstrument = { ent-BaseHandheldInstrument }
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-GlockenspielInstrument = дзвіночки
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-MusicBoxInstrument = музикальна коробочка
+    .desc = Ви в безпеці від злиз аніматроників, допоки ви нею граєте.
+ent-XylophoneInstrument = ксилофон
+    .desc = Дзівночки, що виглядають як веселка.
+ent-MicrophoneInstrument = мікрофон
+    .desc = Чудовий вибір щоб показати своє серце всьому світу.
+ent-WoodblockInstrument = дерев'яна коробочка
+    .desc = If you listen to this enough it'll start driving itself into your mind.
+ent-ReverseCymbalsInstrument = зворотні кимвали
+    .desc = Мені здається чи воно звучить якось неправильно?

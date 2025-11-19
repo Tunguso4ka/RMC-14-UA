@@ -20,6 +20,4 @@ drink-component-try-use-drink-success-slurp-taste = Хлюп. {$flavors}
 drink-component-force-feed = {CAPITALIZE($user)} змушує тебе щось випити!
 drink-component-force-feed-success = {CAPITALIZE($user)} змусив тебе щось випити! {$flavors}
 drink-component-force-feed-success-user = Ти погодував {$target}
-
-
 drink-system-verb-drink = Пити

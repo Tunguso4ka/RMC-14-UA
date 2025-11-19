@@ -2,7 +2,6 @@ sandbox-window-title = Пісочниця
 sandbox-window-map-editing-label = Редагування
 sandbox-window-visibility-label = Видімість
 sandbox-window-your-character-label = Ваш персонаж
-
 sandbox-window-ai-overlay-button = AI Overlay
 sandbox-window-respawn-button = Відродження
 sandbox-window-spawn-entities-button = Ств. сутності

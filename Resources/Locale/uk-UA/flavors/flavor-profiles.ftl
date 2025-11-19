@@ -1,8 +1,6 @@
 flavor-profile = Смакує {$flavor}.
 flavor-profile-multiple = Смакує {$flavors} та {$lastFlavor}.
 flavor-profile-unknown = Смакує невимовно.
-
-
 flavor-base-savory = мов умамі
 flavor-base-sweet = солодко
 flavor-base-salty = солоно
@@ -45,30 +43,17 @@ flavor-base-holy = свято
 flavor-base-horrible = жахливо
 flavor-base-terrible = паскудно
 flavor-base-mindful = усвідомлено
-
-
 flavor-base-chewy = жуйно
-
-
 flavor-base-trashy = trashy
-
-
 flavor-complex-nothing = ніяк
 flavor-complex-honey = мов мед
-
-
 flavor-complex-ketchunaise = мов томати та майонез
 flavor-complex-mayonnaise = мов майонез
 flavor-complex-mustard = мов гірчиця
-
-
-
 flavor-complex-nutriment = поживно
 flavor-complex-vitamin = мов вітаміни
 flavor-complex-protein = мов білок
-
 flavor-complex-food = мов їжа
-
 flavor-complex-bun = мов булка
 flavor-complex-bread = мов хліб
 flavor-complex-batter = мов млинцеве тісто
@@ -116,11 +101,7 @@ flavor-complex-meatballs = мов тефтелі
 flavor-complex-nettles = мов кропива
 flavor-complex-jungle = мов джунґлі
 flavor-complex-vegetables = мов овочі
-
-
 flavor-complex-cherry = мов черешні
-
-
 flavor-complex-pink = рожево
 flavor-complex-curry = мов карі
 flavor-complex-borsch-1 = мов борщ
@@ -163,28 +144,19 @@ flavor-complex-profits = мов прибутки
 flavor-complex-fishops = мов нажахані фішопи
 flavor-complex-blue-pumpkin = мов повний рот басейної води
 flavor-complex-violets = мов фіалки
-
-
 flavor-complex-pyrotton = мов обпечений рот
 flavor-complex-mothballs = мов отрута проти мілі
 flavor-complex-paint-thinner = мов розріджувач фарби
-
-
 flavor-complex-numbing-tranquility = мов ціпеніючий спокій
 flavor-complex-true-nature = мов справжня природа дійсности
 flavor-complex-false-meat = майже походить на мʼясо
 flavor-complex-paper = мов кашоподібна мʼякоть
 flavor-complex-compressed-meat = мов стиснене мʼясо
-
-
 flavor-complex-dog-food = like dog food
-
-
 flavor-complex-alcohol = мов алкоголь
 flavor-complex-soda = мов газованка
 flavor-complex-juice = мов сік
 flavor-complex-rocksandstones = мов каменюка та порода
-
 flavor-complex-water = мов вода
 flavor-complex-beer = мов сеча
 flavor-complex-cognac = мов сухий гострий алкоголь
@@ -219,9 +191,7 @@ flavor-complex-milk = мов молоко
 flavor-complex-tea = мов чай
 flavor-complex-ice = мов лід
 flavor-complex-mopwata = мов брудна, застояна вода
-
 flavor-complex-gin = like fermented grain with juniper berries
-
 flavor-complex-arnold-palmer = мов влучання з першої подачі
 flavor-complex-blue-hawaiian = мов тропіки
 flavor-complex-cosmopolitan = солодко й терпко
@@ -269,10 +239,9 @@ flavor-complex-themartinez = мов фіалки та лимонна горіл�
 flavor-complex-cogchamp = мов латунь
 flavor-complex-white-gilgamesh = мов злегка газовані вершки
 flavor-complex-antifreeze = мов тепло
-
 flavor-complex-caipirinha = like Brazil
 flavor-complex-daiquiri = like rum, lime and sugar
-flavor-complex-deathintheafternoon = like anise and champagne 
+flavor-complex-deathintheafternoon = like anise and champagne
 flavor-complex-empress75 = like tyrian purple
 flavor-complex-espressomartini = like vodka and coffee
 flavor-complex-mayojito = like stomach turmoil
@@ -322,12 +291,8 @@ flavor-complex-vodka-martini = like a spy movie from Russia
 flavor-complex-vodka-tonic = refreshingly bitter
 flavor-complex-coconut-rum = мов горіхуватий броділий цукор
 flavor-complex-bacchus-blessing = like a wall of bricks
-
 flavor-complex-pilk = мов солодке молоко
-
-
 flavor-complex-medicine = мов ліки
-
 flavor-complex-carpet = мов жменя хутра
 flavor-complex-bee = неможжжливо
 flavor-complex-sax = мов джаз

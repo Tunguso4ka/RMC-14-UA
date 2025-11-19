@@ -1,31 +1,17 @@
 names-moth-last-dataset-1 = Blackwitch
-
 names-moth-last-dataset-2 = Deathshead
-
 names-moth-last-dataset-3 = Emperor
-
 names-moth-last-dataset-4 = Scorchedwing
-
 names-moth-last-dataset-5 = Temnora
-
 names-moth-last-dataset-6 = Usta
-
 names-moth-last-dataset-7 = Whitewitch
-
 names-moth-last-dataset-8 = Winter
-
 names-moth-last-dataset-9 = Epiolos
-
 names-moth-last-dataset-10 = Moeller
-
 names-moth-last-dataset-11 = Nightflitter
-
 names-moth-last-dataset-12 = Herald
-
 names-moth-last-dataset-13 = Leander
-
 names-moth-last-dataset-14 = Mothman
-
 names-moth-last-dataset-15 = Cometrider
 names-moth-last-dataset-16 = Eventide
 names-moth-last-dataset-17 = Firefly

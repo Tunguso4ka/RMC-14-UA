@@ -1,4 +1,4 @@
-﻿advertisement-cigs-1 = Космічні цигарки на смак як... цигарки!
+advertisement-cigs-1 = Космічні цигарки на смак як... цигарки!
 advertisement-cigs-2 = I'd rather toolbox than switch.
 advertisement-cigs-3 = Кури!
 advertisement-cigs-4 = Не вірь дослідженям - кури!

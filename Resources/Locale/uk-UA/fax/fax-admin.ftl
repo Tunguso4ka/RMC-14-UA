@@ -1,6 +1,5 @@
 cmd-faxui-desc = Відкрити адмін меню факса
 cmd-faxui-help = Використання: faxui
-
 admin-fax-title = Менеджер Адмін Факсів
 admin-fax-fax = Факс:
 admin-fax-follow = Слідкувати

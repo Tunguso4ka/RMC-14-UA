@@ -1,7 +1,6 @@
 cm-ui-rmc14 = КМП 14
 rmc-ui-options-cassettes-volume = Cassette volume:
 rmc-ui-options-hijack-song-volume = Hijack song volume:
-
 rmc-ui-voicelines = Voicelines
 rmc-ui-options-tab-voicelines = Voicelines
 rmc-ui-audio-voicelines-yourself = Play voicelines from yourself
@@ -18,7 +17,6 @@ rmc-ui-audio-voicelines-vulpkanin = Play voicelines for vulpkanins
 rmc-ui-audio-voicelines-rodentia = Play voicelines for rodentias
 rmc-ui-audio-voicelines-feroxi = Play voicelines for feroxis
 rmc-ui-audio-voicelines-skrell = Play voicelines for skrells
-
 rmc-ui-emotes = Emotes
 rmc-ui-audio-emotes-yourself = Play emotes from yourself
 rmc-ui-audio-emotes-arachnid = Play emotes for arachnids
@@ -34,9 +32,7 @@ rmc-ui-audio-emotes-vulpkanin = Play emotes for vulpkanins
 rmc-ui-audio-emotes-rodentia = Play emotes for rodentias
 rmc-ui-audio-emotes-feroxi = Play emotes for feroxis
 rmc-ui-audio-emotes-skrell = Play emotes for skrells
-
 cm-ui-roadmap = Мапа оновлень
-
 rmc-ui-link-discord-account = З'єднати акаунт Discord'у
 rmc-ui-link-discord-account-text = Натисніть ніжче, щоб скопіювати ваш код.
   Потім, зайдить в канал #account-linking, щоб з'єднати акаунти.
@@ -44,7 +40,6 @@ rmc-ui-link-discord-account-copy = Копіювати
 rmc-ui-link-discord-account-copied = Скопійовано!
 rmc-ui-link-discord-account-already-linked = [bold]Ваш акаунт вже було з'єднано![/bold]
 rmc-ui-link-discord-account-open-channel = Відкрити канал
-
 rmc-ui-named-items = Назвати речі
 rmc-ui-named-items-displayed-as = Will be displayed as 'Your Custom Name' M54C Assault Rifle, for example.
   Make sure the name you choose doesn't violate the rules.
@@ -53,9 +48,7 @@ rmc-ui-named-primary-gun = Назва основної зброї
 rmc-ui-named-sidearm = Назва додаткової зброї
 rmc-ui-named-helmet = Назва шолому
 rmc-ui-named-armor = Назва броні
-
 rmc-ui-named-sentry = Sentry Name
-
 rmc-ui-patron-perks = Patron Perks
 rmc-ui-lobby-message = Lobby Message
 rmc-ui-lobby-message-description = Displayed to players before the game starts.
@@ -76,21 +69,17 @@ rmc-ui-figurine = Character Figurine
 rmc-ui-figurine-in-preferences = You can export your character to be made into a figurine in Character Setup.
   Limited to one active figurine per person!
   If you want to change yours, tell us on Discord.
-
 rmc-ui-ghost-color = Ghost Color
 rmc-ui-ghost-color-clear = Clear
 rmc-ui-ghost-color-save = Save
-
 rmc-ui-shoutout-marine = [bold]Операцію проспонсорував [color=green]{$name}[/color]![/bold]
 rmc-ui-shoutout-xeno = [bold]Надав допомогу вулику [color=purple]{$name}[/color]![/bold]
-
 rmc-ui-discord = Discord
 rmc-ui-patreon = Patreon
 rmc-other-credits-tab = Інше
 rmc-ui-auto-punctuate = Automatically punctuate in-character messages
 rmc-ui-auto-eject-magazines = Automatically eject magazines from guns
 rmc-ui-damage-yourself = Enable being able to hurt yourself with melee and guns
-
 rmc-area-info = {$area}{$restrictions}
 rmc-tacmap-alert-ceiling-level-0 = [color=green]✓[/color] All actions allowed
 rmc-tacmap-alert-ceiling-level-1 = [color=red]✗[/color] Mortar Placement, Lasing, Medevac
@@ -101,3 +90,4 @@ rmc-tacmap-alert-allowed-actions = [color=green]✓[/color] {$actions}
 rmc-tacmap-alert-restricted-actions = [color=red]✗[/color] {$actions}
 rmc-tacmap-alert-no-area = Невідома
 rmc-ui-options-alternate-sprites = Use non-trypophobia inducing sprites
+rmc-ui-options-chat-squad-color-mode = Colorize names of the speaker by squads

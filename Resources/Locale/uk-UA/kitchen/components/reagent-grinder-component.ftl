@@ -1,9 +1,6 @@
-## UI
-
 reagent-grinder-bound-user-interface-instant-button = МИТТЄВО
 reagent-grinder-bound-user-interface-cook-time-label = ЧАС ГОТОВКИ
 reagent-grinder-component-cannot-put-entity-message = Ви не можете засунути це в подрібнювач реагентів!
-
 grinder-menu-title = All-In-One Подрібнювач 3000
 grinder-menu-grind-button = Подрібнити
 grinder-menu-juice-button = Сік

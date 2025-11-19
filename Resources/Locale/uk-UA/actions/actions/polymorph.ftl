@@ -1,1 +1,1 @@
-revert-polymorph-action-popup = This action is irreversible. Use it again to confirm.
+revert-polymorph-action-popup = Результати цієї дії незворотні. Використайте її ще раз щоб підтвердити.

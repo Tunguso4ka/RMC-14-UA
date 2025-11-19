@@ -1,4 +1,4 @@
-﻿guidebook-reagent-effect-description =
+guidebook-reagent-effect-description = 
     {$chance ->
         [1] { $effect }
         *[other] Має { NATURALPERCENT($chance, 2) } шансу { $effect }
@@ -6,7 +6,6 @@
         [0] .
         *[other] {" "}якщо { $conditions }.
     }
-
 guidebook-reagent-name = [bold][color={$color}]{CAPITALIZE($name)}[/color][/bold]
 guidebook-reagent-recipes-header = Рецепт
 guidebook-reagent-recipes-reagent-display = [bold]{$reagent}[/bold] \[{$ratio}\]

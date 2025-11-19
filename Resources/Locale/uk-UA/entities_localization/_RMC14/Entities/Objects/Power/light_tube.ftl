@@ -1,0 +1,14 @@
+ent-RMCLightTubeBase = { ent-RMCLightBulbBase }
+    .desc = { ent-RMCLightBulbBase.desc }
+ent-RMCLightTube = light tube
+    .desc = A replacement light tube.
+    .suffix = Warm
+ent-RMCLightTubeBlue = { ent-RMCLightTube }
+    .desc = { ent-RMCLightTube.desc }
+    .suffix = Blue
+ent-RMCLightTubeWarm = { ent-RMCLightTube }
+    .desc = { ent-RMCLightTube.desc }
+    .suffix = Orange
+ent-RMCLightTubeBroken = light tube
+    .desc = A replacement light tube.
+    .suffix = Broken

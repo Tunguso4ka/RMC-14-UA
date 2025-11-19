@@ -11,7 +11,6 @@ advertisement-block-game-10 = НаноТрайзен Блоки це вам не
 advertisement-block-game-11 = Now with blast processing!
 advertisement-block-game-12 = Наши юрісти завжди поряд!
 advertisement-block-game-13 = Халелуя, це дождь з блоків!
-
 thankyou-block-game-1 = Зіграй знов!
 thankyou-block-game-2 = Гарно зіграно!
 thankyou-block-game-3 = Може ще разок?

@@ -1,1 +1,1 @@
-﻿examine-pinpointer-linked = Воно вказує на: {$target}
+examine-pinpointer-linked = Воно вказує на: {$target}

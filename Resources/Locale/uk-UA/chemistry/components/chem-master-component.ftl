@@ -1,9 +1,6 @@
 chem-master-component-activate-no-hands = У вас немає рук.
 chem-master-component-cannot-put-entity-message = Ви не можете вставити це у ХімМастер!
-
 chem-master-bound-user-interface-title = ХімМастер 4000
-
-
 chem-master-window-input-tab = Ввід
 chem-master-window-output-tab = Вивід
 chem-master-window-container-label = Контейнер

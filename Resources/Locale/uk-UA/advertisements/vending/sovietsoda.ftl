@@ -1,4 +1,4 @@
-﻿advertisement-sovietsoda-1 = За таваріща і страну.
+advertisement-sovietsoda-1 = За таваріща і страну.
 advertisement-sovietsoda-2 = А ви випалнілі свою днєвну пятєлєтку?
 advertisement-sovietsoda-3 = Очєнь харашо!
 advertisement-sovietsoda-4 = Ми прастиє люді, ми нє вибіраєм.

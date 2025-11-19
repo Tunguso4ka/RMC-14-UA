@@ -1,0 +1,11 @@
+ent-CMNormandyDoor = normandy crew hatch
+    .desc = { ent-CMAlamoDoor.desc }
+ent-CMNormandyDoorAft = { ent-CMAlamoDoorAft }
+    .desc = { ent-CMAlamoDoorAft.desc }
+ent-CMNormandyDoorPort = { ent-CMAlamoDoorPort }
+    .desc = { ent-CMAlamoDoorPort.desc }
+ent-CMNormandyDoorStarboard = { ent-CMAlamoDoorStarboard }
+    .desc = { ent-CMAlamoDoorStarboard.desc }
+ent-CMNormandyCockpit = { ent-CMAlamoCockpit }
+    .desc = { ent-CMAlamoCockpit.desc }
+    .suffix = Normandy

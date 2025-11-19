@@ -1,4 +1,3 @@
-#When an admin adds a game rule
 add-gamerule-admin = Ігрове правило ({$rule}) додано - {$admin}
 list-gamerule-admin-header = | Час       | Додано
 list-gamerule-admin-no-rules = Жодного ігрового правила не було додано.

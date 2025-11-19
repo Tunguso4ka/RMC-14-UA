@@ -15,7 +15,6 @@ stack-reinforced-plasma-glass = reinforced plasma glass
 stack-reinforced-uranium-glass = reinforced uranium glass
 stack-gunpowder = gunpowder
 stack-cardboard = cardboard
-
 stack-bones = {$amount ->
     [1] bone
     *[other] bones
@@ -76,14 +75,12 @@ stack-artifact-fragment = artifact {$amount ->
     [1] fragment
     *[other] fragments
 }
-
 stack-ground-tobacco = ground tobacco
 stack-ground-cannabis = ground cannabis
 stack-ground-rainbow-cannabis = ground rainbow cannabis
 stack-dried-tobacco-leaves = dried tobacco leaves
 stack-dried-cannabis-leaves = dried cannabis leaves
 stack-dried-rainbow-cannabis-leaves = dried rainbow cannabis leaves
-
 stack-cigarette-filter = cigarette {$amount ->
     [1] filter
     *[other] filters
@@ -92,7 +89,6 @@ stack-rolling-paper = rolling {$amount ->
     [1] paper
     *[other] papers
 }
-
 stack-fulton = fulton
 stack-credit = speso
 stack-plasma = plasma

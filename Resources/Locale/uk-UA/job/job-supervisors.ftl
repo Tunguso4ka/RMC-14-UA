@@ -1,4 +1,4 @@
-﻿job-supervisors-centcom = ЦентКом
+job-supervisors-centcom = ЦентКом
 job-supervisors-captain = Капітан
 job-supervisors-hop = Голова Персоналу
 job-supervisors-hos = Голова Охорони

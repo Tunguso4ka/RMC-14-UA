@@ -1,17 +1,8 @@
-
-### UI
-
-# Current game score
 blockgame-menu-label-points = Бали: {$points}
-
-# Current game level
 blockgame-menu-label-level = Рівень: {$level}
-
-# Game over information of your round
 blockgame-menu-gameover-info = Глобальний: {$global}
     Локальний: {$local}
     Бали: {$points}
-
 blockgame-menu-title = НаноТрайзен Куби
 blockgame-menu-button-new-game = Нова гра
 blockgame-menu-button-scoreboard = Лідери

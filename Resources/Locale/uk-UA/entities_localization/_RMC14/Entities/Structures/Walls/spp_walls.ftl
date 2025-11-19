@@ -1,0 +1,16 @@
+ent-RMCWallSPPReinforced = reinforced walls
+    .desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPGreyReinforced = { ent-RMCWallSPPReinforced }
+    .desc = { ent-RMCWallSPPReinforced.desc }
+    .suffix = Grey
+ent-RMCWallSPPWhiteReinforced = { ent-RMCWallSPPReinforced }
+    .desc = { ent-RMCWallSPPReinforced.desc }
+    .suffix = White
+ent-RMCWallSPPHull = ribbed hull walls
+    .desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPGreyHull = { ent-RMCWallSPPHull }
+    .desc = { ent-RMCWallSPPHull.desc }
+    .suffix = Grey
+ent-RMCWallSPPWhiteHull = { ent-RMCWallSPPHull }
+    .desc = { ent-RMCWallSPPHull.desc }
+    .suffix = White

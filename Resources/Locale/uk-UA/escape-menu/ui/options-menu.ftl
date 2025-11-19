@@ -1,20 +1,15 @@
 ui-options-title = Гра
 ui-options-tab-accessibility = Доступність
-ui-options-tab-admin = Адмін
+ui-options-tab-admin = Admin
 ui-options-tab-graphics = Графіка
 ui-options-tab-controls = Керування
 ui-options-tab-audio = Аудіо
 ui-options-tab-network = Мережа
 ui-options-tab-misc = Загальні
-
 ui-options-apply = Підтвердити
 ui-options-reset-all = Зкинути
 ui-options-default = По замовчуванню
-
-
 ui-options-value-percent = { TOSTRING($value, "P0") }
-
-
 ui-options-discordrich = Увимкнути Discord Rich Presence
 ui-options-general-ui-style = Стиль дієвидла
 ui-options-general-discord = Discord
@@ -22,10 +17,8 @@ ui-options-general-cursor = Курсор
 ui-options-general-speech = Голос
 ui-options-general-storage = Сховище
 ui-options-general-accessibility = Доступність
-
-
 ui-options-master-volume = Головна гучність:
-ui-options-midi-volume = Гучність MIDI (Інструментів) :
+ui-options-midi-volume = MIDI (Інструментів) Гучність:
 ui-options-ambient-music-volume = Гучність атмосферної музики:
 ui-options-ambience-volume = Гучність оточення:
 ui-options-lobby-volume = Гучність Лобі та Кінця раунду:
@@ -41,15 +34,13 @@ ui-options-display-label = Екран
 ui-options-quality-label = Якість
 ui-options-misc-label = Інше
 ui-options-interface-label = Дійовид
-
-
 ui-options-auto-fill-highlights = Auto-fill the highlights with the character's information
-ui-options-highlights-color = Highlighs color:
-ui-options-highlights-color-example = This is an highlighted text!
+ui-options-highlights-color = Highlights color:
+ui-options-highlights-color-example = This is highlighted text.
 ui-options-show-held-item = Показувати тримаємий предмет поряд з курсором
 ui-options-show-combat-mode-indicators = Показувати індікатор бойового режиму поряд з курсором
 ui-options-opaque-storage-window = Прозоре вікно сховища
-ui-options-show-ooc-patron-color = Показувати колір патронів у OOC 
+ui-options-show-ooc-patron-color = Показувати колір патронів у OOC
 ui-options-show-looc-on-head = Показувати чат LOOC над головами персонажів
 ui-options-fancy-speech = Показувати імена у облачках розмов
 ui-options-fancy-name-background = Додати тло до імен у облачках розмов
@@ -96,14 +87,11 @@ ui-options-ambient-occlusion = Show Ambient Occlusion
 ui-options-fps-counter = Показувати FPS
 ui-options-vp-width = Довжина поля зору: { $width }
 ui-options-hud-layout = Вигляд дієвидла:
-
-
 ui-options-binds-reset-all = Скинути УСІ скорочення
 ui-options-binds-explanation = Лівий клік щоб змінити, правий щоб видалити.
 ui-options-unbound = Зняти
 ui-options-bind-reset = Скинути
 ui-options-key-prompt = Натисніть клавишу...
-
 ui-options-header-movement = Рух
 ui-options-header-camera = Камера
 ui-options-header-interaction-basic = Базові взаїмодії
@@ -115,29 +103,24 @@ ui-options-header-shuttle = Шатл
 ui-options-header-map-editor = Редактор мап
 ui-options-header-dev = Розробка
 ui-options-header-general = Загальні
-
 ui-options-header-text-cursor = Text cursor
 ui-options-header-text-cursor-select = Text selecting
 ui-options-header-text-edit = Text editing
 ui-options-header-text-chat = Chat
 ui-options-header-text-other = Text input other
-
 ui-options-hotkey-keymap = Використовувати US QWERTY
 ui-options-hotkey-toggle-walk = Перемикати ходьбу
-
 ui-options-function-move-up = Рух нагору
 ui-options-function-move-left = Рух вліво
 ui-options-function-move-down = Рух вних
 ui-options-function-move-right = Рух вправо
 ui-options-function-walk = Ходьба
-
 ui-options-function-camera-rotate-left = Поворот вліво
 ui-options-function-camera-rotate-right = Поворот вправо
 ui-options-function-camera-reset = Скинути
 ui-options-function-zoom-in = Приблизити
 ui-options-function-zoom-out = Віддалити
 ui-options-function-reset-zoom = Скинути приближення
-
 ui-options-function-use = Використати
 ui-options-function-use-secondary = Використати друге
 ui-options-function-alt-use = Альтернатівно використати
@@ -154,7 +137,6 @@ ui-options-function-move-stored-item = Пересунути річ
 ui-options-function-rotate-stored-item = Повернути річ
 ui-options-function-save-item-location = Зберегти положення речі
 ui-options-static-storage-ui = Зафіксувати сховище на швидкої панелі
-
 ui-options-function-smart-equip-backpack = Швидко пересунути до/з рюкзака
 ui-options-function-smart-equip-belt = Швидко пересунти до/з пояса
 ui-options-function-open-backpack = Відкрити рюкзак
@@ -164,13 +146,9 @@ ui-options-function-try-pull-object = Тягнути об'єкт
 ui-options-function-move-pulled-object = Пересунти об'єкт
 ui-options-function-release-pulled-object = Відпустити об'єкт
 ui-options-function-point = Вказати
-
 ui-options-function-rotate-object-clockwise = Обернути за годинником
-
 ui-options-function-rotate-object-counterclockwise = Обернути проти годинника
-
 ui-options-function-flip-object = Перевернути
-
 ui-options-function-focus-chat-input-window = Сфокусувати чат
 ui-options-function-focus-local-chat-window = Сфокусувати чат (IC)
 ui-options-function-focus-emote = Сфокусувати чат (Емоції)
@@ -201,11 +179,9 @@ ui-options-function-window-close-all = Закрити усі вікна
 ui-options-function-window-close-recent = Закрити останнє вікно
 ui-options-function-show-escape-menu = Перемкнути меню гри
 ui-options-function-escape-context = Закрити останнє вікно або перемкнути меню гри
-
 ui-options-function-take-screenshot = Зробити знимок екрану
 ui-options-function-take-screenshot-no-ui = Зробити знимок екрану (без дієвида)
 ui-options-function-toggle-fullscreen = Перемнути повне вікно
-
 ui-options-function-editor-place-object = Поставити об'єкт
 ui-options-function-editor-cancel-place = Відминити вибір
 ui-options-function-editor-grid-place = Поставити коробкою
@@ -213,12 +189,10 @@ ui-options-function-editor-line-place = Поставити лінією
 ui-options-function-editor-rotate-object = Обернути
 ui-options-function-editor-flip-object = Перевернути
 ui-options-function-editor-copy-object = Копіювати
-
 ui-options-function-show-debug-console = Відкрити консоль
 ui-options-function-show-debug-monitors = Показати монітор відладки
 ui-options-function-inspect-entity = Обдивитися сутність
 ui-options-function-hide-ui = Сховати дійовид
-
 ui-options-function-hotbar1 = Hotbar slot 1
 ui-options-function-hotbar2 = Hotbar slot 2
 ui-options-function-hotbar3 = Hotbar slot 3
@@ -249,7 +223,6 @@ ui-options-function-loadout7 = Hotbar Loadout 7
 ui-options-function-loadout8 = Hotbar Loadout 8
 ui-options-function-loadout9 = Hotbar Loadout 9
 ui-options-function-loadout0 = Hotbar Loadout 0
-
 ui-options-function-loadoutshift1 = Hotbar Loadout Shift+1
 ui-options-function-loadoutshift2 = Hotbar Loadout Shift+2
 ui-options-function-loadoutshift3 = Hotbar Loadout Shift+3
@@ -260,7 +233,6 @@ ui-options-function-loadoutshift7 = Hotbar Loadout Shift+7
 ui-options-function-loadoutshift8 = Hotbar Loadout Shift+8
 ui-options-function-loadoutshift9 = Hotbar Loadout Shift+9
 ui-options-function-loadoutshift0 = Hotbar Loadout Shift+0
-
 ui-options-function-shuttle-strafe-up = Рухатися догори
 ui-options-function-shuttle-strafe-right = Рухатися вправо
 ui-options-function-shuttle-strafe-left = Рухатися вліво
@@ -268,8 +240,6 @@ ui-options-function-shuttle-strafe-down = Рухатися вниз
 ui-options-function-shuttle-rotate-left = Оберт вліво
 ui-options-function-shuttle-rotate-right = Оберт вправо
 ui-options-function-shuttle-brake = Гальмування
-
-
 ui-options-function-text-cursor-left = Move cursor left
 ui-options-function-text-cursor-right = Move cursor right
 ui-options-function-text-cursor-up = Move cursor up
@@ -305,44 +275,34 @@ ui-options-function-text-scroll-to-bottom = Scroll to bottom
 ui-options-function-text-tab-complete = Tab completion
 ui-options-function-text-complete-next = Complete next
 ui-options-function-text-complete-prev = Complete previous
-
-
 ui-options-net-predict = Client-side prediction
-
 ui-options-net-interp-ratio = State buffer size
 ui-options-net-interp-ratio-tooltip = Increasing this will generally make the game more resistant
                                       to server->client packet-loss, however in doing so it
                                       effectively adds slightly more latency and requires the
                                       client to predict more future ticks.
-
 ui-options-net-predict-tick-bias = Prediction tick bias
 ui-options-net-predict-tick-bias-tooltip = Increasing this will generally make the game more resistant
                                            to client->server packet-loss, however in doing so it
                                            effectively adds slightly more latency and requires the
                                            client to predict more future ticks.
-
 ui-options-net-pvs-spawn = PVS entity spawn budget
 ui-options-net-pvs-spawn-tooltip = This limits the rate at which the server will send newly spawned
                                        entities to the client. Lowering this can help reduce
                                        stuttering due to entity spawning, but can lead to pop-in.
-
 ui-options-net-pvs-entry = PVS entity budget
 ui-options-net-pvs-entry-tooltip = This limits the rate at which the server will send newly visible
                                        entities to the client. Lowering this can help reduce
                                        stuttering, but can lead to pop-in.
-
 ui-options-net-pvs-leave = PVS detach rate
 ui-options-net-pvs-leave-tooltip = This limits the rate at which the client will remove
                                        out-of-view entities. Lowering this can help reduce
                                        stuttering when walking around, but could occasionally
                                        lead to mispredicts and other issues.
-
 cmd-options-desc = Opens options menu, optionally with a specific tab selected.
 cmd-options-help = Використання: options [tab]
-
 ui-options-accessability-header-visuals = Візуали
 ui-options-accessability-header-content = Content
-
 ui-options-enable-color-name = Додати кольори до імен персонажів
 ui-options-colorblind-friendly = Режим для людей з вадами зору
 ui-options-reduced-motion = Зменшити рух візуальних ефектів
@@ -351,42 +311,31 @@ ui-options-chat-window-opacity = Прозорість вікна чата
 ui-options-speech-bubble-text-opacity = Speech bubble text opacity
 ui-options-speech-bubble-speaker-opacity = Speech bubble speaker opacity
 ui-options-speech-bubble-background-opacity = Speech bubble background opacity
-
-
 ui-options-censor-nudity = Censor character nudity
-
-
 ui-options-admin-player-panel = Admin Menu Players List
-
 ui-options-admin-player-tab-symbol-setting = Character column antag symbols
 ui-options-admin-player-tab-symbol-setting-off = No antag symbol
 ui-options-admin-player-tab-symbol-setting-basic = Show standard antag symbol
 ui-options-admin-player-tab-symbol-setting-specific = Show specific antag symbol
-
 ui-options-admin-player-tab-role-setting = Role display settings
 ui-options-admin-player-tab-role-setting-roletype = Show role type
 ui-options-admin-player-tab-role-setting-subtype = Show subtype
 ui-options-admin-player-tab-role-setting-roletypesubtype = Show role type and subtype
 ui-options-admin-player-tab-role-setting-subtyperoletype = Show subtype and role type
-
 ui-options-admin-player-tab-color-setting = Color settings
 ui-options-admin-player-tab-color-setting-off = I hate colors
 ui-options-admin-player-tab-color-setting-character = Colorize antag character names
 ui-options-admin-player-tab-color-setting-roletype = Colorize all role types
 ui-options-admin-player-tab-color-setting-both = Colorize both
-
 ui-options-admin-overlay-title = Admin Overlay
-
 ui-options-admin-overlay-antag-format = Antag label style
 ui-options-admin-overlay-antag-format-binary = Show antag status
 ui-options-admin-overlay-antag-format-roletype = Show role type
 ui-options-admin-overlay-antag-format-subtype = Show subtype
-
 ui-options-admin-overlay-antag-symbol = Antag symbol style
 ui-options-admin-overlay-antag-symbol-off = No antag symbol
 ui-options-admin-overlay-antag-symbol-basic = Show standard antag symbol
 ui-options-admin-overlay-antag-symbol-specific = Show specific antag symbol
-
 ui-options-admin-enable-overlay-playtime = Show playtime
 ui-options-admin-enable-overlay-starting-job = Show starting job
 ui-options-admin-overlay-merge-distance = Stack merge distance

@@ -12,12 +12,11 @@ particle-accelerator-control-menu-status-label = Статус: {$status}
 particle-accelerator-control-menu-status-unknown = [font="Monospace"][color=red]Невідомий[/color][/bold]
 particle-accelerator-control-menu-status-operational = Працездатний
 particle-accelerator-control-menu-status-incomplete = Незакінчений
-particle-accelerator-control-menu-draw = Draw: {$watts}/{$lastReceive} 
+particle-accelerator-control-menu-draw = Draw: {$watts}/{$lastReceive}
 particle-accelerator-control-menu-draw-value = [font="Monospace"]{$watts}/{$lastReceive}[/font]
 particle-accelerator-control-menu-draw-not-available = Draw: N/A
 particle-accelerator-control-menu-flavor-left = Please keep the clown away from this console!
 particle-accelerator-control-menu-flavor-right = v 1.6
-
 particle-accelerator-radio-message-on = PA power has been switched on.
 particle-accelerator-radio-message-off = PA power has been switched off.
 particle-accelerator-radio-message-num = PA strength has been set to level {$level}.

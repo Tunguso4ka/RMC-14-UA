@@ -8,5 +8,4 @@ cmd-tippy-auto-5 = slide time, in seconds
 cmd-tippy-auto-6 = waddle interval, in seconds
 cmd-tippy-error-no-user = User not found.
 cmd-tippy-error-no-prototype = Prototype not found: {$proto}
-
 cmd-tip-desc = Spawn a random game tip.

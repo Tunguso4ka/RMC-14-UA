@@ -1,6 +1,5 @@
 petting-success-scurret = You pet {THE($target)} on {POSS-ADJ($target)} legally distinct head.
 petting-failure-scurret = You reach out to pet {THE($target)}, but {SUBJECT($target)} does a backflip!
-
 accent-words-scurret-1 = Wa!
 accent-words-scurret-2 = Wa?
 accent-words-scurret-3 = Wa.
@@ -21,5 +20,4 @@ accent-words-scurret-17 = Waaaaaa.
 accent-words-scurret-18 = Waaaaaa!
 accent-words-scurret-19 = Waaaaaa?
 accent-words-scurret-20 = Waaaaaa...
-
 station-event-random-sentience-flavor-scurret = scurret

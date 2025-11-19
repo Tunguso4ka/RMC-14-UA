@@ -11,5 +11,4 @@ player-tab-filter-line-edit-placeholder = Фільтр
 player-tab-is-antag-yes = ТАК
 player-tab-is-antag-no = НІ
 player-tab-character-name-antag-symbol = {$symbol} {$name}
-
 player-tab-antag-prefix = 🗡

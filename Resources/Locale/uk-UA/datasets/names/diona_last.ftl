@@ -48,7 +48,6 @@ names-diona-last-dataset-47 = Honesty
 names-diona-last-dataset-48 = Generosity
 names-diona-last-dataset-49 = Opportunity
 names-diona-last-dataset-50 = Motivation
-
 names-diona-last-dataset-51 = Urgency
 names-diona-last-dataset-52 = Vitality
 names-diona-last-dataset-53 = Hardiness
@@ -75,7 +74,7 @@ names-diona-last-dataset-73 = Indifference
 names-diona-last-dataset-74 = Sleepiness
 names-diona-last-dataset-75 = Neutrality
 names-diona-last-dataset-76 = Fairness
-names-diona-last-dataset-77 = Silliness 
+names-diona-last-dataset-77 = Silliness
 names-diona-last-dataset-78 = Restraint
 names-diona-last-dataset-79 = Silence
 names-diona-last-dataset-80 = Bewilderment
@@ -90,7 +89,6 @@ names-diona-last-dataset-88 = Audacity
 names-diona-last-dataset-89 = Vivacity
 names-diona-last-dataset-90 = Knowledge
 names-diona-last-dataset-91 = Modification
-
 names-diona-last-dataset-92 = Envy
 names-diona-last-dataset-93 = Ineptitude
 names-diona-last-dataset-94 = Ignorance

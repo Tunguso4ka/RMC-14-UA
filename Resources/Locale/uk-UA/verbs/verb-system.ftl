@@ -1,7 +1,5 @@
 verb-system-null-server-response = Ця сутність не у полі зору. Ви не повинні її бачити.
-
 verb-self-target-pronoun = себе
-
 verb-categories-admin = Адмін
 verb-categories-debug = Дебаг
 verb-categories-examine = Одивитися
@@ -21,11 +19,8 @@ verb-categories-timer = Встановити затримку
 verb-categories-lever = Ричаг
 verb-categories-select-type = Обрати тип
 verb-categories-fax = Поставити адресата
-
 verb-categories-power-level = Рівень струму
-
 verb-categories-adjust = Adjust
-
 verb-common-toggle-light = Перемкнути світло
 verb-common-close = Закрити
 verb-common-open = Відкрити

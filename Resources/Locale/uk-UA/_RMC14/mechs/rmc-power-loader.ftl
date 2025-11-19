@@ -12,7 +12,6 @@ rmc-power-loader-transfer-ammo = Ви переміщуєте {$rounds} {$rounds 
 rmc-power-loader-wrong-weapon = Потрібен інший тип набоїв!
 rmc-power-loader-wrong-ammo = Це різні типи набоїв!
 rmc-power-loader-full-ammo = {CAPITALIZE($ammo)} повне!
-
 rmc-power-loader-occupied-weapon = Тут вже встановлено озброєння!
 rmc-power-loader-occupied-ammo = Вам спочатку потрібно завантажити ящик набоїв!
 rmc-power-loader-ammo-no-weapon = Вам спочатку потрібно встановити озброєння!

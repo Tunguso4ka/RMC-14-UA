@@ -31,7 +31,6 @@ chat-emote-name-monkeyscreeches = Monkey Screeches
 chat-emote-name-robotbeep = Робот
 chat-emote-name-yawn = Позіхнути
 chat-emote-name-snore = Snore
-
 chat-emote-msg-scream = кричить!
 chat-emote-msg-laugh = сміється.
 chat-emote-msg-honk = гудить.

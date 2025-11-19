@@ -1,4 +1,3 @@
-# Blocking examines
 blocking-examinable-verb-text = Захист
 blocking-examinable-verb-message = Дозволяє побачити значення захисту.
 blocking-fraction = Воно блокує [color=lightblue]{$value}%[/color] надходящої шкоди та:

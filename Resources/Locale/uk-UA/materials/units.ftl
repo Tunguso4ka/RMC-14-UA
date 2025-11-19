@@ -8,5 +8,4 @@ materials-unit-slab = slab
 materials-unit-web = web
 materials-unit-chunk = chunk
 materials-unit-boll = boll
-
 materials-unit-bill = bill

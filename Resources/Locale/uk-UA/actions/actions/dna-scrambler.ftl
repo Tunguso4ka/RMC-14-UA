@@ -1,1 +1,1 @@
-dna-scrambler-action-popup = THIS ACTION WILL IRREVERSIBLY CHANGE YOUR APPEARANCE! Use it again to confirm.
+dna-scrambler-action-popup = ЦЯ ДІЯ БЕЗПОВОРОТНО ЗМІНИТЬ ВАШ ЗОВНІШНІЙ ВИГЛЯД! Використайте її ще раз щоб підтвердити.

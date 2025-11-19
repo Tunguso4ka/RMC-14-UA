@@ -21,26 +21,19 @@ tiles-cm-plating = плаский тайл
 tiles-cm-striped = тайл в полоску
 tiles-cm-test = тестовий тайл
 tiles-cm-wy = Ве-Я тайл
-
 tiles-cm-cult = тайл культу
 tiles-cm-engine = двигун
-
 tiles-cm-dirt = земля
 tiles-cm-desert = пустеля
 tiles-cm-sand = пісок
 tiles-cm-grass = трава
 tiles-cm-dirt-grass = трава з землею
-
 tiles-cm-rock = каменюка
-
 tiles-rmc-red-desert = червона пустеля
-
 tiles-rmc-desert-water-shore = shore
 tiles-rmc-coagulation = coagulation
-
 tiles-rmc-asphalt = asphalt tile
 tiles-rmc-cement = cement tile
-
 tiles-cm-default-alpha = стальний тайл Альфа
 tiles-cm-default-bravo = стальний тайл Браво
 tiles-cm-default-charlie = стальний тайл Чарлі
@@ -51,19 +44,15 @@ tiles-cm-default-green = green metal tile
 tiles-cm-default-purple = purple metal tile
 tiles-cm-default-red = red metal tile
 tiles-cm-default-yellow = yellow metal tile
-
 tiles-cm-default-orange = orange metal tile
 tiles-cm-default-cyan = cyan metal tile
 tiles-cm-default-tan = tan metal tile
 tiles-cm-default-grey = grey metal tile
-
 tiles-cm-floor = підлога
 tiles-rmc-striped = striped tile
 tiles-rmc-research = research containment tile
 tiles-rmc-tcomms = tcomms tile
 tiles-rmc-outer-hull = outer hull tile
 tiles-rmc-escape-pod = escape pod tile
-
 tiles-rmc-grate = grate tile
-
 tiles-rmc-supply-pad = supply pad tile

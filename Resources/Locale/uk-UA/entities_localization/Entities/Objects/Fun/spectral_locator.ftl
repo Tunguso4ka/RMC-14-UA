@@ -1,0 +1,9 @@
+ent-SpectralLocatorUnpowered = spectral locator
+    .desc = Appears to be a modified anomaly locator. Seems very old.
+    .suffix = Unpowered
+ent-SpectralLocator = { ent-SpectralLocatorUnpowered }
+    .desc = { ent-SpectralLocatorUnpowered.desc }
+    .suffix = Powered
+ent-SpectralLocatorEmpty = { ent-SpectralLocator }
+    .desc = { ent-SpectralLocator.desc }
+    .suffix = Empty

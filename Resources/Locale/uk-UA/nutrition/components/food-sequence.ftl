@@ -1,8 +1,7 @@
 food-sequence-no-space = Ви не можете покласти більше!
-
 food-sequence-content-chicken = chicken
 food-sequence-content-duck = duck
-food-sequence-content-crab = crab
+food-sequence-content-crab = crabs
 food-sequence-content-dragon = dragon
 food-sequence-content-snake = snake
 food-sequence-content-xeno = xeno
@@ -71,15 +70,12 @@ food-sequence-content-hamster = hamster
 food-sequence-content-suppermatter = suppermatter
 food-sequence-content-capfruit = capfruit
 food-sequence-content-berries = berries
-food-sequence-content-spacemans-trumpet = spaceman's trumpet
+food-sequence-content-spacemans-trumpet = spacemans trupmet
 food-sequence-content-cherry = cherry
 food-sequence-content-snail = snail
 food-sequence-content-anomaly-berry = anomaly berry
 food-sequence-content-friedegg = fried egg
-
-
 food-sequence-burger-gen = {$content}burger
-
 food-sequence-burger-content-raw-meat = з сирим м'ясом
 food-sequence-burger-content-meat = meaty
 food-sequence-burger-content-carp = з коропом
@@ -111,19 +107,14 @@ food-sequence-burger-content-holymelon = holy
 food-sequence-burger-content-cannabis = смішний
 food-sequence-burger-content-rainbow-cannabis = СМІШНЮЧИЙ
 food-sequence-burger-content-tobacco = з тобаком
-
 food-sequence-burger-content-suppermatter = supper
 food-sequence-burger-content-hamster = hams
 food-sequence-burger-content-berries = berri
 food-sequence-burger-content-spacemans-trumpet = spacetrump
-
 food-sequence-burger-content-anomaly-berry = anom
 food-sequence-burger-content-extradimensional-orange = 3d
 food-sequence-burger-content-world-pea = peace
-
-
 food-sequence-cotton-burger-gen = {$content}burger
-
 food-sequence-cotton-burger-content-cotton-bol = cotton
 food-sequence-cotton-burger-content-pyrotton-bol = pyro
 food-sequence-cotton-burger-content-plushie-throngler = throngle
@@ -157,9 +148,5 @@ food-sequence-cotton-burger-content-plushie-human = uristmc
 food-sequence-cotton-burger-content-plushie-moth = fluff
 food-sequence-cotton-burger-content-plushie-ian = corgi
 food-sequence-cotton-burger-content-among-pequeno = sus
-
-
 food-sequence-taco-gen = taco with {$content}
-
-
 food-sequence-skewer-gen = {$content} kebab

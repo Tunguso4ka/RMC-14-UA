@@ -4,6 +4,5 @@ round-end-system-shuttle-auto-called-announcement = An automatic crew shift chan
 round-end-system-shuttle-recalled-announcement = Евакуаційного шатла було відкликано.
 round-end-system-shuttle-sender-announcement = Станція
 round-end-system-round-restart-eta-announcement = Раунд перезапуститься через{$time} {$units}...
-
 eta-units-minutes = хвилин
 eta-units-seconds = секунд

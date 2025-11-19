@@ -10,9 +10,7 @@ marking-used = {$marking-name}
 marking-used-forced = {$marking-name} (Forced)
 marking-slot-add = Додати
 marking-slot-remove = Прибрати
-
 marking-slot = Слот {$number}
-
 markings-category-Special = Special
 markings-category-Hair = Волосся
 markings-category-FacialHair = Волосся на обличчі

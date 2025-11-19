@@ -1,5 +1,3 @@
-## SpaceVillainGame
-
 space-villain-game-player-attack-message = Ви наносите {$enemyName} шкоду {$attackAmount}!
 space-villain-game-player-heal-message = Ви вживаєте {$magicPointAmount} магії та лікуєте {$healAmount} шкоди!
 space-villain-game-player-recharge-message = Ви відновлюєте {$regainedPoints} очок

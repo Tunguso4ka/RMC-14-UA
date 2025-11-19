@@ -1,1 +1,1 @@
-﻿item-status-not-held = Нічого
+item-status-not-held = Нічого

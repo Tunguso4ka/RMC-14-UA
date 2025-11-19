@@ -49,9 +49,7 @@ job-name-ertjanitor = ГШР Прибиральник
 job-name-boxer = Боксер
 job-name-zookeeper = Зоолог
 job-name-visitor = Відвідувач
-
 job-name-cluwne = Cluwne
-
 job-name-geneticist = Генетик
 job-name-no-id = Нема ID
 job-name-prisoner = В'язень
@@ -60,11 +58,9 @@ job-name-syndicate = Синдикат
 job-name-unknown = Невідомий
 job-name-virologist = Віролог
 job-name-zombie = Зомбі
-
 job-title-visitor = Visitor
 job-title-cluwne = Cluwne
 job-title-universal = Universal
-
 JobAtmosphericTechnician = Атмосферний Техник
 JobBartender = Бармен
 JobBorg = Киборг

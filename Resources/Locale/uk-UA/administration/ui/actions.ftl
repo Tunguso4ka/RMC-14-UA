@@ -7,9 +7,7 @@ admin-player-actions-ahelp = АДопомога
 admin-player-actions-respawn = Відродитися
 admin-player-actions-spawn = Появитися тут
 admin-player-spawn-failed = Невдалося знайти підходящі координати
-
 admin-player-actions-player-panel = Відкрити Панель Гравця
-
 admin-player-actions-clone = Клонувати
 admin-player-actions-follow = Слідувати
 admin-player-actions-confirm = Ви впевнені?

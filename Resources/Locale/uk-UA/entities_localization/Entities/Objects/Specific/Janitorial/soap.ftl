@@ -1,0 +1,16 @@
+ent-Soap = мило
+    .desc = Дешевий шматок мила. Не пахне.
+ent-SoapNT = мило
+    .desc = Брендове мило Нанотрайзен. Пахне плазмою.
+ent-SoapDeluxe = мило
+    .desc = Брендовий шматок делюкс-мила від корпорації Вафля. Пахне полуничкою.
+ent-SoapSyndie = мило
+    .desc = Підозрілий шматок мила. Пахне жахом.
+ent-SoapletSyndie = мильце
+    .desc = Маленький шматочок мила Синдикату.
+ent-SoapHomemade = мило
+    .desc = Саморобний шматок мила. Пахне... кхє...
+ent-SoapOmega = омега-мило
+    .desc = Найпросунутіше мило яке тільки бачило все людство. Пахне блюспейсом.
+ent-SoapBorg = soap
+    .desc = A Nanotrasen brand bar of soap. Smells of plasma and machines.

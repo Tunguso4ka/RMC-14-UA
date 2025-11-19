@@ -1,8 +1,6 @@
 spray-painter-window-title = Фарбопульт
-
 spray-painter-style-not-available = Неможливо пофарбувати цей тип шлюзу в те що ви хочете
 spray-painter-selected-style = Вибраний стиль:
-
 spray-painter-selected-color = Вибраний колір:
 spray-painter-color-red = червоний
 spray-painter-color-yellow = жовтий

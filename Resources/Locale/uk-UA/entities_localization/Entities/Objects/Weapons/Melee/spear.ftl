@@ -1,0 +1,12 @@
+ent-Spear = спис
+    .desc = Ретро-класика нашого часу. Допомогає вбивати починаючі з 200 000 років до нашої ери.
+ent-SpearReinforced = посилений спис
+    .desc = Спис із посиленого скла.
+ent-SpearPlasma = плазмаспис
+    .desc = Спис із плазмоскла.
+ent-SpearUranium = урановий спис
+    .desc = Спис із уранового скла.
+ent-SpearBone = кістковий спис
+    .desc = Спис із кісток. Тримайте подалі від собак.
+ent-SpearSharkMinnow = sharkminnow tooth spear
+    .desc = A spear with a sharkminnow tooth as a tip.

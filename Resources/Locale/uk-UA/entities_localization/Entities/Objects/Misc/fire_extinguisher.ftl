@@ -1,0 +1,10 @@
+ent-FireExtinguisher = вогнегасник
+    .desc = Він гасить вогонь.
+ent-BorgFireExtinguisher = maneuvering jet
+    .desc = Based on fire extinguisher technology, the maneuvering jet is... well yes, its just a bigger fire extinguisher.
+ent-ExtinguisherSpray = гасящий спрей
+    .desc = { ent-Vapor.desc }
+ent-FireExtinguisherMini = ручний вогнегасник
+    .desc = Легка та компактна модель вогнегасника з фіброскла. Нажаль, вміщує менше води ніж його старший брат.
+ent-SelfRechargingFireExtinguisher = self-recharging fire extinguisher
+    .desc = It extinguishes fires. it slowly refills with water.

@@ -25,21 +25,16 @@ game-ticker-get-info-preround-text = Привіт і вітаємо на [color=
                             >[color=yellow]{$desc}[/color]
 game-ticker-no-map-selected = [color=yellow]Мапа ще не обрана![/color]
 game-ticker-player-no-jobs-available-when-joining = Під час спроби під'єднання до раунду не було доступно жодної ролі.
-
 player-join-message = Гравець {$name} під'єднався.
 player-first-join-message = ! Гравець {$name} під'єднався вперше.
-
 player-leave-message = Гравець {$name} від'єднався.
-
 latejoin-arrival-announcement = {$character} ({$job}) прибув на станцію!
 latejoin-arrival-announcement-special = {$job} {$character} on deck!
 latejoin-arrival-sender = Станція
 latejoin-arrivals-direction = Шатл що доставить вас на станцію скоро прибуде.
 latejoin-arrivals-direction-time = Шатл що доставить вас на станцію прибуде через {$time}.
-
 latejoin-arrivals-dumped-from-shuttle = Містична сила не дає вам улетіти разом з шатлом прибуття.
 latejoin-arrivals-teleport-to-spawn = Містична сила переносить вас з шатлу прибуття і безмолвно бажає вам безпечної зміни!
-
 preset-not-enough-ready-players = Неможливо почати {$presetName}. Потрібно мінімум {$minimumPlayers} гравців, але ми маємо {$readyPlayersCount}.
 preset-no-one-ready = Неможливо почати {$presetName}. Жодний гравець не приготувався.
 game-run-level-PreRoundLobby = Pre-round lobby

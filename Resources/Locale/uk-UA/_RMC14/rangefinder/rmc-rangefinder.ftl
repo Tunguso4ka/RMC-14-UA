@@ -3,7 +3,6 @@ rmc-rangefinder-header = [bold]SIMPLIFIED COORDINATES OF TARGET[/bold]
 rmc-rangefinder-longitude = [font size=28]LONGITUDE : {$x},[/font]
 rmc-rangefinder-latitude = [font size=28]LATITUDE : {$y}[/font]
 rmc-rangefinder-examine = {CAPITALIZE(THE($item))} reads: LONGITUDE {$x}, LATITUDE {$y}
-
 rmc-laser-designator-out-of-range = You can't see that far!
 rmc-laser-designator-already-targeting = You're already targeting something!
 rmc-laser-designator-not-surface = INVALID TARGET: target must be on the surface.

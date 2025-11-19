@@ -9,9 +9,7 @@ rmc-xeno-mature-parasite = Fledgling {$baseName}
 rmc-xeno-elder-parasite = Veteran {$baseName}
 rmc-xeno-ancient-parasite = Baneful {$baseName}
 rmc-xeno-prime-parasite = Merciless {$baseName}
-
 rmc-xeno-mature-king = Ruthless {$baseName}
-
 rmc-xeno-young-larva = Little {$baseName}
 rmc-xeno-mature-larva = Mature {$baseName}
 rmc-xeno-elder-larva = Big {$baseName}

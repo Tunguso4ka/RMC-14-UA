@@ -89,15 +89,12 @@ guide-entry-defusal = Знешкодження бомб
 guide-entry-criminal-records = Кримінальні Записи
 guide-entry-command = Командування
 guide-entry-service = Сервіс
-
 guide-entry-newplayer = Новачок? Прочти це!
 guide-entry-charactercreation = Створення персонажу
 guide-entry-species = Види/Раси
-
 guide-entry-yourfirstcharacter = Ваш перший персонаж
 guide-entry-controls = Керування
 guide-entry-radio = Рація
-
 guide-entry-references = Таблиці & Референси
 guide-entry-chemicals = Хімікати
 guide-entry-drinks = Напої
@@ -127,7 +124,6 @@ guide-entry-salad-recipes = Salads
 guide-entry-medicinal-recipes = Medicinal
 guide-entry-other-recipes = Other
 guide-entry-secret-recipes = Secret
-
 guide-entry-antagonists = Антагоністи
 guide-entry-nuclear-operatives = Ядерні Оперативники
 guide-entry-traitors = Зрадники
@@ -135,11 +131,8 @@ guide-entry-zombies = Зомбі
 guide-entry-revolutionaries = Революціонери
 guide-entry-minor-antagonists = Мінорні антаги
 guide-entry-space-ninja = Космічний Ніндзя
-
 guide-entry-thieves = Thieves
-
 guide-entry-wizard = Wizard
-
 guide-entry-rules = Правила сервера
 guide-entry-rules-core-only = Core Only Ruleset
 guide-entry-rules-lrp = Стандартні правила
@@ -198,6 +191,5 @@ guide-entry-rules-sl-restricted-gear = Заборонено снарядженн
 guide-entry-rules-sl-restricted-weapons = Заборонена зброя
 guide-entry-rules-ban-types = Типи банів
 guide-entry-rules-ban-durations = Час банів
-
 guide-entry-writing = Написання
 guide-entry-glossary = Глосарій

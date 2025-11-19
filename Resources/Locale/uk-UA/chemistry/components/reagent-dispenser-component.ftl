@@ -1,8 +1,6 @@
 reagent-dispenser-component-activate-no-hands = У вас немає рук.
 reagent-dispenser-component-cannot-put-entity-message = Ви не можете вставити це в дозатор!
-
 reagent-dispenser-bound-user-interface-title = Дозатор Реагентів
-
 reagent-dispenser-window-amount-to-dispense-label = Кількість
 reagent-dispenser-window-clear-button = Очистити
 reagent-dispenser-window-eject-button = Вийняти

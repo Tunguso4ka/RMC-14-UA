@@ -1,6 +1,5 @@
 rmc-bioscan-ares-announcement = [color=white][font size=16][bold]ARES v3.2 Статус БіоСкану[/bold][/font][/color][color=red][font size=14][bold]
     {$message}[/bold][/font][/color]
-
 rmc-bioscan-ares = Біосканування завершено.
 
   Сенсори показують, що { $shipUncontained ->
@@ -24,10 +23,8 @@ rmc-bioscan-ares = Біосканування завершено.
     [none].
     *[other], в тому числі одна в {$planetLocation}
   }
-
 rmc-bioscan-xeno-announcement = [color=#318850][font size=14][bold]Слова мати нашої королеви досягають наших мізків з далекої планети.
   {$message}[/bold][/font][/color]
-
 rmc-bioscan-xeno = Моїм дитям та їх королеві: Я відчуваю { $onShip ->
   [0] нуль носіїв
   [1] приблизно одного носія

@@ -1,1 +1,1 @@
-﻿item-component-size-Invalid = неправильний
+item-component-size-Invalid = неправильний

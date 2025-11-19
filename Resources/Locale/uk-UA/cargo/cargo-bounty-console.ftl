@@ -12,10 +12,8 @@ bounty-console-manifest-entry =
 bounty-console-manifest-reward = Винагорода ${$reward}
 bounty-console-description-label = [color=gray]{$description}[/color]
 bounty-console-id-label = ID#{$id}
-
 bounty-console-flavor-left = Замовлення від місцевих недобросовісних покупців.
 bounty-console-flavor-right = v1.4
-
 bounty-manifest-header = Офіціальне замовлення (ID#{$id})
 bounty-manifest-list-start = Речі:
 bounty-console-tab-available-label = Доступно

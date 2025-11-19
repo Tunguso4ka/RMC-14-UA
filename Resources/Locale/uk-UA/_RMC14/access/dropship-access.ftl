@@ -1,2 +1,1 @@
-﻿cm-access-dropship = Десантний корабель
-
+cm-access-dropship = Десантний корабель

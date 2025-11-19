@@ -1,5 +1,3 @@
-## Entity
-
 microwave-component-interact-using-no-power = It has no power!
 microwave-component-interact-using-broken = It's broken!
 microwave-component-interact-using-container-full = Container is full
@@ -11,14 +9,8 @@ microwave-component-suicide-multi-head-message = You cook your heads!
 microwave-component-suicide-message = You cook your head!
 microwave-component-interact-full = It's full.
 microwave-component-interact-item-too-big = { CAPITALIZE(THE($item)) } is too big to fit in the microwave!
-
-## Bound UI
-
 microwave-bound-user-interface-instant-button = INSTANT
 microwave-bound-user-interface-cook-time-label = COOK TIME: {$time}
-
-## UI
-
 microwave-menu-title = Microwave
 microwave-menu-start-button = Start
 microwave-menu-eject-all-text = Eject All Contents

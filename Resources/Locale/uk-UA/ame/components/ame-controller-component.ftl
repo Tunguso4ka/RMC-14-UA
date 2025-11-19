@@ -1,9 +1,6 @@
 ame-controller-component-fuel-slot-fail-whitelist = Ви не можете вставити це в регулятор...
 ame-controller-component-fuel-slot-fail-locked = Вимкніть АМД перед тим як заміняти паливо.
 ame-controller-component-fuel-slot-success-insert = Ви вставляєте паливну банку в ячейку для палива.
-
-## UI
-
 ame-window-title = Регулятор АнтиМатеріального Двигуна
 ame-window-engine-status-label = Статус двигуна:
 ame-window-engine-injection-status-not-injecting-label = Не вприскує

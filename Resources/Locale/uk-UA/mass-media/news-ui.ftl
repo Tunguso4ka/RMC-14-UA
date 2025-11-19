@@ -6,7 +6,7 @@ news-read-ui-default-title = Новини станції
 news-read-ui-not-found-text = Не знайдено статей
 news-read-ui-time-prefix-text = Час публикації:
 news-reader-ui-mute-tooltip = Вимкнути сповіщення
-news-read-ui-notification-off =  ̶♫̶
+news-read-ui-notification-off = ̶♫̶
 news-read-ui-notification-on = ♫
 news-read-ui-no-author = Аноним
 news-read-ui-author-prefix = Автор:
@@ -33,6 +33,5 @@ news-write-ui-richtext-tooltip = Новини підтримують Rich Text
     {"[bullet/]bolditalic"}
     {"[bullet/]color"}
     {"[bullet/]bullet[/color]"}
-
 news-pda-notification-header = Нова новина
 news-publish-admin-announcement = {$actor} опубликував новий артикль {$title} від {$author}"

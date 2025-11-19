@@ -1,6 +1,5 @@
 seeds-noun-seeds = насіння
 seeds-noun-spores = спори
-
 seeds-wheat-name = пшениці
 seeds-wheat-display-name = wheat stalks
 seeds-meatwheat-name = meatwheat

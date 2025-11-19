@@ -20,7 +20,6 @@ rmc-mortar-dial-start-self = You start dialing {THE($mortar)}'s firing angle and
 rmc-mortar-dial-start-others = {$user} starts dialing {THE($mortar)}'s firing angle and distance.
 rmc-mortar-dial-finish-self = You finish dialing {THE($mortar)}'s firing angle and distance to match the new coordinates.
 rmc-mortar-dial-finish-others = {$user} finishes dialing {THE($mortar)}'s firing angle and distance.
-
 rmc-mortar-shell-load-start-self = Ви почали заряджати {$shell} в {$mortar}.
 rmc-mortar-shell-load-start-others = {$user} почав заряджати {$shell} в {$mortar}.
 rmc-mortar-shell-load-finish-self = Ви заряджаєте {$shell} в {$mortar}.
@@ -29,16 +28,14 @@ rmc-mortar-shell-warning = A SHELL IS COMING DOWN TO YOUR {$direction}
 rmc-mortar-shell-warning-above = A SHELL IS COMING DOWN RIGHT ABOVE YOU
 rmc-mortar-shell-impact-warning = A SHELL IS ABOUT TO IMPACT TO YOUR {$direction}
 rmc-mortar-shell-impact-warning-above = A SHELL IS ABOUT TO IMPACT RIGHT ABOVE YOU
-
 rmc-mortar-interface = Дієвид міномета
-
+rmc-mortar-target-title = Target Coordinates
+rmc-mortar-offset-title = Target Offset
 rmc-mortar-target-x = X Цілі:
 rmc-mortar-target-y = Y Цілі:
 rmc-mortar-target-set = Встановити Ціль
 rmc-mortar-target-too-close = You cannot aim at this coordinate, it is too close to your mortar.
-
 rmc-mortar-target-too-far = You cannot aim at this coordinate, it is too close to your mortar.
-
 rmc-mortar-offset-x = X Offset:
 rmc-mortar-offset-y = Y Offset:
 rmc-mortar-offset-set = Dial Offset
@@ -46,9 +43,27 @@ rmc-mortar-offset-too-far = You cannot dial to this coordinate, it is too far aw
 rmc-mortar-offset-too-close = You cannot dial to this coordinate, it is too close to your mortar.
 rmc-mortar-offset-max = Max dial
   offset: {$max}
-
 rmc-mortar-view-camera = Подивитися
   Камеру
-
 rmc-mortar-camera-title = Дієвид Камери
 rmc-mortar-camera-name = Пара-Кам ({$x}):({$y})
+rmc-mortar-toggle-mode = Toggle Targeting Mode
+rmc-mortar-toggle-mode-message = Switch between coordinate and laser targeting modes
+rmc-mortar-coordinates-mode-switched-self = You switch {THE($mortar)} to coordinates targeting mode.
+rmc-mortar-laser-mode-switched-self = You switch {THE($mortar)} to laser targeting mode.
+rmc-mortar-coordinates-mode-switched-others = {$user} switches {THE($mortar)} to coordinates targeting mode.
+rmc-mortar-laser-mode-switched-others = {$user} switches {THE($mortar)} to laser targeting mode.
+rmc-mortar-linking-start = You start linking {THE($laserDesignator)} to {THE($mortar)}.
+rmc-mortar-laser-linked-self = You successfully link {THE($laserDesignator)} to {THE($mortar)}.
+rmc-mortar-laser-linked-others = {$user} successfully links {THE($laserDesignator)} to {THE($mortar)}.
+rmc-mortar-already-linking = {CAPITALIZE(THE($mortar))} is already being linked to a laser designator.
+rmc-mortar-no-laser-target = {CAPITALIZE(THE($mortar))} has no laser target to fire at!
+rmc-mortar-no-laser-designator = {CAPITALIZE(THE($mortar))} has no linked laser designator!
+rmc-mortar-in-coordinates-mode = {CAPITALIZE(THE($mortar))} is currently set to coordinates targeting mode.
+rmc-mortar-in-laser-mode = {CAPITALIZE(THE($mortar))} is currently set to laser targeting mode.
+rmc-mortar-laser-aimed = {CAPITALIZE(THE($mortar))} is aimed on target and ready to fire!
+rmc-mortar-toggle-mode-hint = [color=cyan]Alt + Click mortar to switch targeting modes.[/color]
+rmc-mortar-dial-coordinates = {CAPITALIZE(THE($mortar))} is set to laser targeting mode, switch to coordinate targeting in order to dial coordinates!
+rmc-mortar-beeping = beeping!
+rmc-mortar-beeping-warning = beeping warningly!
+rmc-mortar-targeting = {CAPITALIZE(THE($mortar))} is still targeting.

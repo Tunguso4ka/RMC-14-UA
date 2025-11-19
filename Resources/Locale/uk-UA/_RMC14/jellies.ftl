@@ -3,20 +3,15 @@ rmc-jelly-2 = Royal jelly of resilience
 rmc-jelly-3 = Royal jelly of sabotage
 rmc-jelly-4 = Royal jelly of proliferation
 rmc-jelly-5 = Royal jelly of rejuvenation
-
 rmc-jelly-recipient = Jelly Recipient
 rmc-jelly-recipient-prompt = Who do you want to award a jelly to?
-
 rmc-jelly-type = Jelly Type
 rmc-jelly-type-prompt = What type of jelly do you want to award?
-
 rmc-jelly-citation-prompt = What should the pheromone read?
 rmc-jelly-awarded = Jelly awarded
-
 rmc-jelly-error-cant-give = You can't give a jelly to that xeno!
 rmc-jelly-error-not-enough-playtime = You don't have the time required to hand out jellies { $requiredHours }!
 rmc-jelly-error-limit-reached = You can't give out any more jellies ({ $given }/{ $limit })!
-
 rmc-hivemanagement-deevolve = De-evolve (500)
 rmc-hivemanagement-reward = Reward Jelly (500)
 rmc-hivemanagement-hive-management = Hive Management

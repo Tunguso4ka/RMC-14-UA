@@ -12,7 +12,6 @@ goodfeeling-artifact-11 = Голова колеться.
 goodfeeling-artifact-12 = Усі коліри виглядають ярче ніж звичайно.
 goodfeeling-artifact-13 = Все відчувається таким простим та легким.
 goodfeeling-artifact-14 = Усі проблеми світу пропадають.
-
 goodfeeling-artifact-drastic-1 = Ти хочеш обійняти усіх кого тільки побачиш!
 goodfeeling-artifact-drastic-2 = Все йде просто пречудово!
 goodfeeling-artifact-drastic-3 = Ти відчуваєш ейфорію.

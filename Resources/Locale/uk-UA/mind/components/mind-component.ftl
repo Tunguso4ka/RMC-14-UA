@@ -1,9 +1,4 @@
-# MindContainerComponent localization
-
 comp-mind-ghosting-prevented = Ви зараз не можете стати привидом.
-
-## Messages displayed when a body is examined and in a certain state
-
 comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } в кататонічному стані. Стреси життя у дальному космосу, напевно, були надто сильними для { OBJECT($ent) }. Будь яке одуження малоймовірно.
 comp-mind-examined-dead = { CAPITALIZE(SUBJECT($ent)) } мертвий.
 comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-HAVE($ent) } порожній, розсіяний погляд та здається, абсолютно не реагує ні на що. { CAPITALIZE(SUBJECT($ent)) } може скоро видійти від цього.

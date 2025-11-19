@@ -6,7 +6,6 @@ reagent-effect-condition-guidebook-total-damage =
                     *[other] має між {NATURALFIXED($min, 2)} та {NATURALFIXED($max, 2)} загальних ушкоджень
                  }
     }
-
 reagent-effect-condition-guidebook-total-hunger = 
     { $max ->
         [2147483648] має щонайменш {NATURALFIXED($min, 2)} загального голоду
@@ -15,7 +14,6 @@ reagent-effect-condition-guidebook-total-hunger =
                     *[other] має між {NATURALFIXED($min, 2)} та {NATURALFIXED($max, 2)} загального голоду
                  }
     }
-
 reagent-effect-condition-guidebook-reagent-threshold = 
     { $max ->
         [2147483648] щонайменше {NATURALFIXED($min, 2)}ю {$reagent}
@@ -24,13 +22,10 @@ reagent-effect-condition-guidebook-reagent-threshold =
                     *[other] між {NATURALFIXED($min, 2)}ю та {NATURALFIXED($max, 2)}ю {$reagent}
                  }
     }
-
 reagent-effect-condition-guidebook-mob-state-condition = 
     сутність { $state }
-
 reagent-effect-condition-guidebook-job-condition = 
     робота цілі є { $job }
-
 reagent-effect-condition-guidebook-solution-temperature = 
     температура рідини { $max ->
             [2147483648] щонайменше {NATURALFIXED($min, 2)}k
@@ -39,7 +34,6 @@ reagent-effect-condition-guidebook-solution-temperature =
                         *[other] між {NATURALFIXED($min, 2)}к та {NATURALFIXED($max, 2)}к
                      }
     }
-
 reagent-effect-condition-guidebook-body-temperature = 
     температура тіла { $max ->
             [2147483648] щонайменше {NATURALFIXED($min, 2)}к
@@ -48,26 +42,22 @@ reagent-effect-condition-guidebook-body-temperature =
                         *[other] між {NATURALFIXED($min, 2)}к та {NATURALFIXED($max, 2)}к
                      }
     }
-
 reagent-effect-condition-guidebook-organ-type = 
     метаболізуючий орган { $shouldhave ->
                                 [true] є
                                 *[false] не є
                            } {INDEFINITE($name)} {$name} органом
-
 reagent-effect-condition-guidebook-has-tag = 
     ціль { $invert ->
                  [true] не має
                  *[false] має
                 } мітки {$tag}
-
 reagent-effect-condition-guidebook-this-reagent = цей реагент
 reagent-effect-condition-guidebook-breathing = 
     the metabolizer is { $isBreathing ->
                 [true] breathing normally
                 *[false] suffocating
                }
-
 reagent-effect-condition-guidebook-internals = 
     the metabolizer is { $usingInternals ->
                 [true] using internals
